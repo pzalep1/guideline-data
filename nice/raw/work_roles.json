@@ -1,0 +1,331 @@
+[
+    {
+      "_id": "67d3205c8b064ffc5e921bf5",
+      "work_role": "Communications Security (COMSEC) Management",
+      "work_role_id": "OG-WRL-001",
+      "description": "Responsible for managing the Communications Security (COMSEC) resources of an organization.",
+      "category": "OVERSIGHT and GOVERNANCE"
+      
+    },
+    {
+      "_id": "67d320ee8b064ffc5e922306",
+      "work_role": "Cybercrime Investigation",
+      "work_role_id": "IN-WRL-001",
+      "description": "Responsible for investigating cyberspace intrusion incidents and crimes. Applies tactics, techniques, and procedures for a full range of investigative tools and processes and appropriately balances the benefits of prosecution versus intelligence gathering.",
+      "category": "INVESTIGATION"
+      
+    },
+    {
+      "_id": "67d320938b064ffc5e921eec",
+      "work_role": "Cybersecurity Architecture ",
+      "work_role_id": "DD-WRL-001",
+      "description": "Responsible for ensuring that security requirements are adequately addressed in all aspects of enterprise architecture, including reference models, segment and solution architectures, and the resulting systems that protect and support organizational mission and business processes.",
+      "category": "DESIGN and DEVELOPMENT"
+      
+    },
+    {
+      "_id": "67d320648b064ffc5e921cb6",
+      "work_role": "Cybersecurity Curriculum Development",
+      "work_role_id": "OG-WRL-004",
+      "description": "Responsible for developing, planning, coordinating, and evaluating cybersecurity awareness, training, or education content, methods, and techniques based on instructional needs and requirements.",
+      "category": "OVERSIGHT and GOVERNANCE"
+      
+    },
+    {
+      "_id": "67d320678b064ffc5e921cf2",
+      "work_role": "Cybersecurity Instruction",
+      "work_role_id": "OG-WRL-005",
+      "description": "Responsible for developing and conducting cybersecurity awareness, training, or education. ",
+      "category": "OVERSIGHT and GOVERNANCE"
+      
+    },
+    {
+      "_id": "67d3206c8b064ffc5e921d38",
+      "work_role": "Cybersecurity Legal Advice",
+      "work_role_id": "OG-WRL-006",
+      "description": "Responsible for providing cybersecurity legal advice and recommendations, including monitoring related legislation and regulations.",
+      "category": "OVERSIGHT and GOVERNANCE"
+      
+    },
+    {
+      "_id": "67d3205e8b064ffc5e921c45",
+      "work_role": "Cybersecurity Policy and Planning",
+      "work_role_id": "OG-WRL-002",
+      "description": "Responsible for developing and maintaining cybersecurity plans, strategy, and policy to support and align with organizational cybersecurity initiatives and regulatory compliance.",
+      "category": "OVERSIGHT and GOVERNANCE"
+      
+    },
+    {
+      "_id": "67d320608b064ffc5e921c7a",
+      "work_role": "Cybersecurity Workforce Management",
+      "work_role_id": "OG-WRL-003",
+      "description": "Responsible for developing cybersecurity workforce plans, assessments, strategies, and guidance, including cybersecurity-related staff training, education, and hiring processes. Makes adjustments in response to or in anticipation of changes to cybersecurity-related policy, technology, and staffing needs and requirements. Authors mandated workforce planning strategies to maintain compliance with legislation, regulation, and policy.",
+      "category": "OVERSIGHT and GOVERNANCE"
+      
+    },
+    {
+      "_id": "67d320bb8b064ffc5e92208c",
+      "work_role": "Data Analysis ",
+      "work_role_id": "IO-WRL-001",
+      "description": "Responsible for analyzing data from multiple disparate sources to provide cybersecurity and privacy insight. Designs and implements custom algorithms, workflow processes, and layouts for complex, enterprise-scale data sets used for modeling, data mining, and research purposes.",
+      "category": "IMPLEMENTATION and OPERATION"
+      
+    },
+    {
+      "_id": "67d320be8b064ffc5e9220cb",
+      "work_role": "Database Administration",
+      "work_role_id": "IO-WRL-002",
+      "description": "Responsible for administering databases and data management systems that allow for the secure storage, query, protection, and utilization of data.",
+      "category": "IMPLEMENTATION and OPERATION"
+      
+    },
+    {
+      "_id": "67d320d18b064ffc5e92217b",
+      "work_role": "Defensive Cybersecurity",
+      "work_role_id": "PD-WRL-001",
+      "description": "Responsible for analyzing data collected from various cybersecurity defense tools to mitigate risks.",
+      "category": "PROTECTION and DEFENSE"
+      
+    },
+    {
+      "_id": "67d320f18b064ffc5e92231f",
+      "work_role": "Digital Evidence Analysis",
+      "work_role_id": "IN-WRL-002",
+      "description": "Responsible for identifying, collecting, examining, and preserving digital evidence using controlled and documented analytical and investigative techniques.",
+      "category": "INVESTIGATION"
+      
+    },
+    {
+      "_id": "67d320d78b064ffc5e9221be",
+      "work_role": "Digital Forensics ",
+      "work_role_id": "PD-WRL-002",
+      "description": "Responsible for analyzing digital evidence from computer security incidents to derive useful information in support of system and network vulnerability mitigation.",
+      "category": "PROTECTION and DEFENSE"
+      
+    },
+    {
+      "_id": "67d320998b064ffc5e921f52",
+      "work_role": "Enterprise Architecture ",
+      "work_role_id": "DD-WRL-002",
+      "description": "Responsible for developing and maintaining business, systems, and information processes to support enterprise mission needs. Develops technology rules and requirements that describe baseline and target architectures. ",
+      "category": "DESIGN and DEVELOPMENT"
+      
+    },
+    {
+      "_id": "67d3206e8b064ffc5e921d56",
+      "work_role": "Executive Cybersecurity Leadership",
+      "work_role_id": "OG-WRL-007",
+      "description": "Responsible for establishing vision and direction for an organization's cybersecurity operations and resources and their impact on digital and physical spaces. Possesses authority to make and execute decisions that impact an organization broadly, including policy approval and stakeholder engagement.",
+      "category": "OVERSIGHT and GOVERNANCE"
+      
+    },
+    {
+      "_id": "67d320dc8b064ffc5e922222",
+      "work_role": "Incident Response",
+      "work_role_id": "PD-WRL-003",
+      "description": "Responsible for investigating, analyzing, and responding to network cybersecurity incidents.",
+      "category": "PROTECTION and DEFENSE"
+      
+    },
+    {
+      "_id": "67d320df8b064ffc5e922235",
+      "work_role": "Infrastructure Support",
+      "work_role_id": "PD-WRL-004",
+      "description": "Responsible for testing, implementing, deploying, maintaining, and administering infrastructure hardware and software for cybersecurity. ",
+      "category": "PROTECTION and DEFENSE"
+      
+    },
+    {
+      "_id": "67d320e28b064ffc5e922249",
+      "work_role": "Insider Threat Analysis",
+      "work_role_id": "PD-WRL-005",
+      "description": "Responsible for identifying and assessing the capabilities and activities of cybersecurity insider threats; produces findings to help initialize and support law enforcement and counterintelligence activities and investigations.",
+      "category": "PROTECTION and DEFENSE"
+      
+    },
+    {
+      "_id": "67d320c18b064ffc5e9220de",
+      "work_role": "Knowledge Management",
+      "work_role_id": "IO-WRL-003",
+      "description": "Responsible for managing and administering processes and tools to identify, document, and access an organization’s intellectual capital.",
+      "category": "IMPLEMENTATION and OPERATION"
+      
+    },
+    {
+      "_id": "67d320c28b064ffc5e9220f1",
+      "work_role": "Network Operations",
+      "work_role_id": "IO-WRL-004",
+      "description": "Responsible for planning, implementing, and operating network services and systems, including hardware and virtual environments.",
+      "category": "IMPLEMENTATION and OPERATION"
+      
+    },
+    {
+      "_id": "67d320b78b064ffc5e922043",
+      "work_role": "Operational Technology (OT) Cybersecurity Engineering",
+      "work_role_id": "DD-WRL-009",
+      "description": "Responsible for working within the engineering department to design and create systems, processes, and procedures that maintain the safety, reliability, controllability, and security of industrial systems in the face of intentional and incidental cyber-related events. Interfaces with Chief Information Security Officer, plant managers, and industrial cybersecurity technicians.",
+      "category": "DESIGN and DEVELOPMENT"
+      
+    },
+    {
+      "_id": "67d320708b064ffc5e921d7a",
+      "work_role": "Privacy Compliance ",
+      "work_role_id": "OG-WRL-008",
+      "description": "Responsible for developing and overseeing an organization’s privacy compliance program and staff, including establishing and managing privacy-related governance, policy, and incident response needs.",
+      "category": "OVERSIGHT and GOVERNANCE"
+      
+    },
+    {
+      "_id": "67d320758b064ffc5e921dd2",
+      "work_role": "Product Support Management",
+      "work_role_id": "OG-WRL-009",
+      "description": "Responsible for planning, estimating costs, budgeting, developing, implementing, and managing product support strategies in order to field and maintain the readiness and operational capability of systems and components.",
+      "category": "OVERSIGHT and GOVERNANCE"
+      
+    },
+    {
+      "_id": "67d320788b064ffc5e921e14",
+      "work_role": "Program Management ",
+      "work_role_id": "OG-WRL-010",
+      "description": "Responsible for leading, coordinating, and the overall success of a defined program. Includes communicating about the program and ensuring alignment with agency or organizational  priorities.",
+      "category": "OVERSIGHT and GOVERNANCE"
+      
+    },
+    {
+      "_id": "67d3207b8b064ffc5e921e18",
+      "work_role": "Secure Project Management",
+      "work_role_id": "OG-WRL-011",
+      "description": "Responsible for overseeing and directly managing technology projects. Ensures cybersecurity is built into projects to protect the organization’s critical infrastructure and assets, reduce risk, and meet organizational goals. Tracks and communicates project status and demonstrates project value to the organization.",
+      "category": "OVERSIGHT and GOVERNANCE"
+      
+    },
+    {
+      "_id": "67d3209d8b064ffc5e921f5e",
+      "work_role": "Secure Software Development",
+      "work_role_id": "DD-WRL-003",
+      "description": "Responsible for developing, creating, modifying, and maintaining computer applications, software, or specialized utility programs.",
+      "category": "DESIGN and DEVELOPMENT"
+      
+    },
+    {
+      "_id": "67d320a28b064ffc5e921fb4",
+      "work_role": "Secure Systems Development",
+      "work_role_id": "DD-WRL-004",
+      "description": "Responsible for the secure design, development, and testing of systems and the evaluation of system security throughout the systems development life cycle.",
+      "category": "DESIGN and DEVELOPMENT"
+      
+    },
+    {
+      "_id": "67d3207e8b064ffc5e921e19",
+      "work_role": "Security Control Assessment",
+      "work_role_id": "OG-WRL-012",
+      "description": "Responsible for conducting independent comprehensive assessments of management, operational, and technical security controls and control enhancements employed within or inherited by a system to determine their overall effectiveness. ",
+      "category": "OVERSIGHT and GOVERNANCE"
+      
+    },
+    {
+      "_id": "67d320a98b064ffc5e921fe6",
+      "work_role": "Software Security Assessment",
+      "work_role_id": "DD-WRL-005",
+      "description": "Responsible for analyzing the security of new or existing computer applications, software, or specialized utility programs and delivering actionable results.",
+      "category": "DESIGN and DEVELOPMENT"
+      
+    },
+    {
+      "_id": "67d320c68b064ffc5e92210e",
+      "work_role": "Systems Administration",
+      "work_role_id": "IO-WRL-005",
+      "description": "Responsible for setting up and maintaining a system or specific components of a system in adherence with organizational security policies and procedures. Includes hardware and software installation, configuration, and updates; user account management; backup and recovery management; and security control implementation.",
+      "category": "IMPLEMENTATION and OPERATION"
+      
+    },
+    {
+      "_id": "67d320878b064ffc5e921eb5",
+      "work_role": "Systems Authorization",
+      "work_role_id": "OG-WRL-013",
+      "description": "Responsible for operating an information system at an acceptable level of risk to organizational operations, organizational assets, individuals, other organizations, and the nation.",
+      "category": "OVERSIGHT and GOVERNANCE"
+      
+    },
+    {
+      "_id": "67d320ad8b064ffc5e921fee",
+      "work_role": "Systems Requirements Planning ",
+      "work_role_id": "DD-WRL-006",
+      "description": "Responsible for consulting with internal and external customers to evaluate and translate functional requirements and integrating security policies into technical solutions. ",
+      "category": "DESIGN and DEVELOPMENT"
+      
+    },
+    {
+      "_id": "67d320ca8b064ffc5e92213c",
+      "work_role": "Systems Security Analysis",
+      "work_role_id": "IO-WRL-006",
+      "description": "Responsible for developing and analyzing the integration, testing, operations, and maintenance of systems security. Prepares, performs, and manages the security aspects of implementing and operating a system.",
+      "category": "IMPLEMENTATION and OPERATION"
+      
+    },
+    {
+      "_id": "67d3208a8b064ffc5e921eb7",
+      "work_role": "Systems Security Management",
+      "work_role_id": "OG-WRL-014",
+      "description": "Responsible for managing the cybersecurity of a program, organization, system, or enclave. ",
+      "category": "OVERSIGHT and GOVERNANCE"
+      
+    },
+    {
+      "_id": "67d320b18b064ffc5e922008",
+      "work_role": "Systems Testing and Evaluation",
+      "work_role_id": "DD-WRL-007",
+      "description": "Responsible for planning, preparing, and executing system tests; evaluating test results against specifications and requirements; and reporting test results and findings.",
+      "category": "DESIGN and DEVELOPMENT"
+      
+    },
+    {
+      "_id": "67d320ce8b064ffc5e92215e",
+      "work_role": "Technical Support ",
+      "work_role_id": "IO-WRL-007",
+      "description": "Responsible for providing technical support to customers who need assistance utilizing client-level hardware and software in accordance with established or approved organizational policies and processes.",
+      "category": "IMPLEMENTATION and OPERATION"
+      
+    },
+    {
+      "_id": "67d3208f8b064ffc5e921eea",
+      "work_role": "Technology Portfolio Management",
+      "work_role_id": "OG-WRL-015",
+      "description": "Responsible for managing a portfolio of technology investments that align with the overall needs of mission and enterprise priorities.",
+      "category": "OVERSIGHT and GOVERNANCE"
+      
+    },
+    {
+      "_id": "67d320918b064ffc5e921eeb",
+      "work_role": "Technology Program Auditing",
+      "work_role_id": "OG-WRL-016",
+      "description": "Responsible for conducting evaluations of technology programs or their individual components to determine compliance with published standards. ",
+      "category": "OVERSIGHT and GOVERNANCE"
+      
+    },
+    {
+      "_id": "67d320b48b064ffc5e922023",
+      "work_role": "Technology Research and Development",
+      "work_role_id": "DD-WRL-008",
+      "description": "Responsible for conducting software and systems engineering and software systems research to develop new capabilities with fully integrated cybersecurity. Conducts comprehensive technology research to evaluate potential vulnerabilities in cyberspace systems. ",
+      "category": "DESIGN and DEVELOPMENT"
+      
+    },
+    {
+      "_id": "67d320e78b064ffc5e9222b4",
+      "work_role": "Threat Analysis",
+      "work_role_id": "PD-WRL-006",
+      "description": "Responsible for collecting, processing, analyzing, and disseminating cybersecurity threat assessments. Develops cybersecurity indicators to maintain awareness of the status of the highly dynamic operating environment.",
+      "category": "PROTECTION and DEFENSE"
+      
+    },
+    {
+      "_id": "67d320ec8b064ffc5e9222fd",
+      "work_role": "Vulnerability Analysis",
+      "work_role_id": "PD-WRL-007",
+      "description": "Responsible for assessing systems and networks to identify deviations from acceptable configurations, enclave policy, or local policy. Measure effectiveness of defense-in-depth architecture against known vulnerabilities.",
+      "category": "PROTECTION and DEFENSE"
+      
+    }
+  ]
+  

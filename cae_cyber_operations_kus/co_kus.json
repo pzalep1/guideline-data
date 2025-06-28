@@ -1,0 +1,482 @@
+[
+    {
+        "key": "M1",
+        "name": "Cyber Policy, Law, and Ethics",
+        "description": "To comply with the many US laws, regulations, directives, and policies, it is essential that cyber operators know the extent and limitations of their authorities. In addition, cyber operators must fully grasp their societal responsibility for protecting and respecting the rights of US citizens and for acting ethically at all times.",
+          "outcomes": [
+            "Identify the main US governmental organizations responsible for cybersecurity.",
+            "Identify the authorities applicable to various cyber operations scenarios.",
+            "Explain US cyber operations doctrine.",
+            "Describe how the rights guaranteed in the US Constitution apply in cyberspace.",
+            "Identify the major US cyberspace-related laws.",
+            "Describe how international law impacts US cyber operations.",
+            "Describe the societal responsibility of cyber operators to act legally and ethically at all times.",
+            "Perform reasoned ethical analyses of cyberspace-related ethical gray areas."
+          ],
+        "topics": [
+          "US governmental organization for cybersecurity and cyber operations",
+          "US governing authorities for conducting cyber operations",
+          "US cyber operations doctrine",
+          "US constitutional rights and their application to cyberspace",
+          "US cybersecurity legislation",
+          "International humanitarian law and cyber operations",
+          "Societal responsibility",
+          "Ethical frameworks",
+          "Ethical hacking-related codes of conduct"
+        ],
+        "notes": "This KU may be covered by a course devoted to cyber law and ethics or by a module in an introductory cyber course or capstone cyber course or both. In addition, it is assumed that the legality and ethics of cyber operation activities will be reinforced across the curriculum as they apply in various contexts. Ideally, schools will have students sign a statement of ethical conduct."
+      },
+      {
+        "key": "M2",
+        "name": "Computer Science Foundations",
+        "description": "A deeply technical understanding of the infrastructure and functioning of cyberspace is essential for cyber operators. They must understand the basic building blocks of cyberspace including digital logic, data encoding, and data structures. Additionally, they must be skilled in logical and algorithmic thinking.",
+        "outcomes": [
+          "Design logic circuits that perform basic computational tasks.",
+          "Encode and decode data to and from binary format.",
+          "Define fundamental data structures and their appropriate uses.",
+          "Apply the principles of abstraction and modularity in the design of software.",
+          "Characterize the complexity of algorithms.",
+          "Identify when heuristics are needed for finding practical solutions to algorithmic problems."
+        ],
+        "topics": [
+          "Discrete math",
+          "Digital logic",
+          "Data encoding",
+          "Data structures",
+          "Abstraction",
+          "Modularity",
+          "Algorithmic analysis",
+          "Computational tractability"
+        ],
+        "notes": "In undergraduate programs this KU will likely be covered by multiple program core courses such as digital logic design, discrete math, data structures, and algorithms. For graduate programs, this KU may be covered by prerequisite admission requirements. This KU includes prerequisite material for M3 through M10."
+      },
+      {
+        "key": "M3",
+        "name": "Operating Systems",
+        "description": "Malware subverts operating systems to undermine system security and evade detection. As the software foundation of computer systems, it is vital that cyber operators understand operating system structures and functions. Operating systems implement access control, process isolation, logging, and many other fundamental cybersecurity properties. They are also a major source of critical cybersecurity vulnerabilities, including software bugs and configuration mistakes.",
+        "outcomes": [
+          "Detail the main components of an operating system and their functions.",
+          "Describe how operating systems manage privileged and non-privileged access.",
+          "Describe how operating systems implement security."
+        ],
+        "topics": [
+          "User space and kernel space",
+          "Processes and threads",
+          "Memory management",
+          "CPU scheduling, including multiprocessor architectures",
+          "Storage management, including I/O systems",
+          "File systems and permissions",
+          "Virtual machines",
+          "Operating system security"
+        ],
+        "notes": "This KU is best covered by an operating systems concepts course. This KU includes prerequisite material for M8 through M10."
+      },
+      {
+        "key": "M4",
+        "name": "Computer Networks",
+        "description": "Computer networks are the infrastructure of cyberspace and the primary domain where cyber operations are conducted. An in-depth understanding of computer networking protocols and the ability to write networked applications is essential for conducting cyber operations.",
+        "outcomes": [
+          "Detail the layered architecture of the Internet.",
+          "Describe the function and operation of the main Internet protocols.",
+          "Explain how security is implemented at each Internet layer.",
+          "Capture and analyze network packets.",
+          "Write computer network applications that employ standard and custom protocols.",
+          "Describe the operation of wireless and mobile networks."
+        ],
+        "topics": [
+          "Internet layers and protocols",
+          "Network security at each layer",
+          "Network utilities",
+          "Packet sniffing",
+          "Socket programming",
+          "Wireless network basics",
+          "Mobile network basics"
+        ],
+        "notes": "This KU may be covered by multiple computer networks courses or by an advanced computer networks course that includes a module in wireless and mobile networking. This KU includes prerequisite material for M8 through M10."
+      },
+      {
+        "key": "M5",
+        "name": "Systems Programming",
+        "description": "Systems programming uses low-level programming languages such as C and assembly language to interface with the operating system and computer hardware. Systems programmers must be familiar with system calls, memory management, and registers. Systems programming is a foundational skill for software reverse engineering, vulnerability discovery, and exploit development.",
+        "outcomes": [
+          "Write systems programs in C that leverage assembly language and operating system calls."
+        ],
+        "topics": [
+          "C programming",
+          "Assembly language programming",
+          "Operating system calls",
+          "Kernel modules",
+          "Device drivers"
+        ],
+        "notes": "This KU is best covered by an advanced programming course. This KU includes prerequisite material for M8 and M10."
+      },
+      {
+        "key": "M6",
+        "name": "Cybersecurity Foundations",
+        "description": "Cyber operators must be able to describe the current cybersecurity threat landscape, including the various motivations, objectives, and methods of cyber threat actors. This knowledge reinforces adversarial thinking and the need for cybersecurity. Cyber operators must also be able to describe the goals of cybersecurity, how risk management informs the approach to cybersecurity, and the principles and best practices of cybersecurity.",
+        "outcomes": [
+          "Discuss current events in cybersecurity.",
+          "Describe different categories of threat actors and their motivations.",
+          "Describe different objectives of cyber attackers.",
+          "Describe different types of cyber attacks.",
+          "Describe different types of malware.",
+          "Describe different types of common cyber vulnerabilities.",
+          "Research known vulnerabilities and rate their severity.",
+          "Describe the goals of cybersecurity.",
+          "Describe how cyber risk management leads to the efficient allocation of resources.",
+          "Define the fundamental principles of cybersecurity.",
+          "Describe the components of access control and how they are implemented."
+        ],
+        "topics": [
+          "Current events in cybersecurity",
+          "Adversarial thinking",
+          "Cyber threat actors",
+          "Cyber attack methods including social engineering",
+          "Types of malware",
+          "Cyber vulnerabilities",
+          "Vulnerability taxonomies, databases, and scores",
+          "CIA Triad",
+          "Cyber risk management",
+          "Cybersecurity principles",
+          "Cybersecurity best practices",
+          "Access control (AAA)"
+        ],
+        "notes": "In undergraduate programs this KU will likely be covered by an introductory cybersecurity course. Examples of hands-on activities include guided labs where students conduct point-and-click attacks and complete basic cybersecurity tasks. For graduate programs, this KU may be covered in the introductory portion of a more advanced cyber course. This KU includes prerequisite material for M8, M9 and M10."
+      },
+      {
+        "key": "M7",
+        "name": "Applied Cryptography",
+        "description": "Cyber operators must be able to apply cryptography to protect the confidentiality and integrity of information. They must also understand the risks and limitations of cryptography.",
+        "outcomes": [
+          "Explain the process and methods of encrypting and decrypting data.",
+          "Use symmetric key and public key algorithms to encrypt and decrypt data.",
+          "Explain the benefits and weaknesses of the public key infrastructure.",
+          "Describe the properties and uses of hash functions.",
+          "Use hash functions to protect and verify the integrity of data.",
+          "Write software that performs cryptographic operations using standard libraries.",
+          "Describe methods for attacking cryptography.",
+          "Describe the risks and limitations of cryptography."
+        ],
+        "topics": [
+          "Mathematical foundations for cryptography",
+          "Symmetric key cryptography",
+          "Stream ciphers",
+          "Block ciphers and modes",
+          "The key distribution problem",
+          "Public key cryptography",
+          "The key binding problem",
+          "Public key infrastructure (PKI)",
+          "Digital signatures",
+          "Hash functions",
+          "Key stretching",
+          "Kerckhoff’s principle",
+          "Attacks on cryptography",
+          "Quantum computing risks to cryptography"
+        ],
+        "notes": "This KU is best covered by a single course devoted to cryptography but also could be covered as a significant portion of a cyber defense course. It is assumed that cryptography will also be covered throughout the curriculum as it applies in various contexts. This KU includes prerequisite material for M9 and M10."
+      },
+      {
+        "key": "M8",
+        "name": "Software Reverse Engineering",
+        "description": "The ability to understand software for which source code is unavailable is a critical skill within the cyber operations field. Use cases include malware analysis and auditing of closed source software.",
+        "outcomes": [
+          "Safely reverse engineer and document software of unknown origin and malware.",
+          "Safely and directly patch software to modify its functionality.",
+          "Recognize common C programming constructs in assembly language.",
+          "Reverse engineer network traffic to document custom communication protocols.",
+          "Identify vulnerabilities in software using fuzzing and static and dynamic analysis."
+        ],
+        "topics": [
+          "Reverse engineering techniques",
+          "Reverse engineering tools",
+          "Reverse engineering for software specification recovery",
+          "Reverse engineering for malware analysis",
+          "Patching software",
+          "Deobfuscation of obfuscated code",
+          "Protocol reverse engineering",
+          "Software analysis"
+        ],
+        "notes": "This KU is best covered by a single course in software reverse engineering. This KU includes prerequisite material for M9 and M10."
+      },
+      {
+        "key": "M9",
+        "name": "Defensive Cyber Operations",
+        "description": "Cyber operations encompass both offensive and defensive operations. Defensive operations are needed to protect computer systems and networks from attack. Also, it is essential that cyber operators understand how defense complements offense.",
+        "outcomes": [
+          "Apply adversarial thinking to anticipate the strategic actions of adversaries",
+          "Identify common programming errors that lead to vulnerabilities.",
+          "Develop secure software following best practices.",
+          "Create and implement firewall rules given high-level objectives.",
+          "Perform system administration tasks on the command-line and using scripts in Windows and Unix-based environments.",
+          "Scan networks and computer systems to discover vulnerabilities.",
+          "Secure computer systems and data from tampering and unauthorized access.",
+          "Patch vulnerabilities in operating systems and software.",
+          "Detect and remove malware from computer systems.",
+          "Detect malicious activity in computer systems and networks."
+        ],
+        "topics": [
+          "Software security vulnerabilities",
+          "Secure software development practices",
+          "Software security testing",
+          "Firewalls",
+          "Operating system hardening",
+          "Scripting",
+          "Vulnerability scanners",
+          "Patching",
+          "Malware detection",
+          "Indicators of compromise (IOCs)",
+          "Log analysis",
+          "Process and file activity monitors",
+          "Network activity monitors"
+        ],
+        "notes": "This KU is best covered by an advanced cyber defense course where students complete labs in virtualized sandbox environments. This KU complements M10."
+      },
+      {
+        "key": "M10",
+        "name": "Offensive Cyber Operations",
+        "description": "Offensive cyber operations are carefully planned military and intelligence operations that are executed in and through cyberspace to achieve actions on objectives. Real life cyber operations are restricted to those explicitly authorized by various US government authorities.",
+        "outcomes": [
+          "Perform open-source intelligence on organizations and individuals.",
+          "Conduct enumeration and scanning of target networks.",
+          "Conduct various types of cyber attacks using tools, custom software, and scripts.",
+          "Identify vulnerabilities in target organizations, systems, and networks.",
+          "Write malware to exploit vulnerabilities.",
+          "Gain unauthorized access to computer systems.",
+          "Define and achieve actions on objectives in target systems.",
+          "Employ techniques for evading detection including covert communications."
+        ],
+        "topics": [
+          "Mission planning and execution",
+          "Cyber attack frameworks",
+          "Open-source intelligence (OSINT)",
+          "Cyber attack tools",
+          "Privilege escalation",
+          "Shellcode",
+          "Packet crafting",
+          "Command and control (C2)",
+          "Data exfiltration",
+          "Actions on objectives",
+          "Techniques for evading detection",
+          "Covert communication and steganography"
+        ],
+        "notes": "This KU is best covered by a capstone cyber operations course where students complete attack labs in virtualized sandbox environments. Ideally, students would also engage one another in cyber exercises to gain experience operating in contested environments. This KU complements M9."
+      },
+      {
+        "key": "O1",
+        "name": "Programmable Logic",
+        "description": "In digital electronic systems, logic devices provide specific functions, including device-to-device interfacing, data communication, signal processing, data display, timing and control operations, and several other system functions. Logic devices can be fixed or programmable using a logic language.",
+        "outcomes": [
+          "Specify digital device behavior using programmable logic language.",
+          "Design, synthesize, simulate, and implement logic on an actual programmable logic device."
+        ],
+        "topics": [
+          "Hardware design and programming languages",
+          "Programmable logic devices"
+        ],
+        "notes": ""
+      },
+      {
+        "key": "O2",
+        "name": "Computer Architecture",
+        "description": "Computer architecture provides an organized computing framework to allow firmware and software to leverage computing capabilities and various system resources.",
+        "outcomes": [
+          "Describe how various computing components and system resources are interconnected within a processor.",
+          "Assess the functionality and performance impact of processor design alternatives."
+        ],
+        "topics": [
+          "Organization of computer and processor architectures",
+          "Instruction set design alternatives",
+          "Processor implementation",
+          "Memory system hierarchy",
+          "Buses",
+          "I/O systems",
+          "Factors affecting performance"
+        ],
+        "notes": ""
+      },
+      {
+        "key": "O3",
+        "name": "Microcontrollers",
+        "description": "Microcontrollers represent a special class of computing systems that are typically small and simple computers with a processor core, limited memory, programmable input/output peripherals, and sensors. Microcontrollers are typically inexpensive, have little or no interface for human interaction, and have a fixed (often special-purpose) function with little to no change over their lifecycle.",
+        "outcomes": [
+          "Design and build a basic microcontroller application.",
+          "Assess the limitations of a given microcontroller design."
+        ],
+        "topics": [
+          "Instruction sets and architectures",
+          "Microcontroller programming environments",
+          "Special considerations for architecture limitations and real-time requirements",
+          "Integrating microcontrollers into larger systems",
+          "Security considerations"
+        ],
+        "notes": ""
+      },
+      {
+        "key": "O4",
+        "name": "Hardware Reverse Engineering",
+        "description": "Hardware reverse engineering is the study of hardware hacking and dissecting electronic devices and embedded systems. Hardware reverse engineers probe hardware components to determine their functionality, inputs, outputs, and stored data.",
+        "outcomes": [
+          "Safely document hardware functionality using procedures such as probing, measuring, and data collection.",
+          "Safely and directly modify hardware functionality.",
+          "Describe common hardware attack vectors."
+        ],
+        "topics": [
+          "Hardware reverse engineering methodology",
+          "The use of tools and test measurement equipment",
+          "Circuit board analysis and modification",
+          "Embedded security",
+          "Common hardware attack vectors"
+        ],
+        "notes": ""
+      },
+      {
+        "key": "O4",
+        "name": "Hardware Reverse Engineering",
+        "description": "Hardware reverse engineering is the study of hardware hacking and dissecting electronic devices and embedded systems. Hardware reverse engineers probe hardware components to determine their functionality, inputs, outputs, and stored data.",
+        "outcomes": [
+          "Safely document hardware functionality using procedures such as probing, measuring, and data collection.",
+          "Safely and directly modify hardware functionality.",
+          "Describe common hardware attack vectors."
+        ],
+        "topics": [
+          "Hardware reverse engineering methodology",
+          "The use of tools and test measurement equipment",
+          "Circuit board analysis and modification",
+          "Embedded security",
+          "Common hardware attack vectors"
+        ],
+        "notes": ""
+      },
+      {
+        "key": "O5",
+        "name": "Cyber Forensics",
+        "description": "Cyber forensics focuses on the recovery and investigation of artifacts in networks, memory, and operating systems.",
+        "outcomes": [
+          "Determine the manner in which an operating system or application has been subverted.",
+          "Recover deleted and intentionally hidden information from various types of media.",
+          "Demonstrate proficiency with handling a large number of different kinds of devices.",
+          "Identify forensic artifacts left by cyber attackers.",
+          "Acquire a forensically sound image for investigation."
+        ],
+        "topics": [
+          "Operating system forensics",
+          "Device / media forensics",
+          "Network forensics",
+          "Memory forensics"
+        ],
+        "notes": "This KU focuses specifically on cyber forensic processes and technology (i.e., tools and techniques), not legal aspects (e.g., chain of custody, preparation of evidence for legal proceedings)."
+      },      
+      {
+        "key": "O6",
+        "name": "Wireless and Mobile Security",
+        "description": "Wireless and mobile systems have become ubiquitous, and they can have significant impacts on system security and operation, especially due to the relative openness and erratic nature of the wireless environment. The dynamic and inconsistent connectivity of wireless requires unique approaches to networking in everything from user identification and authentication to message integrity and cipher synchronization.",
+        "outcomes": [
+          "Describe unique security and operational attributes in the wireless environment and their effects on network communication guarantees and protections.",
+          "Demonstrate knowledge of common vulnerabilities and use of available tools.",
+          "Describe effective (and ineffective) mechanisms for protecting commonly deployed wireless and mobile networks and corresponding protocols that are employed in these systems, including wireless link and infrastructure components."
+        ],
+        "topics": [
+          "Stream and block ciphers and security protocols commonly used in wireless networks, what properties each one provides, and known limitations / vulnerabilities",
+          "Security implementations in different wireless systems (e.g., GSM, LTE, WiFi, Bluetooth, RFID)",
+          "Mobile identifiers and registration, device / user tracking, and protection of identifiers for anti-tracking",
+          "Availability issues in wireless networks"
+        ],
+        "notes": ""
+      },
+      {
+        "key": "O7",
+        "name": "Virtualization",
+        "description": "Virtualization technology has rapidly spread to become a core feature of enterprise environments, and is also deeply integrated into many server, client, and mobile platforms. It is also widely used in IT development, research, and testing environments. Virtualization is also a key technology in cyber security. As such a deep technical understanding of the capabilities and limitations of modern approaches to virtualization is critical to cyber operations.",
+        "outcomes": [
+          "Describe the technical mechanisms by which virtualization is implemented in a variety of environments, and their implications for cyber operations.",
+          "Enumerate and describe the various interfaces between the hypervisors, VMs, physical and virtual hardware, management tools, networking, storage, and external environments."
+        ],
+        "topics": [
+          "Type I and Type II architectures",
+          "Virtualization Principles including efficiency, resource control and equivalence",
+          "Virtualization techniques for code execution, including trap and emulate, binary translation, paravirtualization, and hardware-supported virtualization (e.g., Intel VMX)",
+          "Management of memory in virtualized systems, including hardware supported memory management (e.g., EPT/SLAT), memory deduplication, and isolation of VM hypervisor and memory spaces",
+          "Techniques for allocating storage (e.g., hard drives) to Virtual Machines, and the associated capabilities (e.g., snapshots)",
+          "Techniques for associating hardware (virtual or physical) with virtual machines, including hardware-supported methods (e.g., SR-IOV) and device emulation",
+          "Techniques for providing advanced virtualization capabilities, such as live-migration and live failover",
+          "Internal and External Interfaces provided by virtualized platforms for management, monitoring, and internal communication/synchronization",
+          "Snapshots, migration, failover"
+        ],
+        "notes": "Education focused on simply using VMs or virtualization platforms such as vSphere, HyperV, or VirtualBox is not sufficient to address this KU."
+      },
+      {
+        "key": "O8",
+        "name": "Cloud Security",
+        "description": "Cloud resources are commonly used for a wide variety of use cases, including the provisioning of enterprise services, data processing and analysis, development and testing, and a wide variety of consumer-focused services. Cloud computing has implications for cyber operations not only as a potential target, but also as an extensive resource to bring relatively cheap computing power to solve problems (e.g. cracking passwords) which were previously too difficult.",
+        "outcomes": [
+          "Describe cloud service models and deployment modes and their suitability for various service tasks, including understanding security tradeoffs.",
+          "Develop and deploy a task in an appropriate cloud environment, including addressing issues associated with deployment, configuration, management, scalability, and security."
+        ],
+        "topics": [
+          "Essential characteristics of cloud platforms and the underlying technologies that enable them",
+          "Common service, deployment, and management models and their associated tradeoffs",
+          "Cloud infrastructure components and the interfaces they expose to internal and external processes",
+          "Security implications of cloud computing, including issues associated with shared resources and multi-tenancy, extension of trust to include the cloud provider, and approaches to mitigating these issues",
+          "Developing, deploying, and managing applications on deployed cloud infrastructure"
+        ],
+        "notes": ""
+      },
+      {
+        "key": "O9",
+        "name": "Critical Infrastructure Security",
+        "description": "Industrial Control Systems (ICSs) and Supervisory Control and Data Acquisition (SCADA) systems are at the core of many critical infrastructure sectors in the United States. These systems use common components and are frequently interconnected; vulnerabilities can cause significant problems to their owner operators. Many ICSs have critical national security impacts, such as the electrical power grid as well as dams and water treatment facilities. Cyber operators should have knowledge of the attack and defense of ICSs.",
+        "outcomes": [
+          "Describe the components of ICS systems and how they are programmed.",
+          "Describe the different network protocols used in the operation of ICS and SCADA systems and their security vulnerabilities.",
+          "Use industry standard software such as the DHS CSET tool to aid in analysis of ICS systems at a compliance level."
+        ],
+        "topics": [
+          "Programmable logic controllers (PLCs)",
+          "Supervisory Control and Data Acquisition (SCADA) systems",
+          "Distributed Control System (DCS)",
+          "ICS communication protocols",
+          "US Critical Infrastructure sectors and regulations by sector"
+        ],
+        "notes": ""
+      },
+      {
+        "key": "O10",
+        "name": "Cyber Risk Management",
+        "description": "Risk management forms the basis for applying information system security principles to an operational environment, including an organization’s security culture and values.",
+        "outcomes": [
+          "Describe the methods used to identify, measure, and mitigate key information technology risks.",
+          "Describe tasks associated with risk framing, assessment, response, and monitoring."
+        ],
+        "topics": [
+          "Risk models (e.g., NIST SP 800-39)",
+          "Risk processes (e.g., NIST SP 800-37)"
+        ],
+        "notes": ""
+      },
+      {
+        "key": "O11",
+        "name": "Game Theory",
+        "description": "Cybersecurity is predicated on the existence of human adversaries. Therefore, adversarial thinking underlies both defensive and offensive cyber operations. Game theory is the study of strategic reasoning and is useful for anticipating the strategic actions of adversaries.",
+        "outcomes": [
+          "Define canonical game theoretical games.",
+          "Describe the differences between traditional and behavioral game theory.",
+          "Determine scenarios where behavioral game theory renders more accurate predictions than traditional game theory.",
+          "Define the necessary conditions for a game theoretical scenario.",
+          "Draw a normal form representation of a real-life strategic scenario.",
+          "Identify the Nash equilibrium for basic normal form games.",
+          "Apply best response analysis to solve game theoretical games.",
+          "Define level-k strategies for games."
+        ],
+        "topics": [
+          "Canonical game theoretical games",
+          "Types of games",
+          "Traditional game theory",
+          "Behavioral game theory",
+          "Utility preferences",
+          "Normal form games",
+          "Nash equilibrium",
+          "Level-k reasoning"
+        ],
+        "notes": ""
+      }      
+]

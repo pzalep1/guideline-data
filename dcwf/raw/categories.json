@@ -1,0 +1,73 @@
+[
+    {
+      "_id": "67d41fa6e785393e03a98f2b",
+      "category": "IT (Cyberspace)",
+      "category_id": "IT (Cyberspace)",
+      "description": "Personnel who design, build, configure, operate, and maintain IT, networks, and capabilities. This includes actions to prioritize implement, evaluate, and dispose of IT as well as information resource management; and the management, storage, transmission, and display of data and information."
+      
+    },
+    {
+      "_id": "67d41fa6e785393e03a98f2c",
+      "category": "Cybersecurity",
+      "category_id": "Cybersecurity",
+      "description": "Personnel who secure, defend, and preserve data, networks, net-centric capabilities, and other designated systems by ensuring appropriate security controls and measures are in place, and taking internal defense actions. This includes access to system controls, monitoring, administration, and integration of cybersecurity into all aspects of engineering and acquisition of cyberspace capabilities."
+      
+    },
+    {
+      "_id": "67d41fa6e785393e03a98f2d",
+      "category": "Cyberspace Effects",
+      "category_id": "Cyberspace Effects",
+      "description": "Personnel who plan, support, and execute cyberspace capabilities where the primary purpose is to externally defend or conduct force projection in or through cyberspace."
+      
+    },
+    {
+      "_id": "67d41fa6e785393e03a98f2e",
+      "category": "Intelligence (Cyberspace)",
+      "category_id": "Intelligence (Cyberspace)",
+      "description": "Personnel who collect, process, analyze, and disseminate information from all sources of intelligence on foreign actors’ cyberspace programs, intentions, capabilities, research and development, and operational activities."
+      
+    },
+    {
+      "_id": "67d41fa6e785393e03a98f2f",
+      "category": "Acquisition",
+      "category_id": "Acquisition",
+      "description": "Manages a portfolio of IT capabilities that align with the overall needs of mission and business enterprise priorities."
+      
+    },
+    {
+      "_id": "67d41fa7e785393e03a98f30",
+      "category": "Leadership",
+      "category_id": "Leadership",
+      "description": "Develops cyberspace plans, strategy and policy to support and align with organizational cyberspace missions and initiatives."
+      
+    },
+    {
+      "_id": "67d41fa7e785393e03a98f31",
+      "category": "Legal/Law Enforcement",
+      "category_id": "Legal/Law Enforcement",
+      "description": "Identifies, collects, examines, and preserves evidence using controlled and documented analytical and investigative techniques."
+      
+    },
+    {
+      "_id": "67d41fa7e785393e03a98f32",
+      "category": "Training and Education",
+      "category_id": "Training and Education",
+      "description": "Develops, plans, coordinates, and evaluates cyber training/education courses, methods, and techniques based on instructional needs."
+      
+    },
+    {
+      "_id": "67d41fa7e785393e03a98f33",
+      "category": "Software Engineering",
+      "category_id": "Software Engineering",
+      "description": "Selects/Deploys/Maintains the set of Continuous Integration/Continuous Deployment (CI/CD) tools and processes used by the development team and/or maintains the deployed software product and ensures observability and security across the lifecycle."
+      
+    },
+    {
+      "_id": "67d41fa7e785393e03a98f34",
+      "category": "Data/AI",
+      "category_id": "Data/AI",
+      "description": "Facilitates AI adoption by supporting the users of AI-enabled solutions."
+      
+    }
+  ]
+  
