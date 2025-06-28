@@ -1,0 +1,271 @@
+[
+    {
+        "name": "Cyber Threats",
+        "key": "CTH",
+        "description": "The intent of the Cyber Threats (CTH) Knowledge Unit is to provide students with basic information about the malicious acts that aim to damage data, steal data, or disrupt digital operations in general that may be present in the cyber realm.",
+        "outcomes": [
+          "Identify the bad actors in cyberspace and compare and contrast their resources, capabilities/techniques, motivations and aversion to risk.",
+          "Adequately communicate, rate in importance, and describe different types of cyber-attacks and their characteristics.",
+          "Evaluate threat intelligence to determine if a given attack/attacker/vulnerability combination is a threat to a given organization.",
+          "Explain and discuss how defending against cyber threats is critical for protecting systems, networks, and data from harm."
+        ],
+        "topics": [
+          "Motivations and Techniques",
+          "The Adversary Model (e.g., resources, capabilities, intent, motivation, risk aversion, access)",
+          "Types of Attacks and the vulnerabilities that enable them: Brute force attack; Password guessing / cracking; Malware: Backdoors / trojans / viruses / wireless attacks; Sniffing / spoofing / session hijacking / MiTM; Denial of Service (DoS) / Distributed Denial of Service (DDoS); BOTs / Botnets; Buffer Overflow; Zero-day exploits; Persistence",
+          "History of attacks",
+          "Indicators of compromise",
+          "Events that indicate an attack is/has happened",
+          "Attack timing (within x minutes of being attached to the net)",
+          "Attack surfaces / vectors, and trees",
+          "Hardware attacks",
+          "Covert Channels",
+          "Social Engineering",
+          "Tactics, Techniques, and Procedures (TTPs)",
+          "Threat actors: Insider threat; Script kiddies; Advanced Persistent Threat (APT) Groups",
+          "Threat Information Sources (e.g., Common Vulnerabilities and Exposures (CVEs), CISA's Known Exploited Vulnerabilities, CERT, MITRE ATT&CK/ATLAS, OWASP Top 10 Web App Security Threats)",
+          "Open Source Intelligence (OSINT)"
+        ],
+        "vocabulary": [
+          "Advanced Persistent Threats (APTs)",
+          "Adversary Model",
+          "Common Vulnerabilities and Exposures (CVEs)",
+          "Cyber Threats",
+          "Cyberattacks",
+          "Indicators of Compromise",
+          "Malware",
+          "Open Source Intelligence (OSINT)",
+          "Social Engineering",
+          "Threat Actors",
+          "Threat Intelligence",
+          "Vulnerabilities"
+        ],
+        "related_knowledge_units": [
+          "SPM",
+          "SRA",
+          "CCR",
+          "PLE"
+        ],
+        "related_work_roles": [
+          "Target Analysis",
+          "Secure Software Development",
+          "Defensive Cybersecurity",
+          "Incident Response",
+          "Vulnerability Analysis"
+        ]
+      },
+      {
+        "name": "Cybersecurity Planning and Management",
+        "key": "CPM",
+        "description": "The intent of the Cybersecurity Planning and Management (CPM) Knowledge Unit is to equip students with the knowledge and skills needed to strategically develop, implement, effectively communicate, and oversee policies and procedures that protect an organization\u2019s information systems from cyber threats, strengthen data security, integrity, and availability while aligning cybersecurity initiatives with the organization's goals and regulatory obligations.",
+        "outcomes": [
+          "Examine the placement of security functions in a system and describe the strengths and weaknesses.",
+          "Develop contingency plans for various size organizations to include business continuity, disaster recovery and incident response.",
+          "Develop system specific security plans for: The protection of intellectual property; The implementation of access controls; Patch and change management",
+          "Outline and explain the roles, and financial implications, of personnel in planning and managing security, including: Board of Directors; Senior Management; Chief Information Security Officer (CISO); IT Management (i.e., CIO, CTO, IT Director, etc.); Functional Area Management; Information Security personnel; End users",
+          "Discuss potential virtualization security risks and mitigation strategies.",
+          "Develop policies, processes, and procedures in relation to regulations, internationally recognized standards, and/or business requirements (such as Criminal Justice Information Services (CJIS) requirements for public service systems)."
+        ],
+        "topics": [
+          "Broad coverage of the cybersecurity Common Body of Knowledge (CBK) as related to planning and management",
+          "Examples of Operational, Technical, and Strategic Planning and Management",
+          "C-Level Functions which impact cybersecurity",
+          "Making cybersecurity a strategic essential part of the core organizational strategy",
+          "Requirements and plans for Business Continuity / Disaster Recovery",
+          "Policies, processes, and procedures for incident response",
+          "Protection of intellectual property",
+          "Implementation of access controls",
+          "Patch and change control management",
+          "Risk Assessment and Management",
+          "Cybersecurity Policies and Procedures",
+          "Security Education, Training, and Awareness (SETA)",
+          "Compliance and Regulatory Requirements",
+          "Security Architecture and Design",
+          "Vendor and Third-Party Risk Management",
+          "Threat Intelligence and Analysis",
+          "Cybersecurity Metrics and Reporting"
+        ],
+        "vocabulary": [
+          "Access Controls",
+          "Business Continuity",
+          "Compliance",
+          "Cybersecurity Planning and Management",
+          "Disaster Recovery",
+          "Incident Response",
+          "Intellectual Property",
+          "Patch Management",
+          "Risk Assessment",
+          "Security Architecture",
+          "Security Policies",
+          "Threat Intelligence"
+        ],
+        "related_knowledge_units": [
+          "SPM",
+          "PLE",
+          "CTH"
+        ],
+        "related_work_roles": [
+          "Cybersecurity Legal Advice",
+          "Systems Authorization",
+          "All-Source Analysis",
+          "Executive Cyber Leader",
+          "Communications Security (COMSEC) Management"
+        ]
+      },
+      {
+        "name": "Policy, Legal, Ethics, and Compliance",
+        "key": "PLE",
+        "description": "The purpose of the Policy, Legal, Ethics, and Compliance (PLE) Knowledge Unit is to provide students with an understanding of both the technical and nontechnical qualities of information governance to ensure that organizations protect data, maintain trust, and operate within legal and ethical frameworks.",
+        "outcomes": [
+          "The purpose of the Policy, Legal, Ethics, and Compliance (PLE) Knowledge Unit is to provide students with an understanding of both the technical and nontechnical qualities of information governance to ensure that organizations protect data, maintain trust, and operate within legal and ethical frameworks.",
+          "Describe the responsibilities related to the handling of data as it pertains to legal, ethical and/or agency auditing issues.",
+          "Explain the importance of compliance with legal and ethical standards in cybersecurity.",
+          "Explain the challenges and dilemmas that cybersecurity professionals face in both legal and ethical situations.",
+          "Apply legal, ethical principles, and ethical decision-making to real-world situations in cybersecurity (i.e., case studies)."
+        ],
+        "topics": [
+          "Purpose of policies",
+          "Types of policies (e.g., Information Security Policy, Acceptable Use Policy (AUP), Data Protection Policy, Incident Response Policy)",
+          "Key legal concepts (e.g., Data Protection Laws, Intellectual Property Laws, Cybercrime Laws, Contract Law)",
+          "Federal Laws and Authorities: Computer Security Act; Sarbanes \u2013 Oxley Act; Gramm \u2013 Leach \u2013 Bliley Act ; Privacy (COPPA) HIPAA / FERPA; USA Patriot Act; Americans with Disabilities Act, Section 508; Maturity Models (e.g., Cybersecurity Maturity Model Certification (CMMC)); Other Federal laws and regulations",
+          "State, US and international standards / jurisdictions (e.g. GDPR)",
+          "Ethical principles (e.g., Confidentiality, Integrity, Accountability, Fairness)",
+          "Compliance areas (e.g., Regulatory Compliance, Internal Compliance, Audit and Assessment)",
+          "Payment Card Industry Data Security Standard (PCI DSS)",
+          "BYOD issues",
+          "Health Information Technology for Economic and Clinical Health Act (HITECH) (breach notifications)",
+          "Basic Intellectual Property Concepts: Copyrights, Patents, and Trademarks; Trade Secrets and Their Protection (e.g. Non-Disclosure Agreements (NDAs)); Software/System User Agreements",
+          "Compliance: Identification of Requirements; Tracking and Reporting Compliance; Compliance Audits and Assessments",
+          "Ethics: Ethical Behaviors and Codes of Conduct; Conflicts of Interest and Their Management; Whistleblowing and Reporting Mechanisms"
+        ],
+        "vocabulary": [
+          "Accountability",
+          "Audit",
+          "Compliance",
+          "Compliance Standards",
+          "Confidentiality",
+          "Cybercrime",
+          "Data Protection",
+          "Ethics",
+          "Integrity",
+          "Intellectual Property",
+          "Legal",
+          "Policy"
+        ],
+        "related_knowledge_units": [
+          "CSP",
+          "CPM",
+          "CSE",
+          "SPM",
+          "BCO",
+          "FAC",
+          "CTH",
+          "CCR"
+        ],
+        "related_work_roles": [
+          "Security Control Assessment",
+          "Secure Systems Development",
+          "Information Systems Security Developer",
+          "Product Manager",
+          "Data Analyst"
+        ]
+      },
+      {
+        "name": "Security Program Management",
+        "key": "SPM",
+        "description": "The intent of the Security Program Management (SPM) Knowledge Unit is to provide students with the knowledge necessary to define and implement a cybersecurity program for the protection of an organization\u2019s systems and data.",
+        "outcomes": [
+          "Apply knowledge to identify goals, objectives and performance metrics and to develop a security program.",
+          "Apply knowledge to effectively manage a cybersecurity program.",
+          "Assess the effectiveness of a cybersecurity program.",
+          "Articulate the effectiveness of a cybersecurity program using applicable soft or nontechnical skills aligned with an administrative function."
+        ],
+        "topics": [
+          "Goals and objectives of a security program",
+          "Measuring the effectiveness of a security program (i.e., metrics)",
+          "Roles and Responsibilities of the Security Organization",
+          "Security Policies: Compliance with Applicable Laws and Regulations; Security best practices and frameworks",
+          "Security Baselining",
+          "Program Monitoring and Control",
+          "Security Education, Training and Awareness (SETA)",
+          "Routine cybersecurity and information security risk assessments",
+          "Security program addresses: Physical Security; Personnel Security; System and Data Identification; System security plans; Configuration and Patch management; System Documentation; Incident Response Program; Disaster Recovery Program; Business Continuity and Crisis Management; Certification and Accreditation",
+          "Automation"
+        ],
+        "vocabulary": [
+          "Security Organization",
+          "Security Program Management (SPM)",
+          "Security Policies",
+          "Security Baselining",
+          "Cybersecurity Program",
+          "Goals and Objectives",
+          "Performance Metrics",
+          "Program Monitoring and Control",
+          "Security Education, Training and Awareness (SETA)",
+          "Risk Assessments",
+          "Incident Response Program",
+          "Business Continuity and Crisis Management"
+        ],
+        "related_knowledge_units": [
+          "CPM",
+          "SCA",
+          "CSF"
+        ],
+        "related_work_roles": [
+          "Executive Cybersecurity Leadership",
+          "Secure Project Management",
+          "Systems Security Management",
+          "Enterprise Architecture",
+          "Systems Requirements Planning"
+        ]
+      },
+      {
+        "name": "Security Risk Analysis",
+        "key": "SRA",
+        "description": "The intent of the Security Risk Analysis (SRA) Knowledge Unit is to provide students with sufficient understanding of risk assessment models, methodologies and processes such that they can perform a risk assessment of a particular system and recommend mitigations to identified risks.",
+        "outcomes": [
+          "Describe and explain how risk relates to a system security policy and governance",
+          "Describe various risk analysis methodologies",
+          "Evaluate and categorize risk with respect to technology, processes, individuals, the enterprise, and recommend appropriate responses",
+          "Identify and select the optimal risk analysis methodology based on needs, advantages and disadvantages",
+          "Annotate and apply standards, frameworks, legal requirements, and institutional (public/private) policy when conducting a risk assessment"
+        ],
+        "topics": [
+          "Risk Assessment/Analysis Methodologies",
+          "Risk Measurement and Evaluation Methodologies",
+          "Risk Management Models",
+          "Risk Management Processes (i.e., Identification (asset, threat, controls, consequences, and vulnerabilities; Estimation (methodology, assessment consequences, incident likelihood, risk), Evaluation, etc.)",
+          "Security Controls",
+          "Risk Mitigation Economics",
+          "Risk Transference/Acceptance/Mitigation",
+          "Following documented risk frameworks",
+          "Communication, documentation, and logging of cybersecurity risk",
+          "Standards, frameworks, legal requirements (e.g., NIST 800-53, CMMC 2.0, Privacy (COPPA) HIPAA / FERPA)"
+        ],
+        "vocabulary": [
+          "Communication",
+          "Governance",
+          "Legal Requirements",
+          "Risk Analysis",
+          "Risk Assessment",
+          "Risk Frameworks",
+          "Risk Management",
+          "Risk Methodology",
+          "Risk Mitigation",
+          "Security Controls",
+          "Security Policy",
+          "Standards"
+        ],
+        "related_knowledge_units": [
+          "SCA",
+          "CSF"
+        ],
+        "related_work_roles": [
+          "Enterprise Architecture",
+          "Secure Systems Development",
+          "Systems Requirements Planning",
+          "Incident Response",
+          "Vulnerability Analysis"
+        ]
+      }
+]

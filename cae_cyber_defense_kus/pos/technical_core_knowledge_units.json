@@ -1,0 +1,250 @@
+[
+    {
+        "name": "Basic Cryptography",
+        "key": "BCY",
+        "description": "The intent of the Basic Cryptography (BCY) Knowledge Unit is to provide students with a basic ability to understand and explain where and how cryptography is effectively used.",
+        "outcomes": [
+          "Identify the elements of a cryptographic system.",
+          "Describe the differences between symmetric and asymmetric algorithms.",
+          "Describe which cryptographic protocols, tools, and techniques are appropriate for a given situation.",
+          "Describe how cryptography can be used, its strengths and weaknesses, modes, and issues that must be addressed before implementation. (e.g., key management)"
+        ],
+        "topics": [
+          "Common cryptographic uses",
+          "Hash functions (e.g., MD4, MD5, SHA-1, SHA-2, SHA-3)",
+          "Symmetric cryptography (e.g., DES, Twofish, AES)",
+          "Public key cryptography (e.g., Diffie-Hellman, RSA, ECC, ElGamal, DSA)",
+          "Cryptography in practice",
+          "Cryptographic failures"
+        ],
+        "vocabulary": [
+          "Advanced Encryption Standard (AES)",
+          "Asymmetric Cryptography",
+          "Cryptographic Attacks",
+          "Cryptographic Failures",
+          "Cryptographic Modes",
+          "Cryptographic Protocols",
+          "Cryptographic Standards",
+          "Cryptography",
+          "Data Encryption Standard (DES)",
+          "Digital Signatures",
+          "Hash Functions",
+          "Key Management",
+          "Public Key Infrastructure (PKI)",
+          "Symmetric Cryptography"
+        ],
+        "related_knowledge_units": [
+          "ACR"
+        ],
+        "related_work_roles": [
+          "Software Security Assessment",
+          "Secure Software Development",
+          "Infrastructure Support",
+          "Security Architect",
+          "Research and Development Specialist"
+        ]
+      },
+      {
+        "name": "Basic Networking",
+        "key": "BNW",
+        "description": "The intent of the Basic Networking (BNW) Knowledge Unit is to provide students with a basic understanding of how networks are designed, built and operate, and to give students experience with basic network analysis tools. Students are exposed to the concept of potential vulnerabilities in a network.",
+        "outcomes": [
+          "Describe and explain the fundamental concepts, technologies, components, and issues related to communications and data networks.",
+          "Apply networking concepts to design a basic network architecture given a specific need and set of hosts/clients.",
+          "Apply and demonstrate knowledge of networking concepts by tracking and identifying the data packets involved in a simple TCP connection (or perform a trace of such a connection).",
+          "Apply and demonstrate use of a network monitoring tool to observe the flow of packets (e.g., Wireshark).",
+          "Perform and examine results of network mapping (i.e., enumeration and identification of network components) (e.g., Nmap).",
+          "Describe common network vulnerabilities."
+        ],
+        "topics": [
+          "Networking models (e.g., OSI and TCP/IP)",
+          "Internet and World Wide Web",
+          "Network media (e.g., wired, optical, and wireless)",
+          "Network Architectures and topologies (e.g., PAN, LAN/WAN, DMZ, Enclaves, VLAN, NAT, subnetting, supernetting, bus, star, partial and full mesh, peer-to-peer, client-server)",
+          "Common Network Devices and their role in the network (e.g., Routers, Switches, clients and servers, Wireless Access Points, VPNs, Firewalls (hardware, software, virtual), All-in-One Appliances)",
+          "Network Protocols introduction (e.g., IP, TCP, UDP, ICMP)",
+          "Network Services and protocols introduction (e.g., DNS, NTP, VLAN, DHCP, etc.)",
+          "Network Applications and protocols introduction (e.g., SMTP, HTTP, VoIP, SSH, etc.)",
+          "Use of basic network administration tools (e.g., PING, Traceroute, SNMP)",
+          "Overview of Network Security Issues (e.g., Zero Trust, Defense-in-depth, SIEM/SOAR, Best Practices)",
+          "Log analysis (e.g., traffic, threat prevention, audit, event, session, Geo-location, user activity, system, compliance)",
+          "Basic business continuity and disaster recovery (e.g., basics of DRP, BCP, IRP)"
+        ],
+        "vocabulary": [
+          "Business Continuity",
+          "Data Packet Analysis",
+          "Disaster Recovery",
+          "Network Administration",
+          "Network Architecture",
+          "Network Devices",
+          "Network Monitoring",
+          "Network Protocols",
+          "Network Security",
+          "Network Services",
+          "Network Topology",
+          "Network Vulnerabilities"
+        ],
+        "related_knowledge_units": [
+          "NDF",
+          "NTP",
+          "ANT",
+          "NSA",
+          "IDS",
+          "WSN"
+        ],
+        "related_work_roles": [
+          "Insider Threat Analysis",
+          "Vulnerability Analysis",
+          "Software Developer",
+          "Authorizing Official/Designating Representative",
+          "Enterprise Architecture"
+        ]
+      },
+      {
+        "name": "Basic Scripting and Programming",
+        "key": "BSP",
+        "description": "The intent of this Basic Scripting and Programming (BSP) Knowledge Unit is to provide students with foundational skills in scripting and programming. It focuses on enabling students to write simple scripts/programs to automate and perform simple operations, and to provide students with the skills necessary to implement scripts and programming languages to solve problems. This knowledge includes basic security practices in developing scripts/programs (e.g., bounds checking, input validation).",
+        "outcomes": [
+          "Write and execute simple scripts to automate system administration tasks.",
+          "Write and execute programs in a high-level language using basic programming constructs and concepts.",
+          "Write and execute simple linear and looping scripts.",
+          "Write and execute simple and compound conditions within a programming language or similar environment (e.g., scripts, macros, SQL).",
+          "Implement basic security practices in scripting, including bounds checking and input validation.",
+          "Demonstrate conceptual understanding and practical use of regular programming or scripting expressions."
+        ],
+        "topics": [
+          "Basic security concepts",
+          "Permissions (e.g., Linux, Windows, MacOS), bounds checking, input validation, type checking and parameter validation",
+          "Fundamental concepts and basic implementation of regular expressions",
+          "Fundamental data structures and algorithms",
+          "Boolean logic/operations (e.g., AND / OR / XOR / NOT)",
+          "Scripting language on both Windows and Linux (e.g. PERL, Python, BASH, JAVA, VB Scripting, Powershell)",
+          "Integrated Development Environment (IDE), Compilers/Interpreters",
+          "Properly apply basic programming constructs and concepts including: Variables and types (e.g., int, float, char, etc.); Strings, arrays, structures; Sequential and parallel execution; Assignments (e.g., :=, =, ++, --, etc.); Decisions and branching (e.g., if, if ... else, elseif, switch, case, etc.); Loops (e.g., for, while, repeat, etc.); Functions, procedures, and calls; Debugging techniques; Console and file I/O; Libraries"
+        ],
+        "vocabulary": [
+          "Algorithms",
+          "Automation",
+          "Boolean Logic",
+          "Bounds Checking",
+          "Data Structures",
+          "Input Validation",
+          "Integrated Development Environment (IDE)",
+          "Programming",
+          "Programming Constructs",
+          "Regular Expressions",
+          "Scripting",
+          "Security"
+        ],
+        "related_knowledge_units": [
+          "ALG",
+          "DFS",
+          "PTT",
+          "SAS",
+          "SPP"
+        ],
+        "related_work_roles": [
+          "Enterprise Architecture",
+          "Executive Cyber Leader",
+          "Data Operations Specialist",
+          "Technical Support Specialist",
+          "Secure Systems Development "
+        ]
+      },
+      {
+        "name": "Network Defense",
+        "key": "NDF",
+        "description": "The intent of the Network Defense (NDF) Knowledge Unit is to provide students with knowledge of the concepts used in defending a network and the basic tools and techniques that can be taken to protect a network and communication assets from cyber threats.",
+        "outcomes": [
+          "Describe and discuss the key concepts in network defense (defense in depth, minimizing exposure, etc.).",
+          "Explain and discuss how network defense tools (e.g., firewalls, IDS, etc.) are used to defend against attacks and mitigate vulnerabilities.",
+          "Analyze and evaluate how security policies are implemented on systems to protect a network.",
+          "Evaluate how network operational procedures relate to network security."
+        ],
+        "topics": [
+          "Concepts of network defense, such as: Defense-in-Depth; Network attacks and exploitation; Network Hardening; Minimizing Exposure (e.g., Attack Surface and Vectors); MITRE's D3FEND Matrix",
+          "Network defense/monitoring tools: Implementing Firewalls; DMZs / Proxy Servers; VPNs; Decoys (e.g., Honeypots and Honeynets); Implementing IDS/IPS; Traffic signature analysis; Network anomaly detection",
+          "Network Operations: Network Security Monitoring (e.g., NOCs, SOCs) and Network Traffic Analysis",
+          "Network security policies as they relate to network defense/security: Network Access Control (internal and external); Network Policy Development and Enforcement",
+          "Security Incident and Event Management (SIEM): Log analysis and Visualization of anomalies"
+        ],
+        "vocabulary": [
+          "Defense-in-Depth",
+          "Firewalls",
+          "IDS/IPS",
+          "Log Analysis",
+          "Minimizing Exposure",
+          "MITRE's D3FEND Matrix",
+          "Network Access Contro",
+          "Network Attacks",
+          "Network Defense",
+          "Network Hardening",
+          "Network Operations Center (NOC)",
+          "Network Security Monitoring",
+          "Security Incident and Event Management (SIEM)",
+          "Security Operations Center (SOC)"
+        ],
+        "related_knowledge_units": [
+          "BNW",
+          "NTP",
+          "ANT",
+          "NSA",
+          "IDS",
+          "WSN"
+        ],
+        "related_work_roles": [
+          "Systems Requirements Planning",
+          "Incident Response",
+          "Infrastructure Support",
+          "Vulnerability Analysis",
+          "All-Source Analysis"
+        ]
+      },
+      {
+        "name": "Operating Systems Concepts",
+        "key": "OSC",
+        "description": "The intent of this Operating Systems Concepts (OSC) Knowledge Unit is to provide students with an understanding of the roles of an operating system, its basic functions, and the services provided by the operating system.",
+        "outcomes": [
+          "Describe and discuss the role and basic functions of an operating system.",
+          "Describe and discuss how operating systems interact with hardware and software applications.",
+          "Identify and describe basic security issues of operating systems.",
+          "Install, configure, and harden operating systems in a virtual environment."
+        ],
+        "topics": [
+          "Installation and configuration of common OSes (e.g., Linux distros, Windows)",
+          "Privileged and non-privileged states",
+          "Application processes and threads",
+          "Memory (e.g., real, virtual, and management)",
+          "File systems, log files",
+          "Virtualization/hypervisors",
+          "Fundamental security design principles as applied to an OS (e.g., System Hardening, Domain separation, process isolation, resource encapsulation, least privilege)",
+          "Access controls (e.g., models and mechanisms)",
+          "Domain separation, process isolation, resource encapsulation, least privilege"
+        ],
+        "vocabulary": [
+          "Configuration",
+          "File Systems",
+          "Hardware",
+          "Hypervisor",
+          "Installation",
+          "Memory Management",
+          "Non-Privileged States",
+          "Operating System",
+          "Privileged States",
+          "Security",
+          "Software",
+          "Virtualization"
+        ],
+        "related_knowledge_units": [
+          "OSH",
+          "OST"
+        ],
+        "related_work_roles": [
+          "Data Operations Specialist",
+          "Enterprise Architecture",
+          "Exploitation Analyst",
+          "Software Developer",
+          "Product Support Manager"
+        ]
+      }
+]
