@@ -1,0 +1,1689 @@
+[
+    {
+        "_id": "67d3205f8b064ffc5e921c46",
+        "type": "knowledge",
+        "element_id": "K0644",
+        "description": "Knowledge of cybersecurity operation policies and procedures",
+        "work_roles": [
+            "Cybersecurity Policy and Planning",
+            "Cybersecurity Workforce Management",
+            "Executive Cybersecurity Leadership",
+            "Privacy Compliance ",
+            "Systems Authorization"
+        ]
+    },
+    {
+        "_id": "67d320648b064ffc5e921cb9",
+        "type": "knowledge",
+        "element_id": "K0659",
+        "description": "Knowledge of information privacy technologies",
+        "work_roles": [
+            "Cybersecurity Curriculum Development",
+            "Cybersecurity Instruction",
+            "Privacy Compliance ",
+            "Security Control Assessment"
+        ]
+    },
+    {
+        "_id": "67d320718b064ffc5e921d7c",
+        "type": "knowledge",
+        "element_id": "K0687",
+        "description": "Knowledge of business operations standards and best practices",
+        "work_roles": [
+            "Privacy Compliance ",
+            "Security Control Assessment",
+            "Systems Security Management",
+            "Cybersecurity Architecture ",
+            "Systems Requirements Planning "
+        ]
+    },
+    {
+        "_id": "67d3206e8b064ffc5e921d58",
+        "type": "knowledge",
+        "element_id": "K0688",
+        "description": "Knowledge of common application vulnerabilities",
+        "work_roles": [
+            "Executive Cybersecurity Leadership",
+            "Security Control Assessment",
+            "Cybersecurity Architecture ",
+            "Technology Research and Development",
+            "Vulnerability Analysis"
+        ]
+    },
+    {
+        "_id": "67d320938b064ffc5e921eef",
+        "type": "knowledge",
+        "element_id": "K0694",
+        "description": "Knowledge of computer algorithm capabilities and applications",
+        "work_roles": [
+            "Cybersecurity Architecture ",
+            "Secure Systems Development",
+            "Data Analysis ",
+            "Systems Security Analysis",
+            "Defensive Cybersecurity"
+        ]
+    },
+    {
+        "_id": "67d3206c8b064ffc5e921d39",
+        "type": "knowledge",
+        "element_id": "K0696",
+        "description": "Knowledge of digital forensic data principles and practices",
+        "work_roles": [
+            "Cybersecurity Legal Advice",
+            "Technology Research and Development",
+            "Digital Forensics ",
+            "Digital Evidence Analysis"
+        ]
+    },
+    {
+        "_id": "67d3207f8b064ffc5e921e20",
+        "type": "knowledge",
+        "element_id": "K0703",
+        "description": "Knowledge of data mining principles and practices",
+        "work_roles": [
+            "Security Control Assessment",
+            "Data Analysis ",
+            "Database Administration",
+            "Knowledge Management"
+        ]
+    },
+    {
+        "_id": "67d3205d8b064ffc5e921c05",
+        "type": "knowledge",
+        "element_id": "K0709",
+        "description": "Knowledge of business continuity and disaster recovery (BCDR) policies and procedures",
+        "work_roles": [
+            "Communications Security (COMSEC) Management",
+            "Security Control Assessment",
+            "Systems Security Management",
+            "Cybersecurity Architecture ",
+            "Incident Response"
+        ]
+    },
+    {
+        "_id": "67d320948b064ffc5e921ef1",
+        "type": "knowledge",
+        "element_id": "K0719",
+        "description": "Knowledge of human-computer interaction (HCI) principles and practices",
+        "work_roles": [
+            "Cybersecurity Architecture ",
+            "Secure Systems Development",
+            "Systems Security Analysis",
+            "Threat Analysis"
+        ]
+    },
+    {
+        "_id": "67d3207f8b064ffc5e921e26",
+        "type": "knowledge",
+        "element_id": "K0720",
+        "description": "Knowledge of Security Assessment and Authorization (SA&A) processes",
+        "work_roles": [
+            "Security Control Assessment",
+            "Systems Authorization",
+            "Cybersecurity Architecture ",
+            "Enterprise Architecture ",
+            "Systems Testing and Evaluation"
+        ]
+    },
+    {
+        "_id": "67d3207f8b064ffc5e921e27",
+        "type": "knowledge",
+        "element_id": "K0723",
+        "description": "Knowledge of vulnerability data sources",
+        "work_roles": [
+            "Security Control Assessment",
+            "Systems Authorization",
+            "Systems Security Management",
+            "Systems Security Analysis",
+            "Defensive Cybersecurity"
+        ]
+    },
+    {
+        "_id": "67d3208a8b064ffc5e921ebb",
+        "type": "knowledge",
+        "element_id": "K0732",
+        "description": "Knowledge of intrusion detection tools and techniques",
+        "work_roles": [
+            "Systems Security Management",
+            "Defensive Cybersecurity",
+            "Incident Response",
+            "Cybercrime Investigation"
+        ]
+    },
+    {
+        "_id": "67d320788b064ffc5e921e15",
+        "type": "knowledge",
+        "element_id": "K0733",
+        "description": "Knowledge of information technology (IT) architecture models and frameworks",
+        "work_roles": [
+            "Program Management ",
+            "Secure Project Management",
+            "Technology Program Auditing",
+            "Systems Requirements Planning "
+        ]
+    },
+    {
+        "_id": "67d3209e8b064ffc5e921f64",
+        "type": "knowledge",
+        "element_id": "K0737",
+        "description": "Knowledge of bandwidth management tools and techniques",
+        "work_roles": [
+            "Secure Software Development",
+            "Secure Systems Development",
+            "Software Security Assessment",
+            "Network Operations",
+            "Systems Administration"
+        ]
+    },
+    {
+        "_id": "67d3208a8b064ffc5e921ebc",
+        "type": "knowledge",
+        "element_id": "K0740",
+        "description": "Knowledge of system performance indicators",
+        "work_roles": [
+            "Systems Security Management",
+            "Network Operations",
+            "Systems Administration",
+            "Technical Support "
+        ]
+    },
+    {
+        "_id": "67d3208b8b064ffc5e921ebd",
+        "type": "knowledge",
+        "element_id": "K0741",
+        "description": "Knowledge of system availability measures",
+        "work_roles": [
+            "Systems Security Management",
+            "Network Operations",
+            "Systems Administration",
+            "Technical Support "
+        ]
+    },
+    {
+        "_id": "67d320948b064ffc5e921ef3",
+        "type": "knowledge",
+        "element_id": "K0745",
+        "description": "Knowledge of parallel and distributed computing principles and practices",
+        "work_roles": [
+            "Cybersecurity Architecture ",
+            "Enterprise Architecture ",
+            "Secure Systems Development",
+            "Systems Requirements Planning ",
+            "Systems Security Analysis"
+        ]
+    },
+    {
+        "_id": "67d320718b064ffc5e921d7d",
+        "type": "knowledge",
+        "element_id": "K0748",
+        "description": "Knowledge of Privacy Impact Assessment (PIA) principles and practices",
+        "work_roles": [
+            "Privacy Compliance ",
+            "Secure Software Development",
+            "Secure Systems Development",
+            "Software Security Assessment",
+            "Systems Requirements Planning "
+        ]
+    },
+    {
+        "_id": "67d3209e8b064ffc5e921f66",
+        "type": "knowledge",
+        "element_id": "K0755",
+        "description": "Knowledge of configuration management (CM) tools and techniques",
+        "work_roles": [
+            "Secure Software Development",
+            "Secure Systems Development",
+            "Software Security Assessment",
+            "Systems Requirements Planning "
+        ]
+    },
+    {
+        "_id": "67d3207f8b064ffc5e921e2a",
+        "type": "knowledge",
+        "element_id": "K0761",
+        "description": "Knowledge of Fault Detection and Diagnostics (FDD) tools and techniques",
+        "work_roles": [
+            "Security Control Assessment",
+            "Systems Authorization",
+            "Systems Administration",
+            "Digital Forensics ",
+            "Vulnerability Analysis"
+        ]
+    },
+    {
+        "_id": "67d320688b064ffc5e921cfc",
+        "type": "knowledge",
+        "element_id": "K0766",
+        "description": "Knowledge of data asset management principles and practices",
+        "work_roles": [
+            "Cybersecurity Instruction",
+            "Data Analysis ",
+            "Database Administration",
+            "Defensive Cybersecurity",
+            "Threat Analysis"
+        ]
+    },
+    {
+        "_id": "67d320808b064ffc5e921e2b",
+        "type": "knowledge",
+        "element_id": "K0767",
+        "description": "Knowledge of structured analysis principles and practices",
+        "work_roles": [
+            "Security Control Assessment",
+            "Systems Authorization",
+            "Secure Software Development",
+            "Secure Systems Development",
+            "Software Security Assessment"
+        ]
+    },
+    {
+        "_id": "67d320948b064ffc5e921ef7",
+        "type": "knowledge",
+        "element_id": "K0768",
+        "description": "Knowledge of automated systems analysis tools and techniques",
+        "work_roles": [
+            "Cybersecurity Architecture ",
+            "Secure Software Development",
+            "Secure Systems Development",
+            "Software Security Assessment",
+            "Systems Requirements Planning "
+        ]
+    },
+    {
+        "_id": "67d3208b8b064ffc5e921ebe",
+        "type": "knowledge",
+        "element_id": "K0769",
+        "description": "Knowledge of system design standards and best practices",
+        "work_roles": [
+            "Systems Security Management",
+            "Secure Systems Development",
+            "Systems Requirements Planning ",
+            "Technical Support "
+        ]
+    },
+    {
+        "_id": "67d320c48b064ffc5e9220f3",
+        "type": "knowledge",
+        "element_id": "K0781",
+        "description": "Knowledge of virtual private network (VPN) systems and software",
+        "work_roles": [
+            "Network Operations",
+            "Systems Administration",
+            "Defensive Cybersecurity",
+            "Infrastructure Support"
+        ]
+    },
+    {
+        "_id": "67d320cf8b064ffc5e92215f",
+        "type": "knowledge",
+        "element_id": "K0786",
+        "description": "Knowledge of physical computer components",
+        "work_roles": [
+            "Technical Support ",
+            "Digital Forensics ",
+            "Threat Analysis",
+            "Digital Evidence Analysis"
+        ]
+    },
+    {
+        "_id": "67d320cf8b064ffc5e922160",
+        "type": "knowledge",
+        "element_id": "K0787",
+        "description": "Knowledge of computer peripherals",
+        "work_roles": [
+            "Technical Support ",
+            "Digital Forensics ",
+            "Threat Analysis",
+            "Digital Evidence Analysis"
+        ]
+    },
+    {
+        "_id": "67d320cf8b064ffc5e922161",
+        "type": "knowledge",
+        "element_id": "K0793",
+        "description": "Knowledge of file extensions",
+        "work_roles": [
+            "Technical Support ",
+            "Defensive Cybersecurity",
+            "Digital Forensics ",
+            "Digital Evidence Analysis"
+        ]
+    },
+    {
+        "_id": "67d320b58b064ffc5e922026",
+        "type": "knowledge",
+        "element_id": "K0797",
+        "description": "Knowledge of ethical hacking tools and techniques",
+        "work_roles": [
+            "Technology Research and Development",
+            "Digital Forensics ",
+            "Vulnerability Analysis",
+            "Digital Evidence Analysis"
+        ]
+    },
+    {
+        "_id": "67d320d88b064ffc5e9221c5",
+        "type": "knowledge",
+        "element_id": "K0802",
+        "description": "Knowledge of chain of custody policies and procedures",
+        "work_roles": [
+            "Digital Forensics ",
+            "Insider Threat Analysis",
+            "Cybercrime Investigation",
+            "Digital Evidence Analysis"
+        ]
+    },
+    {
+        "_id": "67d320d38b064ffc5e922182",
+        "type": "knowledge",
+        "element_id": "K0833",
+        "description": "Knowledge of cyberattack actor characteristics",
+        "work_roles": [
+            "Defensive Cybersecurity",
+            "Incident Response",
+            "Vulnerability Analysis",
+            "Cybercrime Investigation"
+        ]
+    },
+    {
+        "_id": "67d320d38b064ffc5e922183",
+        "type": "knowledge",
+        "element_id": "K0844",
+        "description": "Knowledge of cyberattack stages",
+        "work_roles": [
+            "Defensive Cybersecurity",
+            "Incident Response",
+            "Threat Analysis",
+            "Vulnerability Analysis"
+        ]
+    },
+    {
+        "_id": "67d320d38b064ffc5e922184",
+        "type": "knowledge",
+        "element_id": "K0845",
+        "description": "Knowledge of cyber intrusion activity phases",
+        "work_roles": [
+            "Defensive Cybersecurity",
+            "Incident Response",
+            "Threat Analysis",
+            "Vulnerability Analysis"
+        ]
+    },
+    {
+        "_id": "67d320d98b064ffc5e9221d0",
+        "type": "knowledge",
+        "element_id": "K0857",
+        "description": "Knowledge of malware analysis tools and techniques",
+        "work_roles": [
+            "Digital Forensics ",
+            "Incident Response",
+            "Threat Analysis",
+            "Digital Evidence Analysis"
+        ]
+    },
+    {
+        "_id": "67d320658b064ffc5e921cc1",
+        "type": "knowledge",
+        "element_id": "K0885",
+        "description": "Knowledge of instructional design principles and practices",
+        "work_roles": [
+            "Cybersecurity Curriculum Development",
+            "Cybersecurity Instruction",
+            "Privacy Compliance ",
+            "Security Control Assessment"
+        ]
+    },
+    {
+        "_id": "67d320658b064ffc5e921cc2",
+        "type": "knowledge",
+        "element_id": "K0886",
+        "description": "Knowledge of instructional design models and frameworks",
+        "work_roles": [
+            "Cybersecurity Curriculum Development",
+            "Cybersecurity Instruction",
+            "Privacy Compliance ",
+            "Security Control Assessment"
+        ]
+    },
+    {
+        "_id": "67d320958b064ffc5e921efe",
+        "type": "knowledge",
+        "element_id": "K0894",
+        "description": "Knowledge of computer architecture principles and practices",
+        "work_roles": [
+            "Cybersecurity Architecture ",
+            "Enterprise Architecture ",
+            "Technology Research and Development",
+            "Systems Security Analysis"
+        ]
+    },
+    {
+        "_id": "67d320d98b064ffc5e9221d1",
+        "type": "knowledge",
+        "element_id": "K0916",
+        "description": "Knowledge of malware analysis principles and practices",
+        "work_roles": [
+            "Digital Forensics ",
+            "Incident Response",
+            "Threat Analysis",
+            "Digital Evidence Analysis"
+        ]
+    },
+    {
+        "_id": "67d320968b064ffc5e921f05",
+        "type": "knowledge",
+        "element_id": "K0952",
+        "description": "Knowledge of information theory principles and practices",
+        "work_roles": [
+            "Cybersecurity Architecture ",
+            "Enterprise Architecture ",
+            "Secure Systems Development",
+            "Systems Requirements Planning ",
+            "Data Analysis "
+        ]
+    },
+    {
+        "_id": "67d320828b064ffc5e921e46",
+        "type": "knowledge",
+        "element_id": "K1099",
+        "description": "Knowledge of code analysis tools and techniques",
+        "work_roles": [
+            "Security Control Assessment",
+            "Secure Software Development",
+            "Software Security Assessment",
+            "Data Analysis "
+        ]
+    },
+    {
+        "_id": "67d320828b064ffc5e921e47",
+        "type": "knowledge",
+        "element_id": "K1100",
+        "description": "Knowledge of analytical tools and techniques",
+        "work_roles": [
+            "Security Control Assessment",
+            "Secure Systems Development",
+            "Systems Testing and Evaluation",
+            "Threat Analysis"
+        ]
+    },
+    {
+        "_id": "67d320728b064ffc5e921d83",
+        "type": "knowledge",
+        "element_id": "K1111",
+        "description": "Knowledge of application security design principles and practices",
+        "work_roles": [
+            "Privacy Compliance ",
+            "Cybersecurity Architecture ",
+            "Enterprise Architecture ",
+            "Secure Systems Development"
+        ]
+    },
+    {
+        "_id": "67d320728b064ffc5e921d84",
+        "type": "knowledge",
+        "element_id": "K1120",
+        "description": "Knowledge of Confidentiality, Integrity, Availability, Authenticity, and Non-repudiation (CIAAN) principles and practices",
+        "work_roles": [
+            "Privacy Compliance ",
+            "Cybersecurity Architecture ",
+            "Enterprise Architecture ",
+            "Secure Systems Development",
+            "Systems Security Analysis"
+        ]
+    },
+    {
+        "_id": "67d320d98b064ffc5e9221db",
+        "type": "knowledge",
+        "element_id": "K1151",
+        "description": "Knowledge of digital evidence cataloging tools and techniques",
+        "work_roles": [
+            "Digital Forensics ",
+            "Insider Threat Analysis",
+            "Cybercrime Investigation",
+            "Digital Evidence Analysis"
+        ]
+    },
+    {
+        "_id": "67d320d98b064ffc5e9221dc",
+        "type": "knowledge",
+        "element_id": "K1152",
+        "description": "Knowledge of digital evidence extraction tools and techniques",
+        "work_roles": [
+            "Digital Forensics ",
+            "Insider Threat Analysis",
+            "Cybercrime Investigation",
+            "Digital Evidence Analysis"
+        ]
+    },
+    {
+        "_id": "67d320da8b064ffc5e9221de",
+        "type": "knowledge",
+        "element_id": "K1154",
+        "description": "Knowledge of digital evidence packaging tools and techniques",
+        "work_roles": [
+            "Digital Forensics ",
+            "Insider Threat Analysis",
+            "Cybercrime Investigation",
+            "Digital Evidence Analysis"
+        ]
+    },
+    {
+        "_id": "67d320da8b064ffc5e9221df",
+        "type": "knowledge",
+        "element_id": "K1155",
+        "description": "Knowledge of digital evidence preservation tools and techniques",
+        "work_roles": [
+            "Digital Forensics ",
+            "Insider Threat Analysis",
+            "Cybercrime Investigation",
+            "Digital Evidence Analysis"
+        ]
+    },
+    {
+        "_id": "67d3206f8b064ffc5e921d5c",
+        "type": "knowledge",
+        "element_id": "K1188",
+        "description": "Knowledge of organizational policies and procedures",
+        "work_roles": [
+            "Executive Cybersecurity Leadership",
+            "Systems Security Management",
+            "Systems Administration",
+            "Insider Threat Analysis"
+        ]
+    },
+    {
+        "_id": "67d320728b064ffc5e921d87",
+        "type": "knowledge",
+        "element_id": "K1194",
+        "description": "Knowledge of Personally Identifiable Information (PII) attributes",
+        "work_roles": [
+            "Privacy Compliance ",
+            "Cybersecurity Architecture ",
+            "Enterprise Architecture ",
+            "Secure Systems Development"
+        ]
+    },
+    {
+        "_id": "67d320628b064ffc5e921c8e",
+        "type": "knowledge",
+        "element_id": "K1209",
+        "description": "Knowledge of risk mitigation principles and practices",
+        "work_roles": [
+            "Cybersecurity Workforce Management",
+            "Executive Cybersecurity Leadership",
+            "Systems Security Management",
+            "Insider Threat Analysis"
+        ]
+    },
+    {
+        "_id": "67d320728b064ffc5e921d8a",
+        "type": "knowledge",
+        "element_id": "K1212",
+        "description": "Knowledge of security controls",
+        "work_roles": [
+            "Privacy Compliance ",
+            "Cybersecurity Architecture ",
+            "Enterprise Architecture ",
+            "Secure Systems Development"
+        ]
+    },
+    {
+        "_id": "67d3206f8b064ffc5e921d5e",
+        "type": "skill",
+        "element_id": "S0111",
+        "description": "Skill in interfacing with customers",
+        "work_roles": [
+            "Executive Cybersecurity Leadership",
+            "Security Control Assessment",
+            "Systems Administration",
+            "Threat Analysis"
+        ]
+    },
+    {
+        "_id": "67d320828b064ffc5e921e4d",
+        "type": "skill",
+        "element_id": "S0141",
+        "description": "Skill in assessing security systems designs",
+        "work_roles": [
+            "Security Control Assessment",
+            "Cybersecurity Architecture ",
+            "Secure Systems Development",
+            "Operational Technology (OT) Cybersecurity Engineering",
+            "Systems Security Analysis"
+        ]
+    },
+    {
+        "_id": "67d320698b064ffc5e921d09",
+        "type": "skill",
+        "element_id": "S0156",
+        "description": "Skill in performing packet-level analysis",
+        "work_roles": [
+            "Cybersecurity Instruction",
+            "Defensive Cybersecurity",
+            "Digital Forensics ",
+            "Digital Evidence Analysis"
+        ]
+    },
+    {
+        "_id": "67d3206a8b064ffc5e921d0d",
+        "type": "skill",
+        "element_id": "S0386",
+        "description": "Skill in communicating verbally",
+        "work_roles": [
+            "Cybersecurity Instruction",
+            "Security Control Assessment",
+            "Cybersecurity Architecture ",
+            "Operational Technology (OT) Cybersecurity Engineering"
+        ]
+    },
+    {
+        "_id": "67d3206a8b064ffc5e921d0e",
+        "type": "skill",
+        "element_id": "S0387",
+        "description": "Skill in communicating in writing",
+        "work_roles": [
+            "Cybersecurity Instruction",
+            "Security Control Assessment",
+            "Cybersecurity Architecture ",
+            "Operational Technology (OT) Cybersecurity Engineering"
+        ]
+    },
+    {
+        "_id": "67d3205f8b064ffc5e921c59",
+        "type": "skill",
+        "element_id": "S0406",
+        "description": "Skill in developing policy plans",
+        "work_roles": [
+            "Cybersecurity Policy and Planning",
+            "Cybersecurity Workforce Management",
+            "Executive Cybersecurity Leadership",
+            "Privacy Compliance ",
+            "Systems Authorization"
+        ]
+    },
+    {
+        "_id": "67d3206d8b064ffc5e921d49",
+        "type": "skill",
+        "element_id": "S0414",
+        "description": "Skill in evaluating laws",
+        "work_roles": [
+            "Cybersecurity Legal Advice",
+            "Executive Cybersecurity Leadership",
+            "Security Control Assessment",
+            "Systems Authorization"
+        ]
+    },
+    {
+        "_id": "67d3206d8b064ffc5e921d4a",
+        "type": "skill",
+        "element_id": "S0415",
+        "description": "Skill in evaluating regulations",
+        "work_roles": [
+            "Cybersecurity Legal Advice",
+            "Executive Cybersecurity Leadership",
+            "Security Control Assessment",
+            "Systems Authorization"
+        ]
+    },
+    {
+        "_id": "67d3206d8b064ffc5e921d4b",
+        "type": "skill",
+        "element_id": "S0416",
+        "description": "Skill in evaluating policies",
+        "work_roles": [
+            "Cybersecurity Legal Advice",
+            "Executive Cybersecurity Leadership",
+            "Security Control Assessment",
+            "Systems Authorization"
+        ]
+    },
+    {
+        "_id": "67d320668b064ffc5e921cd2",
+        "type": "skill",
+        "element_id": "S0431",
+        "description": "Skill in applying critical thinking",
+        "work_roles": [
+            "Cybersecurity Curriculum Development",
+            "Cybersecurity Instruction",
+            "Executive Cybersecurity Leadership",
+            "Security Control Assessment",
+            "Digital Evidence Analysis"
+        ]
+    },
+    {
+        "_id": "67d3206a8b064ffc5e921d14",
+        "type": "skill",
+        "element_id": "S0473",
+        "description": "Skill in maintaining virtual machines",
+        "work_roles": [
+            "Cybersecurity Instruction",
+            "Security Control Assessment",
+            "Systems Administration",
+            "Digital Forensics ",
+            "Threat Analysis"
+        ]
+    },
+    {
+        "_id": "67d3205f8b064ffc5e921c5a",
+        "type": "skill",
+        "element_id": "S0497",
+        "description": "Skill in developing client organization profiles",
+        "work_roles": [
+            "Cybersecurity Policy and Planning",
+            "Cybersecurity Workforce Management",
+            "Systems Authorization",
+            "Systems Requirements Planning "
+        ]
+    },
+    {
+        "_id": "67d3208d8b064ffc5e921ec8",
+        "type": "skill",
+        "element_id": "S0509",
+        "description": "Skill in evaluating security products",
+        "work_roles": [
+            "Systems Security Management",
+            "Defensive Cybersecurity",
+            "Incident Response",
+            "Threat Analysis",
+            "Cybercrime Investigation"
+        ]
+    },
+    {
+        "_id": "67d320608b064ffc5e921c5b",
+        "type": "skill",
+        "element_id": "S0515",
+        "description": "Skill in identifying partner capabilities",
+        "work_roles": [
+            "Cybersecurity Policy and Planning",
+            "Cybersecurity Workforce Management",
+            "Security Control Assessment",
+            "Systems Authorization",
+            "Systems Requirements Planning "
+        ]
+    },
+    {
+        "_id": "67d320838b064ffc5e921e63",
+        "type": "skill",
+        "element_id": "S0532",
+        "description": "Skill in analyzing software configurations",
+        "work_roles": [
+            "Security Control Assessment",
+            "Secure Systems Development",
+            "Technology Research and Development",
+            "Vulnerability Analysis"
+        ]
+    },
+    {
+        "_id": "67d320978b064ffc5e921f19",
+        "type": "skill",
+        "element_id": "S0551",
+        "description": "Skill in applying information technologies into proposed solutions",
+        "work_roles": [
+            "Cybersecurity Architecture ",
+            "Enterprise Architecture ",
+            "Systems Requirements Planning ",
+            "Technology Research and Development"
+        ]
+    },
+    {
+        "_id": "67d320778b064ffc5e921df0",
+        "type": "skill",
+        "element_id": "S0555",
+        "description": "Skill in performing capabilities analysis",
+        "work_roles": [
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Systems Requirements Planning ",
+            "Threat Analysis"
+        ]
+    },
+    {
+        "_id": "67d320778b064ffc5e921df1",
+        "type": "skill",
+        "element_id": "S0556",
+        "description": "Skill in performing requirements analysis",
+        "work_roles": [
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Systems Requirements Planning ",
+            "Threat Analysis"
+        ]
+    },
+    {
+        "_id": "67d320838b064ffc5e921e64",
+        "type": "skill",
+        "element_id": "S0558",
+        "description": "Skill in developing algorithms",
+        "work_roles": [
+            "Security Control Assessment",
+            "Systems Testing and Evaluation",
+            "Data Analysis ",
+            "Database Administration",
+            "Insider Threat Analysis"
+        ]
+    },
+    {
+        "_id": "67d320838b064ffc5e921e65",
+        "type": "skill",
+        "element_id": "S0559",
+        "description": "Skill in performing data structure analysis",
+        "work_roles": [
+            "Security Control Assessment",
+            "Systems Testing and Evaluation",
+            "Data Analysis ",
+            "Database Administration",
+            "Insider Threat Analysis"
+        ]
+    },
+    {
+        "_id": "67d320a08b064ffc5e921f81",
+        "type": "skill",
+        "element_id": "S0562",
+        "description": "Skill in creating mathematical models",
+        "work_roles": [
+            "Secure Software Development",
+            "Software Security Assessment",
+            "Technology Research and Development",
+            "Data Analysis "
+        ]
+    },
+    {
+        "_id": "67d320a08b064ffc5e921f82",
+        "type": "skill",
+        "element_id": "S0563",
+        "description": "Skill in creating statistical models",
+        "work_roles": [
+            "Secure Software Development",
+            "Software Security Assessment",
+            "Technology Research and Development",
+            "Data Analysis "
+        ]
+    },
+    {
+        "_id": "67d320978b064ffc5e921f1a",
+        "type": "skill",
+        "element_id": "S0569",
+        "description": "Skill in designing security controls",
+        "work_roles": [
+            "Cybersecurity Architecture ",
+            "Secure Software Development",
+            "Secure Systems Development",
+            "Software Security Assessment"
+        ]
+    },
+    {
+        "_id": "67d320978b064ffc5e921f1b",
+        "type": "skill",
+        "element_id": "S0570",
+        "description": "Skill in designing the integration of hardware solutions",
+        "work_roles": [
+            "Cybersecurity Architecture ",
+            "Enterprise Architecture ",
+            "Secure Systems Development",
+            "Systems Security Analysis"
+        ]
+    },
+    {
+        "_id": "67d320978b064ffc5e921f1c",
+        "type": "skill",
+        "element_id": "S0571",
+        "description": "Skill in designing the integration of software solutions",
+        "work_roles": [
+            "Cybersecurity Architecture ",
+            "Enterprise Architecture ",
+            "Secure Systems Development",
+            "Systems Security Analysis"
+        ]
+    },
+    {
+        "_id": "67d3206a8b064ffc5e921d17",
+        "type": "skill",
+        "element_id": "S0572",
+        "description": "Skill in detecting host- and network-based intrusions",
+        "work_roles": [
+            "Cybersecurity Instruction",
+            "Systems Security Management",
+            "Defensive Cybersecurity",
+            "Incident Response",
+            "Vulnerability Analysis"
+        ]
+    },
+    {
+        "_id": "67d320778b064ffc5e921df2",
+        "type": "skill",
+        "element_id": "S0580",
+        "description": "Skill in monitoring system performance",
+        "work_roles": [
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Security Control Assessment",
+            "Technology Program Auditing"
+        ]
+    },
+    {
+        "_id": "67d320778b064ffc5e921df3",
+        "type": "skill",
+        "element_id": "S0581",
+        "description": "Skill in configuring systems for performance enhancement",
+        "work_roles": [
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Security Control Assessment",
+            "Technology Program Auditing"
+        ]
+    },
+    {
+        "_id": "67d320da8b064ffc5e9221e7",
+        "type": "skill",
+        "element_id": "S0589",
+        "description": "Skill in preserving digital evidence integrity",
+        "work_roles": [
+            "Digital Forensics ",
+            "Incident Response",
+            "Cybercrime Investigation",
+            "Digital Evidence Analysis"
+        ]
+    },
+    {
+        "_id": "67d320c98b064ffc5e92211d",
+        "type": "skill",
+        "element_id": "S0593",
+        "description": "Skill in handling incidents",
+        "work_roles": [
+            "Systems Administration",
+            "Technical Support ",
+            "Defensive Cybersecurity",
+            "Infrastructure Support"
+        ]
+    },
+    {
+        "_id": "67d3206a8b064ffc5e921d1b",
+        "type": "skill",
+        "element_id": "S0600",
+        "description": "Skill in collecting relevant data from a variety of sources",
+        "work_roles": [
+            "Cybersecurity Instruction",
+            "Data Analysis ",
+            "Defensive Cybersecurity",
+            "Threat Analysis"
+        ]
+    },
+    {
+        "_id": "67d320668b064ffc5e921cd7",
+        "type": "skill",
+        "element_id": "S0601",
+        "description": "Skill in developing curricula",
+        "work_roles": [
+            "Cybersecurity Curriculum Development",
+            "Cybersecurity Instruction",
+            "Privacy Compliance ",
+            "Security Control Assessment"
+        ]
+    },
+    {
+        "_id": "67d320668b064ffc5e921cd8",
+        "type": "skill",
+        "element_id": "S0602",
+        "description": "Skill in teaching training programs",
+        "work_roles": [
+            "Cybersecurity Curriculum Development",
+            "Cybersecurity Instruction",
+            "Privacy Compliance ",
+            "Security Control Assessment"
+        ]
+    },
+    {
+        "_id": "67d320da8b064ffc5e9221ec",
+        "type": "skill",
+        "element_id": "S0607",
+        "description": "Skill in collecting digital evidence",
+        "work_roles": [
+            "Digital Forensics ",
+            "Incident Response",
+            "Cybercrime Investigation",
+            "Digital Evidence Analysis"
+        ]
+    },
+    {
+        "_id": "67d320da8b064ffc5e9221ed",
+        "type": "skill",
+        "element_id": "S0608",
+        "description": "Skill in processing digital evidence",
+        "work_roles": [
+            "Digital Forensics ",
+            "Incident Response",
+            "Cybercrime Investigation",
+            "Digital Evidence Analysis"
+        ]
+    },
+    {
+        "_id": "67d320848b064ffc5e921e6f",
+        "type": "skill",
+        "element_id": "S0655",
+        "description": "Skill in designing secure test plans",
+        "work_roles": [
+            "Security Control Assessment",
+            "Cybersecurity Architecture ",
+            "Secure Software Development",
+            "Secure Systems Development",
+            "Software Security Assessment"
+        ]
+    },
+    {
+        "_id": "67d3205e8b064ffc5e921c2e",
+        "type": "skill",
+        "element_id": "S0657",
+        "description": "Skill in implementing Public Key Infrastructure (PKI) encryption",
+        "work_roles": [
+            "Communications Security (COMSEC) Management",
+            "Security Control Assessment",
+            "Cybersecurity Architecture ",
+            "Secure Software Development",
+            "Software Security Assessment"
+        ]
+    },
+    {
+        "_id": "67d3205e8b064ffc5e921c2f",
+        "type": "skill",
+        "element_id": "S0658",
+        "description": "Skill in implementing digital signatures",
+        "work_roles": [
+            "Communications Security (COMSEC) Management",
+            "Security Control Assessment",
+            "Cybersecurity Architecture ",
+            "Secure Software Development",
+            "Software Security Assessment"
+        ]
+    },
+    {
+        "_id": "67d320608b064ffc5e921c5f",
+        "type": "skill",
+        "element_id": "S0713",
+        "description": "Skill in evaluating information quality",
+        "work_roles": [
+            "Cybersecurity Policy and Planning",
+            "Cybersecurity Curriculum Development",
+            "Cybersecurity Instruction",
+            "Security Control Assessment",
+            "Threat Analysis"
+        ]
+    },
+    {
+        "_id": "67d320668b064ffc5e921cdc",
+        "type": "skill",
+        "element_id": "S0756",
+        "description": "Skill in incorporating feedback",
+        "work_roles": [
+            "Cybersecurity Curriculum Development",
+            "Cybersecurity Instruction",
+            "Security Control Assessment",
+            "Threat Analysis"
+        ]
+    },
+    {
+        "_id": "67d320778b064ffc5e921df5",
+        "type": "skill",
+        "element_id": "S0759",
+        "description": "Skill in identifying requirements",
+        "work_roles": [
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Systems Requirements Planning "
+        ]
+    },
+    {
+        "_id": "67d320668b064ffc5e921cdd",
+        "type": "skill",
+        "element_id": "S0800",
+        "description": "Skill in analyzing organizational patterns and relationships",
+        "work_roles": [
+            "Cybersecurity Curriculum Development",
+            "Cybersecurity Instruction",
+            "Executive Cybersecurity Leadership",
+            "Security Control Assessment"
+        ]
+    },
+    {
+        "_id": "67d320778b064ffc5e921df6",
+        "type": "skill",
+        "element_id": "S0811",
+        "description": "Skill in managing intelligence collection requirements",
+        "work_roles": [
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Technology Portfolio Management",
+            "Technology Program Auditing"
+        ]
+    },
+    {
+        "_id": "67d3205e8b064ffc5e921c31",
+        "type": "skill",
+        "element_id": "S0850",
+        "description": "Skill in performing cost/benefit analysis",
+        "work_roles": [
+            "Communications Security (COMSEC) Management",
+            "Cybersecurity Workforce Management",
+            "Privacy Compliance ",
+            "Systems Security Management"
+        ]
+    },
+    {
+        "_id": "67d3205e8b064ffc5e921c32",
+        "type": "skill",
+        "element_id": "S0858",
+        "description": "Skill in performing economic analysis",
+        "work_roles": [
+            "Communications Security (COMSEC) Management",
+            "Cybersecurity Workforce Management",
+            "Privacy Compliance ",
+            "Systems Security Management"
+        ]
+    },
+    {
+        "_id": "67d320778b064ffc5e921df7",
+        "type": "skill",
+        "element_id": "S0870",
+        "description": "Skill in performing needs analysis",
+        "work_roles": [
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Systems Requirements Planning "
+        ]
+    },
+    {
+        "_id": "67d3206b8b064ffc5e921d27",
+        "type": "skill",
+        "element_id": "S0874",
+        "description": "Skill in performing network traffic analysis",
+        "work_roles": [
+            "Cybersecurity Instruction",
+            "Security Control Assessment",
+            "Defensive Cybersecurity",
+            "Insider Threat Analysis"
+        ]
+    },
+    {
+        "_id": "67d3206d8b064ffc5e921d4d",
+        "type": "task",
+        "element_id": "T0220",
+        "description": "Resolve conflicts in laws, regulations, policies, standards, or procedures",
+        "work_roles": [
+            "Cybersecurity Legal Advice",
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Technology Portfolio Management"
+        ]
+    },
+    {
+        "_id": "67d320778b064ffc5e921df8",
+        "type": "task",
+        "element_id": "T0412",
+        "description": "Conduct import/export reviews for acquiring systems and software",
+        "work_roles": [
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Technology Program Auditing"
+        ]
+    },
+    {
+        "_id": "67d320778b064ffc5e921dfb",
+        "type": "task",
+        "element_id": "T1031",
+        "description": "Implement intelligence collection requirements",
+        "work_roles": [
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Systems Requirements Planning "
+        ]
+    },
+    {
+        "_id": "67d320868b064ffc5e921e99",
+        "type": "task",
+        "element_id": "T1041",
+        "description": "Determine impact of software configurations",
+        "work_roles": [
+            "Security Control Assessment",
+            "Secure Systems Development",
+            "Technology Research and Development",
+            "Vulnerability Analysis"
+        ]
+    },
+    {
+        "_id": "67d320638b064ffc5e921ca0",
+        "type": "task",
+        "element_id": "T1056",
+        "description": "Acquire resources to support cybersecurity program goals and objectives",
+        "work_roles": [
+            "Cybersecurity Workforce Management",
+            "Executive Cybersecurity Leadership",
+            "Systems Security Management",
+            "Insider Threat Analysis"
+        ]
+    },
+    {
+        "_id": "67d3205e8b064ffc5e921c3c",
+        "type": "task",
+        "element_id": "T1059",
+        "description": "Perform cost/benefit analyses of cybersecurity programs, policies, processes, systems, and elements",
+        "work_roles": [
+            "Communications Security (COMSEC) Management",
+            "Cybersecurity Workforce Management",
+            "Executive Cybersecurity Leadership",
+            "Privacy Compliance ",
+            "Systems Security Management"
+        ]
+    },
+    {
+        "_id": "67d3205e8b064ffc5e921c3d",
+        "type": "task",
+        "element_id": "T1060",
+        "description": "Advise senior management on organizational cybersecurity efforts",
+        "work_roles": [
+            "Communications Security (COMSEC) Management",
+            "Cybersecurity Workforce Management",
+            "Executive Cybersecurity Leadership",
+            "Privacy Compliance ",
+            "Systems Security Management"
+        ]
+    },
+    {
+        "_id": "67d320778b064ffc5e921dfc",
+        "type": "task",
+        "element_id": "T1067",
+        "description": "Recommend development of new applications or modification of existing applications",
+        "work_roles": [
+            "Product Support Management",
+            "Secure Project Management",
+            "Technology Program Auditing",
+            "Secure Software Development"
+        ]
+    },
+    {
+        "_id": "67d320778b064ffc5e921dfd",
+        "type": "task",
+        "element_id": "T1068",
+        "description": "Create development plans for new applications or modification of existing applications",
+        "work_roles": [
+            "Product Support Management",
+            "Secure Project Management",
+            "Technology Program Auditing",
+            "Secure Software Development"
+        ]
+    },
+    {
+        "_id": "67d320868b064ffc5e921e9c",
+        "type": "task",
+        "element_id": "T1079",
+        "description": "Develop cybersecurity risk profiles",
+        "work_roles": [
+            "Security Control Assessment",
+            "Secure Systems Development",
+            "Technology Research and Development",
+            "Vulnerability Analysis"
+        ]
+    },
+    {
+        "_id": "67d3205e8b064ffc5e921c3e",
+        "type": "task",
+        "element_id": "T1088",
+        "description": "Communicate the value of cybersecurity to organizational stakeholders",
+        "work_roles": [
+            "Communications Security (COMSEC) Management",
+            "Cybersecurity Workforce Management",
+            "Executive Cybersecurity Leadership",
+            "Systems Security Management"
+        ]
+    },
+    {
+        "_id": "67d320738b064ffc5e921d9a",
+        "type": "task",
+        "element_id": "T1096",
+        "description": "Perform privacy impact assessments (PIAs)",
+        "work_roles": [
+            "Privacy Compliance ",
+            "Cybersecurity Architecture ",
+            "Enterprise Architecture ",
+            "Secure Systems Development"
+        ]
+    },
+    {
+        "_id": "67d320608b064ffc5e921c64",
+        "type": "task",
+        "element_id": "T1107",
+        "description": "Evaluate functional requirements",
+        "work_roles": [
+            "Cybersecurity Policy and Planning",
+            "Cybersecurity Workforce Management",
+            "Systems Authorization",
+            "Systems Requirements Planning "
+        ]
+    },
+    {
+        "_id": "67d320988b064ffc5e921f34",
+        "type": "task",
+        "element_id": "T1124",
+        "description": "Restore essential system capabilities and business functions after catastrophic failure events",
+        "work_roles": [
+            "Cybersecurity Architecture ",
+            "Enterprise Architecture ",
+            "Secure Systems Development",
+            "Operational Technology (OT) Cybersecurity Engineering"
+        ]
+    },
+    {
+        "_id": "67d320778b064ffc5e921dfe",
+        "type": "task",
+        "element_id": "T1154",
+        "description": "Develop risk, compliance, and assurance monitoring strategies",
+        "work_roles": [
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Technology Program Auditing"
+        ]
+    },
+    {
+        "_id": "67d320778b064ffc5e921dff",
+        "type": "task",
+        "element_id": "T1155",
+        "description": "Develop risk, compliance, and assurance measurement strategies",
+        "work_roles": [
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Technology Program Auditing"
+        ]
+    },
+    {
+        "_id": "67d320778b064ffc5e921e00",
+        "type": "task",
+        "element_id": "T1259",
+        "description": "Identify opportunities for new and improved business process solutions",
+        "work_roles": [
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Systems Requirements Planning "
+        ]
+    },
+    {
+        "_id": "67d320868b064ffc5e921ea2",
+        "type": "task",
+        "element_id": "T1269",
+        "description": "Conduct risk analysis of applications and systems undergoing major changes",
+        "work_roles": [
+            "Security Control Assessment",
+            "Secure Software Development",
+            "Secure Systems Development",
+            "Software Security Assessment"
+        ]
+    },
+    {
+        "_id": "67d320778b064ffc5e921e01",
+        "type": "task",
+        "element_id": "T1291",
+        "description": "Advise stakeholders on the development of continuity of operations plans",
+        "work_roles": [
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Systems Security Management"
+        ]
+    },
+    {
+        "_id": "67d320868b064ffc5e921ea6",
+        "type": "task",
+        "element_id": "T1294",
+        "description": "Advise on Risk Management Framework process activities and documentation",
+        "work_roles": [
+            "Security Control Assessment",
+            "Cybersecurity Architecture ",
+            "Enterprise Architecture ",
+            "Secure Systems Development",
+            "Systems Security Analysis"
+        ]
+    },
+    {
+        "_id": "67d320dc8b064ffc5e922212",
+        "type": "task",
+        "element_id": "T1324",
+        "description": "Process digital evidence",
+        "work_roles": [
+            "Digital Forensics ",
+            "Insider Threat Analysis",
+            "Cybercrime Investigation",
+            "Digital Evidence Analysis"
+        ]
+    },
+    {
+        "_id": "67d320dc8b064ffc5e922213",
+        "type": "task",
+        "element_id": "T1325",
+        "description": "Document digital evidence",
+        "work_roles": [
+            "Digital Forensics ",
+            "Insider Threat Analysis",
+            "Cybercrime Investigation",
+            "Digital Evidence Analysis"
+        ]
+    },
+    {
+        "_id": "67d320668b064ffc5e921ce1",
+        "type": "task",
+        "element_id": "T1334",
+        "description": "Produce cybersecurity instructional materials",
+        "work_roles": [
+            "Cybersecurity Curriculum Development",
+            "Cybersecurity Instruction",
+            "Privacy Compliance ",
+            "Systems Administration",
+            "Technical Support "
+        ]
+    },
+    {
+        "_id": "67d320778b064ffc5e921e02",
+        "type": "task",
+        "element_id": "T1344",
+        "description": "Determine if procurement activities sufficiently address supply chain risks",
+        "work_roles": [
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Systems Security Management",
+            "Technology Program Auditing"
+        ]
+    },
+    {
+        "_id": "67d320708b064ffc5e921d71",
+        "type": "task",
+        "element_id": "T1354",
+        "description": "Identify system cybersecurity requirements",
+        "work_roles": [
+            "Executive Cybersecurity Leadership",
+            "Systems Security Management",
+            "Software Security Assessment",
+            "Knowledge Management"
+        ]
+    },
+    {
+        "_id": "67d320608b064ffc5e921c6b",
+        "type": "task",
+        "element_id": "T1357",
+        "description": "Determine if cybersecurity requirements have been successfully implemented",
+        "work_roles": [
+            "Cybersecurity Policy and Planning",
+            "Cybersecurity Workforce Management",
+            "Security Control Assessment",
+            "Systems Security Management"
+        ]
+    },
+    {
+        "_id": "67d320608b064ffc5e921c6c",
+        "type": "task",
+        "element_id": "T1358",
+        "description": "Determine the effectiveness of organizational cybersecurity policies and procedures",
+        "work_roles": [
+            "Cybersecurity Policy and Planning",
+            "Cybersecurity Workforce Management",
+            "Security Control Assessment",
+            "Systems Security Management"
+        ]
+    },
+    {
+        "_id": "67d320778b064ffc5e921e04",
+        "type": "task",
+        "element_id": "T1366",
+        "description": "Identify supply chain risks for critical system elements",
+        "work_roles": [
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Systems Requirements Planning "
+        ]
+    },
+    {
+        "_id": "67d320778b064ffc5e921e05",
+        "type": "task",
+        "element_id": "T1367",
+        "description": "Document supply chain risks for critical system elements",
+        "work_roles": [
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Systems Requirements Planning "
+        ]
+    },
+    {
+        "_id": "67d320788b064ffc5e921e07",
+        "type": "task",
+        "element_id": "T1399",
+        "description": "Develop supply chain, system, network, and operational security contract language",
+        "work_roles": [
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Technology Portfolio Management",
+            "Technology Program Auditing"
+        ]
+    },
+    {
+        "_id": "67d320788b064ffc5e921e0b",
+        "type": "task",
+        "element_id": "T1472",
+        "description": "Gather customer satisfaction and service performance feedback",
+        "work_roles": [
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Technology Portfolio Management"
+        ]
+    },
+    {
+        "_id": "67d3207b8b064ffc5e921e17",
+        "type": "task",
+        "element_id": "T1498",
+        "description": "Determine if cybersecurity requirements included in contracts are delivered",
+        "work_roles": [
+            "Program Management ",
+            "Secure Project Management",
+            "Technology Portfolio Management",
+            "Technology Program Auditing"
+        ]
+    },
+    {
+        "_id": "67d320998b064ffc5e921f4a",
+        "type": "task",
+        "element_id": "T1527",
+        "description": "Define baseline system security requirements",
+        "work_roles": [
+            "Cybersecurity Architecture ",
+            "Enterprise Architecture ",
+            "Systems Requirements Planning ",
+            "Operational Technology (OT) Cybersecurity Engineering",
+            "Systems Administration"
+        ]
+    },
+    {
+        "_id": "67d320998b064ffc5e921f4e",
+        "type": "task",
+        "element_id": "T1563",
+        "description": "Implement system security measures",
+        "work_roles": [
+            "Cybersecurity Architecture ",
+            "Enterprise Architecture ",
+            "Secure Systems Development",
+            "Systems Security Analysis"
+        ]
+    },
+    {
+        "_id": "67d320998b064ffc5e921f4f",
+        "type": "task",
+        "element_id": "T1583",
+        "description": "Determine effectiveness of system implementation and testing processes",
+        "work_roles": [
+            "Cybersecurity Architecture ",
+            "Enterprise Architecture ",
+            "Secure Systems Development",
+            "Systems Security Analysis",
+            "Defensive Cybersecurity"
+        ]
+    },
+    {
+        "_id": "67d320788b064ffc5e921e0f",
+        "type": "task",
+        "element_id": "T1601",
+        "description": "Advise stakeholders on enterprise cybersecurity risk management",
+        "work_roles": [
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Systems Security Management"
+        ]
+    },
+    {
+        "_id": "67d320788b064ffc5e921e10",
+        "type": "task",
+        "element_id": "T1602",
+        "description": "Advise stakeholders on supply chain risk management",
+        "work_roles": [
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Systems Security Management"
+        ]
+    },
+    {
+        "_id": "67d320788b064ffc5e921e12",
+        "type": "task",
+        "element_id": "T1621",
+        "description": "Prepare supply chain security reports",
+        "work_roles": [
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Technology Portfolio Management"
+        ]
+    },
+    {
+        "_id": "67d320788b064ffc5e921e13",
+        "type": "task",
+        "element_id": "T1622",
+        "description": "Prepare risk management reports",
+        "work_roles": [
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Technology Portfolio Management"
+        ]
+    }
+]

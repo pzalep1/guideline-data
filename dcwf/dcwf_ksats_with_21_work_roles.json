@@ -1,0 +1,59 @@
+[
+    {
+        "_id": "67d41fc6e785393e03a98fb0",
+        "type": "knowledge",
+        "element_id": "1072",
+        "description": "Knowledge of network security architecture concepts including topology, protocols, components, and principles (e.g., application of defense-in-depth).",
+        "work_roles": [
+            "Enterprise Architect",
+            "Network Operations Specialist",
+            "Research & Development Specialist",
+            "System Administrator",
+            "System Testing and Evaluation Specialist",
+            "Authorizing Official/Designated Representative",
+            "Cyber Defense Analyst",
+            "Cyber Defense Forensics Analyst",
+            "Cyber Defense Incident Responder",
+            "Cyber Defense Infrastructure Support Specialist",
+            "Information Systems Security Developer",
+            "Information Systems Security Manager",
+            "Secure Software Assessor",
+            "Security Control Assessor",
+            "Vulnerability Assessment Analyst",
+            "Network Analyst",
+            "Network Technician",
+            "Forensics Analyst",
+            "Software Developer",
+            "Systems Security Analyst"
+        ]
+    },
+    {
+        "_id": "67d41fd8e785393e03a98fe1",
+        "type": "knowledge",
+        "element_id": "1141A",
+        "description": "Knowledge of an organization\u2019s information classification program and procedures for information compromise.",
+        "work_roles": [
+            "Enterprise Architect",
+            "Knowledge Manager",
+            "Network Operations Specialist",
+            "System Testing and Evaluation Specialist",
+            "Systems Developer",
+            "Systems Requirements Planner",
+            "Technical Support Specialist",
+            "COMSEC Manager",
+            "Cyber Defense Incident Responder",
+            "Information Systems Security Developer",
+            "Information Systems Security Manager",
+            "Security Architect",
+            "Security Control Assessor",
+            "Vulnerability Assessment Analyst",
+            "Host Analyst",
+            "Network Analyst",
+            "Cyber Instructional Curriculum Developer",
+            "Cyber Instructor",
+            "DevSecOps Specialist",
+            "Systems Security Analyst",
+            "Data Architect"
+        ]
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "_id": "67d42060e785393e03a9910a",
+        "type": "knowledge",
+        "element_id": "1036",
+        "description": "Knowledge of applicable laws (e.g., Electronic Communications Privacy Act, Foreign Intelligence Surveillance Act, Protect America Act, search and seizure laws, civil liberties and privacy laws), statutes (e.g., in Titles 10, 18, 32, 50 in U.S. Code), Presidential Directives, executive branch guidelines, and/or administrative/criminal legal guidelines and procedures relevant to work performed.",
+        "work_roles": [
+            "Systems Requirements Planner",
+            "Authorizing Official/Designated Representative",
+            "Cyber Defense Analyst",
+            "Cyber Defense Forensics Analyst",
+            "Information Systems Security Manager",
+            "Security Control Assessor",
+            "Cyberspace Capability Developer",
+            "Target Analyst Reporter",
+            "Cyber Policy and Strategy Planner",
+            "Cyber Workforce Developer and Manager",
+            "Privacy Compliance Manager",
+            "Cyber Crime Investigator",
+            "Forensics Analyst"
+        ]
+    },
+    {
+        "_id": "67d42005e785393e03a9904c",
+        "type": "knowledge",
+        "element_id": "1037",
+        "description": "Knowledge of information technology (IT) supply chain security and risk management policies, requirements, and procedures.",
+        "work_roles": [
+            "Research & Development Specialist",
+            "System Testing and Evaluation Specialist",
+            "Systems Developer",
+            "Systems Requirements Planner",
+            "Authorizing Official/Designated Representative",
+            "Information Systems Security Developer",
+            "Information Systems Security Manager",
+            "Security Control Assessor",
+            "IT Investment/Portfolio Manager",
+            "IT Program Auditor",
+            "IT Project Manager",
+            "Product Support Manager",
+            "Program Manager"
+        ]
+    },
+    {
+        "_id": "67d41fd7e785393e03a98fdf",
+        "type": "knowledge",
+        "element_id": "1133",
+        "description": "Knowledge of service management concepts for networks and related standards (e.g., Information Technology Infrastructure Library, current version [ITIL]).",
+        "work_roles": [
+            "Enterprise Architect",
+            "Network Operations Specialist",
+            "Systems Developer",
+            "Systems Requirements Planner",
+            "Information Systems Security Developer",
+            "Security Architect",
+            "IT Program Auditor",
+            "IT Project Manager",
+            "Product Support Manager",
+            "Program Manager",
+            "Systems Security Analyst",
+            "AI Test & Evaluation Specialist",
+            "Data Architect"
+        ]
+    },
+    {
+        "_id": "67d41fcae785393e03a98fb2",
+        "type": "knowledge",
+        "element_id": "40",
+        "description": "Knowledge of organization\u2019s evaluation and validation requirements.",
+        "work_roles": [
+            "Enterprise Architect",
+            "System Testing and Evaluation Specialist",
+            "Authorizing Official/Designated Representative",
+            "Information Systems Security Developer",
+            "Secure Software Assessor",
+            "Security Control Assessor",
+            "Cyberspace Capability Developer",
+            "Network Analyst",
+            "Product Designer User Interface (UI)",
+            "Product Manager",
+            "Service Designer User Experience (UX)",
+            "Software Developer",
+            "Software Test & Evaluation Specialist",
+            "AI Test & Evaluation Specialist"
+        ]
+    },
+    {
+        "_id": "67d420b8e785393e03a991b9",
+        "type": "knowledge",
+        "element_id": "6210",
+        "description": "Knowledge of cloud service models and possible limitations for an incident response.",
+        "work_roles": [
+            "Cyber Defense Analyst",
+            "Cyber Defense Forensics Analyst",
+            "Cyber Defense Incident Responder",
+            "Cyber Defense Incident Responder",
+            "Cyber Defense Infrastructure Support Specialist",
+            "Security Architect",
+            "Vulnerability Assessment Analyst",
+            "Cyber Policy and Strategy Planner",
+            "Cyber Legal Advisor",
+            "Forensics Analyst",
+            "Cyber Instructor",
+            "Software/Cloud Architect",
+            "Systems Security Analyst"
+        ]
+    }
+]

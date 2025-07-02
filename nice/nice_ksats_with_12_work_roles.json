@@ -1,0 +1,273 @@
+[
+    {
+        "_id": "67d3205d8b064ffc5e921c17",
+        "type": "knowledge",
+        "element_id": "K0834",
+        "description": "Knowledge of technology procurement principles and practices",
+        "work_roles": [
+            "Communications Security (COMSEC) Management",
+            "Cybersecurity Legal Advice",
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Security Control Assessment",
+            "Systems Authorization",
+            "Systems Security Management",
+            "Systems Requirements Planning ",
+            "Technology Research and Development",
+            "Systems Security Analysis"
+        ]
+    },
+    {
+        "_id": "67d320808b064ffc5e921e30",
+        "type": "knowledge",
+        "element_id": "K0859",
+        "description": "Knowledge of encryption tools and techniques",
+        "work_roles": [
+            "Security Control Assessment",
+            "Systems Authorization",
+            "Systems Security Management",
+            "Cybersecurity Architecture ",
+            "Secure Systems Development",
+            "Database Administration",
+            "Network Operations",
+            "Systems Administration",
+            "Systems Security Analysis",
+            "Defensive Cybersecurity",
+            "Digital Forensics ",
+            "Digital Evidence Analysis"
+        ]
+    },
+    {
+        "_id": "67d320768b064ffc5e921de2",
+        "type": "knowledge",
+        "element_id": "K0872",
+        "description": "Knowledge of service management principles and practices",
+        "work_roles": [
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Technology Program Auditing",
+            "Cybersecurity Architecture ",
+            "Enterprise Architecture ",
+            "Secure Systems Development",
+            "Systems Requirements Planning ",
+            "Network Operations",
+            "Systems Security Analysis",
+            "Technical Support "
+        ]
+    },
+    {
+        "_id": "67d320768b064ffc5e921de3",
+        "type": "knowledge",
+        "element_id": "K0873",
+        "description": "Knowledge of service management standards and best practices",
+        "work_roles": [
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Technology Program Auditing",
+            "Cybersecurity Architecture ",
+            "Enterprise Architecture ",
+            "Secure Systems Development",
+            "Systems Requirements Planning ",
+            "Network Operations",
+            "Systems Security Analysis",
+            "Technical Support "
+        ]
+    },
+    {
+        "_id": "67d320808b064ffc5e921e33",
+        "type": "knowledge",
+        "element_id": "K0877",
+        "description": "Knowledge of application firewall principles and practices",
+        "work_roles": [
+            "Security Control Assessment",
+            "Systems Authorization",
+            "Systems Security Management",
+            "Cybersecurity Architecture ",
+            "Secure Software Development",
+            "Secure Systems Development",
+            "Software Security Assessment",
+            "Technology Research and Development",
+            "Network Operations",
+            "Systems Administration",
+            "Systems Security Analysis",
+            "Defensive Cybersecurity"
+        ]
+    },
+    {
+        "_id": "67d320808b064ffc5e921e34",
+        "type": "knowledge",
+        "element_id": "K0878",
+        "description": "Knowledge of network firewall principles and practices",
+        "work_roles": [
+            "Security Control Assessment",
+            "Systems Authorization",
+            "Systems Security Management",
+            "Cybersecurity Architecture ",
+            "Secure Software Development",
+            "Secure Systems Development",
+            "Software Security Assessment",
+            "Technology Research and Development",
+            "Network Operations",
+            "Systems Administration",
+            "Systems Security Analysis",
+            "Defensive Cybersecurity"
+        ]
+    },
+    {
+        "_id": "67d3205f8b064ffc5e921c4e",
+        "type": "knowledge",
+        "element_id": "K0962",
+        "description": "Knowledge of targeting laws and regulations",
+        "work_roles": [
+            "Cybersecurity Policy and Planning",
+            "Cybersecurity Workforce Management",
+            "Privacy Compliance ",
+            "Security Control Assessment",
+            "Systems Authorization",
+            "Systems Security Management",
+            "Systems Requirements Planning ",
+            "Defensive Cybersecurity",
+            "Digital Forensics ",
+            "Cybercrime Investigation",
+            "Digital Evidence Analysis"
+        ]
+    },
+    {
+        "_id": "67d3205f8b064ffc5e921c4f",
+        "type": "knowledge",
+        "element_id": "K0963",
+        "description": "Knowledge of exploitation laws and regulations",
+        "work_roles": [
+            "Cybersecurity Policy and Planning",
+            "Cybersecurity Workforce Management",
+            "Privacy Compliance ",
+            "Security Control Assessment",
+            "Systems Authorization",
+            "Systems Security Management",
+            "Systems Requirements Planning ",
+            "Defensive Cybersecurity",
+            "Digital Forensics ",
+            "Cybercrime Investigation",
+            "Digital Evidence Analysis"
+        ]
+    },
+    {
+        "_id": "67d3205f8b064ffc5e921c54",
+        "type": "knowledge",
+        "element_id": "K1137",
+        "description": "Knowledge of cybersecurity requirements",
+        "work_roles": [
+            "Cybersecurity Policy and Planning",
+            "Cybersecurity Workforce Management",
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Systems Security Management",
+            "Technology Portfolio Management",
+            "Technology Program Auditing",
+            "Cybersecurity Architecture ",
+            "Secure Software Development",
+            "Software Security Assessment"
+        ]
+    },
+    {
+        "_id": "67d3205f8b064ffc5e921c55",
+        "type": "knowledge",
+        "element_id": "K1180",
+        "description": "Knowledge of organizational cybersecurity goals and objectives",
+        "work_roles": [
+            "Cybersecurity Policy and Planning",
+            "Cybersecurity Workforce Management",
+            "Executive Cybersecurity Leadership",
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Security Control Assessment",
+            "Systems Security Management",
+            "Technology Portfolio Management",
+            "Operational Technology (OT) Cybersecurity Engineering",
+            "Insider Threat Analysis"
+        ]
+    },
+    {
+        "_id": "67d320668b064ffc5e921cd5",
+        "type": "skill",
+        "element_id": "S0543",
+        "description": "Skill in scanning for vulnerabilities",
+        "work_roles": [
+            "Cybersecurity Curriculum Development",
+            "Cybersecurity Instruction",
+            "Security Control Assessment",
+            "Cybersecurity Architecture ",
+            "Enterprise Architecture ",
+            "Secure Software Development",
+            "Secure Systems Development",
+            "Software Security Assessment",
+            "Technology Research and Development",
+            "Systems Security Analysis",
+            "Defensive Cybersecurity",
+            "Vulnerability Analysis"
+        ]
+    },
+    {
+        "_id": "67d3205e8b064ffc5e921c2a",
+        "type": "skill",
+        "element_id": "S0574",
+        "description": "Skill in developing security system controls",
+        "work_roles": [
+            "Communications Security (COMSEC) Management",
+            "Security Control Assessment",
+            "Systems Security Management",
+            "Cybersecurity Architecture ",
+            "Enterprise Architecture ",
+            "Secure Software Development",
+            "Secure Systems Development",
+            "Software Security Assessment",
+            "Systems Security Analysis",
+            "Defensive Cybersecurity",
+            "Vulnerability Analysis"
+        ]
+    },
+    {
+        "_id": "67d320628b064ffc5e921c99",
+        "type": "skill",
+        "element_id": "S0686",
+        "description": "Skill in performing risk assessments",
+        "work_roles": [
+            "Cybersecurity Workforce Management",
+            "Cybersecurity Curriculum Development",
+            "Cybersecurity Instruction",
+            "Cybersecurity Legal Advice",
+            "Executive Cybersecurity Leadership",
+            "Security Control Assessment",
+            "Systems Authorization",
+            "Cybersecurity Architecture ",
+            "Enterprise Architecture ",
+            "Secure Systems Development",
+            "Operational Technology (OT) Cybersecurity Engineering",
+            "Vulnerability Analysis"
+        ]
+    },
+    {
+        "_id": "67d3205e8b064ffc5e921c3a",
+        "type": "task",
+        "element_id": "T1023",
+        "description": "Identify critical technology procurement requirements",
+        "work_roles": [
+            "Communications Security (COMSEC) Management",
+            "Cybersecurity Legal Advice",
+            "Product Support Management",
+            "Program Management ",
+            "Secure Project Management",
+            "Security Control Assessment",
+            "Systems Authorization",
+            "Systems Security Management",
+            "Systems Requirements Planning ",
+            "Technology Research and Development",
+            "Systems Security Analysis"
+        ]
+    }
+]

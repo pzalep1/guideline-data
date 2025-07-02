@@ -1,0 +1,505 @@
+[
+    {
+        "_id": "67d41fd6e785393e03a98fdc",
+        "type": "knowledge",
+        "element_id": "1038B",
+        "description": "Knowledge of local specialized system requirements (e.g., critical infrastructure/control systems that may not use standard information technology [IT]) for safety, performance, and reliability).",
+        "work_roles": [
+            "Enterprise Architect",
+            "Research & Development Specialist",
+            "System Testing and Evaluation Specialist",
+            "Systems Requirements Planner",
+            "Information Systems Security Developer",
+            "Information Systems Security Manager",
+            "Secure Software Assessor",
+            "Security Architect",
+            "Security Control Assessor",
+            "Software Developer"
+        ]
+    },
+    {
+        "_id": "67d42006e785393e03a9904e",
+        "type": "knowledge",
+        "element_id": "1056",
+        "description": "Knowledge of operations security.",
+        "work_roles": [
+            "Research & Development Specialist",
+            "Cyber Operations Planner",
+            "Cyberspace Capability Developer",
+            "Digital Network Exploitation Analyst",
+            "Joint Targeting Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Cyber Intelligence Planner",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d41fd6e785393e03a98fdd",
+        "type": "knowledge",
+        "element_id": "1073",
+        "description": "Knowledge of network systems management principles, models, methods (e.g., end-to-end systems performance monitoring), and tools.",
+        "work_roles": [
+            "Enterprise Architect",
+            "Network Operations Specialist",
+            "Systems Requirements Planner",
+            "Cyber Defense Analyst",
+            "Information Systems Security Developer",
+            "Information Systems Security Manager",
+            "Security Architect",
+            "Host Analyst",
+            "Network Analyst",
+            "Systems Security Analyst"
+        ]
+    },
+    {
+        "_id": "67d41fd8e785393e03a98fe2",
+        "type": "knowledge",
+        "element_id": "1142",
+        "description": "Knowledge of security models (e.g., Bell-LaPadula model, Biba integrity model, Clark-Wilson integrity model).",
+        "work_roles": [
+            "Enterprise Architect",
+            "Network Operations Specialist",
+            "System Testing and Evaluation Specialist",
+            "Systems Developer",
+            "Authorizing Official/Designated Representative",
+            "Cyber Defense Analyst",
+            "Information Systems Security Developer",
+            "Security Control Assessor",
+            "Vulnerability Assessment Analyst",
+            "Systems Security Analyst"
+        ]
+    },
+    {
+        "_id": "67d41fd0e785393e03a98fc6",
+        "type": "knowledge",
+        "element_id": "119",
+        "description": "Knowledge of software engineering.",
+        "work_roles": [
+            "Enterprise Architect",
+            "Systems Developer",
+            "Information Systems Security Developer",
+            "Secure Software Assessor",
+            "Security Architect",
+            "Cyberspace Capability Developer",
+            "Software Developer",
+            "Software/Cloud Architect",
+            "Systems Security Analyst"
+        ]
+    },
+    {
+        "_id": "67d41fd0e785393e03a98fc7",
+        "type": "knowledge",
+        "element_id": "130",
+        "description": "Knowledge of systems testing and evaluation methods.",
+        "work_roles": [
+            "Enterprise Architect",
+            "Systems Developer",
+            "Systems Requirements Planner",
+            "Information Systems Security Developer",
+            "Security Architect",
+            "Host Analyst",
+            "DevSecOps Specialist",
+            "Product Manager",
+            "Software Test & Evaluation Specialist"
+        ]
+    },
+    {
+        "_id": "67d41fd0e785393e03a98fc9",
+        "type": "knowledge",
+        "element_id": "133",
+        "description": "Knowledge of key telecommunications concepts (e.g., Routing Algorithms, Fiber Optics Systems Link Budgeting, Add/Drop Multiplexers).",
+        "work_roles": [
+            "Enterprise Architect",
+            "Network Operations Specialist",
+            "Systems Developer",
+            "Systems Requirements Planner",
+            "Cyber Defense Analyst",
+            "Information Systems Security Developer",
+            "Security Architect",
+            "Network Analyst",
+            "Systems Security Analyst"
+        ]
+    },
+    {
+        "_id": "67d41fc4e785393e03a98fab",
+        "type": "knowledge",
+        "element_id": "144",
+        "description": "Knowledge of the systems engineering process.",
+        "work_roles": [
+            "Enterprise Architect",
+            "System Testing and Evaluation Specialist",
+            "Systems Developer",
+            "Systems Requirements Planner",
+            "Information Systems Security Developer",
+            "Security Architect",
+            "DevSecOps Specialist",
+            "Software Test & Evaluation Specialist",
+            "Systems Security Analyst"
+        ]
+    },
+    {
+        "_id": "67d420c5e785393e03a991d8",
+        "type": "knowledge",
+        "element_id": "264",
+        "description": "Knowledge of basic physical computer components and architectures, including the functions of various components and peripherals (e.g., CPUs, Network Interface Cards, data storage).",
+        "work_roles": [
+            "Cyber Defense Forensics Analyst",
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Cyberspace Operator",
+            "Exploitation Analyst",
+            "Host Analyst",
+            "All-Source Analyst",
+            "Cyber Intelligence Planner",
+            "Forensics Analyst"
+        ]
+    },
+    {
+        "_id": "67d4236ae785393e03a996bd",
+        "type": "knowledge",
+        "element_id": "296",
+        "description": "Knowledge of how information needs and collection requirements are translated, tracked, and prioritized across the extended enterprise.",
+        "work_roles": [
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "IT Investment/Portfolio Manager",
+            "IT Program Auditor",
+            "IT Project Manager",
+            "Product Support Manager",
+            "Program Manager",
+            "Data Architect",
+            "Data Officer",
+            "Data Steward"
+        ]
+    },
+    {
+        "_id": "67d42195e785393e03a99309",
+        "type": "ability",
+        "element_id": "3001",
+        "description": "Ability to accurately and completely source all data used in intelligence, assessment and/or planning products.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Digital Network Exploitation Analyst",
+            "Exploitation Analyst",
+            "Joint Targeting Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "All-Source Analyst",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d42198e785393e03a99312",
+        "type": "ability",
+        "element_id": "3044",
+        "description": "Ability to exercise judgment when policies are not well-defined.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Digital Network Exploitation Analyst",
+            "Joint Targeting Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "All-Source Analyst",
+            "Cyber Intelligence Planner",
+            "Executive Cyber Leader"
+        ]
+    },
+    {
+        "_id": "67d42199e785393e03a99318",
+        "type": "knowledge",
+        "element_id": "3095",
+        "description": "Knowledge of internet network addressing (IP addresses, classless inter-domain routing, TCP/UDP port numbering).",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Digital Network Exploitation Analyst",
+            "Exploitation Analyst",
+            "Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "All-Source Analyst",
+            "All-Source Collection Manager",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d4219ae785393e03a9931a",
+        "type": "knowledge",
+        "element_id": "3106",
+        "description": "Knowledge of a wide range of basic communications media concepts and terminology (e.g., computer and telephone networks, satellite, cable, wireless).",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Digital Network Exploitation Analyst",
+            "Exploitation Analyst",
+            "Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "All-Source Analyst",
+            "Cyber Intelligence Planner",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42247e785393e03a994e5",
+        "type": "knowledge",
+        "element_id": "3137",
+        "description": "Knowledge of basic malicious activity concepts (e.g., foot printing, scanning and enumeration).",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Exploitation Analyst",
+            "Exploitation Analyst",
+            "Network Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "All-Source Analyst",
+            "All-Source Collection Manager",
+            "All-Source Collection Requirements Manager"
+        ]
+    },
+    {
+        "_id": "67d421bbe785393e03a9936e",
+        "type": "knowledge",
+        "element_id": "3146",
+        "description": "Knowledge of both internal and external customers and partner organizations, including information needs, objectives, structure, capabilities, etc.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyberspace Capability Developer",
+            "Digital Network Exploitation Analyst",
+            "Exploitation Analyst",
+            "Network Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "AI Innovation Leader",
+            "Data Officer"
+        ]
+    },
+    {
+        "_id": "67d4219be785393e03a9931d",
+        "type": "knowledge",
+        "element_id": "3154",
+        "description": "Knowledge of classification and control markings standards, policies and procedures.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Digital Network Exploitation Analyst",
+            "Joint Targeting Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "All-Source Analyst",
+            "Cyber Intelligence Planner",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d4219ce785393e03a99322",
+        "type": "knowledge",
+        "element_id": "3188",
+        "description": "Knowledge of computer networking fundamentals (i.e., basic computer components of a network, types of networks, etc.).",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Host Analyst",
+            "Joint Targeting Analyst",
+            "Network Analyst",
+            "Network Technician",
+            "All-Source Analyst",
+            "All-Source Collection Manager",
+            "All-Source Collection Requirements Manager",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d4219de785393e03a99326",
+        "type": "knowledge",
+        "element_id": "3225",
+        "description": "Knowledge of data communications terminology (e.g., networking protocols, Ethernet, IP, encryption, optical devices, removable media).",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Exploitation Analyst",
+            "Exploitation Analyst",
+            "Target Analyst Reporter",
+            "All-Source Collection Manager",
+            "All-Source Collection Requirements Manager",
+            "Cyber Intelligence Planner",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d4219ee785393e03a99329",
+        "type": "knowledge",
+        "element_id": "3262",
+        "description": "Knowledge of evolving/emerging communications technologies.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "All-Source Analyst",
+            "All-Source Collection Requirements Manager",
+            "Cyber Intelligence Planner",
+            "Multi-Disciplined Language Analyst",
+            "Cyber Crime Investigator"
+        ]
+    },
+    {
+        "_id": "67d4219fe785393e03a9932e",
+        "type": "knowledge",
+        "element_id": "3291",
+        "description": "Knowledge of how internet applications work (SMTP email, web-based email, chat clients, VOIP).",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Digital Network Exploitation Analyst",
+            "Exploitation Analyst",
+            "Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "All-Source Analyst",
+            "All-Source Collection Manager",
+            "All-Source Collection Requirements Manager",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d421a1e785393e03a99335",
+        "type": "knowledge",
+        "element_id": "3441",
+        "description": "Knowledge of physical and logical network devices and infrastructure to include hubs, switches, routers, firewalls, etc.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Cyberspace Capability Developer",
+            "Cyberspace Operator",
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "All-Source Analyst",
+            "All-Source Collection Manager",
+            "All-Source Collection Requirements Manager"
+        ]
+    },
+    {
+        "_id": "67d42036e785393e03a990b1",
+        "type": "knowledge",
+        "element_id": "52",
+        "description": "Knowledge of human-computer interaction principles.",
+        "work_roles": [
+            "Systems Developer",
+            "Information Systems Security Developer",
+            "Security Architect",
+            "Cyber Operations Planner",
+            "Host Analyst",
+            "All-Source Analyst",
+            "All-Source Collection Manager",
+            "All-Source Collection Requirements Manager",
+            "Cyber Intelligence Planner",
+            "Systems Security Analyst"
+        ]
+    },
+    {
+        "_id": "67d42082e785393e03a99147",
+        "type": "knowledge",
+        "element_id": "61",
+        "description": "Knowledge of incident response and handling methodologies.",
+        "work_roles": [
+            "COMSEC Manager",
+            "Cyber Defense Analyst",
+            "Cyber Defense Forensics Analyst",
+            "Cyber Defense Incident Responder",
+            "Cyber Defense Infrastructure Support Specialist",
+            "Information Systems Security Manager",
+            "Host Analyst",
+            "Network Analyst",
+            "Forensics Analyst"
+        ]
+    },
+    {
+        "_id": "67d41fcbe785393e03a98fb8",
+        "type": "knowledge",
+        "element_id": "62",
+        "description": "Knowledge of industry-standard and organizationally accepted analysis principles and methods.",
+        "work_roles": [
+            "Enterprise Architect",
+            "Systems Requirements Planner",
+            "Information Systems Security Manager",
+            "Security Architect",
+            "Host Analyst",
+            "Network Analyst",
+            "IT Program Auditor",
+            "IT Project Manager",
+            "Product Support Manager"
+        ]
+    },
+    {
+        "_id": "67d424b1e785393e03a997f4",
+        "type": "knowledge",
+        "element_id": "6290",
+        "description": "Knowledge of how to leverage government research and development centers, think tanks, academic research, and industry systems.",
+        "work_roles": [
+            "IT Investment/Portfolio Manager",
+            "IT Program Auditor",
+            "IT Project Manager",
+            "Product Support Manager",
+            "Program Manager",
+            "AI Innovation Leader",
+            "AI/ML Specialist",
+            "Data Officer",
+            "Data Scientist"
+        ]
+    },
+    {
+        "_id": "67d41febe785393e03a9900e",
+        "type": "knowledge",
+        "element_id": "70",
+        "description": "Knowledge of information technology (IT) security principles and methods (e.g., firewalls, demilitarized zones, encryption).",
+        "work_roles": [
+            "Network Operations Specialist",
+            "System Administrator",
+            "Systems Developer",
+            "Authorizing Official/Designated Representative",
+            "Cyber Defense Analyst",
+            "Information Systems Security Developer",
+            "Security Control Assessor",
+            "Network Technician",
+            "Systems Security Analyst"
+        ]
+    },
+    {
+        "_id": "67d41fbfe785393e03a98f9c",
+        "type": "knowledge",
+        "element_id": "7029",
+        "description": "Knowledge of how to collect, store, and monitor data.",
+        "work_roles": [
+            "Database Administrator",
+            "AI Test & Evaluation Specialist",
+            "AI/ML Specialist",
+            "Data Analyst",
+            "Data Architect",
+            "Data Officer",
+            "Data Operations Specialist",
+            "Data Scientist",
+            "Data Steward"
+        ]
+    },
+    {
+        "_id": "67d42072e785393e03a9912e",
+        "type": "knowledge",
+        "element_id": "979",
+        "description": "Knowledge of supply chain risk management standards, processes, and practices.",
+        "work_roles": [
+            "Authorizing Official/Designated Representative",
+            "Secure Software Assessor",
+            "Cyberspace Capability Developer",
+            "IT Investment/Portfolio Manager",
+            "IT Program Auditor",
+            "IT Project Manager",
+            "Product Support Manager",
+            "Program Manager",
+            "Executive Cyber Leader",
+            "Software Developer"
+        ]
+    }
+]

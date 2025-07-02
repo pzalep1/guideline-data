@@ -1,0 +1,57 @@
+[
+    {
+        "_id": "67d41fc6e785393e03a98fb0",
+        "type": "knowledge",
+        "element_id": "1072",
+        "description": "Knowledge of network security architecture concepts including topology, protocols, components, and principles (e.g., application of defense-in-depth).",
+        "work_roles": [
+            "Enterprise Architect",
+            "Network Operations Specialist",
+            "Research & Development Specialist",
+            "System Administrator",
+            "System Testing and Evaluation Specialist",
+            "Authorizing Official/Designated Representative",
+            "Cyber Defense Analyst",
+            "Cyber Defense Forensics Analyst",
+            "Cyber Defense Incident Responder",
+            "Cyber Defense Infrastructure Support Specialist",
+            "Information Systems Security Developer",
+            "Information Systems Security Manager",
+            "Secure Software Assessor",
+            "Security Control Assessor",
+            "Vulnerability Assessment Analyst",
+            "Network Analyst",
+            "Network Technician",
+            "Forensics Analyst",
+            "Software Developer",
+            "Systems Security Analyst"
+        ]
+    },
+    {
+        "_id": "67d41fcde785393e03a98fbd",
+        "type": "knowledge",
+        "element_id": "81A",
+        "description": "Knowledge of network protocols such as TCP/IP, Dynamic Host Configuration, Domain Name System (DNS), and directory services.",
+        "work_roles": [
+            "Enterprise Architect",
+            "Network Operations Specialist",
+            "System Administrator",
+            "System Testing and Evaluation Specialist",
+            "Systems Developer",
+            "Systems Requirements Planner",
+            "Cyber Defense Analyst",
+            "Cyber Defense Incident Responder",
+            "Cyber Defense Infrastructure Support Specialist",
+            "Information Systems Security Developer",
+            "Information Systems Security Manager",
+            "Secure Software Assessor",
+            "Security Architect",
+            "Vulnerability Assessment Analyst",
+            "Cyberspace Operator",
+            "Host Analyst",
+            "Network Technician",
+            "Software Developer",
+            "Software Test & Evaluation Specialist"
+        ]
+    }
+]

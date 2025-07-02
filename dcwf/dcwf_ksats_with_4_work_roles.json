@@ -1,0 +1,4903 @@
+[
+    {
+        "_id": "67d42003e785393e03a99045",
+        "type": "knowledge",
+        "element_id": "10",
+        "description": "Knowledge of application vulnerabilities.",
+        "work_roles": [
+            "Research & Development Specialist",
+            "Vulnerability Assessment Analyst",
+            "Executive Cyber Leader"
+        ]
+    },
+    {
+        "_id": "67d42632e785393e03a9997f",
+        "type": "task",
+        "element_id": "1000B",
+        "description": "Ensure that AI design and development activities are properly documented and updated.",
+        "work_roles": [
+            "AI Adoption Specialist",
+            "AI Risk & Ethics Specialist",
+            "AI/ML Specialist"
+        ]
+    },
+    {
+        "_id": "67d4205fe785393e03a99107",
+        "type": "task",
+        "element_id": "1003",
+        "description": "Develop and document supply chain risks for critical system elements, as appropriate.",
+        "work_roles": [
+            "Systems Requirements Planner",
+            "IT Project Manager",
+            "Product Support Manager",
+            "Program Manager"
+        ]
+    },
+    {
+        "_id": "67d4205fe785393e03a99108",
+        "type": "knowledge",
+        "element_id": "1004",
+        "description": "Knowledge of critical information technology (IT) procurement requirements.",
+        "work_roles": [
+            "Systems Requirements Planner",
+            "COMSEC Manager",
+            "Information Systems Security Manager",
+            "Executive Cyber Leader"
+        ]
+    },
+    {
+        "_id": "67d4205fe785393e03a99109",
+        "type": "knowledge",
+        "element_id": "1005",
+        "description": "Knowledge of functionality, quality, and security requirements and how these will apply to specific items of supply (i.e., elements and processes).",
+        "work_roles": [
+            "Systems Requirements Planner",
+            "IT Project Manager",
+            "Product Support Manager",
+            "Program Manager"
+        ]
+    },
+    {
+        "_id": "67d4203ae785393e03a990b6",
+        "type": "knowledge",
+        "element_id": "101",
+        "description": "Knowledge of process engineering concepts.",
+        "work_roles": [
+            "Systems Developer",
+            "Systems Requirements Planner",
+            "Information Systems Security Developer"
+        ]
+    },
+    {
+        "_id": "67d424c9e785393e03a997ff",
+        "type": "task",
+        "element_id": "1017A",
+        "description": "Participate in the acquisition process as necessary.",
+        "work_roles": [
+            "IT Project Manager",
+            "Program Manager",
+            "Product Manager"
+        ]
+    },
+    {
+        "_id": "67d41fd6e785393e03a98fdb",
+        "type": "knowledge",
+        "element_id": "1037B",
+        "description": "Knowledge of program protection planning to include information technology (IT) supply chain security/risk management policies, anti-tampering techniques, and requirements.",
+        "work_roles": [
+            "Enterprise Architect",
+            "Security Architect",
+            "Host Analyst",
+            "Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4212ee785393e03a99282",
+        "type": "skill",
+        "element_id": "1039",
+        "description": "Skill in evaluating the trustworthiness of the supplier and/or product.",
+        "work_roles": [
+            "Information Systems Security Manager",
+            "Security Control Assessor",
+            "Cyber Crime Investigator"
+        ]
+    },
+    {
+        "_id": "67d424c0e785393e03a997fa",
+        "type": "ability",
+        "element_id": "1039A",
+        "description": "Ability to evaluate/ensure the trustworthiness of the supplier and/or product.",
+        "work_roles": [
+            "IT Project Manager",
+            "Product Support Manager",
+            "Program Manager"
+        ]
+    },
+    {
+        "_id": "67d41fb7e785393e03a98f83",
+        "type": "knowledge",
+        "element_id": "104",
+        "description": "Knowledge of query languages such as SQL (structured query language).",
+        "work_roles": [
+            "Database Administrator",
+            "Data Analyst",
+            "Data Operations Specialist"
+        ]
+    },
+    {
+        "_id": "67d41fece785393e03a99011",
+        "type": "knowledge",
+        "element_id": "106",
+        "description": "Knowledge of remote access technology concepts.",
+        "work_roles": [
+            "Network Operations Specialist",
+            "Control Systems Security Specialist",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d4214de785393e03a992b6",
+        "type": "ability",
+        "element_id": "1072A",
+        "description": "Ability to apply network security architecture concepts including topology, protocols, components, and principles (e.g., application of defense-in-depth).",
+        "work_roles": [
+            "Security Architect",
+            "Host Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d41ffbe785393e03a9903a",
+        "type": "knowledge",
+        "element_id": "1074A",
+        "description": "Knowledge of transmission records (e.g., Bluetooth, Radio Frequency Identification (RFID), Infrared Networking (IR), Wireless Fidelity (Wi-Fi). paging, cellular, satellite dishes, Voice over Internet Protocol (VoIP)), and jamming techniques that enable transmission of undesirable information, or prevent installed systems from operating correctly.",
+        "work_roles": [
+            "Network Operations Specialist",
+            "System Administrator",
+            "Cyber Defense Infrastructure Support Specialist",
+            "Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d420d1e785393e03a99203",
+        "type": "skill",
+        "element_id": "1091",
+        "description": "Skill in one way hash functions (e.g., Secure Hash Algorithm [SHA], Message Digest Algorithm [MD5]).",
+        "work_roles": [
+            "Cyber Defense Forensics Analyst",
+            "Network Analyst",
+            "Forensics Analyst"
+        ]
+    },
+    {
+        "_id": "67d420d2e785393e03a99205",
+        "type": "knowledge",
+        "element_id": "1094",
+        "description": "Knowledge of debugging procedures and tools.",
+        "work_roles": [
+            "Cyber Defense Forensics Analyst",
+            "Cyberspace Operator",
+            "Forensics Analyst"
+        ]
+    },
+    {
+        "_id": "67d41fcee785393e03a98fc2",
+        "type": "knowledge",
+        "element_id": "109A",
+        "description": "Knowledge of configuration management techniques.",
+        "work_roles": [
+            "Enterprise Architect",
+            "Security Architect",
+            "Host Analyst",
+            "Systems Security Analyst"
+        ]
+    },
+    {
+        "_id": "67d4209ee785393e03a99185",
+        "type": "task",
+        "element_id": "1107",
+        "description": "Identify and analyze anomalies in network traffic using metadata (e.g., CENTAUR).",
+        "work_roles": [
+            "Cyber Defense Analyst",
+            "Digital Network Exploitation Analyst",
+            "Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d420b4e785393e03a991ab",
+        "type": "task",
+        "element_id": "1109",
+        "description": "Validate intrusion detection system (IDS) alerts against network traffic using packet analysis tools.",
+        "work_roles": [
+            "Cyber Defense Analyst",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d41fcfe785393e03a98fc4",
+        "type": "knowledge",
+        "element_id": "111",
+        "description": "Knowledge of security system design tools, methods, and techniques.",
+        "work_roles": [
+            "Enterprise Architect",
+            "Cyber Defense Analyst",
+            "Host Analyst",
+            "Systems Security Analyst"
+        ]
+    },
+    {
+        "_id": "67d4209fe785393e03a99187",
+        "type": "task",
+        "element_id": "1111",
+        "description": "Identify applications and operating systems of a network device based on network traffic.",
+        "work_roles": [
+            "Cyber Defense Analyst",
+            "Cyber Defense Analyst",
+            "Host Analyst",
+            "Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d420b5e785393e03a991ae",
+        "type": "task",
+        "element_id": "1113",
+        "description": "Identify network mapping and operating system (OS) fingerprinting activities.",
+        "work_roles": [
+            "Cyber Defense Analyst",
+            "Host Analyst",
+            "Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d420b6e785393e03a991b2",
+        "type": "ability",
+        "element_id": "1120",
+        "description": "Ability to interpret and incorporate data from multiple tool sources.",
+        "work_roles": [
+            "Cyber Defense Analyst",
+            "Data Analyst",
+            "Data Scientist"
+        ]
+    },
+    {
+        "_id": "67d424cae785393e03a99800",
+        "type": "ability",
+        "element_id": "1122",
+        "description": "Ability to apply supply chain risk management standards.",
+        "work_roles": [
+            "IT Project Manager",
+            "Product Support Manager",
+            "Program Manager"
+        ]
+    },
+    {
+        "_id": "67d424c1e785393e03a997fb",
+        "type": "knowledge",
+        "element_id": "1127",
+        "description": "Knowledge of Import/Export Regulations related to cryptography and other security technologies.",
+        "work_roles": [
+            "IT Project Manager",
+            "Product Support Manager",
+            "Program Manager"
+        ]
+    },
+    {
+        "_id": "67d41fbce785393e03a98f92",
+        "type": "knowledge",
+        "element_id": "1128A",
+        "description": "Knowledge of database access application programming interfaces (APIs) (e.g., Java Database Connectivity [JDBC]).",
+        "work_roles": [
+            "Database Administrator",
+            "Cyberspace Operator",
+            "Data Operations Specialist"
+        ]
+    },
+    {
+        "_id": "67d424b3e785393e03a997f5",
+        "type": "task",
+        "element_id": "1143A",
+        "description": "Conduct import/export reviews for acquiring systems and software.",
+        "work_roles": [
+            "IT Program Auditor",
+            "IT Project Manager",
+            "Product Support Manager",
+            "Program Manager"
+        ]
+    },
+    {
+        "_id": "67d424b0e785393e03a997f1",
+        "type": "task",
+        "element_id": "1148",
+        "description": "Develop contract language to ensure supply chain, system, network, and operational security are met.",
+        "work_roles": [
+            "IT Investment/Portfolio Manager",
+            "Product Support Manager",
+            "Program Manager",
+            "Executive Cyber Leader"
+        ]
+    },
+    {
+        "_id": "67d424cbe785393e03a99801",
+        "type": "task",
+        "element_id": "1148A",
+        "description": "Develop supply chain, system, network, performance, and cyber security requirements.",
+        "work_roles": [
+            "IT Project Manager",
+            "Product Support Manager",
+            "Program Manager"
+        ]
+    },
+    {
+        "_id": "67d4213ce785393e03a99295",
+        "type": "knowledge",
+        "element_id": "116",
+        "description": "Knowledge of software debugging principles.",
+        "work_roles": [
+            "Secure Software Assessor",
+            "Cyberspace Capability Developer",
+            "Software Developer",
+            "Software/Cloud Architect"
+        ]
+    },
+    {
+        "_id": "67d4213de785393e03a99296",
+        "type": "knowledge",
+        "element_id": "117",
+        "description": "Knowledge of software design tools, methods, and techniques.",
+        "work_roles": [
+            "Secure Software Assessor",
+            "Host Analyst",
+            "Software Developer",
+            "Software/Cloud Architect"
+        ]
+    },
+    {
+        "_id": "67d42030e785393e03a990a9",
+        "type": "knowledge",
+        "element_id": "118",
+        "description": "Knowledge of software development models (e.g., Waterfall Model, Spiral Model).",
+        "work_roles": [
+            "Systems Developer",
+            "Information Systems Security Developer",
+            "Secure Software Assessor",
+            "Cyberspace Capability Developer"
+        ]
+    },
+    {
+        "_id": "67d41fe9e785393e03a99009",
+        "type": "knowledge",
+        "element_id": "12",
+        "description": "Knowledge of communication methods, principles, and concepts (e.g., crypto, dual hubs, time multiplexers) that support the network infrastructure.",
+        "work_roles": [
+            "Network Operations Specialist",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d4200be785393e03a99059",
+        "type": "knowledge",
+        "element_id": "127",
+        "description": "Knowledge of systems administration concepts.",
+        "work_roles": [
+            "System Administrator",
+            "System Testing and Evaluation Specialist",
+            "Technical Support Specialist",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d4207ae785393e03a99138",
+        "type": "knowledge",
+        "element_id": "128",
+        "description": "Knowledge of systems diagnostic tools and fault identification techniques.",
+        "work_roles": [
+            "Authorizing Official/Designated Representative",
+            "Security Control Assessor",
+            "Vulnerability Assessment Analyst"
+        ]
+    },
+    {
+        "_id": "67d42125e785393e03a9926c",
+        "type": "knowledge",
+        "element_id": "132",
+        "description": "Knowledge of technology integration processes.",
+        "work_roles": [
+            "Information Systems Security Manager",
+            "Security Architect",
+            "Network Analyst",
+            "Product Designer User Interface (UI)"
+        ]
+    },
+    {
+        "_id": "67d42015e785393e03a99071",
+        "type": "knowledge",
+        "element_id": "145",
+        "description": "Knowledge of the type and frequency of routine maintenance needed to keep equipment functioning properly.",
+        "work_roles": [
+            "System Administrator",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d41fe9e785393e03a9900b",
+        "type": "knowledge",
+        "element_id": "15",
+        "description": "Knowledge of capabilities and applications of network equipment including hubs, routers, switches, bridges, servers, transmission media, and related hardware.",
+        "work_roles": [
+            "Network Operations Specialist",
+            "Host Analyst",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d41fede785393e03a99014",
+        "type": "skill",
+        "element_id": "154",
+        "description": "Skill in analyzing network traffic capacity and performance characteristics.",
+        "work_roles": [
+            "Network Operations Specialist",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d4205be785393e03a990fb",
+        "type": "skill",
+        "element_id": "156",
+        "description": "Skill in applying confidentiality, integrity, and availability principles.",
+        "work_roles": [
+            "Systems Requirements Planner",
+            "Security Control Assessor",
+            "Host Analyst"
+        ]
+    },
+    {
+        "_id": "67d42678e785393e03a999f4",
+        "type": "skill",
+        "element_id": "166",
+        "description": "Skill in conducting queries and developing algorithms to analyze data structures.",
+        "work_roles": [
+            "AI/ML Specialist",
+            "Data Analyst",
+            "Data Scientist"
+        ]
+    },
+    {
+        "_id": "67d42016e785393e03a99072",
+        "type": "skill",
+        "element_id": "167A",
+        "description": "Skill in conducting system/server planning, management, and maintenance.",
+        "work_roles": [
+            "System Administrator",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d4213ee785393e03a99298",
+        "type": "skill",
+        "element_id": "168",
+        "description": "Skill in conducting software debugging.",
+        "work_roles": [
+            "Secure Software Assessor",
+            "Cyberspace Capability Developer",
+            "Software Developer"
+        ]
+    },
+    {
+        "_id": "67d42016e785393e03a99073",
+        "type": "skill",
+        "element_id": "170",
+        "description": "Skill in configuring and optimizing software.",
+        "work_roles": [
+            "System Administrator",
+            "Network Technician",
+            "Software/Cloud Architect"
+        ]
+    },
+    {
+        "_id": "67d4200be785393e03a9905a",
+        "type": "skill",
+        "element_id": "171A",
+        "description": "Skill in correcting physical and technical problems that impact system/server performance.",
+        "work_roles": [
+            "System Administrator",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d42004e785393e03a99048",
+        "type": "skill",
+        "element_id": "172",
+        "description": "Skill in creating and utilizing mathematical or statistical models.",
+        "work_roles": [
+            "Research & Development Specialist",
+            "Software Developer",
+            "Data Scientist"
+        ]
+    },
+    {
+        "_id": "67d4203ce785393e03a990be",
+        "type": "knowledge",
+        "element_id": "177A",
+        "description": "Knowledge of countermeasure design for identified security risks.",
+        "work_roles": [
+            "Systems Developer",
+            "Information Systems Security Developer",
+            "Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4207be785393e03a99139",
+        "type": "knowledge",
+        "element_id": "177B",
+        "description": "Knowledge of countermeasures for identified security risks.",
+        "work_roles": [
+            "Authorizing Official/Designated Representative",
+            "Cyber Defense Analyst",
+            "Systems Security Analyst"
+        ]
+    },
+    {
+        "_id": "67d4203de785393e03a990c0",
+        "type": "skill",
+        "element_id": "179",
+        "description": "Skill in designing security controls based on cybersecurity principles and tenets.",
+        "work_roles": [
+            "Systems Developer",
+            "Authorizing Official/Designated Representative",
+            "Information Systems Security Developer"
+        ]
+    },
+    {
+        "_id": "67d4203de785393e03a990c1",
+        "type": "skill",
+        "element_id": "181A",
+        "description": "Skill in detecting host and network based intrusions via intrusion detection technologies.",
+        "work_roles": [
+            "Systems Developer",
+            "Cyber Defense Analyst",
+            "Vulnerability Assessment Analyst"
+        ]
+    },
+    {
+        "_id": "67d42020e785393e03a99086",
+        "type": "skill",
+        "element_id": "182",
+        "description": "Skill in determining an appropriate level of test rigor for a given system.",
+        "work_roles": [
+            "System Testing and Evaluation Specialist",
+            "Product Manager",
+            "Software Test & Evaluation Specialist",
+            "AI Test & Evaluation Specialist"
+        ]
+    },
+    {
+        "_id": "67d41fd2e785393e03a98fcd",
+        "type": "knowledge",
+        "element_id": "183A",
+        "description": "Knowledge in determining how a security system should work (including its resilience and dependability capabilities) and how changes in conditions, operations, or the environment will affect these outcomes.",
+        "work_roles": [
+            "Enterprise Architect",
+            "Host Analyst",
+            "Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42020e785393e03a99087",
+        "type": "skill",
+        "element_id": "190",
+        "description": "Skill in developing operations-based testing scenarios.",
+        "work_roles": [
+            "System Testing and Evaluation Specialist",
+            "DevSecOps Specialist",
+            "Product Manager",
+            "Software Test & Evaluation Specialist"
+        ]
+    },
+    {
+        "_id": "67d420c5e785393e03a991d7",
+        "type": "skill",
+        "element_id": "193",
+        "description": "Skill in developing, testing, and implementing network infrastructure contingency and recovery plans.",
+        "work_roles": [
+            "Cyber Defense Forensics Analyst",
+            "Network Analyst",
+            "Network Technician",
+            "Forensics Analyst"
+        ]
+    },
+    {
+        "_id": "67d42016e785393e03a99074",
+        "type": "skill",
+        "element_id": "194",
+        "description": "Skill in diagnosing connectivity problems.",
+        "work_roles": [
+            "System Administrator",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d4203ee785393e03a990c5",
+        "type": "skill",
+        "element_id": "199",
+        "description": "Skill in evaluating the adequacy of security designs.",
+        "work_roles": [
+            "Systems Developer",
+            "Cyber Defense Analyst",
+            "Information Systems Security Developer",
+            "Systems Security Analyst"
+        ]
+    },
+    {
+        "_id": "67d42232e785393e03a994a6",
+        "type": "task",
+        "element_id": "2001",
+        "description": "Accurately characterize targets.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Joint Targeting Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4218ce785393e03a992e6",
+        "type": "task",
+        "element_id": "2009",
+        "description": "Provide input to the analysis, design, development or acquisition of capabilities used for meeting objectives.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d42017e785393e03a99076",
+        "type": "skill",
+        "element_id": "202A",
+        "description": "Skill in identifying and anticipating system/server performance, availability, capacity, or configuration problems.",
+        "work_roles": [
+            "System Administrator",
+            "Host Analyst",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d4218ce785393e03a992e8",
+        "type": "task",
+        "element_id": "2052",
+        "description": "Assess target vulnerabilities and/or operational capabilities to determine course of action.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d421ade785393e03a99358",
+        "type": "task",
+        "element_id": "2058",
+        "description": "Assist and advise inter-agency partners in identifying and developing best practices for facilitating operational support to achievement of organization objectives.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Intelligence Planner",
+            "Executive Cyber Leader"
+        ]
+    },
+    {
+        "_id": "67d42232e785393e03a994a7",
+        "type": "task",
+        "element_id": "2059",
+        "description": "Provide expertise to course of action development.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Digital Network Analyst",
+            "All-Source Analyst"
+        ]
+    },
+    {
+        "_id": "67d420b7e785393e03a991b4",
+        "type": "task",
+        "element_id": "2062",
+        "description": "Assist in the construction of signatures which can be implemented on cyber defense network tools in response to new or observed threats within the NE or enclave.",
+        "work_roles": [
+            "Cyber Defense Analyst",
+            "Host Analyst",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d4227fe785393e03a99576",
+        "type": "task",
+        "element_id": "2063",
+        "description": "Assist in the coordination, validation, and management of all-source collection requirements, plans, and/or activities.",
+        "work_roles": [
+            "Exploitation Analyst",
+            "Host Analyst",
+            "All-Source Analyst"
+        ]
+    },
+    {
+        "_id": "67d42017e785393e03a99077",
+        "type": "skill",
+        "element_id": "206A",
+        "description": "Skill in installing system and component upgrades.",
+        "work_roles": [
+            "System Administrator",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d41feee785393e03a99018",
+        "type": "skill",
+        "element_id": "207",
+        "description": "Skill in installing, configuring, and troubleshooting LAN and WAN components such as routers, hubs, and switches.",
+        "work_roles": [
+            "Network Operations Specialist",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d4218ce785393e03a992e9",
+        "type": "task",
+        "element_id": "2073",
+        "description": "Provide input to the identification of cyber-related success criteria.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d42233e785393e03a994aa",
+        "type": "task",
+        "element_id": "2081",
+        "description": "Classify documents in accordance with classification guidelines.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d422e0e785393e03a995ff",
+        "type": "task",
+        "element_id": "2089",
+        "description": "Collaborate with other customer, Intelligence and targeting organizations involved in related cyber areas.",
+        "work_roles": [
+            "Joint Targeting Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42234e785393e03a994ac",
+        "type": "task",
+        "element_id": "2099",
+        "description": "Compile, integrate, and/or interpret all-source data for intelligence or vulnerability value with respect to specific targets.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42234e785393e03a994ad",
+        "type": "task",
+        "element_id": "2101",
+        "description": "Identify and conduct analysis of target communications to identify information essential to support operations.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42234e785393e03a994ae",
+        "type": "task",
+        "element_id": "2102",
+        "description": "Conduct analysis of physical and logical digital technologies (e.g., wireless, SCADA, telecom) to identify potential avenues of access.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Exploitation Analyst",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d421f1e785393e03a993da",
+        "type": "task",
+        "element_id": "2119",
+        "description": "Conduct network scouting and vulnerability analyses of systems within a network.",
+        "work_roles": [
+            "Cyberspace Operator",
+            "Host Analyst",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d4200ce785393e03a9905b",
+        "type": "skill",
+        "element_id": "211A",
+        "description": "Skill in monitoring and optimizing system/server performance.",
+        "work_roles": [
+            "System Administrator",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d42146e785393e03a992a7",
+        "type": "task",
+        "element_id": "2156",
+        "description": "Consult with customers about software system design and maintenance.",
+        "work_roles": [
+            "Secure Software Assessor",
+            "Software Developer",
+            "Software/Cloud Architect"
+        ]
+    },
+    {
+        "_id": "67d4218de785393e03a992eb",
+        "type": "task",
+        "element_id": "2159",
+        "description": "Contribute to crisis action planning for cyber operations.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d420b9e785393e03a991bb",
+        "type": "skill",
+        "element_id": "217",
+        "description": "Skill in preserving evidence integrity according to standard operating procedures or national standards.",
+        "work_roles": [
+            "Cyber Defense Forensics Analyst",
+            "Cyber Defense Incident Responder",
+            "Cyber Crime Investigator",
+            "Forensics Analyst"
+        ]
+    },
+    {
+        "_id": "67d42235e785393e03a994b1",
+        "type": "task",
+        "element_id": "2194",
+        "description": "Create comprehensive exploitation strategies that identify exploitable technical or operational vulnerabilities.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Exploitation Analyst",
+            "Exploitation Analyst"
+        ]
+    },
+    {
+        "_id": "67d42236e785393e03a994b2",
+        "type": "task",
+        "element_id": "2195",
+        "description": "Maintain awareness of internal and external cyber organization structures, strengths, and employments of staffing and technology.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "All-Source Analyst"
+        ]
+    },
+    {
+        "_id": "67d42020e785393e03a99088",
+        "type": "skill",
+        "element_id": "220",
+        "description": "Skill in systems integration testing.",
+        "work_roles": [
+            "System Testing and Evaluation Specialist",
+            "DevSecOps Specialist",
+            "Product Manager",
+            "Software Test & Evaluation Specialist"
+        ]
+    },
+    {
+        "_id": "67d421f3e785393e03a993df",
+        "type": "task",
+        "element_id": "2226",
+        "description": "Detect exploits against targeted networks and hosts and react accordingly.",
+        "work_roles": [
+            "Cyberspace Operator",
+            "Host Analyst",
+            "Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d422b4e785393e03a99597",
+        "type": "task",
+        "element_id": "2232",
+        "description": "Determine course of action for addressing changes to objectives, guidance, and operational environment.",
+        "work_roles": [
+            "Host Analyst",
+            "Network Technician",
+            "All-Source Collection Manager"
+        ]
+    },
+    {
+        "_id": "67d42236e785393e03a994b4",
+        "type": "task",
+        "element_id": "2236",
+        "description": "Determine if information meets reporting requirements.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d41fd2e785393e03a98fce",
+        "type": "skill",
+        "element_id": "224",
+        "description": "Skill in design modeling and building use cases (e.g., unified modeling language).",
+        "work_roles": [
+            "Enterprise Architect",
+            "Systems Requirements Planner",
+            "Security Architect"
+        ]
+    },
+    {
+        "_id": "67d42236e785393e03a994b5",
+        "type": "task",
+        "element_id": "2243",
+        "description": "Determine what technologies are used by a given target.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42237e785393e03a994b7",
+        "type": "task",
+        "element_id": "2289",
+        "description": "Develop measures of effectiveness and measures of performance.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Joint Targeting Analyst",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4213ae785393e03a99292",
+        "type": "knowledge",
+        "element_id": "23",
+        "description": "Knowledge of computer programming principles such as object-oriented design.",
+        "work_roles": [
+            "Secure Software Assessor",
+            "Cyberspace Capability Developer",
+            "Software Developer"
+        ]
+    },
+    {
+        "_id": "67d4218fe785393e03a992f3",
+        "type": "task",
+        "element_id": "2327",
+        "description": "Develop, implement, and recommend changes to appropriate planning procedures and policies.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d42146e785393e03a992a8",
+        "type": "task",
+        "element_id": "2335",
+        "description": "Direct software programming and development of documentation.",
+        "work_roles": [
+            "Secure Software Assessor",
+            "Cyberspace Capability Developer",
+            "Software Developer",
+            "Software/Cloud Architect"
+        ]
+    },
+    {
+        "_id": "67d42237e785393e03a994b8",
+        "type": "task",
+        "element_id": "2356",
+        "description": "Engage customers to understand customers\u2019 intelligence needs and wants.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "All-Source Analyst"
+        ]
+    },
+    {
+        "_id": "67d422b4e785393e03a99598",
+        "type": "task",
+        "element_id": "2379B",
+        "description": "Identify threats to Blue Force vulnerabilities.",
+        "work_roles": [
+            "Host Analyst",
+            "Network Analyst",
+            "Network Technician",
+            "All-Source Analyst"
+        ]
+    },
+    {
+        "_id": "67d42190e785393e03a992f6",
+        "type": "task",
+        "element_id": "2416",
+        "description": "Facilitate interactions between internal and external partner decision makers to synchronize and integrate courses of action in support of objectives.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Executive Cyber Leader",
+            "AI Innovation Leader",
+            "Data Officer"
+        ]
+    },
+    {
+        "_id": "67d42238e785393e03a994bc",
+        "type": "task",
+        "element_id": "2427",
+        "description": "Gather information about networks through traditional and alternative techniques, (e.g., social network analysis, call-chaining, traffic analysis.)",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42239e785393e03a994c0",
+        "type": "task",
+        "element_id": "2453",
+        "description": "Identify collection gaps and potential collection strategies against targets.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d421b2e785393e03a99362",
+        "type": "task",
+        "element_id": "2459A",
+        "description": "Identify cyber intelligence gaps and shortfalls.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Target Analyst Reporter",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d421f3e785393e03a993e1",
+        "type": "task",
+        "element_id": "2477",
+        "description": "Identify potential points of strength and vulnerability within a network.",
+        "work_roles": [
+            "Cyberspace Operator",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d4223ae785393e03a994c3",
+        "type": "task",
+        "element_id": "2515",
+        "description": "Initiate requests to guide tasking and assist with collection management.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42191e785393e03a992f9",
+        "type": "task",
+        "element_id": "2524",
+        "description": "Integrate cyber planning/targeting efforts with other organizations.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Joint Targeting Analyst"
+        ]
+    },
+    {
+        "_id": "67d42191e785393e03a992fa",
+        "type": "task",
+        "element_id": "2528",
+        "description": "Interpret environment preparations assessments to determine a course of action.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d42192e785393e03a992fd",
+        "type": "knowledge",
+        "element_id": "2531",
+        "description": "Knowledge of organizational planning concepts.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d4223be785393e03a994c4",
+        "type": "task",
+        "element_id": "2542",
+        "description": "Maintain awareness of advancements in hardware and software technologies (e.g., attend training or conferences, reading) and their potential implications.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4223be785393e03a994c5",
+        "type": "task",
+        "element_id": "2568",
+        "description": "Make recommendations to guide collection in support of customer requirements.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d422b5e785393e03a99599",
+        "type": "task",
+        "element_id": "2603",
+        "description": "Monitor operational environment and report on adversarial activities which fulfill leadership\u2019s priority information requirements.",
+        "work_roles": [
+            "Host Analyst",
+            "Network Analyst",
+            "All-Source Analyst"
+        ]
+    },
+    {
+        "_id": "67d4223be785393e03a994c6",
+        "type": "task",
+        "element_id": "2608",
+        "description": "Monitor target networks to provide indications and warning of target communications changes or processing failures.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d420b7e785393e03a991b5",
+        "type": "task",
+        "element_id": "2611",
+        "description": "Notify designated managers, cyber incident responders, and cybersecurity service provider team members of suspected cyber incidents and articulate the event\u2019s history, status, and potential impact for further action in accordance with the organization\u2019s cyber incident response plan.",
+        "work_roles": [
+            "Cyber Defense Analyst",
+            "Host Analyst",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d421b5e785393e03a99368",
+        "type": "task",
+        "element_id": "2624",
+        "description": "Conduct long-range, strategic planning efforts with internal and external partners in cyber activities.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Intelligence Planner",
+            "Executive Cyber Leader"
+        ]
+    },
+    {
+        "_id": "67d421b6e785393e03a99369",
+        "type": "task",
+        "element_id": "2628",
+        "description": "Participate in exercises.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Digital Network Exploitation Analyst",
+            "Joint Targeting Analyst",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4223ce785393e03a994c7",
+        "type": "task",
+        "element_id": "2628A",
+        "description": "Provide subject matter expertise to development of exercises.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d420abe785393e03a99197",
+        "type": "knowledge",
+        "element_id": "270",
+        "description": "Knowledge of common adversary tactics, techniques, and procedures in assigned area of responsibility (i.e., historical country-specific tactics, techniques, and procedures; emerging capabilities).",
+        "work_roles": [
+            "Cyber Defense Analyst",
+            "Cyber Operations Planner",
+            "Host Analyst",
+            "Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4223de785393e03a994ca",
+        "type": "task",
+        "element_id": "2719",
+        "description": "Profile targets and their activities.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d421b6e785393e03a9936a",
+        "type": "task",
+        "element_id": "2770",
+        "description": "Provide time sensitive targeting support.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4223de785393e03a994cb",
+        "type": "task",
+        "element_id": "2779",
+        "description": "Review appropriate information sources to determine validity and relevance of information gathered.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d41ff0e785393e03a9901d",
+        "type": "knowledge",
+        "element_id": "278",
+        "description": "Knowledge of different types of network communication (e.g., LAN, WAN, MAN, WLAN, WWAN).",
+        "work_roles": [
+            "Network Operations Specialist",
+            "Cyber Defense Analyst",
+            "Cyberspace Capability Developer",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d4223ee785393e03a994cd",
+        "type": "task",
+        "element_id": "2798",
+        "description": "Research communications trends in emerging technologies (in computer and telephony networks, satellite, cable, and wireless) in both open and classified sources.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4223ee785393e03a994ce",
+        "type": "task",
+        "element_id": "2818",
+        "description": "Sanitize and minimize information to protect sources and methods.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42147e785393e03a992a9",
+        "type": "task",
+        "element_id": "2839",
+        "description": "Supervise and assign work to programmers, designers, technologists and technicians and other engineering and scientific personnel.",
+        "work_roles": [
+            "Secure Software Assessor",
+            "Executive Cyber Leader",
+            "Product Manager",
+            "Software Developer"
+        ]
+    },
+    {
+        "_id": "67d4223ee785393e03a994cf",
+        "type": "task",
+        "element_id": "2840",
+        "description": "Support identification and documentation of collateral effects.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42195e785393e03a99308",
+        "type": "task",
+        "element_id": "2888",
+        "description": "Document lessons learned that convey the results of events and/or exercises.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d42374e785393e03a996c0",
+        "type": "task",
+        "element_id": "2893",
+        "description": "Assess, document, and apply a target\u2019s motivation and/or frame of reference to facilitate analysis, targeting and collection opportunities.",
+        "work_roles": [
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d4223fe785393e03a994d1",
+        "type": "task",
+        "element_id": "2897",
+        "description": "Conduct analysis of target communications to identify essential information in support of organization objectives.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d420c6e785393e03a991d9",
+        "type": "knowledge",
+        "element_id": "290",
+        "description": "Knowledge of processes for seizing and preserving digital evidence (e.g., chain of custody).",
+        "work_roles": [
+            "Cyber Defense Forensics Analyst",
+            "Cyber Crime Investigator",
+            "Forensics Analyst"
+        ]
+    },
+    {
+        "_id": "67d4223fe785393e03a994d2",
+        "type": "task",
+        "element_id": "2902",
+        "description": "Evaluate and interpret metadata to look for patterns, anomalies, or events, thereby optimizing targeting, analysis and processing.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42240e785393e03a994d3",
+        "type": "task",
+        "element_id": "2905",
+        "description": "Identify target communications within the global network.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42240e785393e03a994d4",
+        "type": "task",
+        "element_id": "2906",
+        "description": "Maintain awareness of target communication tools, techniques, and the characteristics of target communication networks (e.g., capacity, functionality, paths, critical nodes) and their potential implications for targeting, collection, and analysis.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42240e785393e03a994d5",
+        "type": "task",
+        "element_id": "2909",
+        "description": "Provide feedback to collection managers to enhance future collection and analysis.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42240e785393e03a994d6",
+        "type": "task",
+        "element_id": "2912",
+        "description": "Perform or support technical network analysis and mapping.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42241e785393e03a994d7",
+        "type": "task",
+        "element_id": "2919",
+        "description": "Perform social network analysis and document as appropriate.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42195e785393e03a9930a",
+        "type": "ability",
+        "element_id": "3003",
+        "description": "Ability to adjust to and operate in a diverse, unpredictable, challenging, and fast-paced work environment.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyberspace Operator",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d42242e785393e03a994da",
+        "type": "ability",
+        "element_id": "3020",
+        "description": "Ability to clearly articulate intelligence requirements into well-formulated research questions and requests for information.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42197e785393e03a9930f",
+        "type": "ability",
+        "element_id": "3033",
+        "description": "Ability to coordinate cyber operations with other organization functions or support activities.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d42197e785393e03a99310",
+        "type": "ability",
+        "element_id": "3040",
+        "description": "Ability to develop or recommend planning solutions to problems and situations for which no precedent exists.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Joint Targeting Analyst",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d42197e785393e03a99311",
+        "type": "ability",
+        "element_id": "3041",
+        "description": "Ability to effectively collaborate via virtual teams.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "All-Source Analyst",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d42244e785393e03a994de",
+        "type": "ability",
+        "element_id": "3052",
+        "description": "Ability to identify intelligence gaps.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "All-Source Analyst"
+        ]
+    },
+    {
+        "_id": "67d42198e785393e03a99314",
+        "type": "ability",
+        "element_id": "3057",
+        "description": "Ability to interpret and apply laws, regulations, policies, and guidance relevant to organization cyber objectives.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Intelligence Planner",
+            "Executive Cyber Leader"
+        ]
+    },
+    {
+        "_id": "67d421f5e785393e03a993e6",
+        "type": "ability",
+        "element_id": "3063",
+        "description": "Ability to monitor system operations and react to events in response to triggers and/or observation of trends or unusual activity.",
+        "work_roles": [
+            "Cyberspace Operator",
+            "Host Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d42245e785393e03a994e0",
+        "type": "ability",
+        "element_id": "3074",
+        "description": "Ability to recognize and mitigate deception in reporting and analysis.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "All-Source Analyst"
+        ]
+    },
+    {
+        "_id": "67d42245e785393e03a994e2",
+        "type": "knowledge",
+        "element_id": "3078",
+        "description": "Knowledge of target methods and procedures.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42147e785393e03a992aa",
+        "type": "ability",
+        "element_id": "3080",
+        "description": "Ability to use and understand complex mathematical concepts (e.g., discrete math).",
+        "work_roles": [
+            "Secure Software Assessor",
+            "Software Developer",
+            "Software/Cloud Architect",
+            "Data Scientist"
+        ]
+    },
+    {
+        "_id": "67d42246e785393e03a994e3",
+        "type": "ability",
+        "element_id": "3081",
+        "description": "Ability to utilize multiple intelligence sources across all intelligence disciplines.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "All-Source Analyst"
+        ]
+    },
+    {
+        "_id": "67d41fbfe785393e03a98f9e",
+        "type": "knowledge",
+        "element_id": "31",
+        "description": "Knowledge of data mining and data warehousing principles.",
+        "work_roles": [
+            "Database Administrator",
+            "Data Analyst",
+            "Data Operations Specialist"
+        ]
+    },
+    {
+        "_id": "67d420c6e785393e03a991db",
+        "type": "knowledge",
+        "element_id": "310",
+        "description": "Knowledge of legal governance related to admissibility (e.g., Federal Rules of Evidence).",
+        "work_roles": [
+            "Cyber Defense Forensics Analyst",
+            "Cyber Crime Investigator",
+            "Forensics Analyst"
+        ]
+    },
+    {
+        "_id": "67d42246e785393e03a994e4",
+        "type": "knowledge",
+        "element_id": "3113",
+        "description": "Knowledge of target intelligence gathering and operational preparation techniques and life cycles.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d421d9e785393e03a99398",
+        "type": "knowledge",
+        "element_id": "3140",
+        "description": "Knowledge of basic programming concepts (e.g., levels, structures, compiled vs. interpreted languages).",
+        "work_roles": [
+            "Cyberspace Capability Developer",
+            "Cyberspace Operator",
+            "Host Analyst"
+        ]
+    },
+    {
+        "_id": "67d41fd9e785393e03a98fe7",
+        "type": "knowledge",
+        "element_id": "3153",
+        "description": "Knowledge of circuit analysis.",
+        "work_roles": [
+            "Enterprise Architect",
+            "Systems Developer",
+            "Security Architect",
+            "Host Analyst"
+        ]
+    },
+    {
+        "_id": "67d4219be785393e03a9931e",
+        "type": "knowledge",
+        "element_id": "3155",
+        "description": "Knowledge of client organizations, including information needs, objectives, structure, capabilities, etc.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Exploitation Analyst",
+            "Cyber Intelligence Planner",
+            "Cyber Crime Investigator"
+        ]
+    },
+    {
+        "_id": "67d42248e785393e03a994e6",
+        "type": "knowledge",
+        "element_id": "3158",
+        "description": "Knowledge of cyber operation objectives, policies, and legalities.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d4219be785393e03a9931f",
+        "type": "knowledge",
+        "element_id": "3159",
+        "description": "Knowledge of cyber operations support or enabling processes.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Cyber Intelligence Planner",
+            "Cyber Crime Investigator"
+        ]
+    },
+    {
+        "_id": "67d42248e785393e03a994e7",
+        "type": "knowledge",
+        "element_id": "3166",
+        "description": "Knowledge of collection searching/analyzing techniques and tools for chat/buddy list, emerging technologies, VOIP, Media Over IP, VPN, VSAT/wireless, web mail and cookies.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42248e785393e03a994e8",
+        "type": "knowledge",
+        "element_id": "3172",
+        "description": "Knowledge of collection sources including conventional and non-conventional sources.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42249e785393e03a994e9",
+        "type": "knowledge",
+        "element_id": "3174",
+        "description": "Knowledge of the intelligence requirements development and request for information processes.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d4219ce785393e03a99321",
+        "type": "knowledge",
+        "element_id": "3177",
+        "description": "Knowledge of common computer/network infections (virus, Trojan, etc.) and methods of infection (ports, attachments, etc.).",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "All-Source Analyst",
+            "All-Source Collection Manager",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d42249e785393e03a994eb",
+        "type": "knowledge",
+        "element_id": "3181",
+        "description": "Knowledge of common reporting databases and tools.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4219ce785393e03a99323",
+        "type": "knowledge",
+        "element_id": "3194",
+        "description": "Knowledge of crisis action planning and time sensitive planning procedures.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d4228be785393e03a99583",
+        "type": "knowledge",
+        "element_id": "3201",
+        "description": "Knowledge of all relevant reporting and dissemination procedures.",
+        "work_roles": [
+            "Exploitation Analyst",
+            "Host Analyst",
+            "Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42403e785393e03a99701",
+        "type": "knowledge",
+        "element_id": "3205",
+        "description": "Knowledge of current computer-based intrusion sets.",
+        "work_roles": [
+            "All-Source Analyst",
+            "All-Source Collection Manager",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d421f8e785393e03a993ed",
+        "type": "knowledge",
+        "element_id": "3206",
+        "description": "Knowledge of current software and methodologies for active defense and system hardening.",
+        "work_roles": [
+            "Cyberspace Operator",
+            "Exploitation Analyst",
+            "Host Analyst",
+            "Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d421cfe785393e03a99389",
+        "type": "knowledge",
+        "element_id": "320A",
+        "description": "Knowledge of external organizations and academic institutions with cyber focus (e.g., cyber curriculum/training and Research & Development).",
+        "work_roles": [
+            "Cyberspace Capability Developer",
+            "Cyber Policy and Strategy Planner",
+            "Cyber Workforce Developer and Manager"
+        ]
+    },
+    {
+        "_id": "67d4219de785393e03a99324",
+        "type": "knowledge",
+        "element_id": "3211",
+        "description": "Knowledge of cyber laws and legal considerations and their effect on cyber planning.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Cyber Intelligence Planner",
+            "Cyber Crime Investigator"
+        ]
+    },
+    {
+        "_id": "67d42004e785393e03a9904a",
+        "type": "knowledge",
+        "element_id": "321A",
+        "description": "Knowledge of industry technologies and how differences affect exploitation/vulnerabilities.",
+        "work_roles": [
+            "Research & Development Specialist",
+            "Digital Network Exploitation Analyst",
+            "Executive Cyber Leader"
+        ]
+    },
+    {
+        "_id": "67d4224ae785393e03a994ec",
+        "type": "knowledge",
+        "element_id": "3237",
+        "description": "Knowledge of denial and deception techniques.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4224ae785393e03a994ed",
+        "type": "knowledge",
+        "element_id": "3242",
+        "description": "Knowledge of document classification procedures, policy, resources, and personnel.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d41fdae785393e03a98fe8",
+        "type": "knowledge",
+        "element_id": "3246",
+        "description": "Knowledge of confidentiality, integrity, and availability requirements.",
+        "work_roles": [
+            "Enterprise Architect",
+            "Security Architect",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d4219ee785393e03a99328",
+        "type": "knowledge",
+        "element_id": "3257",
+        "description": "Knowledge of target and threat organization structures, critical capabilities, and critical vulnerabilities.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Cyber Intelligence Planner",
+            "Cyber Crime Investigator"
+        ]
+    },
+    {
+        "_id": "67d424b6e785393e03a997f6",
+        "type": "ability",
+        "element_id": "325A",
+        "description": "Ability to ensure security practices are followed throughout the acquisition process.",
+        "work_roles": [
+            "IT Program Auditor",
+            "IT Project Manager",
+            "Product Support Manager",
+            "Program Manager"
+        ]
+    },
+    {
+        "_id": "67d421f9e785393e03a993f0",
+        "type": "knowledge",
+        "element_id": "3261",
+        "description": "Knowledge of evasion strategies and techniques.",
+        "work_roles": [
+            "Cyberspace Operator",
+            "Exploitation Analyst",
+            "Host Analyst",
+            "Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4219ee785393e03a9932a",
+        "type": "knowledge",
+        "element_id": "3264",
+        "description": "Knowledge of existing, emerging, and long-range issues related to cyber operations strategy, policy, and organization.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Cyber Intelligence Planner",
+            "Cyber Crime Investigator"
+        ]
+    },
+    {
+        "_id": "67d4219fe785393e03a9932b",
+        "type": "knowledge",
+        "element_id": "3268",
+        "description": "Knowledge of staff management, assignment, and allocation processes.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Product Manager"
+        ]
+    },
+    {
+        "_id": "67d421bee785393e03a99371",
+        "type": "knowledge",
+        "element_id": "3271",
+        "description": "Knowledge of internal and external partner cyber operations capabilities and tools.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Joint Targeting Analyst",
+            "All-Source Analyst",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d4219fe785393e03a9932c",
+        "type": "knowledge",
+        "element_id": "3274",
+        "description": "Knowledge of fundamental cyber operations concepts, terminology/lexicon (i.e., environment preparation, cyber attack, cyber defense), principles, capabilities, limitations, and effects.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "All-Source Analyst",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d4219fe785393e03a9932d",
+        "type": "knowledge",
+        "element_id": "3275",
+        "description": "Knowledge of fundamental cyber concepts, principles, limitations, and effects.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "All-Source Collection Manager",
+            "All-Source Collection Requirements Manager",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d421fae785393e03a993f4",
+        "type": "knowledge",
+        "element_id": "3286",
+        "description": "Knowledge of host-based security products and how they affect exploitation and vulnerability.",
+        "work_roles": [
+            "Cyberspace Operator",
+            "All-Source Analyst",
+            "All-Source Collection Manager",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d4224be785393e03a994ee",
+        "type": "knowledge",
+        "element_id": "3288",
+        "description": "Knowledge of how converged technologies impact cyber operations (e.g., digital, telephony, wireless).",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4224ce785393e03a994ef",
+        "type": "knowledge",
+        "element_id": "3296",
+        "description": "Knowledge of how to collect, view, and identify essential information on targets of interest from metadata (e.g., email, http).",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4228ee785393e03a99586",
+        "type": "knowledge",
+        "element_id": "3297",
+        "description": "Knowledge of how to establish priorities for resources.",
+        "work_roles": [
+            "Exploitation Analyst",
+            "All-Source Collection Manager",
+            "All-Source Collection Requirements Manager"
+        ]
+    },
+    {
+        "_id": "67d41fdae785393e03a98fe9",
+        "type": "knowledge",
+        "element_id": "3307",
+        "description": "Knowledge of cybersecurity-enabled software products.",
+        "work_roles": [
+            "Enterprise Architect",
+            "System Testing and Evaluation Specialist",
+            "Systems Developer",
+            "Security Architect"
+        ]
+    },
+    {
+        "_id": "67d421fae785393e03a993f5",
+        "type": "knowledge",
+        "element_id": "3317",
+        "description": "Knowledge of implementing Unix and Windows systems that provide radius authentication and logging, DNS, mail, web service, FTP server, DHCP, firewall, and SNMP.",
+        "work_roles": [
+            "Cyberspace Operator",
+            "Exploitation Analyst",
+            "Host Analyst"
+        ]
+    },
+    {
+        "_id": "67d4224ce785393e03a994f1",
+        "type": "knowledge",
+        "element_id": "3324",
+        "description": "Knowledge of information and collateral intelligence sources.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d421bfe785393e03a99375",
+        "type": "knowledge",
+        "element_id": "3342",
+        "description": "Knowledge of intelligence support to planning, execution, and assessment.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "All-Source Analyst",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d42093e785393e03a99162",
+        "type": "knowledge",
+        "element_id": "3353",
+        "description": "Knowledge of the Risk Management Framework Assessment Methodology.",
+        "work_roles": [
+            "Control Systems Security Specialist",
+            "Host Analyst",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d420e1e785393e03a99224",
+        "type": "knowledge",
+        "element_id": "3362A",
+        "description": "Knowledge of key factors of the operational environment and related threats and vulnerabilities.",
+        "work_roles": [
+            "Cyber Defense Incident Responder",
+            "All-Source Collection Manager",
+            "All-Source Collection Requirements Manager"
+        ]
+    },
+    {
+        "_id": "67d421fbe785393e03a993f7",
+        "type": "knowledge",
+        "element_id": "3378",
+        "description": "Knowledge of methods and techniques used to detect various exploitation activities.",
+        "work_roles": [
+            "Cyberspace Operator",
+            "Exploitation Analyst",
+            "Host Analyst",
+            "Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4224ee785393e03a994f4",
+        "type": "knowledge",
+        "element_id": "3382",
+        "description": "Knowledge of methods to integrate and summarize information from any potential sources.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4224ee785393e03a994f5",
+        "type": "knowledge",
+        "element_id": "3386",
+        "description": "Knowledge of midpoint collection (process, objectives, organization, targets, etc.).",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d421a1e785393e03a99334",
+        "type": "knowledge",
+        "element_id": "3391",
+        "description": "Knowledge of objectives, situation, operational environment, and the status and disposition of internal and external partner collection capabilities available to support planning.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d420c7e785393e03a991dd",
+        "type": "knowledge",
+        "element_id": "340",
+        "description": "Knowledge of types and collection of persistent data.",
+        "work_roles": [
+            "Cyber Defense Forensics Analyst",
+            "Cyber Crime Investigator",
+            "Forensics Analyst"
+        ]
+    },
+    {
+        "_id": "67d4224fe785393e03a994f7",
+        "type": "knowledge",
+        "element_id": "3418",
+        "description": "Knowledge of organization and/or partner collection systems, capabilities, and processes (e.g., collection and protocol processors).",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d421c1e785393e03a99377",
+        "type": "knowledge",
+        "element_id": "3419",
+        "description": "Knowledge of organization or partner exploitation of digital networks.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "All-Source Analyst",
+            "Cyber Intelligence Planner",
+            "Cyber Crime Investigator"
+        ]
+    },
+    {
+        "_id": "67d42018e785393e03a9907a",
+        "type": "knowledge",
+        "element_id": "342A",
+        "description": "Knowledge of operating system command line/prompt.",
+        "work_roles": [
+            "System Administrator",
+            "Control Systems Security Specialist",
+            "Cyber Defense Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d4200de785393e03a9905e",
+        "type": "knowledge",
+        "element_id": "344",
+        "description": "Knowledge of virtualization technologies and virtual machine development and maintenance.",
+        "work_roles": [
+            "System Administrator",
+            "Cyberspace Operator",
+            "Network Technician",
+            "Cyber Instructor"
+        ]
+    },
+    {
+        "_id": "67d420c7e785393e03a991de",
+        "type": "knowledge",
+        "element_id": "345",
+        "description": "Knowledge of web mail collection, searching/analyzing techniques, tools, and cookies.",
+        "work_roles": [
+            "Cyber Defense Forensics Analyst",
+            "Exploitation Analyst",
+            "Privacy Compliance Manager",
+            "Forensics Analyst"
+        ]
+    },
+    {
+        "_id": "67d4224fe785393e03a994f8",
+        "type": "knowledge",
+        "element_id": "3450",
+        "description": "Knowledge of principles and practices related to target development such as target knowledge, associations, communication systems, and infrastructure.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d421fce785393e03a993fa",
+        "type": "knowledge",
+        "element_id": "3454",
+        "description": "Knowledge of products and nomenclature of major vendors (e.g., security suites \u2013 Trend Micro, Symantec, McAfee, Outpost, Panda, Kaspersky) and how differences affect exploitation/vulnerabilities.",
+        "work_roles": [
+            "Cyberspace Operator",
+            "Exploitation Analyst",
+            "Host Analyst",
+            "Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d421a2e785393e03a99338",
+        "type": "knowledge",
+        "element_id": "3459",
+        "description": "Knowledge of the functions and capabilities of internal teams that emulate threat activities to benefit the organization.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Host Analyst",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d421fde785393e03a993fc",
+        "type": "knowledge",
+        "element_id": "3479",
+        "description": "Knowledge of security hardware and software options, including the network artifacts they induce and their effects on exploitation.",
+        "work_roles": [
+            "Cyberspace Operator",
+            "Exploitation Analyst",
+            "Host Analyst"
+        ]
+    },
+    {
+        "_id": "67d421fde785393e03a993fd",
+        "type": "knowledge",
+        "element_id": "3480",
+        "description": "Knowledge of security implications of software configurations.",
+        "work_roles": [
+            "Cyberspace Operator",
+            "Exploitation Analyst",
+            "Host Analyst",
+            "Cyber Crime Investigator"
+        ]
+    },
+    {
+        "_id": "67d425b6e785393e03a99928",
+        "type": "knowledge",
+        "element_id": "35",
+        "description": "Knowledge of digital rights management.",
+        "work_roles": [
+            "Product Designer User Interface (UI)",
+            "Product Manager",
+            "Service Designer User Experience (UX)",
+            "Data Scientist"
+        ]
+    },
+    {
+        "_id": "67d420bae785393e03a991bd",
+        "type": "skill",
+        "element_id": "350",
+        "description": "Skill in analyzing memory dumps to extract information.",
+        "work_roles": [
+            "Cyber Defense Forensics Analyst",
+            "Cyberspace Operator",
+            "Host Analyst",
+            "Forensics Analyst"
+        ]
+    },
+    {
+        "_id": "67d4224fe785393e03a994f9",
+        "type": "knowledge",
+        "element_id": "3505",
+        "description": "Knowledge of strategies and tools for target research.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d422e8e785393e03a9960c",
+        "type": "knowledge",
+        "element_id": "3541",
+        "description": "Knowledge of the available tools and applications associated with collection requirements and collection management.",
+        "work_roles": [
+            "Joint Targeting Analyst",
+            "All-Source Collection Manager",
+            "All-Source Collection Requirements Manager"
+        ]
+    },
+    {
+        "_id": "67d42250e785393e03a994fa",
+        "type": "knowledge",
+        "element_id": "3542",
+        "description": "Knowledge of the basic structure, architecture, and design of converged applications.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d422e8e785393e03a9960d",
+        "type": "knowledge",
+        "element_id": "3584",
+        "description": "Knowledge of intelligence preparation of the environment and similar processes.",
+        "work_roles": [
+            "Joint Targeting Analyst",
+            "All-Source Analyst",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d421a4e785393e03a9933e",
+        "type": "knowledge",
+        "element_id": "3585",
+        "description": "Knowledge of accepted organization planning systems.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Cyber Intelligence Planner",
+            "Cyber Crime Investigator"
+        ]
+    },
+    {
+        "_id": "67d42251e785393e03a994fd",
+        "type": "knowledge",
+        "element_id": "3603",
+        "description": "Knowledge of the principal methods, procedures, and techniques of gathering information and producing intelligence.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42251e785393e03a994fe",
+        "type": "knowledge",
+        "element_id": "3608",
+        "description": "Knowledge of the purpose and contribution of target templates.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d421a6e785393e03a99343",
+        "type": "knowledge",
+        "element_id": "3610",
+        "description": "Knowledge of the relationships between end states, objectives, effects, lines of operation, etc.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d421c4e785393e03a9937e",
+        "type": "knowledge",
+        "element_id": "3615",
+        "description": "Knowledge of the structure and intent of organization specific plans, guidance and authorizations.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "All-Source Analyst",
+            "Cyber Intelligence Planner",
+            "Cyber Crime Investigator"
+        ]
+    },
+    {
+        "_id": "67d42252e785393e03a994ff",
+        "type": "knowledge",
+        "element_id": "3617",
+        "description": "Knowledge of the structure, architecture, and design of modern wireless communications systems.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d423c9e785393e03a996db",
+        "type": "knowledge",
+        "element_id": "3626",
+        "description": "Knowledge of the organization\u2019s planning, operations and targeting cycles.",
+        "work_roles": [
+            "Target Digital Network Analyst",
+            "All-Source Collection Manager",
+            "All-Source Collection Requirements Manager"
+        ]
+    },
+    {
+        "_id": "67d421a7e785393e03a99347",
+        "type": "knowledge",
+        "element_id": "3630",
+        "description": "Knowledge of the ways in which targets or threats use the Internet.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Joint Targeting Analyst",
+            "All-Source Analyst",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d42200e785393e03a99403",
+        "type": "knowledge",
+        "element_id": "3631",
+        "description": "Knowledge of internal and external partner organization capabilities and limitations (those with tasking, collection, processing, exploitation and dissemination responsibilities).",
+        "work_roles": [
+            "Cyberspace Operator",
+            "All-Source Collection Manager",
+            "All-Source Collection Requirements Manager"
+        ]
+    },
+    {
+        "_id": "67d421c4e785393e03a9937f",
+        "type": "knowledge",
+        "element_id": "3638",
+        "description": "Knowledge of organization issues, objectives, and operations in cyber as well as regulations and policy directives governing cyber operations.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Intelligence Planner",
+            "Cyber Crime Investigator"
+        ]
+    },
+    {
+        "_id": "67d421a7e785393e03a99348",
+        "type": "knowledge",
+        "element_id": "3639",
+        "description": "Knowledge of organization cyber operations programs, strategies, and resources.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Intelligence Planner",
+            "Cyber Crime Investigator"
+        ]
+    },
+    {
+        "_id": "67d421a8e785393e03a9934a",
+        "type": "knowledge",
+        "element_id": "3659",
+        "description": "Knowledge of wireless technologies (e.g., cellular, satellite, GSM) to include the basic structure, architecture, and design of modern wireless communications systems.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "All-Source Analyst",
+            "Cyber Intelligence Planner",
+            "Privacy Compliance Manager"
+        ]
+    },
+    {
+        "_id": "67d42253e785393e03a99500",
+        "type": "skill",
+        "element_id": "3664",
+        "description": "Skill in identifying how a target communicates.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d421a8e785393e03a9934b",
+        "type": "skill",
+        "element_id": "3665",
+        "description": "Skill in administrative planning activities, to include preparation of functional and specific support plans, preparing and managing correspondence, and staffing procedures.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d42253e785393e03a99501",
+        "type": "skill",
+        "element_id": "3667",
+        "description": "Skill in analyzing a target\u2019s communication networks.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42254e785393e03a99504",
+        "type": "skill",
+        "element_id": "3689",
+        "description": "Skill in applying various analytical methods, tools, and techniques (e.g., competing hypotheses; chain of reasoning; scenario methods; denial and deception detection; high impact-low probability; network/association or link analysis; Bayesian, Delphi, and Pattern analyses).",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d420c8e785393e03a991e2",
+        "type": "skill",
+        "element_id": "369",
+        "description": "Skill in collecting, processing, packaging, transporting, and storing electronic evidence to avoid alteration, loss, physical damage, or destruction of data.",
+        "work_roles": [
+            "Cyber Defense Forensics Analyst",
+            "Cyber Crime Investigator",
+            "Forensics Analyst"
+        ]
+    },
+    {
+        "_id": "67d42254e785393e03a99505",
+        "type": "skill",
+        "element_id": "3692",
+        "description": "Skill in assessing the applicability of available analytical tools to various situations.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42081e785393e03a99146",
+        "type": "knowledge",
+        "element_id": "37",
+        "description": "Knowledge of disaster recovery continuity of operations plans.",
+        "work_roles": [
+            "COMSEC Manager",
+            "Cyber Defense Incident Responder",
+            "Information Systems Security Manager"
+        ]
+    },
+    {
+        "_id": "67d42254e785393e03a99506",
+        "type": "skill",
+        "element_id": "3708",
+        "description": "Skill in conducting social network analysis, buddy list analysis, and/or cookie analysis.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42202e785393e03a9940b",
+        "type": "skill",
+        "element_id": "3722",
+        "description": "Skill in data mining techniques (e.g., searching file systems) and analysis.",
+        "work_roles": [
+            "Cyberspace Operator",
+            "Exploitation Analyst",
+            "Data Operations Specialist"
+        ]
+    },
+    {
+        "_id": "67d42255e785393e03a99509",
+        "type": "skill",
+        "element_id": "3765",
+        "description": "Skill in disseminating items of highest intelligence value in a timely manner.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d421a9e785393e03a9934f",
+        "type": "skill",
+        "element_id": "3766",
+        "description": "Skill in documenting and communicating complex technical and programmatic information.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Cyber Operations Planner",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d42256e785393e03a9950a",
+        "type": "skill",
+        "element_id": "3771",
+        "description": "Skill in evaluating data sources for relevance, reliability, and objectivity.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42256e785393e03a9950b",
+        "type": "skill",
+        "element_id": "3773",
+        "description": "Skill in evaluating information to recognize relevance, priority, etc.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42256e785393e03a9950c",
+        "type": "skill",
+        "element_id": "3774",
+        "description": "Skill in evaluating accesses for intelligence value.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42257e785393e03a9950d",
+        "type": "skill",
+        "element_id": "3778",
+        "description": "Skill in exploiting/querying organizational and/or partner collection databases.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42257e785393e03a9950e",
+        "type": "skill",
+        "element_id": "3787",
+        "description": "Skill in identifying a target\u2019s communications networks.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42257e785393e03a9950f",
+        "type": "skill",
+        "element_id": "3797",
+        "description": "Skill in identifying leads for target development.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42258e785393e03a99510",
+        "type": "skill",
+        "element_id": "3803",
+        "description": "Skill in identifying, locating, and tracking targets via geospatial analysis techniques",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42258e785393e03a99512",
+        "type": "skill",
+        "element_id": "3812",
+        "description": "Skill in interpreting metadata and content as applied by collection systems.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42204e785393e03a9940f",
+        "type": "skill",
+        "element_id": "3815",
+        "description": "Skill in interpreting vulnerability scanner results to identify vulnerabilities.",
+        "work_roles": [
+            "Cyberspace Operator",
+            "Exploitation Analyst",
+            "Host Analyst",
+            "Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d425b3e785393e03a99920",
+        "type": "skill",
+        "element_id": "3822A",
+        "description": "Skill in managing user relationships, including determining user needs/requirements, managing user expectations, and demonstrating commitment to delivering quality results.",
+        "work_roles": [
+            "Product Designer User Interface (UI)",
+            "Service Designer User Experience (UX)",
+            "Software Developer"
+        ]
+    },
+    {
+        "_id": "67d42259e785393e03a99515",
+        "type": "skill",
+        "element_id": "3828",
+        "description": "Skill in navigating network visualization software.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42204e785393e03a99411",
+        "type": "skill",
+        "element_id": "3859",
+        "description": "Skill in reading, interpreting, writing, modifying, and executing simple scripts (e.g., PERL, VBS) on Windows and Unix systems (e.g., those that perform tasks like parsing large data files, automating manual tasks, and fetching/processing remote data).",
+        "work_roles": [
+            "Cyberspace Operator",
+            "Exploitation Analyst",
+            "Host Analyst"
+        ]
+    },
+    {
+        "_id": "67d42018e785393e03a9907b",
+        "type": "skill",
+        "element_id": "386",
+        "description": "Skill in using virtual machines.",
+        "work_roles": [
+            "System Administrator",
+            "Cyber Defense Forensics Analyst",
+            "Forensics Analyst"
+        ]
+    },
+    {
+        "_id": "67d4229ae785393e03a99591",
+        "type": "skill",
+        "element_id": "3863",
+        "description": "Skill in recognizing midpoint opportunities and essential information.",
+        "work_roles": [
+            "Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42259e785393e03a99517",
+        "type": "skill",
+        "element_id": "3864",
+        "description": "Skill in recognizing relevance of information.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4225ae785393e03a99518",
+        "type": "skill",
+        "element_id": "3865",
+        "description": "Skill in recognizing significant changes in a target\u2019s communication patterns.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d4227be785393e03a99571",
+        "type": "skill",
+        "element_id": "3867",
+        "description": "Skill in recognizing technical information that may be used for leads to enable remote operations (data includes users, passwords, email addresses, IP ranges of the target, frequency in DNI behavior, mail servers, domain servers, SMTP header information).",
+        "work_roles": [
+            "Exploitation Analyst",
+            "Exploitation Analyst",
+            "Target Analyst Reporter"
+        ]
+    },
+    {
+        "_id": "67d4225ae785393e03a9951a",
+        "type": "skill",
+        "element_id": "3867A",
+        "description": "Skill in recognizing technical information that may be used for target development including intelligence development.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42205e785393e03a99413",
+        "type": "skill",
+        "element_id": "3871",
+        "description": "Skill in remote command line and Graphic User Interface (GUI) tool usage.",
+        "work_roles": [
+            "Cyberspace Operator",
+            "Host Analyst",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d4225be785393e03a9951b",
+        "type": "skill",
+        "element_id": "3873",
+        "description": "Skill in researching essential information.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4225be785393e03a9951d",
+        "type": "skill",
+        "element_id": "3885",
+        "description": "Skill in fusion analysis",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4225ce785393e03a9951f",
+        "type": "skill",
+        "element_id": "3890",
+        "description": "Skill in synthesizing, analyzing, and prioritizing meaning across data sets.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d422ebe785393e03a99613",
+        "type": "skill",
+        "element_id": "3893",
+        "description": "Skill in tailoring analysis to the necessary levels (e.g., classification and organizational).",
+        "work_roles": [
+            "Joint Targeting Analyst",
+            "All-Source Analyst",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d4225ce785393e03a99521",
+        "type": "skill",
+        "element_id": "3908",
+        "description": "Skill in using research methods including multiple, different sources to reconstruct a target network.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4225de785393e03a99522",
+        "type": "skill",
+        "element_id": "3915",
+        "description": "Skill in using geospatial data and applying geospatial resources.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d421aae785393e03a99354",
+        "type": "skill",
+        "element_id": "3938",
+        "description": "Skill in utilizing feedback in order to improve processes, products, and services.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "All-Source Analyst",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d421abe785393e03a99355",
+        "type": "skill",
+        "element_id": "3946",
+        "description": "Skill in utilizing virtual collaborative workspaces and/or tools (e.g., IWS, VTCs, chat rooms, SharePoint).",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Joint Targeting Analyst",
+            "All-Source Analyst",
+            "Cyber Intelligence Planner"
+        ]
+    },
+    {
+        "_id": "67d42206e785393e03a99419",
+        "type": "skill",
+        "element_id": "3948",
+        "description": "Skill in verifying the integrity of all files.",
+        "work_roles": [
+            "Cyberspace Operator",
+            "Exploitation Analyst",
+            "Host Analyst",
+            "Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42083e785393e03a99148",
+        "type": "task",
+        "element_id": "395",
+        "description": "Advise senior management (e.g., CIO) on risk levels and security posture.",
+        "work_roles": [
+            "COMSEC Manager",
+            "Information Systems Security Manager",
+            "Executive Cyber Leader",
+            "Privacy Compliance Manager"
+        ]
+    },
+    {
+        "_id": "67d4225de785393e03a99524",
+        "type": "skill",
+        "element_id": "3951",
+        "description": "Skill in writing about facts and ideas in a clear, convincing, and organized manner.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42087e785393e03a9914d",
+        "type": "task",
+        "element_id": "396",
+        "description": "Advise senior management (e.g., CIO) on cost/benefit analysis of information security programs, policies, processes, and systems, and elements.",
+        "work_roles": [
+            "COMSEC Manager",
+            "Information Systems Security Manager",
+            "Executive Cyber Leader",
+            "Privacy Compliance Manager"
+        ]
+    },
+    {
+        "_id": "67d42416e785393e03a99728",
+        "type": "ability",
+        "element_id": "3994",
+        "description": "Ability to coordinate, collaborate and disseminate information to subordinate, lateral and higher-level organizations.",
+        "work_roles": [
+            "All-Source Collection Manager",
+            "All-Source Collection Requirements Manager",
+            "Executive Cyber Leader"
+        ]
+    },
+    {
+        "_id": "67d420a1e785393e03a99188",
+        "type": "skill",
+        "element_id": "3C",
+        "description": "Skill in recognizing vulnerabilities in information and/or data systems.",
+        "work_roles": [
+            "Cyber Defense Analyst",
+            "DevSecOps Specialist",
+            "Systems Security Analyst"
+        ]
+    },
+    {
+        "_id": "67d42002e785393e03a99044",
+        "type": "ability",
+        "element_id": "4",
+        "description": "Ability to identify systemic security issues based on the analysis of vulnerability and configuration data.",
+        "work_roles": [
+            "Research & Development Specialist",
+            "Vulnerability Assessment Analyst",
+            "DevSecOps Specialist"
+        ]
+    },
+    {
+        "_id": "67d4225de785393e03a99525",
+        "type": "knowledge",
+        "element_id": "4072",
+        "description": "Knowledge of collection systems, capabilities, and processes.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d4225ee785393e03a99526",
+        "type": "knowledge",
+        "element_id": "4073",
+        "description": "Knowledge of the feedback cycle in collection processes.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d4225ee785393e03a99527",
+        "type": "knowledge",
+        "element_id": "4078",
+        "description": "Knowledge of target or threat cyber actors and procedures.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d4225ee785393e03a99528",
+        "type": "knowledge",
+        "element_id": "4079",
+        "description": "Knowledge of basic cyber operations activity concepts (e.g., foot printing, scanning and enumeration, penetration testing, white/black listing).",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d421cfe785393e03a9938a",
+        "type": "task",
+        "element_id": "408",
+        "description": "Analyze information to determine, recommend, and plan the development of a new application or modification of an existing application.",
+        "work_roles": [
+            "Cyberspace Capability Developer",
+            "Network Analyst",
+            "Software Developer",
+            "Data Architect"
+        ]
+    },
+    {
+        "_id": "67d4225fe785393e03a99529",
+        "type": "knowledge",
+        "element_id": "4085",
+        "description": "Knowledge of approved intelligence dissemination processes.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d4225fe785393e03a9952a",
+        "type": "knowledge",
+        "element_id": "4088",
+        "description": "Knowledge of target communication profiles and their key elements (e.g., target associations, activities, communication infrastructure).",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d4225fe785393e03a9952b",
+        "type": "knowledge",
+        "element_id": "4089",
+        "description": "Knowledge of target communication tools and techniques.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42260e785393e03a9952c",
+        "type": "knowledge",
+        "element_id": "4090",
+        "description": "Knowledge of the characteristics of targeted communication networks (e.g., capacity, functionality, paths, critical nodes).",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42260e785393e03a9952d",
+        "type": "knowledge",
+        "element_id": "4094",
+        "description": "Knowledge of networking and internet communications fundamentals (i.e. devices, device configuration, hardware, software, applications, ports/protocols, addressing, network architecture and infrastructure, routing, operating systems, etc.).",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42261e785393e03a9952f",
+        "type": "knowledge",
+        "element_id": "4097",
+        "description": "Knowledge of network security implementations (e.g., host-based IDS, IPS, access control lists), including their function and placement in a network.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42261e785393e03a99530",
+        "type": "knowledge",
+        "element_id": "4099",
+        "description": "Knowledge of customer information needs.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42395e785393e03a996c3",
+        "type": "knowledge",
+        "element_id": "4113",
+        "description": "Knowledge of the request for information process.",
+        "work_roles": [
+            "Target Analyst Reporter",
+            "All-Source Collection Manager",
+            "All-Source Collection Requirements Manager",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42261e785393e03a99531",
+        "type": "skill",
+        "element_id": "4118",
+        "description": "Skill in identifying a target\u2019s network characteristics.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42262e785393e03a99532",
+        "type": "skill",
+        "element_id": "4121",
+        "description": "Skill in assessing a target\u2019s frame of reference (e.g., motivation, technical capability, organizational structure, sensitivities).",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42262e785393e03a99533",
+        "type": "skill",
+        "element_id": "4123",
+        "description": "Skill in conducting research using all available sources.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42262e785393e03a99534",
+        "type": "skill",
+        "element_id": "4125",
+        "description": "Skill in complying with the legal restrictions for targeted information.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42262e785393e03a99535",
+        "type": "skill",
+        "element_id": "4128",
+        "description": "Skill in developing intelligence reports.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42263e785393e03a99536",
+        "type": "skill",
+        "element_id": "4129",
+        "description": "Skill in evaluating and interpreting metadata.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42021e785393e03a9908a",
+        "type": "task",
+        "element_id": "412A",
+        "description": "Analyze the results of software, hardware, or interoperability testing.",
+        "work_roles": [
+            "System Testing and Evaluation Specialist",
+            "DevSecOps Specialist",
+            "Software Test & Evaluation Specialist",
+            "Software/Cloud Architect"
+        ]
+    },
+    {
+        "_id": "67d42263e785393e03a99537",
+        "type": "skill",
+        "element_id": "4134",
+        "description": "Skill in identifying intelligence gaps and limitations.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d41fc5e785393e03a98fac",
+        "type": "task",
+        "element_id": "413A",
+        "description": "Analyze user needs and requirements to plan architecture.",
+        "work_roles": [
+            "Enterprise Architect",
+            "Security Architect",
+            "Software/Cloud Architect"
+        ]
+    },
+    {
+        "_id": "67d42263e785393e03a99538",
+        "type": "skill",
+        "element_id": "4141",
+        "description": "Skill in providing analysis on target-related matters (e.g., language, cultural, communications).",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42264e785393e03a99539",
+        "type": "skill",
+        "element_id": "4160",
+        "description": "Skill in interpreting traceroute results, as they apply to network analysis and reconstruction.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42264e785393e03a9953a",
+        "type": "knowledge",
+        "element_id": "4165",
+        "description": "Knowledge of obfuscation techniques (e.g., TOR/Onion/anonymizers, VPN/VPS, encryption).",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d42264e785393e03a9953b",
+        "type": "knowledge",
+        "element_id": "4166",
+        "description": "Knowledge of computer programming concepts, including computer languages, programming, testing, debugging, and file types.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst",
+            "Multi-Disciplined Language Analyst"
+        ]
+    },
+    {
+        "_id": "67d41fcae785393e03a98fb3",
+        "type": "knowledge",
+        "element_id": "42",
+        "description": "Knowledge of electrical engineering as applied to computer architecture, including circuit boards, processors, chips, and associated computer hardware.",
+        "work_roles": [
+            "Enterprise Architect",
+            "Systems Developer",
+            "Information Systems Security Developer",
+            "Security Architect"
+        ]
+    },
+    {
+        "_id": "67d424efe785393e03a9980c",
+        "type": "task",
+        "element_id": "424B",
+        "description": "Assess policy needs and collaborate with stakeholders to develop policies to govern cyber activities.",
+        "work_roles": [
+            "Cyber Policy and Strategy Planner",
+            "Cyber Workforce Developer and Manager",
+            "Executive Cyber Leader"
+        ]
+    },
+    {
+        "_id": "67d42216e785393e03a99452",
+        "type": "knowledge",
+        "element_id": "4399",
+        "description": "Knowledge of basic Embedded Systems concepts.",
+        "work_roles": [
+            "Cyberspace Operator",
+            "Digital Network Exploitation Analyst",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d42266e785393e03a9953e",
+        "type": "knowledge",
+        "element_id": "4423",
+        "description": "Knowledge of cryptologic and SIGINT reporting and dissemination procedures.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42087e785393e03a9914e",
+        "type": "task",
+        "element_id": "445",
+        "description": "Communicate the value of information technology (IT) security throughout all levels of the organization stakeholders.",
+        "work_roles": [
+            "COMSEC Manager",
+            "Information Systems Security Manager",
+            "Executive Cyber Leader"
+        ]
+    },
+    {
+        "_id": "67d421c7e785393e03a99385",
+        "type": "KSA",
+        "element_id": "4451",
+        "description": "Knowledge of the full-spectrum of cyberspace operational missions (e.g., DODIN Operations, DCO, OCO), principles, capabilities, limitations, and effects.",
+        "work_roles": [
+            "Cyber Operations Planner",
+            "Joint Targeting Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d42267e785393e03a99541",
+        "type": "knowledge",
+        "element_id": "4460",
+        "description": "Knowledge of how and when to request assistance from the Cryptanalysis and Signals Analysis and/or CNO.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42267e785393e03a99542",
+        "type": "knowledge",
+        "element_id": "4470",
+        "description": "Knowledge of intelligence sources and their characteristics.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4200de785393e03a9905f",
+        "type": "task",
+        "element_id": "452",
+        "description": "Conduct functional and connectivity testing to ensure continuing operability.",
+        "work_roles": [
+            "System Administrator",
+            "Network Technician",
+            "DevSecOps Specialist",
+            "Software Test & Evaluation Specialist"
+        ]
+    },
+    {
+        "_id": "67d42267e785393e03a99544",
+        "type": "knowledge",
+        "element_id": "4523",
+        "description": "Knowledge of quality review process and procedures.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42268e785393e03a99546",
+        "type": "knowledge",
+        "element_id": "4539",
+        "description": "Knowledge of structured response frameworks (e.g. MITRE ATT&CK, Lockheed Martin Kill Chain, Diamond Model).",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Host Analyst",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d420fde785393e03a9923d",
+        "type": "task",
+        "element_id": "457",
+        "description": "Conduct Privacy Impact Assessments (PIA) of the application\u2019s security design for the appropriate security controls, which protect the confidentiality and integrity of Personally Identifiable Information (PII).",
+        "work_roles": [
+            "Information Systems Security Developer",
+            "Security Control Assessor",
+            "Privacy Compliance Manager"
+        ]
+    },
+    {
+        "_id": "67d42268e785393e03a99547",
+        "type": "knowledge",
+        "element_id": "4570",
+        "description": "Knowledge of the overall mission of the Cyber Mission Forces (CMF).",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42269e785393e03a99548",
+        "type": "knowledge",
+        "element_id": "4578",
+        "description": "Knowledge of the specific missions for CMF (i.e.,  Cyber Mission Teams (CMT), National Mission Teams (NMT), Combat Support Team (CST), National Support Team (NST), Cyber Protection Team (CPT).",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42269e785393e03a99549",
+        "type": "knowledge",
+        "element_id": "4582",
+        "description": "Knowledge of the U.S. SIGNIT System (USSS) authorities, responsibilities, and contributions to the cyberspace operations mission.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42036e785393e03a990b0",
+        "type": "knowledge",
+        "element_id": "46",
+        "description": "Knowledge of fault tolerance.",
+        "work_roles": [
+            "Systems Developer",
+            "Systems Requirements Planner",
+            "Information Systems Security Developer",
+            "Host Analyst"
+        ]
+    },
+    {
+        "_id": "67d42308e785393e03a9963d",
+        "type": "task",
+        "element_id": "461",
+        "description": "Confer with systems analysts, engineers, programmers, and others to design application and to obtain information on project limitations and capabilities, performance requirements, and interfaces.",
+        "work_roles": [
+            "Network Analyst",
+            "Network Technician",
+            "Product Manager",
+            "Software Developer"
+        ]
+    },
+    {
+        "_id": "67d4226be785393e03a99551",
+        "type": "skill",
+        "element_id": "4651",
+        "description": "Skill in providing feedback to enhance future collection and analysis.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4226be785393e03a99552",
+        "type": "skill",
+        "element_id": "4656",
+        "description": "Skill in recognizing exploitation opportunities.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42631e785393e03a9997e",
+        "type": "task",
+        "element_id": "466A",
+        "description": "Consult with customers and key stakeholders to evaluate functional requirements for AI and data applications.",
+        "work_roles": [
+            "AI Adoption Specialist",
+            "Data Architect",
+            "Data Steward"
+        ]
+    },
+    {
+        "_id": "67d42088e785393e03a9914f",
+        "type": "task",
+        "element_id": "475",
+        "description": "Collaborate with stakeholders to establish the enterprise continuity of operations program, strategy, and mission assurance.",
+        "work_roles": [
+            "COMSEC Manager",
+            "Information Systems Security Manager",
+            "Executive Cyber Leader"
+        ]
+    },
+    {
+        "_id": "67d424f0e785393e03a9980d",
+        "type": "task",
+        "element_id": "492A",
+        "description": "Design/integrate a cyber strategy that outlines the vision, mission, and goals that align with the organization\u2019s strategic plan.",
+        "work_roles": [
+            "Cyber Policy and Strategy Planner",
+            "Cyber Workforce Developer and Manager",
+            "Executive Cyber Leader"
+        ]
+    },
+    {
+        "_id": "67d424c3e785393e03a997fc",
+        "type": "task",
+        "element_id": "5010",
+        "description": "Act as a primary stakeholder in the underlying information technology (IT) operational processes and functions that support the service, provide direction and monitor all significant activities so the service is delivered successfully.",
+        "work_roles": [
+            "IT Project Manager",
+            "Product Support Manager",
+            "Program Manager"
+        ]
+    },
+    {
+        "_id": "67d4268ee785393e03a99a06",
+        "type": "task",
+        "element_id": "5030",
+        "description": "Analyze data sources to provide actionable recommendations.",
+        "work_roles": [
+            "Data Analyst",
+            "Data Analyst",
+            "Data Scientist"
+        ]
+    },
+    {
+        "_id": "67d421d0e785393e03a9938c",
+        "type": "task",
+        "element_id": "506",
+        "description": "Design, develop, and modify software systems, using scientific analysis and mathematical models to predict and measure outcome and consequences of design.",
+        "work_roles": [
+            "Cyberspace Capability Developer",
+            "Software Developer",
+            "AI/ML Specialist",
+            "Data Scientist"
+        ]
+    },
+    {
+        "_id": "67d42021e785393e03a9908b",
+        "type": "task",
+        "element_id": "508",
+        "description": "Determine level of assurance of developed capabilities based on test results.",
+        "work_roles": [
+            "System Testing and Evaluation Specialist",
+            "Software Test & Evaluation Specialist",
+            "AI Test & Evaluation Specialist"
+        ]
+    },
+    {
+        "_id": "67d42665e785393e03a999d7",
+        "type": "task",
+        "element_id": "5120",
+        "description": "Conduct hypothesis testing using statistical processes.",
+        "work_roles": [
+            "AI Test & Evaluation Specialist",
+            "AI/ML Specialist",
+            "Data Scientist"
+        ]
+    },
+    {
+        "_id": "67d421d0e785393e03a9938d",
+        "type": "task",
+        "element_id": "515A",
+        "description": "Develop software system testing and validation procedures, programming, and documentation.",
+        "work_roles": [
+            "Cyberspace Capability Developer",
+            "Software Developer",
+            "Software Test & Evaluation Specialist"
+        ]
+    },
+    {
+        "_id": "67d421d0e785393e03a9938e",
+        "type": "task",
+        "element_id": "538",
+        "description": "Develop new or identify existing awareness and training materials that are appropriate for intended audiences.",
+        "work_roles": [
+            "Cyberspace Capability Developer",
+            "Cyber Instructor",
+            "AI Adoption Specialist"
+        ]
+    },
+    {
+        "_id": "67d41fcbe785393e03a98fb7",
+        "type": "knowledge",
+        "element_id": "53A",
+        "description": "Knowledge of risk assessments and authorization per Risk Management Framework processes.",
+        "work_roles": [
+            "Enterprise Architect",
+            "System Testing and Evaluation Specialist",
+            "Security Architect",
+            "Security Control Assessor"
+        ]
+    },
+    {
+        "_id": "67d421d0e785393e03a9938f",
+        "type": "task",
+        "element_id": "543",
+        "description": "Develop secure code and error handling.",
+        "work_roles": [
+            "Cyberspace Capability Developer",
+            "Software Developer",
+            "AI/ML Specialist",
+            "Data Operations Specialist"
+        ]
+    },
+    {
+        "_id": "67d4252be785393e03a99852",
+        "type": "task",
+        "element_id": "5430",
+        "description": "Present technical information to technical and non-technical audiences.",
+        "work_roles": [
+            "Privacy Compliance Manager",
+            "AI Adoption Specialist",
+            "Data Analyst"
+        ]
+    },
+    {
+        "_id": "67d42022e785393e03a9908c",
+        "type": "task",
+        "element_id": "550",
+        "description": "Develop test plans to address specifications and requirements.",
+        "work_roles": [
+            "System Testing and Evaluation Specialist",
+            "Software Test & Evaluation Specialist",
+            "AI Test & Evaluation Specialist"
+        ]
+    },
+    {
+        "_id": "67d424f3e785393e03a99815",
+        "type": "task",
+        "element_id": "5560",
+        "description": "Promote awareness of cyber policy and strategy as appropriate among management and ensure sound principles are reflected in the organization\u2019s mission, vision, and goals.",
+        "work_roles": [
+            "Cyber Policy and Strategy Planner",
+            "Cyber Workforce Developer and Manager",
+            "Executive Cyber Leader",
+            "Privacy Compliance Manager"
+        ]
+    },
+    {
+        "_id": "67d420ade785393e03a9919b",
+        "type": "task",
+        "element_id": "559B",
+        "description": "Analyze and report system security posture trends.",
+        "work_roles": [
+            "Cyber Defense Analyst",
+            "DevSecOps Specialist",
+            "Systems Security Analyst"
+        ]
+    },
+    {
+        "_id": "67d42131e785393e03a99284",
+        "type": "knowledge",
+        "element_id": "56",
+        "description": "Knowledge of cybersecurity principles and methods that apply to software development.",
+        "work_roles": [
+            "Secure Software Assessor",
+            "Cyberspace Capability Developer",
+            "Software Developer",
+            "Software/Cloud Architect"
+        ]
+    },
+    {
+        "_id": "67d424bbe785393e03a997f9",
+        "type": "task",
+        "element_id": "5610",
+        "description": "Review service performance reports identifying any significant issues and variances, initiating, where necessary, corrective actions and ensuring that all outstanding issues are followed up.",
+        "work_roles": [
+            "IT Program Auditor",
+            "IT Project Manager",
+            "Product Support Manager"
+        ]
+    },
+    {
+        "_id": "67d424cde785393e03a99804",
+        "type": "task",
+        "element_id": "5660",
+        "description": "Work with other service managers and product owners to balance and prioritize services to meet overall customer requirements, constraints, and objectives.",
+        "work_roles": [
+            "IT Project Manager",
+            "Product Support Manager",
+            "Product Manager"
+        ]
+    },
+    {
+        "_id": "67d41fc5e785393e03a98fad",
+        "type": "task",
+        "element_id": "569A",
+        "description": "Document and update as necessary all definition and architecture activities.",
+        "work_roles": [
+            "Enterprise Architect",
+            "Security Architect",
+            "Software/Cloud Architect"
+        ]
+    },
+    {
+        "_id": "67d420aee785393e03a9919d",
+        "type": "task",
+        "element_id": "576",
+        "description": "Ensure cybersecurity-enabled products or other compensating security control technologies reduce identified risk to an acceptable level.",
+        "work_roles": [
+            "Cyber Defense Analyst",
+            "DevSecOps Specialist",
+            "Systems Security Analyst"
+        ]
+    },
+    {
+        "_id": "67d4269be785393e03a99a16",
+        "type": "task",
+        "element_id": "5841",
+        "description": "Advise higher level leadership on critical data management issues.",
+        "work_roles": [
+            "Data Architect",
+            "Data Officer",
+            "Data Operations Specialist"
+        ]
+    },
+    {
+        "_id": "67d42675e785393e03a999f1",
+        "type": "task",
+        "element_id": "5850",
+        "description": "Assist integrated project teams to identify, curate, and manage data.",
+        "work_roles": [
+            "AI Test & Evaluation Specialist",
+            "Data Operations Specialist",
+            "Data Steward"
+        ]
+    },
+    {
+        "_id": "67d42658e785393e03a999c8",
+        "type": "task",
+        "element_id": "5873",
+        "description": "Determine methods and metrics for quantitative and qualitative measurement of AI risks so that sensitivity, specificity, likelihood, confidence levels, and other metrics are identified, documented, and applied.",
+        "work_roles": [
+            "AI Risk & Ethics Specialist",
+            "AI Test & Evaluation Specialist",
+            "AI/ML Specialist"
+        ]
+    },
+    {
+        "_id": "67d42659e785393e03a999cb",
+        "type": "task",
+        "element_id": "5889",
+        "description": "Identify and submit exemplary AI use cases, best practices, failure modes, and risk mitigation strategies, including after-action reports.",
+        "work_roles": [
+            "AI Risk & Ethics Specialist",
+            "AI Test & Evaluation Specialist",
+            "AI/ML Specialist"
+        ]
+    },
+    {
+        "_id": "67d42510e785393e03a9983c",
+        "type": "task",
+        "element_id": "599",
+        "description": "Evaluate contracts to ensure compliance with funding, legal, and program requirements.",
+        "work_roles": [
+            "Executive Cyber Leader",
+            "Privacy Compliance Manager",
+            "Cyber Legal Advisor"
+        ]
+    },
+    {
+        "_id": "67d41fdbe785393e03a98feb",
+        "type": "ability",
+        "element_id": "6030",
+        "description": "Ability to apply an organization\u2019s goals and objectives to develop and maintain architecture.",
+        "work_roles": [
+            "Enterprise Architect",
+            "Security Architect",
+            "Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42500e785393e03a9982e",
+        "type": "ability",
+        "element_id": "6040",
+        "description": "Ability to assess and forecast manpower requirements to meet organizational objectives.",
+        "work_roles": [
+            "Cyber Workforce Developer and Manager",
+            "AI Innovation Leader",
+            "Data Officer"
+        ]
+    },
+    {
+        "_id": "67d424f4e785393e03a99816",
+        "type": "ability",
+        "element_id": "6140",
+        "description": "Ability to leverage best practices and lessons learned of external organizations and academic institutions dealing with cyber issues.",
+        "work_roles": [
+            "Cyber Policy and Strategy Planner",
+            "Cyber Workforce Developer and Manager",
+            "Systems Security Analyst"
+        ]
+    },
+    {
+        "_id": "67d41fdbe785393e03a98fec",
+        "type": "ability",
+        "element_id": "6150",
+        "description": "Ability to optimize systems to meet enterprise performance requirements.",
+        "work_roles": [
+            "Enterprise Architect",
+            "Security Architect",
+            "Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42026e785393e03a99099",
+        "type": "ability",
+        "element_id": "6170",
+        "description": "Ability to translate data and test results into evaluative conclusions.",
+        "work_roles": [
+            "System Testing and Evaluation Specialist",
+            "Software Test & Evaluation Specialist",
+            "AI Test & Evaluation Specialist"
+        ]
+    },
+    {
+        "_id": "67d422dae785393e03a995f6",
+        "type": "knowledge",
+        "element_id": "6240",
+        "description": "Knowledge of critical protocols (e.g., IPSEC, AES, GRE, IKE).",
+        "work_roles": [
+            "Host Analyst",
+            "Network Technician",
+            "DevSecOps Specialist",
+            "Systems Security Analyst"
+        ]
+    },
+    {
+        "_id": "67d42501e785393e03a9982f",
+        "type": "knowledge",
+        "element_id": "6250",
+        "description": "Knowledge of Workforce Framework, work roles, and associated tasks, knowledge, skills, and abilities.",
+        "work_roles": [
+            "Cyber Workforce Developer and Manager",
+            "AI Innovation Leader",
+            "Data Officer"
+        ]
+    },
+    {
+        "_id": "67d424c6e785393e03a997fe",
+        "type": "task",
+        "element_id": "629A",
+        "description": "Identify and address cyber workforce planning and management issues (e.g. recruitment, retention, and training).",
+        "work_roles": [
+            "IT Project Manager",
+            "Program Manager",
+            "Cyber Workforce Developer and Manager"
+        ]
+    },
+    {
+        "_id": "67d42043e785393e03a990d2",
+        "type": "task",
+        "element_id": "630",
+        "description": "Identify and direct the remediation of technical problems encountered during testing and implementation of new systems (e.g., identify and find work-arounds for communication protocols that are not interoperable).",
+        "work_roles": [
+            "Systems Developer",
+            "Information Systems Security Developer",
+            "Cyberspace Capability Developer"
+        ]
+    },
+    {
+        "_id": "67d41fdbe785393e03a98fed",
+        "type": "knowledge",
+        "element_id": "6330",
+        "description": "Knowledge of multi-level/security cross domain solutions.",
+        "work_roles": [
+            "Enterprise Architect",
+            "Security Architect",
+            "Host Analyst",
+            "Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d420cae785393e03a991e8",
+        "type": "task",
+        "element_id": "636",
+        "description": "Identify digital evidence for examination and analysis in such a way as to avoid unintentional alteration.",
+        "work_roles": [
+            "Cyber Defense Forensics Analyst",
+            "Cyber Crime Investigator",
+            "Forensics Analyst"
+        ]
+    },
+    {
+        "_id": "67d4202fe785393e03a990a7",
+        "type": "knowledge",
+        "element_id": "64",
+        "description": "Knowledge of information security systems engineering principles.",
+        "work_roles": [
+            "Systems Developer",
+            "Systems Requirements Planner",
+            "Information Systems Security Developer"
+        ]
+    },
+    {
+        "_id": "67d42134e785393e03a99289",
+        "type": "task",
+        "element_id": "645",
+        "description": "Identify security issues around steady state operation and management of software and incorporate security measures that must be taken when a product reaches its end of life.",
+        "work_roles": [
+            "Secure Software Assessor",
+            "Cyberspace Capability Developer",
+            "Software Developer"
+        ]
+    },
+    {
+        "_id": "67d4201ce785393e03a99083",
+        "type": "skill",
+        "element_id": "6590",
+        "description": "Skill in interfacing with customers.",
+        "work_roles": [
+            "System Administrator",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d42097e785393e03a99170",
+        "type": "knowledge",
+        "element_id": "66",
+        "description": "Knowledge of intrusion detection methodologies and techniques for detecting host and network-based intrusions via intrusion detection technologies.",
+        "work_roles": [
+            "Cyber Defense Analyst",
+            "Cyber Defense Incident Responder",
+            "Information Systems Security Manager",
+            "Host Analyst"
+        ]
+    },
+    {
+        "_id": "67d42028e785393e03a9909f",
+        "type": "skill",
+        "element_id": "6630",
+        "description": "Skill in preparing Test & Evaluation reports.",
+        "work_roles": [
+            "System Testing and Evaluation Specialist",
+            "Software Test & Evaluation Specialist",
+            "AI Test & Evaluation Specialist"
+        ]
+    },
+    {
+        "_id": "67d42028e785393e03a990a0",
+        "type": "skill",
+        "element_id": "6641",
+        "description": "Skill in providing Test & Evaluation resource estimate.",
+        "work_roles": [
+            "System Testing and Evaluation Specialist",
+            "Software Test & Evaluation Specialist",
+            "AI Test & Evaluation Specialist"
+        ]
+    },
+    {
+        "_id": "67d4267ee785393e03a999fa",
+        "type": "skill",
+        "element_id": "6760",
+        "description": "Skill in writing scripts using R, Python, PIG, HIVE, SQL, etc.",
+        "work_roles": [
+            "AI/ML Specialist",
+            "Data Operations Specialist",
+            "Data Scientist"
+        ]
+    },
+    {
+        "_id": "67d42056e785393e03a990f8",
+        "type": "knowledge",
+        "element_id": "68",
+        "description": "Knowledge of information technology (IT) architectural concepts and frameworks.",
+        "work_roles": [
+            "Systems Requirements Planner",
+            "IT Program Auditor",
+            "IT Project Manager",
+            "Program Manager"
+        ]
+    },
+    {
+        "_id": "67d41fc3e785393e03a98fa7",
+        "type": "ability",
+        "element_id": "68A",
+        "description": "Ability to build architectures and frameworks.",
+        "work_roles": [
+            "Enterprise Architect",
+            "Host Analyst",
+            "Network Technician",
+            "Software/Cloud Architect"
+        ]
+    },
+    {
+        "_id": "67d42070e785393e03a9912a",
+        "type": "knowledge",
+        "element_id": "69",
+        "description": "Knowledge of Risk Management Framework (RMF) requirements.",
+        "work_roles": [
+            "Authorizing Official/Designated Representative",
+            "Host Analyst",
+            "Program Manager"
+        ]
+    },
+    {
+        "_id": "67d42022e785393e03a9908d",
+        "type": "task",
+        "element_id": "694",
+        "description": "Make recommendations based on test results.",
+        "work_roles": [
+            "System Testing and Evaluation Specialist",
+            "Software Test & Evaluation Specialist",
+            "AI Test & Evaluation Specialist"
+        ]
+    },
+    {
+        "_id": "67d42638e785393e03a9998a",
+        "type": "ability",
+        "element_id": "7001",
+        "description": "Ability to inspire and lead a culture of innovation.",
+        "work_roles": [
+            "AI Adoption Specialist",
+            "AI Innovation Leader",
+            "Data Officer"
+        ]
+    },
+    {
+        "_id": "67d426aee785393e03a99a2d",
+        "type": "knowledge",
+        "element_id": "7019",
+        "description": "Knowledge of data security roles and responsibilities.",
+        "work_roles": [
+            "Data Officer",
+            "Data Operations Specialist",
+            "Data Steward"
+        ]
+    },
+    {
+        "_id": "67d42639e785393e03a9998e",
+        "type": "knowledge",
+        "element_id": "7021",
+        "description": "Knowledge of emerging trends and future use cases of AI.",
+        "work_roles": [
+            "AI Adoption Specialist",
+            "AI Innovation Leader",
+            "AI Risk & Ethics Specialist",
+            "AI/ML Specialist"
+        ]
+    },
+    {
+        "_id": "67d4266ee785393e03a999ea",
+        "type": "knowledge",
+        "element_id": "7025",
+        "description": "Knowledge of how AI solutions integrate with cloud or other IT infrastructure.",
+        "work_roles": [
+            "AI Test & Evaluation Specialist",
+            "AI/ML Specialist",
+            "Data Architect",
+            "Data Operations Specialist"
+        ]
+    },
+    {
+        "_id": "67d4266ee785393e03a999eb",
+        "type": "knowledge",
+        "element_id": "7028",
+        "description": "Knowledge of how to automate development, testing, security, and deployment of AI/machine learning-enabled software to the DoD.",
+        "work_roles": [
+            "AI Test & Evaluation Specialist",
+            "AI/ML Specialist",
+            "Data Architect",
+            "Data Operations Specialist"
+        ]
+    },
+    {
+        "_id": "67d4263ae785393e03a99991",
+        "type": "knowledge",
+        "element_id": "7031",
+        "description": "Knowledge of how to structure and display data.",
+        "work_roles": [
+            "AI Adoption Specialist",
+            "AI/ML Specialist",
+            "Data Analyst"
+        ]
+    },
+    {
+        "_id": "67d4263ae785393e03a99992",
+        "type": "knowledge",
+        "element_id": "7032",
+        "description": "Knowledge of how to use data to tell a story.",
+        "work_roles": [
+            "AI Adoption Specialist",
+            "AI/ML Specialist",
+            "Data Analyst"
+        ]
+    },
+    {
+        "_id": "67d4264de785393e03a999b3",
+        "type": "knowledge",
+        "element_id": "7034",
+        "description": "Knowledge of interactions and integration of DataOps, MLOps, and DevSecOps in AI.",
+        "work_roles": [
+            "AI Innovation Leader",
+            "AI Risk & Ethics Specialist",
+            "AI Test & Evaluation Specialist"
+        ]
+    },
+    {
+        "_id": "67d4263ae785393e03a99994",
+        "type": "knowledge",
+        "element_id": "7037",
+        "description": "Knowledge of machine learning operations (MLOps) processes and best practices.",
+        "work_roles": [
+            "AI Adoption Specialist",
+            "AI Test & Evaluation Specialist",
+            "AI/ML Specialist"
+        ]
+    },
+    {
+        "_id": "67d42653e785393e03a999bf",
+        "type": "knowledge",
+        "element_id": "7038",
+        "description": "Knowledge of metrics to evaluate the effectiveness of machine learning models.",
+        "work_roles": [
+            "AI Innovation Leader",
+            "AI Risk & Ethics Specialist",
+            "AI Test & Evaluation Specialist",
+            "AI/ML Specialist"
+        ]
+    },
+    {
+        "_id": "67d4265de785393e03a999cf",
+        "type": "knowledge",
+        "element_id": "7040",
+        "description": "Knowledge of Personal Health Information (PHI), Personally Identifiable Information (PII), and other data privacy and data reusability considerations for AI solutions.",
+        "work_roles": [
+            "AI Risk & Ethics Specialist",
+            "AI Test & Evaluation Specialist",
+            "AI/ML Specialist",
+            "Data Steward"
+        ]
+    },
+    {
+        "_id": "67d425fce785393e03a99950",
+        "type": "knowledge",
+        "element_id": "7044",
+        "description": "Knowledge of testing, evaluation, validation, and verification (T&E V&V) tools and procedures to ensure systems are working as intended.",
+        "work_roles": [
+            "Software Test & Evaluation Specialist",
+            "AI Risk & Ethics Specialist",
+            "AI Test & Evaluation Specialist",
+            "AI/ML Specialist"
+        ]
+    },
+    {
+        "_id": "67d4263be785393e03a99996",
+        "type": "knowledge",
+        "element_id": "7046",
+        "description": "Knowledge of the basic requirements for the successful delivery of AI solutions.",
+        "work_roles": [
+            "AI Adoption Specialist",
+            "AI Innovation Leader",
+            "AI/ML Specialist"
+        ]
+    },
+    {
+        "_id": "67d42660e785393e03a999d3",
+        "type": "skill",
+        "element_id": "7067",
+        "description": "Skill in identifying low-probability, high-impact risks in machine learning training data sets.",
+        "work_roles": [
+            "AI Risk & Ethics Specialist",
+            "AI Test & Evaluation Specialist",
+            "AI/ML Specialist"
+        ]
+    },
+    {
+        "_id": "67d42660e785393e03a999d4",
+        "type": "skill",
+        "element_id": "7069",
+        "description": "Skill in identifying risk over the lifespan of an AI solution.",
+        "work_roles": [
+            "AI Risk & Ethics Specialist",
+            "AI Test & Evaluation Specialist",
+            "AI/ML Specialist"
+        ]
+    },
+    {
+        "_id": "67d4268be785393e03a99a04",
+        "type": "skill",
+        "element_id": "7071",
+        "description": "Skill in labeling data to make it more discoverable and understandable.",
+        "work_roles": [
+            "AI/ML Specialist",
+            "Data Scientist",
+            "Data Steward"
+        ]
+    },
+    {
+        "_id": "67d42661e785393e03a999d5",
+        "type": "skill",
+        "element_id": "7075",
+        "description": "Skill in testing and evaluating machine learning algorithms or AI solutions.",
+        "work_roles": [
+            "AI Risk & Ethics Specialist",
+            "AI Test & Evaluation Specialist",
+            "AI/ML Specialist"
+        ]
+    },
+    {
+        "_id": "67d41fcde785393e03a98fbc",
+        "type": "knowledge",
+        "element_id": "70A",
+        "description": "Knowledge of cybersecurity methods, such as firewalls, demilitarized zones, and encryption.",
+        "work_roles": [
+            "Enterprise Architect",
+            "Host Analyst",
+            "Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d420aee785393e03a991a0",
+        "type": "task",
+        "element_id": "717A",
+        "description": "Assess and monitor cybersecurity related to system implementation and testing practices.",
+        "work_roles": [
+            "Cyber Defense Analyst",
+            "DevSecOps Specialist",
+            "Systems Security Analyst"
+        ]
+    },
+    {
+        "_id": "67d4205de785393e03a99103",
+        "type": "task",
+        "element_id": "726",
+        "description": "Oversee and make recommendations regarding configuration management.",
+        "work_roles": [
+            "Systems Requirements Planner",
+            "DevSecOps Specialist",
+            "Software Developer"
+        ]
+    },
+    {
+        "_id": "67d4213be785393e03a99293",
+        "type": "knowledge",
+        "element_id": "74",
+        "description": "Knowledge of low-level computer languages (e.g., assembly languages).",
+        "work_roles": [
+            "Secure Software Assessor",
+            "Cyberspace Capability Developer",
+            "Software Developer"
+        ]
+    },
+    {
+        "_id": "67d42037e785393e03a990b3",
+        "type": "knowledge",
+        "element_id": "75",
+        "description": "Knowledge of mathematics, including logarithms, trigonometry, linear algebra, calculus, and statistics.",
+        "work_roles": [
+            "Systems Developer",
+            "Information Systems Security Developer",
+            "Security Architect",
+            "Software/Cloud Architect"
+        ]
+    },
+    {
+        "_id": "67d42141e785393e03a992a0",
+        "type": "task",
+        "element_id": "756",
+        "description": "Perform integrated quality assurance testing for security functionality and resiliency attack.",
+        "work_roles": [
+            "Secure Software Assessor",
+            "Cyberspace Capability Developer",
+            "Software Developer"
+        ]
+    },
+    {
+        "_id": "67d421d2e785393e03a99391",
+        "type": "task",
+        "element_id": "764",
+        "description": "Perform secure programming and identify potential flaws in codes to mitigate vulnerabilities.",
+        "work_roles": [
+            "Cyberspace Capability Developer",
+            "Software Developer",
+            "AI/ML Specialist",
+            "Data Operations Specialist"
+        ]
+    },
+    {
+        "_id": "67d42070e785393e03a9912b",
+        "type": "knowledge",
+        "element_id": "77",
+        "description": "Knowledge of current industry methods for evaluating, implementing, and disseminating information technology (IT) security assessment, monitoring, detection, and remediation tools and procedures utilizing standards-based concepts and capabilities.",
+        "work_roles": [
+            "Authorizing Official/Designated Representative",
+            "Information Systems Security Manager",
+            "Security Control Assessor"
+        ]
+    },
+    {
+        "_id": "67d420afe785393e03a991a1",
+        "type": "task",
+        "element_id": "782",
+        "description": "Plan and recommend modifications or adjustments based on exercise results or system environment.",
+        "work_roles": [
+            "Cyber Defense Analyst",
+            "Network Analyst",
+            "Network Technician",
+            "Systems Security Analyst"
+        ]
+    },
+    {
+        "_id": "67d4212ae785393e03a99278",
+        "type": "task",
+        "element_id": "801",
+        "description": "Provide enterprise cybersecurity and supply chain risk management guidance for development of the Continuity of Operations Plans.",
+        "work_roles": [
+            "Information Systems Security Manager",
+            "IT Project Manager",
+            "Program Manager",
+            "Executive Cyber Leader"
+        ]
+    },
+    {
+        "_id": "67d4226ce785393e03a99556",
+        "type": "task",
+        "element_id": "8011",
+        "description": "Apply and/or develop analytic techniques to provide better intelligence.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4226de785393e03a99557",
+        "type": "task",
+        "element_id": "8013",
+        "description": "Apply customer requirements to the analysis process.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d41ff9e785393e03a99036",
+        "type": "task",
+        "element_id": "802",
+        "description": "Provide feedback on network requirements, including network architecture and infrastructure.",
+        "work_roles": [
+            "Network Operations Specialist",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d4226de785393e03a99558",
+        "type": "task",
+        "element_id": "8023",
+        "description": "Assist planners in the development of courses of action",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4226de785393e03a99559",
+        "type": "task",
+        "element_id": "8063",
+        "description": "Develop analytical techniques to gain more target information.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4226ee785393e03a9955b",
+        "type": "task",
+        "element_id": "8065",
+        "description": "Develop and maintain target profiles using appropriate corporate tools and databases (e.g. Target associations, activities, communication infrastructures, etc.).",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d420afe785393e03a991a2",
+        "type": "task",
+        "element_id": "806A",
+        "description": "Provides cybersecurity recommendations to leadership based on significant threats and vulnerabilities.",
+        "work_roles": [
+            "Cyber Defense Analyst",
+            "DevSecOps Specialist",
+            "Systems Security Analyst"
+        ]
+    },
+    {
+        "_id": "67d4226ee785393e03a9955c",
+        "type": "task",
+        "element_id": "8081",
+        "description": "Document and disseminate analytic findings.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4226ee785393e03a9955d",
+        "type": "task",
+        "element_id": "8090",
+        "description": "Enable targeting offices to find new sources of collection.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4226fe785393e03a9955e",
+        "type": "task",
+        "element_id": "8100",
+        "description": "Evaluate the strengths and weaknesses of the intelligence source.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42270e785393e03a99561",
+        "type": "task",
+        "element_id": "8108",
+        "description": "Identify and facilitate partner relationships to enhance mission capabilities",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42270e785393e03a99562",
+        "type": "task",
+        "element_id": "8128",
+        "description": "Lead work role working groups/planning and development forums",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d424b7e785393e03a997f7",
+        "type": "task",
+        "element_id": "813",
+        "description": "Provide recommendations for possible improvements and upgrades.",
+        "work_roles": [
+            "IT Program Auditor",
+            "IT Project Manager",
+            "Product Support Manager",
+            "Service Designer User Experience (UX)"
+        ]
+    },
+    {
+        "_id": "67d42270e785393e03a99563",
+        "type": "task",
+        "element_id": "8137",
+        "description": "Manipulate information in mission relevant databases (e.g., converting data, generating reports).",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42270e785393e03a99564",
+        "type": "task",
+        "element_id": "8138",
+        "description": "Mitigate collection gaps",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42271e785393e03a99565",
+        "type": "task",
+        "element_id": "8145",
+        "description": "Perform network analysis to support new or continued collection.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42271e785393e03a99566",
+        "type": "task",
+        "element_id": "8157",
+        "description": "Produce digital network intelligence against specific named target sets.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d422dce785393e03a995fc",
+        "type": "task",
+        "element_id": "8161",
+        "description": "Provide and maintain documentation for TTPs as inputs to training programs.",
+        "work_roles": [
+            "Host Analyst",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d42271e785393e03a99568",
+        "type": "task",
+        "element_id": "8173",
+        "description": "Provide intel target recommendations which meet leadership objectives.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42272e785393e03a99569",
+        "type": "task",
+        "element_id": "8191",
+        "description": "Select, build, and develop query strategies against appropriate collection databases.",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42272e785393e03a9956a",
+        "type": "task",
+        "element_id": "8205",
+        "description": "Understand technologies used by a given target",
+        "work_roles": [
+            "Digital Network Exploitation Analyst",
+            "Target Analyst Reporter",
+            "Target Digital Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4209ce785393e03a9917c",
+        "type": "task",
+        "element_id": "823",
+        "description": "Receive and analyze network alerts from various sources within the enterprise and determine possible causes of such alerts.",
+        "work_roles": [
+            "Cyber Defense Analyst",
+            "Cyber Defense Incident Responder",
+            "Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4202ce785393e03a990a4",
+        "type": "task",
+        "element_id": "826",
+        "description": "Address security implications in the software acceptance phase including completion criteria, risk acceptance and documentation, common criteria, and methods of independent testing.",
+        "work_roles": [
+            "System Testing and Evaluation Specialist",
+            "Secure Software Assessor",
+            "Cyberspace Capability Developer",
+            "Software Developer"
+        ]
+    },
+    {
+        "_id": "67d42084e785393e03a9914b",
+        "type": "task",
+        "element_id": "852",
+        "description": "Supervise or manage protective or corrective measures when an cybersecurity incident or vulnerability is discovered.",
+        "work_roles": [
+            "COMSEC Manager",
+            "Information Systems Security Manager",
+            "Executive Cyber Leader"
+        ]
+    },
+    {
+        "_id": "67d42023e785393e03a99092",
+        "type": "task",
+        "element_id": "858A",
+        "description": "Test, evaluate, and verify hardware and/or software to determine compliance with defined specifications and requirements.",
+        "work_roles": [
+            "System Testing and Evaluation Specialist",
+            "Software Test & Evaluation Specialist",
+            "AI Test & Evaluation Specialist"
+        ]
+    },
+    {
+        "_id": "67d42023e785393e03a99091",
+        "type": "task",
+        "element_id": "858B",
+        "description": "Record and manage test data.",
+        "work_roles": [
+            "System Testing and Evaluation Specialist",
+            "Software Test & Evaluation Specialist",
+            "AI Test & Evaluation Specialist",
+            "Data Operations Specialist"
+        ]
+    },
+    {
+        "_id": "67d42135e785393e03a9928b",
+        "type": "task",
+        "element_id": "865",
+        "description": "Translate security requirements into application design elements including documenting the elements of the software attack surfaces, conducting threat modeling, and defining any specific security criteria.",
+        "work_roles": [
+            "Secure Software Assessor",
+            "Security Architect",
+            "Cyberspace Capability Developer",
+            "Software Developer"
+        ]
+    },
+    {
+        "_id": "67d42046e785393e03a990dc",
+        "type": "task",
+        "element_id": "874",
+        "description": "Utilize models and simulations to analyze or predict system performance under different operating conditions.",
+        "work_roles": [
+            "Systems Developer",
+            "Information Systems Security Developer",
+            "Software Test & Evaluation Specialist"
+        ]
+    },
+    {
+        "_id": "67d420a5e785393e03a9918d",
+        "type": "knowledge",
+        "element_id": "88B",
+        "description": "Knowledge of new and emerging control systems technologies.",
+        "work_roles": [
+            "Cyber Defense Analyst",
+            "Information Systems Security Manager",
+            "Security Control Assessor"
+        ]
+    },
+    {
+        "_id": "67d41ff3e785393e03a99028",
+        "type": "skill",
+        "element_id": "893",
+        "description": "Skill in securing network communications.",
+        "work_roles": [
+            "Network Operations Specialist",
+            "Cyber Defense Incident Responder",
+            "Cyber Defense Infrastructure Support Specialist"
+        ]
+    },
+    {
+        "_id": "67d41ff3e785393e03a99029",
+        "type": "skill",
+        "element_id": "896",
+        "description": "Skill in protecting a network against malware.",
+        "work_roles": [
+            "Network Operations Specialist",
+            "Cyber Defense Incident Responder",
+            "Cyber Defense Infrastructure Support Specialist"
+        ]
+    },
+    {
+        "_id": "67d4204ee785393e03a990ed",
+        "type": "knowledge",
+        "element_id": "9",
+        "description": "Knowledge of applicable business processes and operations of customer organizations.",
+        "work_roles": [
+            "Systems Requirements Planner",
+            "Information Systems Security Manager",
+            "Privacy Compliance Manager",
+            "Product Manager"
+        ]
+    },
+    {
+        "_id": "67d42142e785393e03a992a1",
+        "type": "knowledge",
+        "element_id": "905",
+        "description": "Knowledge of secure coding techniques.",
+        "work_roles": [
+            "Secure Software Assessor",
+            "Cyberspace Capability Developer",
+            "Cyber Instructional Curriculum Developer",
+            "Software Developer"
+        ]
+    },
+    {
+        "_id": "67d4258ee785393e03a998df",
+        "type": "ability",
+        "element_id": "918",
+        "description": "Ability to prepare and deliver education and awareness briefings to ensure that systems, network, and data users are aware of and adhere to systems security policies and procedures.",
+        "work_roles": [
+            "Cyber Instructor",
+            "AI Adoption Specialist",
+            "Data Steward"
+        ]
+    },
+    {
+        "_id": "67d41fffe785393e03a99041",
+        "type": "task",
+        "element_id": "927A",
+        "description": "Research and evaluate available technologies and standards to meet customer requirements.",
+        "work_roles": [
+            "Research & Development Specialist",
+            "Product Designer User Interface (UI)",
+            "Service Designer User Experience (UX)"
+        ]
+    },
+    {
+        "_id": "67d420b0e785393e03a991a6",
+        "type": "task",
+        "element_id": "938A",
+        "description": "Provide advice and input for Disaster Recovery, Contingency, and Continuity of Operations Plans.",
+        "work_roles": [
+            "Cyber Defense Analyst",
+            "DevSecOps Specialist",
+            "Systems Security Analyst"
+        ]
+    },
+    {
+        "_id": "67d424aee785393e03a997ee",
+        "type": "task",
+        "element_id": "955A",
+        "description": "Draft and publish supply chain security and risk management documents.",
+        "work_roles": [
+            "IT Investment/Portfolio Manager",
+            "IT Project Manager",
+            "Product Support Manager",
+            "Program Manager"
+        ]
+    },
+    {
+        "_id": "67d4209de785393e03a99180",
+        "type": "task",
+        "element_id": "958",
+        "description": "Use cyber defense tools for continual monitoring and analysis of system activity to identify malicious activity.",
+        "work_roles": [
+            "Cyber Defense Analyst",
+            "Host Analyst",
+            "Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d4209de785393e03a99181",
+        "type": "task",
+        "element_id": "959",
+        "description": "Analyze identified malicious activity to determine weaknesses exploited, exploitation methods, effects on system and information.",
+        "work_roles": [
+            "Cyber Defense Analyst",
+            "Digital Network Exploitation Analyst",
+            "Host Analyst",
+            "Network Analyst"
+        ]
+    },
+    {
+        "_id": "67d42171e785393e03a992c6",
+        "type": "knowledge",
+        "element_id": "95B",
+        "description": "Knowledge of penetration testing principles, tools, and techniques, including specialized tools for non-traditional systems and networks (e.g., control systems).",
+        "work_roles": [
+            "Security Control Assessor",
+            "Vulnerability Assessment Analyst",
+            "Software Developer"
+        ]
+    },
+    {
+        "_id": "67d4200ae785393e03a99057",
+        "type": "knowledge",
+        "element_id": "96",
+        "description": "Knowledge of performance tuning tools and techniques.",
+        "work_roles": [
+            "System Administrator",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d42143e785393e03a992a2",
+        "type": "knowledge",
+        "element_id": "968",
+        "description": "Knowledge of software related information technology (IT) security principles and methods (e.g., modularization, layering, abstraction, data hiding, simplicity/minimization).",
+        "work_roles": [
+            "Secure Software Assessor",
+            "Product Designer User Interface (UI)",
+            "Product Manager",
+            "Software Developer"
+        ]
+    },
+    {
+        "_id": "67d421d4e785393e03a99393",
+        "type": "task",
+        "element_id": "970A",
+        "description": "Apply cybersecurity functions (e.g., encryption, access control, and identity management) to reduce exploitation opportunities.",
+        "work_roles": [
+            "Cyberspace Capability Developer",
+            "Product Support Manager",
+            "Software Developer"
+        ]
+    },
+    {
+        "_id": "67d421d4e785393e03a99394",
+        "type": "task",
+        "element_id": "971",
+        "description": "Design countermeasures and mitigations against potential exploitations of programming language weaknesses and vulnerabilities in system and elements.",
+        "work_roles": [
+            "Cyberspace Capability Developer",
+            "Network Analyst",
+            "Software Developer",
+            "Software/Cloud Architect"
+        ]
+    },
+    {
+        "_id": "67d42135e785393e03a9928c",
+        "type": "task",
+        "element_id": "972A",
+        "description": "Determine and document software patches or the extent of releases that would leave software vulnerable.",
+        "work_roles": [
+            "Secure Software Assessor",
+            "Host Analyst",
+            "Software Developer"
+        ]
+    },
+    {
+        "_id": "67d42136e785393e03a9928d",
+        "type": "skill",
+        "element_id": "973A",
+        "description": "Skill in using code analysis tools.",
+        "work_roles": [
+            "Secure Software Assessor",
+            "Cyberspace Capability Developer",
+            "Host Analyst",
+            "Software Developer"
+        ]
+    },
+    {
+        "_id": "67d4209de785393e03a99182",
+        "type": "knowledge",
+        "element_id": "984",
+        "description": "Knowledge of cyber defense policies, procedures, and regulations.",
+        "work_roles": [
+            "Cyber Defense Analyst",
+            "Cyber Defense Incident Responder",
+            "Cyber Defense Infrastructure Support Specialist",
+            "Cyber Legal Advisor"
+        ]
+    },
+    {
+        "_id": "67d42010e785393e03a9906a",
+        "type": "knowledge",
+        "element_id": "986",
+        "description": "Knowledge of organizational information technology (IT) user security policies (e.g., account creation, password rules, access control).",
+        "work_roles": [
+            "System Administrator",
+            "Network Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d41ffae785393e03a99039",
+        "type": "knowledge",
+        "element_id": "990",
+        "description": "Knowledge of the common attack vectors on the network layer.",
+        "work_roles": [
+            "Network Operations Specialist",
+            "Cyber Defense Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d4209ee785393e03a99183",
+        "type": "knowledge",
+        "element_id": "991",
+        "description": "Knowledge of different classes of attacks (e.g., passive, active, insider, close-in, distribution).",
+        "work_roles": [
+            "Cyber Defense Analyst",
+            "Cyber Defense Incident Responder",
+            "Vulnerability Assessment Analyst",
+            "Network Technician"
+        ]
+    },
+    {
+        "_id": "67d420b0e785393e03a991a7",
+        "type": "knowledge",
+        "element_id": "992C",
+        "description": "Knowledge of threat environments (e.g., first generation threat actors, threat activities).",
+        "work_roles": [
+            "Cyber Defense Analyst",
+            "Cyber Defense Incident Responder",
+            "Vulnerability Assessment Analyst"
+        ]
+    },
+    {
+        "_id": "67d41fd5e785393e03a98fd8",
+        "type": "ability",
+        "element_id": "993A",
+        "description": "Ability to apply the methods, standards, and approaches for describing, analyzing, and documenting an organization\u2019s enterprise information technology (IT) architecture (e.g., Open Group Architecture Framework [TOGAF], Department of Defense Architecture Framework [DoDAF], Federal Enterprise Architecture Framework [FEAF]).",
+        "work_roles": [
+            "Enterprise Architect",
+            "Security Architect",
+            "Network Analyst"
+        ]
+    }
+]

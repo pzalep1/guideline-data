@@ -1,0 +1,29 @@
+[
+    {
+        "_id": "67d41fcde785393e03a98fbd",
+        "type": "knowledge",
+        "element_id": "81A",
+        "description": "Knowledge of network protocols such as TCP/IP, Dynamic Host Configuration, Domain Name System (DNS), and directory services.",
+        "work_roles": [
+            "Enterprise Architect",
+            "Network Operations Specialist",
+            "System Administrator",
+            "System Testing and Evaluation Specialist",
+            "Systems Developer",
+            "Systems Requirements Planner",
+            "Cyber Defense Analyst",
+            "Cyber Defense Incident Responder",
+            "Cyber Defense Infrastructure Support Specialist",
+            "Information Systems Security Developer",
+            "Information Systems Security Manager",
+            "Secure Software Assessor",
+            "Security Architect",
+            "Vulnerability Assessment Analyst",
+            "Cyberspace Operator",
+            "Host Analyst",
+            "Network Technician",
+            "Software Developer",
+            "Software Test & Evaluation Specialist"
+        ]
+    }
+]

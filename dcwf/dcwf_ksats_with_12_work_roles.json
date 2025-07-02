@@ -1,0 +1,194 @@
+[
+    {
+        "_id": "67d42010e785393e03a9906b",
+        "type": "knowledge",
+        "element_id": "1033",
+        "description": "Knowledge of basic system administration, network, and operating system hardening techniques.",
+        "work_roles": [
+            "System Administrator",
+            "Cyber Defense Analyst",
+            "Cyber Defense Forensics Analyst",
+            "Cyber Defense Incident Responder",
+            "Information Systems Security Manager",
+            "Vulnerability Assessment Analyst",
+            "Cyberspace Operator",
+            "Host Analyst",
+            "Network Analyst",
+            "Network Technician",
+            "Forensics Analyst"
+        ]
+    },
+    {
+        "_id": "67d41fffe785393e03a9903e",
+        "type": "knowledge",
+        "element_id": "129",
+        "description": "Knowledge of system life cycle management principles, including software security and usability.",
+        "work_roles": [
+            "Research & Development Specialist",
+            "Systems Requirements Planner",
+            "COMSEC Manager",
+            "Information Systems Security Developer",
+            "Information Systems Security Manager",
+            "IT Program Auditor",
+            "IT Project Manager",
+            "Product Support Manager",
+            "Program Manager",
+            "Product Manager",
+            "Software/Cloud Architect"
+        ]
+    },
+    {
+        "_id": "67d41fc2e785393e03a98fa6",
+        "type": "knowledge",
+        "element_id": "38",
+        "description": "Knowledge of organization\u2019s enterprise information security architecture system.",
+        "work_roles": [
+            "Enterprise Architect",
+            "System Testing and Evaluation Specialist",
+            "Systems Developer",
+            "Authorizing Official/Designated Representative",
+            "Information Systems Security Developer",
+            "Secure Software Assessor",
+            "Security Architect",
+            "Security Control Assessor",
+            "Network Analyst",
+            "Software Developer",
+            "Software/Cloud Architect"
+        ]
+    },
+    {
+        "_id": "67d41fcae785393e03a98fb4",
+        "type": "knowledge",
+        "element_id": "43A",
+        "description": "Knowledge of embedded systems.",
+        "work_roles": [
+            "Enterprise Architect",
+            "Systems Developer",
+            "Authorizing Official/Designated Representative",
+            "Control Systems Security Specialist",
+            "Cyber Defense Analyst",
+            "Information Systems Security Developer",
+            "Secure Software Assessor",
+            "Security Architect",
+            "Security Control Assessor",
+            "Host Analyst",
+            "Software Developer",
+            "Systems Security Analyst"
+        ]
+    },
+    {
+        "_id": "67d42635e785393e03a99984",
+        "type": "task",
+        "element_id": "5896",
+        "description": "Maintain current knowledge of advancements in DoD AI Ethical Principles and Responsible AI.",
+        "work_roles": [
+            "AI Adoption Specialist",
+            "AI Innovation Leader",
+            "AI Risk & Ethics Specialist",
+            "AI Test & Evaluation Specialist",
+            "AI/ML Specialist",
+            "Data Analyst",
+            "Data Architect",
+            "Data Officer",
+            "Data Operations Specialist",
+            "Data Scientist",
+            "Data Steward"
+        ]
+    },
+    {
+        "_id": "67d41ffde785393e03a9903c",
+        "type": "ability",
+        "element_id": "6919",
+        "description": "Ability to determine the best cloud deployment model for the appropriate operating environment.",
+        "work_roles": [
+            "Network Operations Specialist",
+            "Research & Development Specialist",
+            "System Administrator",
+            "Cyber Defense Infrastructure Support Specialist",
+            "Information Systems Security Developer",
+            "Security Architect",
+            "IT Investment/Portfolio Manager",
+            "IT Program Auditor",
+            "Cyber Instructional Curriculum Developer",
+            "Cyber Instructor",
+            "Software Developer"
+        ]
+    },
+    {
+        "_id": "67d41fcce785393e03a98fbb",
+        "type": "knowledge",
+        "element_id": "69A",
+        "description": "Knowledge of risk management processes and requirements per the Risk Management Framework (RMF).",
+        "work_roles": [
+            "Enterprise Architect",
+            "Control Systems Security Specialist",
+            "Information Systems Security Manager",
+            "Security Architect",
+            "Security Control Assessor",
+            "IT Investment/Portfolio Manager",
+            "IT Program Auditor",
+            "IT Project Manager",
+            "Product Support Manager",
+            "Program Manager",
+            "Product Manager"
+        ]
+    },
+    {
+        "_id": "67d42638e785393e03a9998d",
+        "type": "knowledge",
+        "element_id": "7020",
+        "description": "Knowledge of DoD AI Ethical Principles (e.g., responsible, equitable, traceable, reliable, and governable).",
+        "work_roles": [
+            "AI Adoption Specialist",
+            "AI Innovation Leader",
+            "AI Risk & Ethics Specialist",
+            "AI Test & Evaluation Specialist",
+            "AI/ML Specialist",
+            "Data Analyst",
+            "Data Architect",
+            "Data Officer",
+            "Data Operations Specialist",
+            "Data Scientist",
+            "Data Steward"
+        ]
+    },
+    {
+        "_id": "67d41fc1e785393e03a98fa5",
+        "type": "knowledge",
+        "element_id": "7036",
+        "description": "Knowledge of laws, regulations, and policies related to AI, data security/privacy, and use of publicly procured data for government.",
+        "work_roles": [
+            "Database Administrator",
+            "AI Adoption Specialist",
+            "AI Innovation Leader",
+            "AI Risk & Ethics Specialist",
+            "AI Test & Evaluation Specialist",
+            "AI/ML Specialist",
+            "Data Analyst",
+            "Data Architect",
+            "Data Officer",
+            "Data Operations Specialist",
+            "Data Scientist",
+            "Data Steward"
+        ]
+    },
+    {
+        "_id": "67d41fcde785393e03a98fbf",
+        "type": "knowledge",
+        "element_id": "92",
+        "description": "Knowledge of how traffic flows across the network (e.g., Transmission Control Protocol [TCP] and Internet Protocol [IP], Open System Interconnection Model [OSI], Information Technology Infrastructure Library, current version [ITIL]).",
+        "work_roles": [
+            "Enterprise Architect",
+            "Network Operations Specialist",
+            "Systems Developer",
+            "Systems Requirements Planner",
+            "Cyber Defense Analyst",
+            "Information Systems Security Developer",
+            "Information Systems Security Manager",
+            "Security Architect",
+            "Vulnerability Assessment Analyst",
+            "Network Analyst",
+            "Systems Security Analyst"
+        ]
+    }
+]
