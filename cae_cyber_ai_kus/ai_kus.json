@@ -87,7 +87,7 @@
       },
       {
         "key": "MAF",
-        "name": "Math Fundamentals",
+        "name": "Mathematics for AI",
         "description": "This KU covers the fundamental mathematics necessary to understand and apply AI algorithms and models and analyze AI algorithm outputs. It focuses on essential aspects of algebra, probability, and applied statistics.",
         "outcomes": [
           "Apply basic algebraic operations and solve linear equations, inequalities, and systems of equations.",
