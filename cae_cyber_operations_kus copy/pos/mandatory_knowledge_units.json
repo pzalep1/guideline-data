@@ -1,0 +1,264 @@
+[
+    {
+        "key": "M1",
+        "name": "Cyber Policy, Law, and Ethics",
+        "description": "To comply with the many US laws, regulations, directives, and policies, it is essential that cyber operators know the extent and limitations of their authorities. In addition, cyber operators must fully grasp their societal responsibility for protecting and respecting the rights of US citizens and for acting ethically at all times.",
+          "outcomes": [
+            "Identify the main US governmental organizations responsible for cybersecurity.",
+            "Identify the authorities applicable to various cyber operations scenarios.",
+            "Explain US cyber operations doctrine.",
+            "Describe how the rights guaranteed in the US Constitution apply in cyberspace.",
+            "Identify the major US cyberspace-related laws.",
+            "Describe how international law impacts US cyber operations.",
+            "Describe the societal responsibility of cyber operators to act legally and ethically at all times.",
+            "Perform reasoned ethical analyses of cyberspace-related ethical gray areas."
+          ],
+        "topics": [
+          "US governmental organization for cybersecurity and cyber operations",
+          "US governing authorities for conducting cyber operations",
+          "US cyber operations doctrine",
+          "US constitutional rights and their application to cyberspace",
+          "US cybersecurity legislation",
+          "International humanitarian law and cyber operations",
+          "Societal responsibility",
+          "Ethical frameworks",
+          "Ethical hacking-related codes of conduct"
+        ],
+        "notes": "This KU may be covered by a course devoted to cyber law and ethics or by a module in an introductory cyber course or capstone cyber course or both. In addition, it is assumed that the legality and ethics of cyber operation activities will be reinforced across the curriculum as they apply in various contexts. Ideally, schools will have students sign a statement of ethical conduct."
+      },
+      {
+        "key": "M2",
+        "name": "Computer Science Foundations",
+        "description": "A deeply technical understanding of the infrastructure and functioning of cyberspace is essential for cyber operators. They must understand the basic building blocks of cyberspace including digital logic, data encoding, and data structures. Additionally, they must be skilled in logical and algorithmic thinking.",
+        "outcomes": [
+          "Design logic circuits that perform basic computational tasks.",
+          "Encode and decode data to and from binary format.",
+          "Define fundamental data structures and their appropriate uses.",
+          "Apply the principles of abstraction and modularity in the design of software.",
+          "Characterize the complexity of algorithms.",
+          "Identify when heuristics are needed for finding practical solutions to algorithmic problems."
+        ],
+        "topics": [
+          "Discrete math",
+          "Digital logic",
+          "Data encoding",
+          "Data structures",
+          "Abstraction",
+          "Modularity",
+          "Algorithmic analysis",
+          "Computational tractability"
+        ],
+        "notes": "In undergraduate programs this KU will likely be covered by multiple program core courses such as digital logic design, discrete math, data structures, and algorithms. For graduate programs, this KU may be covered by prerequisite admission requirements. This KU includes prerequisite material for M3 through M10."
+      },
+      {
+        "key": "M3",
+        "name": "Operating Systems",
+        "description": "Malware subverts operating systems to undermine system security and evade detection. As the software foundation of computer systems, it is vital that cyber operators understand operating system structures and functions. Operating systems implement access control, process isolation, logging, and many other fundamental cybersecurity properties. They are also a major source of critical cybersecurity vulnerabilities, including software bugs and configuration mistakes.",
+        "outcomes": [
+          "Detail the main components of an operating system and their functions.",
+          "Describe how operating systems manage privileged and non-privileged access.",
+          "Describe how operating systems implement security."
+        ],
+        "topics": [
+          "User space and kernel space",
+          "Processes and threads",
+          "Memory management",
+          "CPU scheduling, including multiprocessor architectures",
+          "Storage management, including I/O systems",
+          "File systems and permissions",
+          "Virtual machines",
+          "Operating system security"
+        ],
+        "notes": "This KU is best covered by an operating systems concepts course. This KU includes prerequisite material for M8 through M10."
+      },
+      {
+        "key": "M4",
+        "name": "Computer Networks",
+        "description": "Computer networks are the infrastructure of cyberspace and the primary domain where cyber operations are conducted. An in-depth understanding of computer networking protocols and the ability to write networked applications is essential for conducting cyber operations.",
+        "outcomes": [
+          "Detail the layered architecture of the Internet.",
+          "Describe the function and operation of the main Internet protocols.",
+          "Explain how security is implemented at each Internet layer.",
+          "Capture and analyze network packets.",
+          "Write computer network applications that employ standard and custom protocols.",
+          "Describe the operation of wireless and mobile networks."
+        ],
+        "topics": [
+          "Internet layers and protocols",
+          "Network security at each layer",
+          "Network utilities",
+          "Packet sniffing",
+          "Socket programming",
+          "Wireless network basics",
+          "Mobile network basics"
+        ],
+        "notes": "This KU may be covered by multiple computer networks courses or by an advanced computer networks course that includes a module in wireless and mobile networking. This KU includes prerequisite material for M8 through M10."
+      },
+      {
+        "key": "M5",
+        "name": "Systems Programming",
+        "description": "Systems programming uses low-level programming languages such as C and assembly language to interface with the operating system and computer hardware. Systems programmers must be familiar with system calls, memory management, and registers. Systems programming is a foundational skill for software reverse engineering, vulnerability discovery, and exploit development.",
+        "outcomes": [
+          "Write systems programs in C that leverage assembly language and operating system calls."
+        ],
+        "topics": [
+          "C programming",
+          "Assembly language programming",
+          "Operating system calls",
+          "Kernel modules",
+          "Device drivers"
+        ],
+        "notes": "This KU is best covered by an advanced programming course. This KU includes prerequisite material for M8 and M10."
+      },
+      {
+        "key": "M6",
+        "name": "Cybersecurity Foundations",
+        "description": "Cyber operators must be able to describe the current cybersecurity threat landscape, including the various motivations, objectives, and methods of cyber threat actors. This knowledge reinforces adversarial thinking and the need for cybersecurity. Cyber operators must also be able to describe the goals of cybersecurity, how risk management informs the approach to cybersecurity, and the principles and best practices of cybersecurity.",
+        "outcomes": [
+          "Discuss current events in cybersecurity.",
+          "Describe different categories of threat actors and their motivations.",
+          "Describe different objectives of cyber attackers.",
+          "Describe different types of cyber attacks.",
+          "Describe different types of malware.",
+          "Describe different types of common cyber vulnerabilities.",
+          "Research known vulnerabilities and rate their severity.",
+          "Describe the goals of cybersecurity.",
+          "Describe how cyber risk management leads to the efficient allocation of resources.",
+          "Define the fundamental principles of cybersecurity.",
+          "Describe the components of access control and how they are implemented."
+        ],
+        "topics": [
+          "Current events in cybersecurity",
+          "Adversarial thinking",
+          "Cyber threat actors",
+          "Cyber attack methods including social engineering",
+          "Types of malware",
+          "Cyber vulnerabilities",
+          "Vulnerability taxonomies, databases, and scores",
+          "CIA Triad",
+          "Cyber risk management",
+          "Cybersecurity principles",
+          "Cybersecurity best practices",
+          "Access control (AAA)"
+        ],
+        "notes": "In undergraduate programs this KU will likely be covered by an introductory cybersecurity course. Examples of hands-on activities include guided labs where students conduct point-and-click attacks and complete basic cybersecurity tasks. For graduate programs, this KU may be covered in the introductory portion of a more advanced cyber course. This KU includes prerequisite material for M8, M9 and M10."
+      },
+      {
+        "key": "M7",
+        "name": "Applied Cryptography",
+        "description": "Cyber operators must be able to apply cryptography to protect the confidentiality and integrity of information. They must also understand the risks and limitations of cryptography.",
+        "outcomes": [
+          "Explain the process and methods of encrypting and decrypting data.",
+          "Use symmetric key and public key algorithms to encrypt and decrypt data.",
+          "Explain the benefits and weaknesses of the public key infrastructure.",
+          "Describe the properties and uses of hash functions.",
+          "Use hash functions to protect and verify the integrity of data.",
+          "Write software that performs cryptographic operations using standard libraries.",
+          "Describe methods for attacking cryptography.",
+          "Describe the risks and limitations of cryptography."
+        ],
+        "topics": [
+          "Mathematical foundations for cryptography",
+          "Symmetric key cryptography",
+          "Stream ciphers",
+          "Block ciphers and modes",
+          "The key distribution problem",
+          "Public key cryptography",
+          "The key binding problem",
+          "Public key infrastructure (PKI)",
+          "Digital signatures",
+          "Hash functions",
+          "Key stretching",
+          "Kerckhoff’s principle",
+          "Attacks on cryptography",
+          "Quantum computing risks to cryptography"
+        ],
+        "notes": "This KU is best covered by a single course devoted to cryptography but also could be covered as a significant portion of a cyber defense course. It is assumed that cryptography will also be covered throughout the curriculum as it applies in various contexts. This KU includes prerequisite material for M9 and M10."
+      },
+      {
+        "key": "M8",
+        "name": "Software Reverse Engineering",
+        "description": "The ability to understand software for which source code is unavailable is a critical skill within the cyber operations field. Use cases include malware analysis and auditing of closed source software.",
+        "outcomes": [
+          "Safely reverse engineer and document software of unknown origin and malware.",
+          "Safely and directly patch software to modify its functionality.",
+          "Recognize common C programming constructs in assembly language.",
+          "Reverse engineer network traffic to document custom communication protocols.",
+          "Identify vulnerabilities in software using fuzzing and static and dynamic analysis."
+        ],
+        "topics": [
+          "Reverse engineering techniques",
+          "Reverse engineering tools",
+          "Reverse engineering for software specification recovery",
+          "Reverse engineering for malware analysis",
+          "Patching software",
+          "Deobfuscation of obfuscated code",
+          "Protocol reverse engineering",
+          "Software analysis"
+        ],
+        "notes": "This KU is best covered by a single course in software reverse engineering. This KU includes prerequisite material for M9 and M10."
+      },
+      {
+        "key": "M9",
+        "name": "Defensive Cyber Operations",
+        "description": "Cyber operations encompass both offensive and defensive operations. Defensive operations are needed to protect computer systems and networks from attack. Also, it is essential that cyber operators understand how defense complements offense.",
+        "outcomes": [
+          "Apply adversarial thinking to anticipate the strategic actions of adversaries",
+          "Identify common programming errors that lead to vulnerabilities.",
+          "Develop secure software following best practices.",
+          "Create and implement firewall rules given high-level objectives.",
+          "Perform system administration tasks on the command-line and using scripts in Windows and Unix-based environments.",
+          "Scan networks and computer systems to discover vulnerabilities.",
+          "Secure computer systems and data from tampering and unauthorized access.",
+          "Patch vulnerabilities in operating systems and software.",
+          "Detect and remove malware from computer systems.",
+          "Detect malicious activity in computer systems and networks."
+        ],
+        "topics": [
+          "Software security vulnerabilities",
+          "Secure software development practices",
+          "Software security testing",
+          "Firewalls",
+          "Operating system hardening",
+          "Scripting",
+          "Vulnerability scanners",
+          "Patching",
+          "Malware detection",
+          "Indicators of compromise (IOCs)",
+          "Log analysis",
+          "Process and file activity monitors",
+          "Network activity monitors"
+        ],
+        "notes": "This KU is best covered by an advanced cyber defense course where students complete labs in virtualized sandbox environments. This KU complements M10."
+      },
+      {
+        "key": "M10",
+        "name": "Offensive Cyber Operations",
+        "description": "Offensive cyber operations are carefully planned military and intelligence operations that are executed in and through cyberspace to achieve actions on objectives. Real life cyber operations are restricted to those explicitly authorized by various US government authorities.",
+        "outcomes": [
+          "Perform open-source intelligence on organizations and individuals.",
+          "Conduct enumeration and scanning of target networks.",
+          "Conduct various types of cyber attacks using tools, custom software, and scripts.",
+          "Identify vulnerabilities in target organizations, systems, and networks.",
+          "Write malware to exploit vulnerabilities.",
+          "Gain unauthorized access to computer systems.",
+          "Define and achieve actions on objectives in target systems.",
+          "Employ techniques for evading detection including covert communications."
+        ],
+        "topics": [
+          "Mission planning and execution",
+          "Cyber attack frameworks",
+          "Open-source intelligence (OSINT)",
+          "Cyber attack tools",
+          "Privilege escalation",
+          "Shellcode",
+          "Packet crafting",
+          "Command and control (C2)",
+          "Data exfiltration",
+          "Actions on objectives",
+          "Techniques for evading detection",
+          "Covert communication and steganography"
+        ],
+        "notes": "This KU is best covered by a capstone cyber operations course where students complete attack labs in virtualized sandbox environments. Ideally, students would also engage one another in cyber exercises to gain experience operating in contested environments. This KU complements M9."
+      }
+]

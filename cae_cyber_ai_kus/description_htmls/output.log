@@ -1,0 +1,14 @@
+[INFO] 2025-07-07 12:21:38 - Use pytorch device_name: mps
+[INFO] 2025-07-07 12:21:38 - Load pretrained SentenceTransformer: all-mpnet-base-v2
+[INFO] 2025-07-07 12:21:40 - Cosine similarity for descriptions of BSP: 0.8303972482681274
+[INFO] 2025-07-07 12:21:40 - Cosine similarity for descriptions of MAF: 0.8769406080245972
+[INFO] 2025-07-07 12:21:42 - Cosine similarity for descriptions of AIG: 0.8991953134536743
+[INFO] 2025-07-07 12:21:43 - Cosine similarity for descriptions of AIF: 0.9108036756515503
+[INFO] 2025-07-07 12:21:43 - Cosine similarity for descriptions of MLF: 0.9731537699699402
+[INFO] 2025-07-07 12:21:44 - Cosine similarity for descriptions of MES: 0.9168019890785217
+[INFO] 2025-07-07 12:21:45 - Cosine similarity for descriptions of AIL: 0.910793662071228
+[INFO] 2025-07-07 12:21:45 - Cosine similarity for descriptions of AIR: 0.7362090349197388
+[INFO] 2025-07-07 12:21:47 - Cosine similarity for descriptions of ADL: 0.9130853414535522
+[INFO] 2025-07-07 12:21:48 - Cosine similarity for descriptions of AIS: 0.6352615356445312
+[INFO] 2025-07-07 12:21:49 - Cosine similarity for descriptions of DFA: 0.8951106071472168
+[INFO] 2025-07-07 12:21:51 - Cosine similarity for descriptions of OFA: 0.9113467931747437
