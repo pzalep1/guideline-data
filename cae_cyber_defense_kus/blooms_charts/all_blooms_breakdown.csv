@@ -1,0 +1,74 @@
+Key,Name,Remember %,Apply %,Evaluate %,Unknown %
+PLE,"Policy, Legal, Ethics, and Compliance",60.0%,20.0%,0.0%,20.0%
+OST,Operating Systems Theory,100.0%,0.0%,0.0%,0.0%
+SPP,Secure Programming Practices,60.0%,40.0%,0.0%,0.0%
+BNW,Basic Networking,33.3%,66.7%,0.0%,0.0%
+CCR,Cyber Crime,0.0%,66.7%,33.3%,0.0%
+NTP,Network Technology and Protocols,100.0%,0.0%,0.0%,0.0%
+RFP,Radio Frequency (RFP) Principles,100.0%,0.0%,0.0%,0.0%
+ALG,Algorithms,100.0%,0.0%,0.0%,0.0%
+ACR,Advanced Cryptography,50.0%,0.0%,50.0%,0.0%
+NTP,Network Technology and Protocols,100.0%,0.0%,0.0%,0.0%
+QAT,Quality Assurance (QA)/Functional Testing,0.0%,50.0%,50.0%,0.0%
+FPM,Fraud Prevention and Management,85.7%,14.3%,0.0%,0.0%
+EBS,Embedded Systems,40.0%,0.0%,60.0%,0.0%
+OSC,Operating Systems Concepts,75.0%,25.0%,0.0%,0.0%
+SPP,Secure Programming Practices,60.0%,40.0%,0.0%,0.0%
+ICS,Industrial Control Systems,83.3%,16.7%,0.0%,0.0%
+SPG,Systems Programming,0.0%,50.0%,50.0%,0.0%
+PBE,Pre-OS Boot Environment,100.0%,0.0%,0.0%,0.0%
+ISC,IT Systems Components,85.7%,0.0%,0.0%,14.3%
+PRI,Privacy,25.0%,50.0%,0.0%,25.0%
+CSE,Cybersecurity Ethics,50.0%,33.3%,16.7%,0.0%
+CSF,Cybersecurity Fundamentals,90.0%,10.0%,0.0%,0.0%
+NDF,Network Defense,50.0%,25.0%,25.0%,0.0%
+VLA,Vulnerability Analysis,20.0%,40.0%,20.0%,20.0%
+WAS,Web Application Security,66.7%,33.3%,0.0%,0.0%
+HOF,Host Forensics,75.0%,25.0%,0.0%,0.0%
+FAC,Forensic Accounting,75.0%,25.0%,0.0%,0.0%
+CSP,Cybersecurity Principles,60.0%,20.0%,0.0%,20.0%
+DAT,Databases,66.7%,33.3%,0.0%,0.0%
+CCO,Cloud Computing,75.0%,25.0%,0.0%,0.0%
+SPM,Security Program Management,0.0%,75.0%,25.0%,0.0%
+OSH,Operating Systems Hardening,33.3%,0.0%,0.0%,66.7%
+THI,Threat Intelligence,42.9%,57.1%,0.0%,0.0%
+IAA,IA Architectures,0.0%,50.0%,50.0%,0.0%
+SRE,Software Reverse Engineering,0.0%,100.0%,0.0%,0.0%
+CPS,Cyber-Physical Systems,33.3%,66.7%,0.0%,0.0%
+SCA,Systems Certification and Accreditation,100.0%,0.0%,0.0%,0.0%
+IAS,IA Standards,60.0%,40.0%,0.0%,0.0%
+IDR,Independent/Directed Study/Research,0.0%,0.0%,0.0%,100.0%
+CTH,Cyber Threats,50.0%,0.0%,25.0%,25.0%
+IAC,Information Assurance (IA) Compliance,0.0%,50.0%,50.0%,0.0%
+IDS,Intrusion Detection/Prevention Systems,0.0%,85.7%,0.0%,14.3%
+DCO,Digital Communications,66.7%,33.3%,0.0%,0.0%
+SCS,Supply Chain Security,100.0%,0.0%,0.0%,0.0%
+HFS,Hardware/Firmware Security,80.0%,20.0%,0.0%,0.0%
+BCD,Business Continuity and Disaster Recovery,40.0%,40.0%,20.0%,0.0%
+DMS,Database Management Systems,33.3%,50.0%,16.7%,0.0%
+DBA,Data Administration,20.0%,60.0%,0.0%,20.0%
+SRA,Security Risk Analysis,80.0%,0.0%,20.0%,0.0%
+ANT,Advanced Network Technology and Protocols,66.7%,0.0%,33.3%,0.0%
+DST,Data Structures,50.0%,25.0%,0.0%,25.0%
+HRE,Hardware Reverse Engineering,0.0%,100.0%,0.0%,0.0%
+NSA,Network Security Administration,14.3%,28.6%,14.3%,42.9%
+DVF,Device Forensics,66.7%,33.3%,0.0%,0.0%
+MOT,Mobile Technologies,100.0%,0.0%,0.0%,0.0%
+FMD,Formal Methods,50.0%,50.0%,0.0%,0.0%
+MEF,Media Forensics,66.7%,33.3%,0.0%,0.0%
+THI,Threat Intelligence,42.9%,57.1%,0.0%,0.0%
+PTT,Penetration Testing,25.0%,25.0%,50.0%,0.0%
+WSN,Wireless Sensor Networks,33.3%,66.7%,0.0%,0.0%
+SSE,Systems Security Engineering,0.0%,100.0%,0.0%,0.0%
+BCY,Basic Cryptography,100.0%,0.0%,0.0%,0.0%
+NWF,Network Forensics,33.3%,66.7%,0.0%,0.0%
+DFS,Digital Forensics,60.0%,40.0%,0.0%,0.0%
+BCO,Basic Cyber Operations,80.0%,20.0%,0.0%,0.0%
+AAL,Advanced Algorithms,100.0%,0.0%,0.0%,0.0%
+CPM,Cybersecurity Planning and Management,16.7%,33.3%,50.0%,0.0%
+ITC,Introduction to Theory of Computation,100.0%,0.0%,0.0%,0.0%
+LLP,Low Level Programming,50.0%,50.0%,0.0%,0.0%
+ATC,Analog Telecommunications,100.0%,0.0%,0.0%,0.0%
+LCS,Life-Cycle Security,100.0%,0.0%,0.0%,0.0%
+BSP,Basic Scripting and Programming,16.7%,83.3%,0.0%,0.0%
+SSA,Software Security Analysis,50.0%,50.0%,0.0%,0.0%

@@ -1,5 +1,6 @@
 import logging
 import json
+from collections import Counter
 
 logger = logging.getLogger(__name__)
 
@@ -31,27 +32,32 @@ def main():
         ku["evaluate_outcomes"] = []
         ku["unknown_bloom"] = []
 
-        for outcome in ku["outcomes"]:
-            # Split the outcome into a list of words and then get verb
-            first_word = outcome.split()[0]
+        # Initialize a counter for the verbs
+        verb_counter = Counter()
 
-            # Convert the verb to lowercase
+        for outcome in ku["outcomes"]:
+            # Get the first word (verb) of the outcome
+            first_word = outcome.split()[0]
             verb = first_word.lower()
 
-            if verb in remember_and_understand:
+            # Count the verb
+            verb_counter[verb] += 1
+
+            # Classify the outcome into Bloom's categories
+            if verb.rstrip(',') in remember_and_understand:
                 ku["remember_outcomes"].append(outcome)
-            
-            elif verb in apply_and_analyze:
+            elif verb.rstrip(',') in apply_and_analyze:
                 ku["apply_outcomes"].append(outcome)
-            
-            elif verb in evaluate_and_synthesize:
+            elif verb.rstrip(',') in evaluate_and_synthesize:
                 ku["evaluate_outcomes"].append(outcome)
-            
-            else: 
+            else:
                 ku["unknown_bloom"].append(outcome)
+
+        # Save the verb counts to the dict if needed
+        ku["verb_counts"] = dict(verb_counter)
             
 
-    with open('bloom_taxons_count.json', 'w') as f:
+    with open('bloom_taxons_count_acm.json', 'w') as f:
         json.dump(data_array, f, indent=4)
 
 if __name__ == "__main__":
