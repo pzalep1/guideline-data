@@ -153,7 +153,7 @@ def main():
             for suggested_outcome in sub_data["outcomes"]:
                 for published_outcome in item["outcomes"]:
                     similarity = compare_strings_cosine(published_outcome, suggested_outcome)
-                    if similarity > .60:
+                    if similarity > .80:
                         logger.info(f'Cosine similarity for {suggested_outcome} and {published_outcome} in {item["key"]} is {similarity}')
                         highlight.append(
                             {
@@ -178,7 +178,7 @@ def main():
             for suggested_outcome in sub_data["outcomes"]:
                 for published_outcome in item["outcomes"]:
                     similarity = compare_strings_cosine(published_outcome, suggested_outcome)
-                    if similarity > .60:
+                    if similarity > .80:
                         logger.info(f'Cosine similarity for {suggested_outcome} and {published_outcome} in {item["key"]} is {similarity}')
                         highlight.append(
                             {

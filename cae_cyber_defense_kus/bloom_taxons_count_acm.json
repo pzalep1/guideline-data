@@ -67,7 +67,13 @@
         "evaluate_outcomes": [],
         "unknown_bloom": [
             "The purpose of the Policy, Legal, Ethics, and Compliance (PLE) Knowledge Unit is to provide students with an understanding of both the technical and nontechnical qualities of information governance to ensure that organizations protect data, maintain trust, and operate within legal and ethical frameworks."
-        ]
+        ],
+        "verb_counts": {
+            "the": 1,
+            "describe": 1,
+            "explain": 2,
+            "apply": 1
+        }
     },
     {
         "name": "Operating Systems Theory",
@@ -126,7 +132,10 @@
         ],
         "apply_outcomes": [],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "understand": 2
+        }
     },
     {
         "name": "Secure Programming Practices",
@@ -202,16 +211,22 @@
         ],
         "remember_outcomes": [
             "Describe the characteristics of secure programming.",
-            "Understand the vulnerabilities inherent in different programming languages."
+            "Understand the vulnerabilities inherent in different programming languages.",
+            "Differentiate between memory safe and memory unsafe languages."
         ],
         "apply_outcomes": [
-            "Differentiate between memory safe and memory unsafe languages.",
+            "Produce software components that satisfy their functional requirements without introducing vulnerabilities.",
             "Examine vulnerabilities introduced through the use of libraries and how to mitigate those vulnerabilities."
         ],
         "evaluate_outcomes": [],
-        "unknown_bloom": [
-            "Produce software components that satisfy their functional requirements without introducing vulnerabilities."
-        ]
+        "unknown_bloom": [],
+        "verb_counts": {
+            "produce": 1,
+            "describe": 1,
+            "understand": 1,
+            "differentiate": 1,
+            "examine": 1
+        }
     },
     {
         "name": "Basic Networking",
@@ -270,16 +285,21 @@
         ],
         "remember_outcomes": [
             "Describe and explain the fundamental concepts, technologies, components, and issues related to communications and data networks.",
-            "Perform and examine results of network mapping (i.e., enumeration and identification of network components) (e.g., Nmap).",
             "Describe common network vulnerabilities."
         ],
         "apply_outcomes": [
             "Apply networking concepts to design a basic network architecture given a specific need and set of hosts/clients.",
             "Apply and demonstrate knowledge of networking concepts by tracking and identifying the data packets involved in a simple TCP connection (or perform a trace of such a connection).",
-            "Apply and demonstrate use of a network monitoring tool to observe the flow of packets (e.g., Wireshark)."
+            "Apply and demonstrate use of a network monitoring tool to observe the flow of packets (e.g., Wireshark).",
+            "Perform and examine results of network mapping (i.e., enumeration and identification of network components) (e.g., Nmap)."
         ],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "describe": 2,
+            "apply": 3,
+            "perform": 1
+        }
     },
     {
         "name": "Cyber Crime",
@@ -351,7 +371,11 @@
         "evaluate_outcomes": [
             "Evaluate the effectiveness of applications of cybersecurity in preventing crime and abuse."
         ],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "examine": 2,
+            "evaluate": 1
+        }
     },
     {
         "name": "Network Technology and Protocols",
@@ -420,7 +444,12 @@
         ],
         "apply_outcomes": [],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "demonstrate": 3,
+            "identify": 2,
+            "explain": 1
+        }
     },
     {
         "name": "Radio Frequency (RFP) Principles",
@@ -474,7 +503,11 @@
         ],
         "apply_outcomes": [],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "understand": 2,
+            "discuss": 1
+        }
     },
     {
         "name": "Algorithms",
@@ -526,7 +559,10 @@
         ],
         "apply_outcomes": [],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "understand": 1
+        }
     },
     {
         "name": "Advanced Cryptography",
@@ -588,7 +624,11 @@
             "Evaluate security mechanisms based on cryptography.",
             "Evaluate a cryptosystem and explain its vulnerability to errors or attacks."
         ],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "explain": 2,
+            "evaluate": 2
+        }
     },
     {
         "name": "Network Technology and Protocols",
@@ -657,7 +697,12 @@
         ],
         "apply_outcomes": [],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "demonstrate": 3,
+            "identify": 2,
+            "explain": 1
+        }
     },
     {
         "name": "Quality Assurance (QA)/Functional Testing",
@@ -703,14 +748,18 @@
             "Systems Testing and Evaluation",
             "Secure Software Assessor"
         ],
-        "remember_outcomes": [
+        "remember_outcomes": [],
+        "apply_outcomes": [
             "Perform functional testing to demonstrate that security policies and software requirements are met."
         ],
-        "apply_outcomes": [
+        "evaluate_outcomes": [
             "Develop effective tests in a structured, organized manner."
         ],
-        "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "develop": 1,
+            "perform": 1
+        }
     },
     {
         "name": "Fraud Prevention and Management",
@@ -774,7 +823,12 @@
             "Analyze record keeping and management procedures for assets and to identify/correct weaknesses."
         ],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "describe": 5,
+            "analyze": 1,
+            "recognize": 1
+        }
     },
     {
         "name": "Embedded Systems",
@@ -844,15 +898,20 @@
             "Identify and describe the fundamental components and architecture of embedded systems, including microcontrollers, sensors, and actuators.",
             "Explain the constraints and challenges associated with developing applications for embedded devices, such as concurrency, synchronization, limited memory, processing power, and energy consumption."
         ],
-        "apply_outcomes": [
-            "Develop and implement basic embedded real-time resource management system applications using appropriate programming languages and tools, ensuring compliance with device constraints."
-        ],
+        "apply_outcomes": [],
         "evaluate_outcomes": [
-            "Evaluate the performance and efficiency of embedded system applications, identifying potential bottlenecks and areas for optimization."
-        ],
-        "unknown_bloom": [
+            "Develop and implement basic embedded real-time resource management system applications using appropriate programming languages and tools, ensuring compliance with device constraints.",
+            "Evaluate the performance and efficiency of embedded system applications, identifying potential bottlenecks and areas for optimization.",
             "Design, develop and prototype embedded system solutions that address specific real-world problems, integrating hardware and software components effectively."
-        ]
+        ],
+        "unknown_bloom": [],
+        "verb_counts": {
+            "identify": 1,
+            "explain": 1,
+            "develop": 1,
+            "evaluate": 1,
+            "design,": 1
+        }
     },
     {
         "name": "Operating Systems Concepts",
@@ -905,11 +964,16 @@
             "Describe and discuss how operating systems interact with hardware and software applications.",
             "Identify and describe basic security issues of operating systems."
         ],
-        "apply_outcomes": [],
-        "evaluate_outcomes": [],
-        "unknown_bloom": [
+        "apply_outcomes": [
             "Install, configure, and harden operating systems in a virtual environment."
-        ]
+        ],
+        "evaluate_outcomes": [],
+        "unknown_bloom": [],
+        "verb_counts": {
+            "describe": 2,
+            "identify": 1,
+            "install,": 1
+        }
     },
     {
         "name": "Secure Programming Practices",
@@ -985,16 +1049,22 @@
         ],
         "remember_outcomes": [
             "Describe the characteristics of secure programming.",
-            "Understand the vulnerabilities inherent in different programming languages."
+            "Understand the vulnerabilities inherent in different programming languages.",
+            "Differentiate between memory safe and memory unsafe languages."
         ],
         "apply_outcomes": [
-            "Differentiate between memory safe and memory unsafe languages.",
+            "Produce software components that satisfy their functional requirements without introducing vulnerabilities.",
             "Examine vulnerabilities introduced through the use of libraries and how to mitigate those vulnerabilities."
         ],
         "evaluate_outcomes": [],
-        "unknown_bloom": [
-            "Produce software components that satisfy their functional requirements without introducing vulnerabilities."
-        ]
+        "unknown_bloom": [],
+        "verb_counts": {
+            "produce": 1,
+            "describe": 1,
+            "understand": 1,
+            "differentiate": 1,
+            "examine": 1
+        }
     },
     {
         "name": "Industrial Control Systems",
@@ -1093,7 +1163,13 @@
             "Apply knowledge of ICS and SCADA systems to identify potential vulnerabilities and threats."
         ],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "identify": 1,
+            "describe": 2,
+            "apply": 1,
+            "explain": 2
+        }
     },
     {
         "name": "Systems Programming",
@@ -1155,17 +1231,21 @@
             "Software/Cloud Architect",
             "AI Test and Evaluation Specialist"
         ],
-        "remember_outcomes": [
-            "Outline and apply a layered approach to providing and accessing services using API's."
-        ],
+        "remember_outcomes": [],
         "apply_outcomes": [
+            "Outline and apply a layered approach to providing and accessing services using API's.",
+            "Implement new functions in an OS kernel or complex and sophisticated programs, such as a device driver, that can be embedded into an OS kernel."
+        ],
+        "evaluate_outcomes": [
             "Develop programs which directly account for hardware and resource constraints of the specific systems on which they operate.",
             "Develop programs that implement systems functions such as a network communications stack, a telnet client, or a basic file manager without the use of external libraries."
         ],
-        "evaluate_outcomes": [
-            "Implement new functions in an OS kernel or complex and sophisticated programs, such as a device driver, that can be embedded into an OS kernel."
-        ],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "develop": 2,
+            "outline": 1,
+            "implement": 1
+        }
     },
     {
         "name": "Pre-OS Boot Environment",
@@ -1217,7 +1297,11 @@
         ],
         "apply_outcomes": [],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "describe": 2,
+            "demonstrate": 1
+        }
     },
     {
         "name": "IT Systems Components",
@@ -1287,19 +1371,25 @@
             "Cyber Instructional Curriculum Developer"
         ],
         "remember_outcomes": [
+            "Differentiate and diagram the various hardware components of modern computing environments and their individual functions.",
             "Characterize the networks that interconnect computing components.",
             "Describe the various IT activities and roles involved in managing computing systems.",
             "Understand system and software architectures.",
             "Understand basic security issues in modern computing environments.",
             "Describe how software is managed within an organization."
         ],
-        "apply_outcomes": [
-            "Differentiate and diagram the various hardware components of modern computing environments and their individual functions."
-        ],
+        "apply_outcomes": [],
         "evaluate_outcomes": [],
         "unknown_bloom": [
             "Properly apply the vocabulary associated with cybersecurity."
-        ]
+        ],
+        "verb_counts": {
+            "differentiate": 1,
+            "characterize": 1,
+            "describe": 2,
+            "understand": 2,
+            "properly": 1
+        }
     },
     {
         "name": "Privacy",
@@ -1360,16 +1450,22 @@
             "Multi-Disciplined Language Analyst"
         ],
         "remember_outcomes": [
-            "Describe approaches individuals, organizations, and governments have taken to protect privacy.",
-            "Compare and contrast privacy policies and laws of different jurisdictions."
+            "Describe approaches individuals, organizations, and governments have taken to protect privacy."
         ],
         "apply_outcomes": [
-            "Examine concepts of privacy and confidentiality."
+            "Examine concepts of privacy and confidentiality.",
+            "Compare and contrast privacy policies and laws of different jurisdictions."
         ],
         "evaluate_outcomes": [],
         "unknown_bloom": [
             "Explore the effects the Internet has on privacy."
-        ]
+        ],
+        "verb_counts": {
+            "examine": 1,
+            "explore": 1,
+            "describe": 1,
+            "compare": 1
+        }
     },
     {
         "name": "Cybersecurity Ethics",
@@ -1438,7 +1534,14 @@
         "evaluate_outcomes": [
             "Assess the effectiveness of different ethical decision-making approaches in cybersecurity."
         ],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "explain": 1,
+            "examine": 2,
+            "describe": 1,
+            "identify": 1,
+            "assess": 1
+        }
     },
     {
         "name": "Cybersecurity Fundamentals",
@@ -1525,7 +1628,13 @@
             "Apply cyber defense methods to prepare a system to repel attacks and provide system security."
         ],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "define": 1,
+            "describe": 7,
+            "apply": 1,
+            "discuss": 1
+        }
     },
     {
         "name": "Network Defense",
@@ -1585,7 +1694,13 @@
         "evaluate_outcomes": [
             "Evaluate how network operational procedures relate to network security."
         ],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "describe": 1,
+            "explain": 1,
+            "analyze": 1,
+            "evaluate": 1
+        }
     },
     {
         "name": "Vulnerability Analysis",
@@ -1657,10 +1772,17 @@
             "Apply techniques to trace a vulnerability to its root cause."
         ],
         "evaluate_outcomes": [
-            "Create and apply a vulnerability map of a system.",
+            "Create and apply a vulnerability map of a system."
+        ],
+        "unknown_bloom": [
             "Propose and analyze countermeasures to mitigate vulnerabilities."
         ],
-        "unknown_bloom": []
+        "verb_counts": {
+            "apply": 2,
+            "create": 1,
+            "propose": 1,
+            "explain": 1
+        }
     },
     {
         "name": "Web Application Security",
@@ -1724,7 +1846,12 @@
             "Examine concepts of web application technologies and associated security issues."
         ],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "examine": 1,
+            "describe": 1,
+            "explain": 1
+        }
     },
     {
         "name": "Host Forensics",
@@ -1784,12 +1911,18 @@
         "remember_outcomes": [
             "Discuss the forensic investigation process.",
             "Describe what can/cannot be retrieved from various Operating Systems.",
-            "Describe the methodologies used in host forensics.",
+            "Describe the methodologies used in host forensics."
+        ],
+        "apply_outcomes": [
             "Perform live system investigation and provide host forensics report."
         ],
-        "apply_outcomes": [],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "discuss": 1,
+            "describe": 2,
+            "perform": 1
+        }
     },
     {
         "name": "Forensic Accounting",
@@ -1844,11 +1977,15 @@
             "Describe and implement methods of indirectly estimating concealed revenue and income.",
             "Describe common methods of money laundering and related methods of prevention and detection (including related laws and regulations)."
         ],
-        "apply_outcomes": [],
-        "evaluate_outcomes": [],
-        "unknown_bloom": [
+        "apply_outcomes": [
             "Compute loss, damages, and business value for occurrences of fraud, theft, and fraudulent financial statements."
-        ]
+        ],
+        "evaluate_outcomes": [],
+        "unknown_bloom": [],
+        "verb_counts": {
+            "describe": 3,
+            "compute": 1
+        }
     },
     {
         "name": "Cybersecurity Principles",
@@ -1921,17 +2058,24 @@
             "Insider Threat Analysis"
         ],
         "remember_outcomes": [
+            "Differentiate and discuss the principles of cybersecurity.",
             "Describe why each principle is important to security and how it enables the development of security mechanisms that can implement desired security policies.",
             "Understand the interaction between security and system usability and the importance of minimizing the effects of security mechanisms."
         ],
         "apply_outcomes": [
-            "Differentiate and discuss the principles of cybersecurity.",
             "Analyze common security failures and identify specific design principles that have been violated."
         ],
         "evaluate_outcomes": [],
         "unknown_bloom": [
             "Given a specific scenario, identify and apply the design principles involved or needed."
-        ]
+        ],
+        "verb_counts": {
+            "differentiate": 1,
+            "describe": 1,
+            "analyze": 1,
+            "given": 1,
+            "understand": 1
+        }
     },
     {
         "name": "Databases",
@@ -1992,12 +2136,18 @@
         ],
         "remember_outcomes": [
             "Describe the role of a database, a database management system (DBMS), and a database server within a complex system supporting one or more applications.",
-            "Outline different models for databases and cases where they may be used.",
             "Identify and describe common security concerns in databases and database management systems."
         ],
-        "apply_outcomes": [],
+        "apply_outcomes": [
+            "Outline different models for databases and cases where they may be used."
+        ],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "describe": 1,
+            "outline": 1,
+            "identify": 1
+        }
     },
     {
         "name": "Cloud Computing",
@@ -2051,14 +2201,21 @@
             "Cyber Defense Infrastructure Support Specialist"
         ],
         "remember_outcomes": [
-            "Compare cloud computing to traditional computing.",
             "List each type of service/model of cloud computing.",
             "Explain cloud security (e.g., attacks, mitigations, overall vulnerability).",
             "Describe the challenges of securing cloud assets and apply strategies to improve cloud security."
         ],
-        "apply_outcomes": [],
+        "apply_outcomes": [
+            "Compare cloud computing to traditional computing."
+        ],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "compare": 1,
+            "list": 1,
+            "explain": 1,
+            "describe": 1
+        }
     },
     {
         "name": "Security Program Management",
@@ -2117,7 +2274,12 @@
         "evaluate_outcomes": [
             "Assess the effectiveness of a cybersecurity program."
         ],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "apply": 2,
+            "assess": 1,
+            "articulate": 1
+        }
     },
     {
         "name": "Operating Systems Hardening",
@@ -2170,14 +2332,20 @@
             "Cybersecurity Curriculum Development",
             "System Administrator"
         ],
-        "remember_outcomes": [],
+        "remember_outcomes": [
+            "Describe, for a given OS, the steps necessary for hardening the OS and reduce the attack surface area."
+        ],
         "apply_outcomes": [],
         "evaluate_outcomes": [],
         "unknown_bloom": [
-            "Describe, for a given OS, the steps necessary for hardening the OS and reduce the attack surface area.",
             "Securely install a given OS, remove or shut down unnecessary components and services, close unnecessary ports, and ensure that all patches and updates are applied.",
             "Leverage built-in OS capabilities and/or third-party applications to increase defensive posture."
-        ]
+        ],
+        "verb_counts": {
+            "describe,": 1,
+            "securely": 1,
+            "leverage": 1
+        }
     },
     {
         "name": "Threat Intelligence",
@@ -2233,17 +2401,23 @@
         ],
         "remember_outcomes": [
             "Identify threat tactics and methodologies.",
-            "Perform event correlation using information gathered from a variety of sources within the enterprise to gain situational awareness and determine the effectiveness of an observed attack.",
             "Demonstrate ability to apply incident response and handling methodologies.",
             "Demonstrate familiarity with legal and regulatory requirements with regard to incident handling."
         ],
         "apply_outcomes": [
+            "Perform event correlation using information gathered from a variety of sources within the enterprise to gain situational awareness and determine the effectiveness of an observed attack.",
             "Apply signature development to perform packet-level analysis using appropriate tools.",
             "Apply anomaly detection techniques to perform proactive threat hunting.",
             "Apply appropriate threat packaging techniques to prepare and share threat reports."
         ],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "identify": 1,
+            "perform": 1,
+            "apply": 3,
+            "demonstrate": 2
+        }
     },
     {
         "name": "IA Architectures",
@@ -2294,7 +2468,11 @@
         "evaluate_outcomes": [
             "Design a secure architecture for a given application."
         ],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "examine": 1,
+            "design": 1
+        }
     },
     {
         "name": "Software Reverse Engineering",
@@ -2346,7 +2524,11 @@
             "Analyze malware using static, dynamic, code, and/or memory analysis techniques."
         ],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "apply": 1,
+            "analyze": 1
+        }
     },
     {
         "name": "Cyber-Physical Systems",
@@ -2423,12 +2605,16 @@
             "Describe the integration of computational and physical processes, including the role of sensors, actuators, and control systems in CPS."
         ],
         "apply_outcomes": [
+            "Implement strategies for ensuring the safety, security, and reliability of CPS, particularly in critical applications such as healthcare, transportation, and industrial automation.",
             "Analyze and evaluate CPS applications in various industries, such as smart grids, autonomous vehicles, and smart cities."
         ],
-        "evaluate_outcomes": [
-            "Implement strategies for ensuring the safety, security, and reliability of CPS, particularly in critical applications such as healthcare, transportation, and industrial automation."
-        ],
-        "unknown_bloom": []
+        "evaluate_outcomes": [],
+        "unknown_bloom": [],
+        "verb_counts": {
+            "describe": 1,
+            "implement": 1,
+            "analyze": 1
+        }
     },
     {
         "name": "Systems Certification and Accreditation",
@@ -2478,7 +2664,11 @@
         ],
         "apply_outcomes": [],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "describe": 1,
+            "define": 1
+        }
     },
     {
         "name": "IA Standards",
@@ -2530,16 +2720,22 @@
             "AI/ML Specialist"
         ],
         "remember_outcomes": [
-            "Compare and contrast different types of standards including laws, regulations, policies, voluntary, and framework-based standards.",
             "Describe the impact of legal/regulatory standards on a given system.",
             "Describe how standards may be applied and assessed for a sub-contractor or customer.",
             "List and describe key provisions of common standards."
         ],
-        "apply_outcomes": [],
-        "evaluate_outcomes": [],
-        "unknown_bloom": [
+        "apply_outcomes": [
+            "Compare and contrast different types of standards including laws, regulations, policies, voluntary, and framework-based standards.",
             "Map the processes for the creation and/or changes to different types of standards."
-        ]
+        ],
+        "evaluate_outcomes": [],
+        "unknown_bloom": [],
+        "verb_counts": {
+            "compare": 1,
+            "map": 1,
+            "describe": 2,
+            "list": 1
+        }
     },
     {
         "name": "Independent/Directed Study/Research",
@@ -2559,7 +2755,10 @@
         "evaluate_outcomes": [],
         "unknown_bloom": [
             "To be determined by the academic unit offering the KU-aligned course covering this KU."
-        ]
+        ],
+        "verb_counts": {
+            "to": 1
+        }
     },
     {
         "name": "Cyber Threats",
@@ -2625,7 +2824,13 @@
         ],
         "unknown_bloom": [
             "Adequately communicate, rate in importance, and describe different types of cyber-attacks and their characteristics."
-        ]
+        ],
+        "verb_counts": {
+            "identify": 1,
+            "adequately": 1,
+            "evaluate": 1,
+            "explain": 1
+        }
     },
     {
         "name": "Information Assurance (IA) Compliance",
@@ -2683,14 +2888,18 @@
             "Secure Project Management",
             "Systems Authorization"
         ],
-        "remember_outcomes": [
+        "remember_outcomes": [],
+        "apply_outcomes": [
             "Compare and contrast voluntary and mandatory compliance requirements."
         ],
-        "apply_outcomes": [
+        "evaluate_outcomes": [
             "Plan and conduct audits to determine compliance with policies, laws, regulations, and other standards."
         ],
-        "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "compare": 1,
+            "plan": 1
+        }
     },
     {
         "name": "Intrusion Detection/Prevention Systems",
@@ -2775,17 +2984,23 @@
         ],
         "remember_outcomes": [],
         "apply_outcomes": [
+            "Detect, identify, resolve and document host or network intrusions.",
             "Apply cyber threat intelligence and MITRE ATT&CK framework to achieve early detection of cyber intrusions.",
             "Apply tools and algorithms to detect various anomalous activity, types of malware, and unauthorized devices on a network.",
             "Apply open-source data to enrich and analyze logs using techniques such as data visualization, event correlation, and anomaly detection.",
+            "Deploy and test mitigation responses to detected intrusion profiles.",
             "Apply proactive techniques to prevent unwanted activities in networks and systems."
         ],
         "evaluate_outcomes": [],
         "unknown_bloom": [
-            "Detect, identify, resolve and document host or network intrusions.",
-            "Leverage baseline activity to configure IDS/IPS and maximize efficiency (e.g., reduce false positives and false negatives).",
-            "Deploy and test mitigation responses to detected intrusion profiles."
-        ]
+            "Leverage baseline activity to configure IDS/IPS and maximize efficiency (e.g., reduce false positives and false negatives)."
+        ],
+        "verb_counts": {
+            "detect,": 1,
+            "apply": 4,
+            "leverage": 1,
+            "deploy": 1
+        }
     },
     {
         "name": "Digital Communications",
@@ -2830,12 +3045,17 @@
         ],
         "remember_outcomes": [
             "Describe digital communications systems in terms of subsystems and modulation techniques.",
-            "Describe the current state of the art in digital communications.",
+            "Describe the current state of the art in digital communications."
+        ],
+        "apply_outcomes": [
             "Compare and contrast different approaches to digital communications and describe the advantages and disadvantages of each."
         ],
-        "apply_outcomes": [],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "describe": 2,
+            "compare": 1
+        }
     },
     {
         "name": "Supply Chain Security",
@@ -2886,7 +3106,10 @@
         ],
         "apply_outcomes": [],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "describe": 2
+        }
     },
     {
         "name": "Hardware/Firmware Security",
@@ -2982,15 +3205,22 @@
             "Cybersecurity Curriculum Development"
         ],
         "remember_outcomes": [
-            "Outline physical vulnerabilities of hardware devices.",
             "Explain and make use of security capabilities implemented in hardware.",
             "Describe how systems are initialized and how software is validated and loaded.",
             "Describe the security role of intermediate software such as hardware abstraction layers or other forms of middleware.",
             "Discuss how hardware and firmware security technologies can be combined to layer defenses."
         ],
-        "apply_outcomes": [],
+        "apply_outcomes": [
+            "Outline physical vulnerabilities of hardware devices."
+        ],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "outline": 1,
+            "explain": 1,
+            "describe": 2,
+            "discuss": 1
+        }
     },
     {
         "name": "Business Continuity and Disaster Recovery",
@@ -3073,13 +3303,20 @@
             "Explain the differences between BCDR and describe how each contributes to organizational resilience."
         ],
         "apply_outcomes": [
+            "Implement a basic BCDR plan for a small business, ensuring all critical processes and data are covered.",
             "Analyze potential risks and vulnerabilities in an organization\u2019s current BCDR plan, and suggest improvements to enhance its effectiveness."
         ],
         "evaluate_outcomes": [
-            "Implement a basic BCDR plan for a small business, ensuring all critical processes and data are covered.",
             "Evaluate the effectiveness of a BCDR plan through testing and simulation exercises, and recommend adjustments based on the outcomes."
         ],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "identify": 1,
+            "explain": 1,
+            "implement": 1,
+            "analyze": 1,
+            "evaluate": 1
+        }
     },
     {
         "name": "Database Management Systems",
@@ -3141,18 +3378,25 @@
             "Data Architect"
         ],
         "remember_outcomes": [
-            "Compare and contrast database types including relational, hierarchical, distributed, and other models.",
             "Describe the role of a database, a DBMS, and a database server within a complex system supporting multiple applications.",
-            "Describe DBMS access controls, privilege levels, and security principles and apply them to a simple database.",
-            "Outline common structures for storing data in a database management system."
+            "Describe DBMS access controls, privilege levels, and security principles and apply them to a simple database."
         ],
         "apply_outcomes": [
-            "Apply SQL to create and administer databases and to manipulate the data they contain."
+            "Compare and contrast database types including relational, hierarchical, distributed, and other models.",
+            "Apply SQL to create and administer databases and to manipulate the data they contain.",
+            "Outline common structures for storing data in a database management system."
         ],
         "evaluate_outcomes": [
             "Design and deploy a simple database for a specified application."
         ],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "compare": 1,
+            "describe": 2,
+            "apply": 1,
+            "outline": 1,
+            "design": 1
+        }
     },
     {
         "name": "Data Administration",
@@ -3225,17 +3469,24 @@
             "AI Test and Evaluation Specialist"
         ],
         "remember_outcomes": [
-            "Define and evaluate data and information quality, accessibility, and utility.",
-            "Compare and contrast data and information ownership, stewardship, management, possession, and governance.",
-            "Outline the role of data and information classification in security."
+            "Define and evaluate data and information quality, accessibility, and utility."
         ],
         "apply_outcomes": [
-            "Examine how the origination, change, distribution, storage, and deletion of information is managed and secured."
+            "Examine how the origination, change, distribution, storage, and deletion of information is managed and secured.",
+            "Compare and contrast data and information ownership, stewardship, management, possession, and governance.",
+            "Outline the role of data and information classification in security."
         ],
         "evaluate_outcomes": [],
         "unknown_bloom": [
             "Draw and describe a data and information lifecycle, identifying specific and general security issues at all stages."
-        ]
+        ],
+        "verb_counts": {
+            "draw": 1,
+            "define": 1,
+            "examine": 1,
+            "compare": 1,
+            "outline": 1
+        }
     },
     {
         "name": "Security Risk Analysis",
@@ -3288,15 +3539,20 @@
         "remember_outcomes": [
             "Describe and explain how risk relates to a system security policy and governance",
             "Describe various risk analysis methodologies",
-            "Identify and select the optimal risk analysis methodology based on needs, advantages and disadvantages"
+            "Identify and select the optimal risk analysis methodology based on needs, advantages and disadvantages",
+            "Annotate and apply standards, frameworks, legal requirements, and institutional (public/private) policy when conducting a risk assessment"
         ],
         "apply_outcomes": [],
         "evaluate_outcomes": [
             "Evaluate and categorize risk with respect to technology, processes, individuals, the enterprise, and recommend appropriate responses"
         ],
-        "unknown_bloom": [
-            "Annotate and apply standards, frameworks, legal requirements, and institutional (public/private) policy when conducting a risk assessment"
-        ]
+        "unknown_bloom": [],
+        "verb_counts": {
+            "describe": 2,
+            "evaluate": 1,
+            "identify": 1,
+            "annotate": 1
+        }
     },
     {
         "name": "Advanced Network Technology and Protocols",
@@ -3365,11 +3621,16 @@
             "Identify and describe in depth advanced and novel areas of networks and protocols.",
             "Describe and discuss the security issues and implications of advanced and novel networks and protocols."
         ],
-        "apply_outcomes": [
+        "apply_outcomes": [],
+        "evaluate_outcomes": [
             "Develop the intellectual tools to explore and understand advanced network concepts and protocols."
         ],
-        "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "identify": 1,
+            "describe": 1,
+            "develop": 1
+        }
     },
     {
         "name": "Data Structures",
@@ -3428,12 +3689,18 @@
             "Discuss the advantages and disadvantages of different data structures/formats."
         ],
         "apply_outcomes": [
-            "Utilize common data structures."
-        ],
-        "evaluate_outcomes": [
             "Implement data structures."
         ],
-        "unknown_bloom": []
+        "evaluate_outcomes": [],
+        "unknown_bloom": [
+            "Utilize common data structures."
+        ],
+        "verb_counts": {
+            "list": 1,
+            "discuss": 1,
+            "utilize": 1,
+            "implement": 1
+        }
     },
     {
         "name": "Hardware Reverse Engineering",
@@ -3478,12 +3745,15 @@
             "Cyber Operations Planner",
             "Technical Support Specialist"
         ],
-        "remember_outcomes": [
+        "remember_outcomes": [],
+        "apply_outcomes": [
             "Perform basic procedures such as probing, measuring, and data collection to identify functionality and to affect modifications."
         ],
-        "apply_outcomes": [],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "perform": 1
+        }
     },
     {
         "name": "Network Security Administration",
@@ -3550,13 +3820,22 @@
             "Monitor systems for anomalies, proper updating, and patching."
         ],
         "evaluate_outcomes": [
-            "Recommend best security practices to achieve stated business objectives based on risk assumptions.",
             "Evaluate and perform planning, testing, and implementation of software and hardware deployed."
         ],
         "unknown_bloom": [
+            "Recommend best security practices to achieve stated business objectives based on risk assumptions.",
             "Actively protect information technology assets and infrastructure from external and internal threats.",
             "Assist in incident responses for any breaches, intrusions, or theft."
-        ]
+        ],
+        "verb_counts": {
+            "analyze": 1,
+            "recommend": 1,
+            "actively": 1,
+            "monitor": 1,
+            "assist": 1,
+            "evaluate": 1,
+            "discuss": 1
+        }
     },
     {
         "name": "Device Forensics",
@@ -3605,12 +3884,18 @@
         ],
         "remember_outcomes": [
             "Describe methods for data acquisition and extraction, analysis of widespread, mobile, tablets, and wearable devices.",
-            "Perform physical and logical extractions, handle data acquisition tools, and understand the challenges of dealing with locked or encrypted devices.",
             "Explain the legal issues related to mobile, tablets, and wearable devices to conduct forensic analyses."
         ],
-        "apply_outcomes": [],
+        "apply_outcomes": [
+            "Perform physical and logical extractions, handle data acquisition tools, and understand the challenges of dealing with locked or encrypted devices."
+        ],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "describe": 1,
+            "perform": 1,
+            "explain": 1
+        }
     },
     {
         "name": "Mobile Technologies",
@@ -3663,7 +3948,11 @@
         ],
         "apply_outcomes": [],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "understand": 1,
+            "describe": 1
+        }
     },
     {
         "name": "Formal Methods",
@@ -3719,7 +4008,11 @@
             "Apply formal cybersecurity policy models to real world scenarios."
         ],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "apply": 1,
+            "describe": 1
+        }
     },
     {
         "name": "Media Forensics",
@@ -3776,7 +4069,12 @@
             "Apply forensics techniques to investigate and analyze a particular media in context."
         ],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "describe": 1,
+            "apply": 1,
+            "explain": 1
+        }
     },
     {
         "name": "Threat Intelligence",
@@ -3832,17 +4130,23 @@
         ],
         "remember_outcomes": [
             "Identify threat tactics and methodologies.",
-            "Perform event correlation using information gathered from a variety of sources within the enterprise to gain situational awareness and determine the effectiveness of an observed attack.",
             "Demonstrate ability to apply incident response and handling methodologies.",
             "Demonstrate familiarity with legal and regulatory requirements with regard to incident handling."
         ],
         "apply_outcomes": [
+            "Perform event correlation using information gathered from a variety of sources within the enterprise to gain situational awareness and determine the effectiveness of an observed attack.",
             "Apply signature development to perform packet-level analysis using appropriate tools.",
             "Apply anomaly detection techniques to perform proactive threat hunting.",
             "Apply appropriate threat packaging techniques to prepare and share threat reports."
         ],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "identify": 1,
+            "perform": 1,
+            "apply": 3,
+            "demonstrate": 2
+        }
     },
     {
         "name": "Penetration Testing",
@@ -3903,20 +4207,29 @@
         ],
         "remember_outcomes": [
             "Discuss post-exploitation techniques.",
-            "Describe how to use attack frameworks to identify attack surfaces for penetration testing.",
-            "Compare and contrast various network security assessment and hacking tools."
+            "Describe how to use attack frameworks to identify attack surfaces for penetration testing."
         ],
         "apply_outcomes": [
-            "Analyze security vulnerabilities of systems and networks."
+            "Analyze security vulnerabilities of systems and networks.",
+            "Compare and contrast various network security assessment and hacking tools."
         ],
         "evaluate_outcomes": [
+            "Plan, organize and perform penetration testing on a simple network.",
             "Create a professional penetration testing report with results and findings.",
+            "Devise remediation and mitigation strategies to defend against attackers and threats.",
             "Assess ethical and legal requirements of security assessment and penetration testing and determine a strategy to comply with those requirements."
         ],
-        "unknown_bloom": [
-            "Plan, organize and perform penetration testing on a simple network.",
-            "Devise remediation and mitigation strategies to defend against attackers and threats."
-        ]
+        "unknown_bloom": [],
+        "verb_counts": {
+            "plan,": 1,
+            "analyze": 1,
+            "discuss": 1,
+            "describe": 1,
+            "create": 1,
+            "devise": 1,
+            "assess": 1,
+            "compare": 1
+        }
     },
     {
         "name": "Wireless Sensor Networks",
@@ -3990,7 +4303,12 @@
             "Analyze and propose appropriate security measures for wireless sensor networks."
         ],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "diagram": 1,
+            "describe": 1,
+            "analyze": 1
+        }
     },
     {
         "name": "Systems Security Engineering",
@@ -4044,7 +4362,10 @@
             "Analyze a system design and determine if the design will meet the system security requirements."
         ],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "analyze": 2
+        }
     },
     {
         "name": "Basic Cryptography",
@@ -4098,7 +4419,11 @@
         ],
         "apply_outcomes": [],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "identify": 1,
+            "describe": 3
+        }
     },
     {
         "name": "Network Forensics",
@@ -4155,7 +4480,12 @@
             "Use tools that can share and automate network detection of malicious activity."
         ],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "describe": 1,
+            "analyze": 1,
+            "use": 1
+        }
     },
     {
         "name": "Digital Forensics",
@@ -4229,14 +4559,21 @@
         "remember_outcomes": [
             "Discuss the rules, laws, policies, and procedures that affect digital forensics.",
             "Identify and describe the steps of the digital forensics\u2019 investigation lifecycle.",
-            "Describe methods for the acquisition/analysis of various compute devices.",
-            "Perform memory extraction from mobile, embedded, and/or IoT devices."
+            "Describe methods for the acquisition/analysis of various compute devices."
         ],
         "apply_outcomes": [
-            "Use one or more common DF tools, such as Autopsy, Cellebrite, EnCase, FTK, ProDiscover, Magnet Axiom, OpenText, SleuthKit, and/or X-Ways."
+            "Use one or more common DF tools, such as Autopsy, Cellebrite, EnCase, FTK, ProDiscover, Magnet Axiom, OpenText, SleuthKit, and/or X-Ways.",
+            "Perform memory extraction from mobile, embedded, and/or IoT devices."
         ],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "discuss": 1,
+            "identify": 1,
+            "describe": 1,
+            "use": 1,
+            "perform": 1
+        }
     },
     {
         "name": "Basic Cyber Operations",
@@ -4304,7 +4641,13 @@
             "Use attack frameworks to assess adversary behavior and motives for cyber operations."
         ],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "describe": 2,
+            "list": 1,
+            "identify": 1,
+            "use": 1
+        }
     },
     {
         "name": "Advanced Algorithms",
@@ -4351,7 +4694,10 @@
         ],
         "apply_outcomes": [],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "understand": 1
+        }
     },
     {
         "name": "Cybersecurity Planning and Management",
@@ -4411,17 +4757,24 @@
             "Communications Security (COMSEC) Management"
         ],
         "remember_outcomes": [
-            "Outline and explain the roles, and financial implications, of personnel in planning and managing security, including: Board of Directors; Senior Management; Chief Information Security Officer (CISO); IT Management (i.e., CIO, CTO, IT Director, etc.); Functional Area Management; Information Security personnel; End users",
             "Discuss potential virtualization security risks and mitigation strategies."
         ],
         "apply_outcomes": [
             "Examine the placement of security functions in a system and describe the strengths and weaknesses.",
+            "Outline and explain the roles, and financial implications, of personnel in planning and managing security, including: Board of Directors; Senior Management; Chief Information Security Officer (CISO); IT Management (i.e., CIO, CTO, IT Director, etc.); Functional Area Management; Information Security personnel; End users"
+        ],
+        "evaluate_outcomes": [
             "Develop contingency plans for various size organizations to include business continuity, disaster recovery and incident response.",
             "Develop system specific security plans for: The protection of intellectual property; The implementation of access controls; Patch and change management",
             "Develop policies, processes, and procedures in relation to regulations, internationally recognized standards, and/or business requirements (such as Criminal Justice Information Services (CJIS) requirements for public service systems)."
         ],
-        "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "examine": 1,
+            "develop": 3,
+            "outline": 1,
+            "discuss": 1
+        }
     },
     {
         "name": "Introduction to Theory of Computation",
@@ -4478,13 +4831,16 @@
         ],
         "remember_outcomes": [
             "Describe the theory of abstract machines or automata and what can be computed with them.",
+            "Differentiate the characteristics of computable and non-computable functions.",
             "Describe the concept of complexity and quantify the resources required for computation of basic problems."
         ],
-        "apply_outcomes": [
-            "Differentiate the characteristics of computable and non-computable functions."
-        ],
+        "apply_outcomes": [],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "describe": 2,
+            "differentiate": 1
+        }
     },
     {
         "name": "Low Level Programming",
@@ -4537,7 +4893,11 @@
             "Apply low level programming languages to implement complex programs such as internal operating system components and drivers to interface with and control hardware devices or to achieve other results (e.g., speed, size, efficiency, etc.)."
         ],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "apply": 1,
+            "explain": 1
+        }
     },
     {
         "name": "Analog Telecommunications",
@@ -4587,7 +4947,11 @@
         ],
         "apply_outcomes": [],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "describe": 1,
+            "understand": 1
+        }
     },
     {
         "name": "Life-Cycle Security",
@@ -4654,7 +5018,11 @@
         ],
         "apply_outcomes": [],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "describe": 1,
+            "list": 2
+        }
     },
     {
         "name": "Basic Scripting and Programming",
@@ -4709,16 +5077,20 @@
         "remember_outcomes": [
             "Demonstrate conceptual understanding and practical use of regular programming or scripting expressions."
         ],
-        "apply_outcomes": [],
-        "evaluate_outcomes": [
-            "Implement basic security practices in scripting, including bounds checking and input validation."
-        ],
-        "unknown_bloom": [
+        "apply_outcomes": [
             "Write and execute simple scripts to automate system administration tasks.",
             "Write and execute programs in a high-level language using basic programming constructs and concepts.",
             "Write and execute simple linear and looping scripts.",
-            "Write and execute simple and compound conditions within a programming language or similar environment (e.g., scripts, macros, SQL)."
-        ]
+            "Write and execute simple and compound conditions within a programming language or similar environment (e.g., scripts, macros, SQL).",
+            "Implement basic security practices in scripting, including bounds checking and input validation."
+        ],
+        "evaluate_outcomes": [],
+        "unknown_bloom": [],
+        "verb_counts": {
+            "write": 4,
+            "implement": 1,
+            "demonstrate": 1
+        }
     },
     {
         "name": "Software Security Analysis",
@@ -4769,6 +5141,10 @@
             "Apply knowledge to perform software security analysis, using common tools, against previously unknown software components."
         ],
         "evaluate_outcomes": [],
-        "unknown_bloom": []
+        "unknown_bloom": [],
+        "verb_counts": {
+            "describe": 1,
+            "apply": 1
+        }
     }
 ]

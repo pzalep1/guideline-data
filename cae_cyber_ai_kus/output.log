@@ -3062,3 +3062,788 @@
 [INFO] 2025-07-07 23:37:41 - Starting OFA
 [INFO] 2025-07-07 23:37:42 - Cosine similarity for Evaluate the effectiveness of AI algorithms in solving real-world problems. and Evaluate the effectiveness of implementing AI for conducting cyber attacks. in OFA is 0.607500433921814
 [INFO] 2025-07-07 23:37:43 - Starting OFA
+[INFO] 2025-07-08 12:48:17 - Use pytorch device_name: mps
+[INFO] 2025-07-08 12:48:17 - Load pretrained SentenceTransformer: all-mpnet-base-v2
+[INFO] 2025-07-08 12:48:25 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:48:25 - Starting CSF
+[INFO] 2025-07-08 12:48:28 - Starting CSF
+[INFO] 2025-07-08 12:48:31 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:48:31 - Starting ISC
+[INFO] 2025-07-08 12:48:32 - Starting ISC
+[INFO] 2025-07-08 12:48:34 - Starting BSP
+[INFO] 2025-07-08 12:48:34 - Cosine similarity for Describe basic security practices in developing scripts/programs. and Implement basic security practices in scripting, including bounds checking and input validation. in BSP is 0.8296259641647339
+[INFO] 2025-07-08 12:48:34 - Cosine similarity for Write simple scripts to automate system administration tasks. and Write simple scripts to automate system administration tasks. in BSP is 1.0
+[INFO] 2025-07-08 12:48:35 - Cosine similarity for Implement basic security practices in scripts, such as input validation and error handling. and Implement basic security practices in scripting, including bounds checking and input validation. in BSP is 0.9331652522087097
+[INFO] 2025-07-08 12:48:36 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:48:36 - Starting BSP
+[INFO] 2025-07-08 12:48:37 - Starting BSP
+[INFO] 2025-07-08 12:48:39 - Starting MAF
+[INFO] 2025-07-08 12:48:41 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:48:41 - Starting MAF
+[INFO] 2025-07-08 12:48:44 - Starting MAF
+[INFO] 2025-07-08 12:48:47 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:48:47 - Starting COF
+[INFO] 2025-07-08 12:48:48 - Starting COF
+[INFO] 2025-07-08 12:48:50 - Starting AIG
+[INFO] 2025-07-08 12:48:50 - Cosine similarity for Identify key laws and regulations governing AI. and Assess the impact of laws and regulations on AI development and security. in AIG is 0.801357090473175
+[INFO] 2025-07-08 12:48:50 - Cosine similarity for Describe the ethical challenges posed by AI technologies. and Describe the societal responsibility of AI developers, operators, and users to act legally and ethically at all times. in AIG is 0.8057341575622559
+[INFO] 2025-07-08 12:48:51 - Cosine similarity for Analyze case studies to identify ethical and legal issues in AI. and Describe the societal responsibility of AI developers, operators, and users to act legally and ethically at all times. in AIG is 0.813410758972168
+[INFO] 2025-07-08 12:48:51 - Cosine similarity for Evaluate the effectiveness of existing AI governance frameworks. and Analyze AI Governance related to the US and International legal and regulatory frameworks, organizational policies, and oversight mechanisms. in AIG is 0.8005629777908325
+[INFO] 2025-07-08 12:48:51 - Cosine similarity for Assess the impact of laws and regulations on AI development. and Assess the impact of laws and regulations on AI development and security. in AIG is 0.9021326303482056
+[INFO] 2025-07-08 12:48:51 - Cosine similarity for Critique the ethical implications of AI applications. and Describe the societal responsibility of AI developers, operators, and users to act legally and ethically at all times. in AIG is 0.8098766803741455
+[INFO] 2025-07-08 12:48:51 - Cosine similarity for Develop policies and guidelines for the ethical use of AI. and Describe the societal responsibility of AI developers, operators, and users to act legally and ethically at all times. in AIG is 0.8359557390213013
+[INFO] 2025-07-08 12:48:55 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:48:55 - Starting AIG
+[INFO] 2025-07-08 12:48:56 - Starting AIG
+[INFO] 2025-07-08 12:48:57 - Starting AIF
+[INFO] 2025-07-08 12:48:57 - Cosine similarity for Define the principles and concepts of Artificial Intelligence. and Describe the principles and concepts of AI, including terminology, components, tools, various AI technologies, and their evolution. in AIF is 0.8112103939056396
+[INFO] 2025-07-08 12:48:58 - Cosine similarity for Explain classical artificial intelligence algorithms. and Explain classical artificial intelligence algorithms, such as search and optimization algorithms. in AIF is 0.9312027096748352
+[INFO] 2025-07-08 12:48:58 - Cosine similarity for Discuss ethical considerations, including bias/fairness, privacy, and security issues related to AI development and implementation. and Describe the ethical considerations and potential risks associated with AI, focusing on bias, privacy, safety, and security throughout the lifecycle. in AIF is 0.8954158425331116
+[INFO] 2025-07-08 12:48:59 - Cosine similarity for Assess the applications and limitations of AI in cybersecurity and workplace settings. and Evaluate the suitability of an AI tool for a specific task, particularly within the context of cybersecurity. in AIF is 0.8165038824081421
+[INFO] 2025-07-08 12:48:59 - Cosine similarity for Evaluate the ethical implications of AI applications, focusing on bias, fairness, privacy, and security. and Describe the ethical considerations and potential risks associated with AI, focusing on bias, privacy, safety, and security throughout the lifecycle. in AIF is 0.8453567028045654
+[INFO] 2025-07-08 12:49:02 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:49:02 - Starting AIF
+[INFO] 2025-07-08 12:49:05 - Starting AIF
+[INFO] 2025-07-08 12:49:07 - Starting MLF
+[INFO] 2025-07-08 12:49:07 - Cosine similarity for Identify key machine learning models and algorithms. and Describe various machine learning algorithms. in MLF is 0.8145691156387329
+[INFO] 2025-07-08 12:49:08 - Cosine similarity for Evaluate the performance and effectiveness of different ML/AI methods and technologies in solving specific problems. and Evaluate the performance and effectiveness of different Machine Learning methods and tools. in MLF is 0.8131701946258545
+[INFO] 2025-07-08 12:49:09 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:49:09 - Starting MLF
+[INFO] 2025-07-08 12:49:11 - Starting MLF
+[INFO] 2025-07-08 12:49:14 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:49:14 - Starting BNW
+[INFO] 2025-07-08 12:49:15 - Starting BNW
+[INFO] 2025-07-08 12:49:17 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:49:17 - Starting NDF
+[INFO] 2025-07-08 12:49:18 - Starting NDF
+[INFO] 2025-07-08 12:49:20 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:49:20 - Starting AVM
+[INFO] 2025-07-08 12:49:22 - Starting AVM
+[INFO] 2025-07-08 12:49:23 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:49:23 - Starting MLA
+[INFO] 2025-07-08 12:49:25 - Starting MLA
+[INFO] 2025-07-08 12:49:27 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:49:27 - Starting DPL
+[INFO] 2025-07-08 12:49:29 - Starting DPL
+[INFO] 2025-07-08 12:49:31 - Starting MES
+[INFO] 2025-07-08 12:49:32 - Cosine similarity for Apply criteria for model selection based on problem requirements. and Identify the requirements of a task to guide model selection. in MES is 0.8509439826011658
+[INFO] 2025-07-08 12:49:32 - Cosine similarity for Apply criteria for model selection based on problem requirements. and Apply criteria for model selection based on problem requirements. in MES is 1.0
+[INFO] 2025-07-08 12:49:33 - Cosine similarity for Analyze the performance of different AI/ML models using various metrics. and Analyze the appropriateness and performance of different AI/ML models for a specific task using various metrics. in MES is 0.9105728268623352
+[INFO] 2025-07-08 12:49:33 - Cosine similarity for Assess the suitability of AI/ML models for specific applications. and Analyze the appropriateness and performance of different AI/ML models for a specific task using various metrics. in MES is 0.8724223375320435
+[INFO] 2025-07-08 12:49:35 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:49:35 - Starting MES
+[INFO] 2025-07-08 12:49:36 - Cosine similarity for Assess the suitability of AI algorithms for specific applications. and Analyze the appropriateness and performance of different AI/ML models for a specific task using various metrics. in MES is 0.81885826587677
+[INFO] 2025-07-08 12:49:38 - Starting MES
+[INFO] 2025-07-08 12:49:40 - Starting AIL
+[INFO] 2025-07-08 12:49:40 - Cosine similarity for Recall common security risks associated with each stage of the AI lifecycle. and Assess threats and prioritize risks at different stages of the AI lifecycle. in AIL is 0.8432801961898804
+[INFO] 2025-07-08 12:49:40 - Cosine similarity for Recall common security risks associated with each stage of the AI lifecycle. and Describe the security challenges and vulnerabilities at each stage of the AI lifecycle. in AIL is 0.9080703258514404
+[INFO] 2025-07-08 12:49:41 - Cosine similarity for Explain the importance of securing the AI lifecycle. and Describe the security challenges and vulnerabilities at each stage of the AI lifecycle. in AIL is 0.8436605930328369
+[INFO] 2025-07-08 12:49:41 - Cosine similarity for Describe the security challenges and vulnerabilities at each stage of the AI lifecycle. and Describe the security challenges and vulnerabilities at each stage of the AI lifecycle. in AIL is 1.0
+[INFO] 2025-07-08 12:49:41 - Cosine similarity for Apply best practices for maintaining the integrity and confidentiality of AI models. and Apply best practices for maintaining the confidentiality, integrity, and availability of AI-enabled systems. in AIL is 0.8118574619293213
+[INFO] 2025-07-08 12:49:41 - Cosine similarity for Analyze security risks and vulnerabilities in AI systems. and Describe the security challenges and vulnerabilities at each stage of the AI lifecycle. in AIL is 0.8418564796447754
+[INFO] 2025-07-08 12:49:41 - Cosine similarity for Evaluate the effectiveness of different security measures for protecting AI models. and Design, implement, and evaluate security measures for protecting AI models. in AIL is 0.9483355283737183
+[INFO] 2025-07-08 12:49:43 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:49:43 - Starting AIL
+[INFO] 2025-07-08 12:49:45 - Starting AIL
+[INFO] 2025-07-08 12:49:47 - Starting AIR
+[INFO] 2025-07-08 12:49:48 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:49:48 - Starting AIR
+[INFO] 2025-07-08 12:49:50 - Starting AIR
+[INFO] 2025-07-08 12:49:52 - Starting ADL
+[INFO] 2025-07-08 12:49:53 - Cosine similarity for Apply defenses to protect AI models from adversarial attacks. and Assess the robustness of AI models against adversarial attacks. in ADL is 0.8163036108016968
+[INFO] 2025-07-08 12:49:53 - Cosine similarity for Apply defenses to protect AI models from adversarial attacks. and Apply defenses to protect AI models from adversarial attacks. in ADL is 1.0
+[INFO] 2025-07-08 12:49:53 - Cosine similarity for Analyze the effectiveness of different adversarial attacks on AI models. and Assess the robustness of AI models against adversarial attacks. in ADL is 0.8319401741027832
+[INFO] 2025-07-08 12:49:54 - Cosine similarity for Assess the robustness of AI models against adversarial examples. and Assess the robustness of AI models against adversarial attacks. in ADL is 0.9651891589164734
+[INFO] 2025-07-08 12:49:54 - Cosine similarity for Design experiments to test AI models against adversarial attacks. and Assess the robustness of AI models against adversarial attacks. in ADL is 0.8705322742462158
+[INFO] 2025-07-08 12:49:54 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:49:54 - Starting ADL
+[INFO] 2025-07-08 12:49:56 - Starting ADL
+[INFO] 2025-07-08 12:49:58 - Starting AIS
+[INFO] 2025-07-08 12:49:59 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:49:59 - Starting AIS
+[INFO] 2025-07-08 12:50:01 - Starting AIS
+[INFO] 2025-07-08 12:50:02 - Starting DFA
+[INFO] 2025-07-08 12:50:03 - Cosine similarity for Implement AI techniques to detect and mitigate cyber threats. and Implement AI techniques to enhance security posture and automate cybersecurity processes. in DFA is 0.8929793834686279
+[INFO] 2025-07-08 12:50:03 - Cosine similarity for Implement AI techniques to detect and mitigate cyber threats. and Develop and apply AI and machine learning models to identify cyber risks (e.g., vulnerabilities and threats) and their mitigation. in DFA is 0.8151699900627136
+[INFO] 2025-07-08 12:50:03 - Cosine similarity for Evaluate the impact of AI on improving cybersecurity posture. and Implement AI techniques to enhance security posture and automate cybersecurity processes. in DFA is 0.8279696106910706
+[INFO] 2025-07-08 12:50:03 - Cosine similarity for Develop AI-based solutions for enhancing defensive cybersecurity. and Implement AI techniques to enhance security posture and automate cybersecurity processes. in DFA is 0.8592117428779602
+[INFO] 2025-07-08 12:50:05 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:50:05 - Starting DFA
+[INFO] 2025-07-08 12:50:06 - Starting DFA
+[INFO] 2025-07-08 12:50:07 - Starting OFA
+[INFO] 2025-07-08 12:50:07 - Cosine similarity for Identify AI techniques commonly used in offensive cybersecurity applications. and Identify opportunities for AI to enable offensive cybersecurity operations. in OFA is 0.8544220924377441
+[INFO] 2025-07-08 12:50:07 - Cosine similarity for Identify AI techniques commonly used in offensive cybersecurity applications. and Correlate offensive AI techniques to existing cybersecurity frameworks. in OFA is 0.8712431192398071
+[INFO] 2025-07-08 12:50:08 - Cosine similarity for Explain the role of AI in enhancing offensive cybersecurity operations. and Identify opportunities for AI to enable offensive cybersecurity operations. in OFA is 0.8564114570617676
+[INFO] 2025-07-08 12:50:08 - Cosine similarity for Analyze the effectiveness of AI techniques in executing cyber attacks. and Evaluate the effectiveness of implementing AI for conducting cyber attacks. in OFA is 0.9152133464813232
+[INFO] 2025-07-08 12:50:08 - Cosine similarity for Compare different AI-based offensive strategies. and Supplement current offensive Tactics, Techniques, and Procedures (TTPs) with AI. in OFA is 0.8087559342384338
+[INFO] 2025-07-08 12:50:09 - Cosine similarity for Evaluate the impact of AI on advancing offensive cybersecurity capabilities. and Identify opportunities for AI to enable offensive cybersecurity operations. in OFA is 0.885814905166626
+[INFO] 2025-07-08 12:50:09 - Cosine similarity for Evaluate the impact of AI on advancing offensive cybersecurity capabilities. and Evaluate the effectiveness of implementing AI for conducting cyber attacks. in OFA is 0.8400925397872925
+[INFO] 2025-07-08 12:50:09 - Cosine similarity for Evaluate the impact of AI on advancing offensive cybersecurity capabilities. and Correlate offensive AI techniques to existing cybersecurity frameworks. in OFA is 0.8144792318344116
+[INFO] 2025-07-08 12:50:09 - Cosine similarity for Design a comprehensive AI-driven offensive strategy for cybersecurity operations. and Identify opportunities for AI to enable offensive cybersecurity operations. in OFA is 0.8903617858886719
+[INFO] 2025-07-08 12:50:10 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:50:10 - Starting OFA
+[INFO] 2025-07-08 12:50:12 - Starting OFA
+[INFO] 2025-07-08 12:55:37 - Use pytorch device_name: mps
+[INFO] 2025-07-08 12:55:37 - Load pretrained SentenceTransformer: all-mpnet-base-v2
+[INFO] 2025-07-08 12:55:44 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:55:44 - Starting CSF
+[INFO] 2025-07-08 12:55:47 - Starting CSF
+[INFO] 2025-07-08 12:55:50 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:55:50 - Starting ISC
+[INFO] 2025-07-08 12:55:52 - Starting ISC
+[INFO] 2025-07-08 12:55:53 - Starting BSP
+[INFO] 2025-07-08 12:55:54 - Cosine similarity for Describe basic security practices in developing scripts/programs. and Implement basic security practices in scripting, including bounds checking and input validation. in BSP is 0.8296259641647339
+[INFO] 2025-07-08 12:55:54 - Cosine similarity for Write simple scripts to automate system administration tasks. and Write simple scripts to automate system administration tasks. in BSP is 1.0
+[INFO] 2025-07-08 12:55:54 - Cosine similarity for Implement basic security practices in scripts, such as input validation and error handling. and Implement basic security practices in scripting, including bounds checking and input validation. in BSP is 0.9331652522087097
+[INFO] 2025-07-08 12:55:55 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:55:55 - Starting BSP
+[INFO] 2025-07-08 12:55:57 - Starting BSP
+[INFO] 2025-07-08 12:55:58 - Starting MAF
+[INFO] 2025-07-08 12:56:01 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:56:01 - Starting MAF
+[INFO] 2025-07-08 12:56:03 - Starting MAF
+[INFO] 2025-07-08 12:56:06 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:56:06 - Starting COF
+[INFO] 2025-07-08 12:56:08 - Starting COF
+[INFO] 2025-07-08 12:56:09 - Starting AIG
+[INFO] 2025-07-08 12:56:09 - Cosine similarity for Identify key laws and regulations governing AI. and Assess the impact of laws and regulations on AI development and security. in AIG is 0.801357090473175
+[INFO] 2025-07-08 12:56:10 - Cosine similarity for Describe the ethical challenges posed by AI technologies. and Describe the societal responsibility of AI developers, operators, and users to act legally and ethically at all times. in AIG is 0.8057341575622559
+[INFO] 2025-07-08 12:56:10 - Cosine similarity for Analyze case studies to identify ethical and legal issues in AI. and Describe the societal responsibility of AI developers, operators, and users to act legally and ethically at all times. in AIG is 0.813410758972168
+[INFO] 2025-07-08 12:56:10 - Cosine similarity for Evaluate the effectiveness of existing AI governance frameworks. and Analyze AI Governance related to the US and International legal and regulatory frameworks, organizational policies, and oversight mechanisms. in AIG is 0.8005629777908325
+[INFO] 2025-07-08 12:56:10 - Cosine similarity for Assess the impact of laws and regulations on AI development. and Assess the impact of laws and regulations on AI development and security. in AIG is 0.9021326303482056
+[INFO] 2025-07-08 12:56:10 - Cosine similarity for Critique the ethical implications of AI applications. and Describe the societal responsibility of AI developers, operators, and users to act legally and ethically at all times. in AIG is 0.8098766803741455
+[INFO] 2025-07-08 12:56:10 - Cosine similarity for Develop policies and guidelines for the ethical use of AI. and Describe the societal responsibility of AI developers, operators, and users to act legally and ethically at all times. in AIG is 0.8359557390213013
+[INFO] 2025-07-08 12:56:14 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:56:14 - Starting AIG
+[INFO] 2025-07-08 12:56:15 - Starting AIG
+[INFO] 2025-07-08 12:56:16 - Starting AIF
+[INFO] 2025-07-08 12:56:16 - Cosine similarity for Define the principles and concepts of Artificial Intelligence. and Describe the principles and concepts of AI, including terminology, components, tools, various AI technologies, and their evolution. in AIF is 0.8112103939056396
+[INFO] 2025-07-08 12:56:17 - Cosine similarity for Explain classical artificial intelligence algorithms. and Explain classical artificial intelligence algorithms, such as search and optimization algorithms. in AIF is 0.9312027096748352
+[INFO] 2025-07-08 12:56:17 - Cosine similarity for Discuss ethical considerations, including bias/fairness, privacy, and security issues related to AI development and implementation. and Describe the ethical considerations and potential risks associated with AI, focusing on bias, privacy, safety, and security throughout the lifecycle. in AIF is 0.8954158425331116
+[INFO] 2025-07-08 12:56:18 - Cosine similarity for Assess the applications and limitations of AI in cybersecurity and workplace settings. and Evaluate the suitability of an AI tool for a specific task, particularly within the context of cybersecurity. in AIF is 0.8165038824081421
+[INFO] 2025-07-08 12:56:18 - Cosine similarity for Evaluate the ethical implications of AI applications, focusing on bias, fairness, privacy, and security. and Describe the ethical considerations and potential risks associated with AI, focusing on bias, privacy, safety, and security throughout the lifecycle. in AIF is 0.8453567028045654
+[INFO] 2025-07-08 12:56:21 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:56:21 - Starting AIF
+[INFO] 2025-07-08 12:56:23 - Starting AIF
+[INFO] 2025-07-08 12:56:25 - Starting MLF
+[INFO] 2025-07-08 12:56:25 - Cosine similarity for Identify key machine learning models and algorithms. and Describe various machine learning algorithms. in MLF is 0.8145691156387329
+[INFO] 2025-07-08 12:56:27 - Cosine similarity for Evaluate the performance and effectiveness of different ML/AI methods and technologies in solving specific problems. and Evaluate the performance and effectiveness of different Machine Learning methods and tools. in MLF is 0.8131701946258545
+[INFO] 2025-07-08 12:56:28 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:56:28 - Starting MLF
+[INFO] 2025-07-08 12:56:30 - Starting MLF
+[INFO] 2025-07-08 12:56:32 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:56:32 - Starting BNW
+[INFO] 2025-07-08 12:56:34 - Starting BNW
+[INFO] 2025-07-08 12:56:36 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:56:36 - Starting NDF
+[INFO] 2025-07-08 12:56:37 - Starting NDF
+[INFO] 2025-07-08 12:56:38 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:56:38 - Starting AVM
+[INFO] 2025-07-08 12:56:40 - Starting AVM
+[INFO] 2025-07-08 12:56:42 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:56:42 - Starting MLA
+[INFO] 2025-07-08 12:56:44 - Starting MLA
+[INFO] 2025-07-08 12:56:45 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:56:45 - Starting DPL
+[INFO] 2025-07-08 12:56:48 - Starting DPL
+[INFO] 2025-07-08 12:56:50 - Starting MES
+[INFO] 2025-07-08 12:56:51 - Cosine similarity for Apply criteria for model selection based on problem requirements. and Identify the requirements of a task to guide model selection. in MES is 0.8509439826011658
+[INFO] 2025-07-08 12:56:51 - Cosine similarity for Apply criteria for model selection based on problem requirements. and Apply criteria for model selection based on problem requirements. in MES is 1.0
+[INFO] 2025-07-08 12:56:51 - Cosine similarity for Analyze the performance of different AI/ML models using various metrics. and Analyze the appropriateness and performance of different AI/ML models for a specific task using various metrics. in MES is 0.9105728268623352
+[INFO] 2025-07-08 12:56:52 - Cosine similarity for Assess the suitability of AI/ML models for specific applications. and Analyze the appropriateness and performance of different AI/ML models for a specific task using various metrics. in MES is 0.8724223375320435
+[INFO] 2025-07-08 12:56:53 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:56:53 - Starting MES
+[INFO] 2025-07-08 12:56:55 - Cosine similarity for Assess the suitability of AI algorithms for specific applications. and Analyze the appropriateness and performance of different AI/ML models for a specific task using various metrics. in MES is 0.81885826587677
+[INFO] 2025-07-08 12:56:56 - Starting MES
+[INFO] 2025-07-08 12:56:59 - Starting AIL
+[INFO] 2025-07-08 12:56:59 - Cosine similarity for Recall common security risks associated with each stage of the AI lifecycle. and Assess threats and prioritize risks at different stages of the AI lifecycle. in AIL is 0.8432801961898804
+[INFO] 2025-07-08 12:56:59 - Cosine similarity for Recall common security risks associated with each stage of the AI lifecycle. and Describe the security challenges and vulnerabilities at each stage of the AI lifecycle. in AIL is 0.9080703258514404
+[INFO] 2025-07-08 12:56:59 - Cosine similarity for Explain the importance of securing the AI lifecycle. and Describe the security challenges and vulnerabilities at each stage of the AI lifecycle. in AIL is 0.8436605930328369
+[INFO] 2025-07-08 12:56:59 - Cosine similarity for Describe the security challenges and vulnerabilities at each stage of the AI lifecycle. and Describe the security challenges and vulnerabilities at each stage of the AI lifecycle. in AIL is 1.0
+[INFO] 2025-07-08 12:56:59 - Cosine similarity for Apply best practices for maintaining the integrity and confidentiality of AI models. and Apply best practices for maintaining the confidentiality, integrity, and availability of AI-enabled systems. in AIL is 0.8118574619293213
+[INFO] 2025-07-08 12:57:00 - Cosine similarity for Analyze security risks and vulnerabilities in AI systems. and Describe the security challenges and vulnerabilities at each stage of the AI lifecycle. in AIL is 0.8418564796447754
+[INFO] 2025-07-08 12:57:00 - Cosine similarity for Evaluate the effectiveness of different security measures for protecting AI models. and Design, implement, and evaluate security measures for protecting AI models. in AIL is 0.9483355283737183
+[INFO] 2025-07-08 12:57:02 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:57:02 - Starting AIL
+[INFO] 2025-07-08 12:57:03 - Starting AIL
+[INFO] 2025-07-08 12:57:05 - Starting AIR
+[INFO] 2025-07-08 12:57:07 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:57:07 - Starting AIR
+[INFO] 2025-07-08 12:57:09 - Starting AIR
+[INFO] 2025-07-08 12:57:11 - Starting ADL
+[INFO] 2025-07-08 12:57:11 - Cosine similarity for Apply defenses to protect AI models from adversarial attacks. and Assess the robustness of AI models against adversarial attacks. in ADL is 0.8163036108016968
+[INFO] 2025-07-08 12:57:11 - Cosine similarity for Apply defenses to protect AI models from adversarial attacks. and Apply defenses to protect AI models from adversarial attacks. in ADL is 1.0
+[INFO] 2025-07-08 12:57:11 - Cosine similarity for Analyze the effectiveness of different adversarial attacks on AI models. and Assess the robustness of AI models against adversarial attacks. in ADL is 0.8319401741027832
+[INFO] 2025-07-08 12:57:12 - Cosine similarity for Assess the robustness of AI models against adversarial examples. and Assess the robustness of AI models against adversarial attacks. in ADL is 0.9651891589164734
+[INFO] 2025-07-08 12:57:12 - Cosine similarity for Design experiments to test AI models against adversarial attacks. and Assess the robustness of AI models against adversarial attacks. in ADL is 0.8705322742462158
+[INFO] 2025-07-08 12:57:13 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:57:13 - Starting ADL
+[INFO] 2025-07-08 12:57:14 - Starting ADL
+[INFO] 2025-07-08 12:57:16 - Starting AIS
+[INFO] 2025-07-08 12:57:17 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:57:17 - Starting AIS
+[INFO] 2025-07-08 12:57:19 - Starting AIS
+[INFO] 2025-07-08 12:57:20 - Starting DFA
+[INFO] 2025-07-08 12:57:21 - Cosine similarity for Implement AI techniques to detect and mitigate cyber threats. and Implement AI techniques to enhance security posture and automate cybersecurity processes. in DFA is 0.8929793834686279
+[INFO] 2025-07-08 12:57:21 - Cosine similarity for Implement AI techniques to detect and mitigate cyber threats. and Develop and apply AI and machine learning models to identify cyber risks (e.g., vulnerabilities and threats) and their mitigation. in DFA is 0.8151699900627136
+[INFO] 2025-07-08 12:57:21 - Cosine similarity for Evaluate the impact of AI on improving cybersecurity posture. and Implement AI techniques to enhance security posture and automate cybersecurity processes. in DFA is 0.8279696106910706
+[INFO] 2025-07-08 12:57:21 - Cosine similarity for Develop AI-based solutions for enhancing defensive cybersecurity. and Implement AI techniques to enhance security posture and automate cybersecurity processes. in DFA is 0.8592117428779602
+[INFO] 2025-07-08 12:57:23 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:57:23 - Starting DFA
+[INFO] 2025-07-08 12:57:24 - Starting DFA
+[INFO] 2025-07-08 12:57:25 - Starting OFA
+[INFO] 2025-07-08 12:57:25 - Cosine similarity for Identify AI techniques commonly used in offensive cybersecurity applications. and Identify opportunities for AI to enable offensive cybersecurity operations. in OFA is 0.8544220924377441
+[INFO] 2025-07-08 12:57:25 - Cosine similarity for Identify AI techniques commonly used in offensive cybersecurity applications. and Correlate offensive AI techniques to existing cybersecurity frameworks. in OFA is 0.8712431192398071
+[INFO] 2025-07-08 12:57:25 - Cosine similarity for Explain the role of AI in enhancing offensive cybersecurity operations. and Identify opportunities for AI to enable offensive cybersecurity operations. in OFA is 0.8564114570617676
+[INFO] 2025-07-08 12:57:26 - Cosine similarity for Analyze the effectiveness of AI techniques in executing cyber attacks. and Evaluate the effectiveness of implementing AI for conducting cyber attacks. in OFA is 0.9152133464813232
+[INFO] 2025-07-08 12:57:26 - Cosine similarity for Compare different AI-based offensive strategies. and Supplement current offensive Tactics, Techniques, and Procedures (TTPs) with AI. in OFA is 0.8087559342384338
+[INFO] 2025-07-08 12:57:26 - Cosine similarity for Evaluate the impact of AI on advancing offensive cybersecurity capabilities. and Identify opportunities for AI to enable offensive cybersecurity operations. in OFA is 0.885814905166626
+[INFO] 2025-07-08 12:57:26 - Cosine similarity for Evaluate the impact of AI on advancing offensive cybersecurity capabilities. and Evaluate the effectiveness of implementing AI for conducting cyber attacks. in OFA is 0.8400925397872925
+[INFO] 2025-07-08 12:57:26 - Cosine similarity for Evaluate the impact of AI on advancing offensive cybersecurity capabilities. and Correlate offensive AI techniques to existing cybersecurity frameworks. in OFA is 0.8144792318344116
+[INFO] 2025-07-08 12:57:27 - Cosine similarity for Design a comprehensive AI-driven offensive strategy for cybersecurity operations. and Identify opportunities for AI to enable offensive cybersecurity operations. in OFA is 0.8903617858886719
+[INFO] 2025-07-08 12:57:28 - Now we can do the extra files my dude
+[INFO] 2025-07-08 12:57:28 - Starting OFA
+[INFO] 2025-07-08 12:57:30 - Starting OFA
+[INFO] 2025-07-08 22:15:51 - Use pytorch device_name: mps
+[INFO] 2025-07-08 22:15:51 - Load pretrained SentenceTransformer: all-mpnet-base-v2
+[INFO] 2025-07-08 22:15:57 - Now we can do the extra files my dude
+[INFO] 2025-07-08 22:15:57 - Starting CSF
+[INFO] 2025-07-08 22:16:06 - Starting CSF
+[INFO] 2025-07-08 22:16:10 - Cosine similarity for Access Control Mechanisms and Authentication, authorization, and accounting (AAA) and access control in CSF is 0.7072038650512695
+[INFO] 2025-07-08 22:16:12 - Cosine similarity for Risk Management in Data Security and Cyber risk management in CSF is 0.6784186959266663
+[INFO] 2025-07-08 22:16:12 - Cosine similarity for Identifying Data Security Risks and Vulnerabilities in CSF is 0.5036168098449707
+[INFO] 2025-07-08 22:16:12 - Cosine similarity for Identifying Data Security Risks and Cyber risk management in CSF is 0.5112453699111938
+[INFO] 2025-07-08 22:16:12 - Cosine similarity for Vulnerability Assessment and Mitigation Strategies and Vulnerability taxonomies, databases, and scores in CSF is 0.5280265212059021
+[INFO] 2025-07-08 22:16:12 - Cosine similarity for Vulnerability Assessment and Mitigation Strategies and Cyber risk management in CSF is 0.5027357935905457
+[INFO] 2025-07-08 22:16:13 - Cosine similarity for Best Practices in Secure Data Management and Cybersecurity best practices in CSF is 0.5653858780860901
+[INFO] 2025-07-08 22:16:14 - Now we can do the extra files my dude
+[INFO] 2025-07-08 22:16:14 - Starting ISC
+[INFO] 2025-07-08 22:16:23 - Starting ISC
+[INFO] 2025-07-08 22:16:25 - Cosine similarity for Data Collection and Storage and Storage Devices (external storage drives, filesystems, shared file servers, databases) in ISC is 0.5512197613716125
+[INFO] 2025-07-08 22:16:25 - Cosine similarity for Secure Storage Solutions (Databases, Data Lakes, Cloud Storage) and Storage Devices (external storage drives, filesystems, shared file servers, databases) in ISC is 0.5196723341941833
+[INFO] 2025-07-08 22:16:31 - Starting BSP
+[INFO] 2025-07-08 22:16:31 - Cosine similarity for Introduction to Scripting Languages and Scripting platforms in various operating systems in BSP is 0.5735218524932861
+[INFO] 2025-07-08 22:16:32 - Cosine similarity for Overview of Common Scripting Languages (Python, Bash, PowerShell, etc.) and Scripting platforms in various operating systems in BSP is 0.6853986382484436
+[INFO] 2025-07-08 22:16:32 - Cosine similarity for Basic Syntax and Structure and Fundamental programming constructs in BSP is 0.5675399899482727
+[INFO] 2025-07-08 22:16:32 - Cosine similarity for Basic Syntax and Structure and Arrays, strings, and structures in BSP is 0.5504355430603027
+[INFO] 2025-07-08 22:16:32 - Cosine similarity for Basic Syntax and Structure and Basic data structures in BSP is 0.6521847248077393
+[INFO] 2025-07-08 22:16:32 - Cosine similarity for Programming Constructs and Fundamental programming constructs in BSP is 0.7738052606582642
+[INFO] 2025-07-08 22:16:32 - Cosine similarity for Programming Constructs and Variables and types in BSP is 0.5397487282752991
+[INFO] 2025-07-08 22:16:32 - Cosine similarity for Programming Constructs and Operators (assignment, arithmetic, logic, etc.) in BSP is 0.5030341148376465
+[INFO] 2025-07-08 22:16:32 - Cosine similarity for Programming Constructs and Arrays, strings, and structures in BSP is 0.5193053483963013
+[INFO] 2025-07-08 22:16:32 - Cosine similarity for Programming Constructs and Basic data structures in BSP is 0.5440226793289185
+[INFO] 2025-07-08 22:16:32 - Cosine similarity for Variables and Data Types and Variables and types in BSP is 0.9164619445800781
+[INFO] 2025-07-08 22:16:33 - Cosine similarity for Variables and Data Types and Arrays, strings, and structures in BSP is 0.5277290344238281
+[INFO] 2025-07-08 22:16:33 - Cosine similarity for Variables and Data Types and Basic data structures in BSP is 0.5209519267082214
+[INFO] 2025-07-08 22:16:33 - Cosine similarity for Control Structures (if statements, loops) and Control structures (conditional execution, selection, loops, branching) in BSP is 0.7965959310531616
+[INFO] 2025-07-08 22:16:33 - Cosine similarity for Functions and Procedures and Functions/procedures/subroutines in BSP is 0.7898985147476196
+[INFO] 2025-07-08 22:16:35 - Cosine similarity for Script Writing and Automation and Scripting platforms in various operating systems in BSP is 0.6799001693725586
+[INFO] 2025-07-08 22:16:36 - Cosine similarity for Writing and Executing Scripts and Scripting platforms in various operating systems in BSP is 0.6949875354766846
+[INFO] 2025-07-08 22:16:36 - Cosine similarity for Debugging and Testing and Testing and debugging techniques in BSP is 0.8839985132217407
+[INFO] 2025-07-08 22:16:37 - Cosine similarity for Common Debugging Techniques and Testing and debugging techniques in BSP is 0.8401598930358887
+[INFO] 2025-07-08 22:16:37 - Cosine similarity for Advanced Scripting Techniques and Scripting platforms in various operating systems in BSP is 0.6515868902206421
+[INFO] 2025-07-08 22:16:39 - Cosine similarity for Integrating Scripts with Other Tools and Scripting platforms in various operating systems in BSP is 0.6252276301383972
+[INFO] 2025-07-08 22:16:39 - Cosine similarity for Real-World Examples of Scripting in Cybersecurity and Scripting platforms in various operating systems in BSP is 0.5211831331253052
+[INFO] 2025-07-08 22:16:40 - Now we can do the extra files my dude
+[INFO] 2025-07-08 22:16:40 - Starting BSP
+[INFO] 2025-07-08 22:16:41 - Cosine similarity for Classical AI Algorithms and Algorithms in BSP is 0.5946750640869141
+[INFO] 2025-07-08 22:16:41 - Cosine similarity for Decision Trees and Algorithms in BSP is 0.5072610378265381
+[INFO] 2025-07-08 22:16:44 - Cosine similarity for Clustering Algorithms and Algorithms in BSP is 0.535770058631897
+[INFO] 2025-07-08 22:16:44 - Cosine similarity for Neural Networks and Algorithms in BSP is 0.511143147945404
+[INFO] 2025-07-08 22:16:47 - Cosine similarity for Algorithm Implementation and Algorithms in BSP is 0.7069000005722046
+[INFO] 2025-07-08 22:16:47 - Cosine similarity for Programming AI Algorithms and Algorithms in BSP is 0.6149766445159912
+[INFO] 2025-07-08 22:16:49 - Cosine similarity for Hybrid Algorithms and Algorithms in BSP is 0.674462616443634
+[INFO] 2025-07-08 22:16:50 - Starting BSP
+[INFO] 2025-07-08 22:16:51 - Cosine similarity for Types of Data (Structured, Semi-Structured, Unstructured) and Basic data structures in BSP is 0.5839335918426514
+[INFO] 2025-07-08 22:16:53 - Cosine similarity for Data Collection and Storage and Basic data structures in BSP is 0.5832351446151733
+[INFO] 2025-07-08 22:17:00 - Starting MAF
+[INFO] 2025-07-08 22:17:01 - Cosine similarity for Probability Distributions and Probability measures and distributions in MAF is 0.7178063988685608
+[INFO] 2025-07-08 22:17:01 - Cosine similarity for Statistical Measures (mean, variance, etc.) and Probability measures and distributions in MAF is 0.5627903938293457
+[INFO] 2025-07-08 22:17:01 - Cosine similarity for Statistical Measures (mean, variance, etc.) and Descriptive Statistics (mean, variance, median, etc.) in MAF is 0.7317159175872803
+[INFO] 2025-07-08 22:17:02 - Now we can do the extra files my dude
+[INFO] 2025-07-08 22:17:02 - Starting MAF
+[INFO] 2025-07-08 22:17:04 - Starting MAF
+[INFO] 2025-07-08 22:17:06 - Now we can do the extra files my dude
+[INFO] 2025-07-08 22:17:06 - Starting COF
+[INFO] 2025-07-08 22:17:09 - Cosine similarity for Algorithm Implementation and Algorithmic analysis in COF is 0.7189674377441406
+[INFO] 2025-07-08 22:17:09 - Cosine similarity for Programming AI Algorithms and Algorithmic analysis in COF is 0.5368117690086365
+[INFO] 2025-07-08 22:17:10 - Cosine similarity for Hybrid Algorithms and Algorithmic analysis in COF is 0.5436270236968994
+[INFO] 2025-07-08 22:17:11 - Starting COF
+[INFO] 2025-07-08 22:17:11 - Cosine similarity for Types of Data (Structured, Semi-Structured, Unstructured) and Data structures in COF is 0.613513171672821
+[INFO] 2025-07-08 22:17:11 - Cosine similarity for Data Formats and Standards and Data encoding in COF is 0.5339410901069641
+[INFO] 2025-07-08 22:17:11 - Cosine similarity for Data Formats and Standards and Data structures in COF is 0.5119771957397461
+[INFO] 2025-07-08 22:17:12 - Cosine similarity for Data Collection and Storage and Data structures in COF is 0.6216410398483276
+[INFO] 2025-07-08 22:17:15 - Starting AIG
+[INFO] 2025-07-08 22:17:15 - Cosine similarity for Introduction to AI Governance and AI Governance in AIG is 0.9365391731262207
+[INFO] 2025-07-08 22:17:15 - Cosine similarity for Introduction to AI Governance and Standards and standard-setting bodies for AI development and deployment in AIG is 0.5042139887809753
+[INFO] 2025-07-08 22:17:15 - Cosine similarity for Introduction to AI Governance and Internal organizational policies guiding legal and ethical AI use in AIG is 0.534062385559082
+[INFO] 2025-07-08 22:17:15 - Cosine similarity for Introduction to AI Governance and Oversight and Compliance mechanisms for monitoring and enforcing AI regulations and policies in AIG is 0.6703101992607117
+[INFO] 2025-07-08 22:17:15 - Cosine similarity for Introduction to AI Governance and AI Laws and Regulations, including assessment of practical examples/case studies in AIG is 0.6255136728286743
+[INFO] 2025-07-08 22:17:16 - Cosine similarity for Introduction to AI Governance and Develop policies guiding data privacy and protection related to AI in AIG is 0.5745986700057983
+[INFO] 2025-07-08 22:17:16 - Cosine similarity for Definition and Importance of AI Governance and AI Governance in AIG is 0.8972187042236328
+[INFO] 2025-07-08 22:17:16 - Cosine similarity for Definition and Importance of AI Governance and Internal organizational policies guiding legal and ethical AI use in AIG is 0.5219631791114807
+[INFO] 2025-07-08 22:17:16 - Cosine similarity for Definition and Importance of AI Governance and Oversight and Compliance mechanisms for monitoring and enforcing AI regulations and policies in AIG is 0.6131854057312012
+[INFO] 2025-07-08 22:17:16 - Cosine similarity for Definition and Importance of AI Governance and AI Laws and Regulations, including assessment of practical examples/case studies in AIG is 0.5764322876930237
+[INFO] 2025-07-08 22:17:16 - Cosine similarity for Definition and Importance of AI Governance and Develop policies guiding data privacy and protection related to AI in AIG is 0.5639490485191345
+[INFO] 2025-07-08 22:17:16 - Cosine similarity for Key Stakeholders in AI Governance and AI Governance in AIG is 0.8552838563919067
+[INFO] 2025-07-08 22:17:16 - Cosine similarity for Key Stakeholders in AI Governance and Standards and standard-setting bodies for AI development and deployment in AIG is 0.5761797428131104
+[INFO] 2025-07-08 22:17:16 - Cosine similarity for Key Stakeholders in AI Governance and Internal organizational policies guiding legal and ethical AI use in AIG is 0.5843248963356018
+[INFO] 2025-07-08 22:17:16 - Cosine similarity for Key Stakeholders in AI Governance and Oversight and Compliance mechanisms for monitoring and enforcing AI regulations and policies in AIG is 0.6545810699462891
+[INFO] 2025-07-08 22:17:16 - Cosine similarity for Key Stakeholders in AI Governance and AI Laws and Regulations, including assessment of practical examples/case studies in AIG is 0.6114460825920105
+[INFO] 2025-07-08 22:17:16 - Cosine similarity for Key Stakeholders in AI Governance and Develop policies guiding data privacy and protection related to AI in AIG is 0.5835866928100586
+[INFO] 2025-07-08 22:17:17 - Cosine similarity for Legal Considerations and Ethical Considerations (transparency, fairness, accountability, beneficence, privacy, trust/trustworthiness) in AIG is 0.5432279109954834
+[INFO] 2025-07-08 22:17:17 - Cosine similarity for Overview of AI Laws and Regulations and AI Governance in AIG is 0.5573906898498535
+[INFO] 2025-07-08 22:17:17 - Cosine similarity for Overview of AI Laws and Regulations and Standards and standard-setting bodies for AI development and deployment in AIG is 0.6460778713226318
+[INFO] 2025-07-08 22:17:17 - Cosine similarity for Overview of AI Laws and Regulations and Internal organizational policies guiding legal and ethical AI use in AIG is 0.6879467368125916
+[INFO] 2025-07-08 22:17:17 - Cosine similarity for Overview of AI Laws and Regulations and Oversight and Compliance mechanisms for monitoring and enforcing AI regulations and policies in AIG is 0.7573529481887817
+[INFO] 2025-07-08 22:17:17 - Cosine similarity for Overview of AI Laws and Regulations and AI Laws and Regulations, including assessment of practical examples/case studies in AIG is 0.9202802181243896
+[INFO] 2025-07-08 22:17:17 - Cosine similarity for Overview of AI Laws and Regulations and Data Protection and Privacy - GDPR, CCPA, HIPAA, EU AI Act, organizational retention policies in AIG is 0.5408467054367065
+[INFO] 2025-07-08 22:17:17 - Cosine similarity for Overview of AI Laws and Regulations and Develop policies guiding data privacy and protection related to AI in AIG is 0.7313799262046814
+[INFO] 2025-07-08 22:17:17 - Cosine similarity for Intellectual Property Rights in AI and Internal organizational policies guiding legal and ethical AI use in AIG is 0.592512845993042
+[INFO] 2025-07-08 22:17:17 - Cosine similarity for Intellectual Property Rights in AI and AI Laws and Regulations, including assessment of practical examples/case studies in AIG is 0.591312825679779
+[INFO] 2025-07-08 22:17:18 - Cosine similarity for Intellectual Property Rights in AI and Develop policies guiding data privacy and protection related to AI in AIG is 0.6169201135635376
+[INFO] 2025-07-08 22:17:18 - Cosine similarity for Data Protection and Privacy Laws and AI Laws and Regulations, including assessment of practical examples/case studies in AIG is 0.5171332955360413
+[INFO] 2025-07-08 22:17:18 - Cosine similarity for Data Protection and Privacy Laws and Data Protection and Privacy - GDPR, CCPA, HIPAA, EU AI Act, organizational retention policies in AIG is 0.7010966539382935
+[INFO] 2025-07-08 22:17:18 - Cosine similarity for Data Protection and Privacy Laws and Develop policies guiding data privacy and protection related to AI in AIG is 0.6916360259056091
+[INFO] 2025-07-08 22:17:18 - Cosine similarity for Ethical Principles and Ethical Considerations (transparency, fairness, accountability, beneficence, privacy, trust/trustworthiness) in AIG is 0.5680581331253052
+[INFO] 2025-07-08 22:17:18 - Cosine similarity for Ethical Principles and Ethical frameworks in AIG is 0.7219344973564148
+[INFO] 2025-07-08 22:17:19 - Cosine similarity for Fundamental Ethical Principles (Beneficence, Non-Maleficence, Autonomy, Justice) and Ethical Considerations (transparency, fairness, accountability, beneficence, privacy, trust/trustworthiness) in AIG is 0.5680211782455444
+[INFO] 2025-07-08 22:17:19 - Cosine similarity for Fundamental Ethical Principles (Beneficence, Non-Maleficence, Autonomy, Justice) and Ethical frameworks in AIG is 0.6353555917739868
+[INFO] 2025-07-08 22:17:19 - Cosine similarity for Transparency and Accountability and Accountability and Liability in AIG is 0.6380685567855835
+[INFO] 2025-07-08 22:17:19 - Cosine similarity for Transparency and Accountability and Ethical Considerations (transparency, fairness, accountability, beneficence, privacy, trust/trustworthiness) in AIG is 0.6656967997550964
+[INFO] 2025-07-08 22:17:19 - Cosine similarity for Governance Frameworks and AI Governance in AIG is 0.5226454734802246
+[INFO] 2025-07-08 22:17:19 - Cosine similarity for Governance Frameworks and Legal and Regulatory Frameworks (domestic and international) in AIG is 0.6317540407180786
+[INFO] 2025-07-08 22:17:20 - Cosine similarity for Governance Frameworks and Ethical frameworks in AIG is 0.6262370347976685
+[INFO] 2025-07-08 22:17:20 - Cosine similarity for Models of AI Governance and AI Governance in AIG is 0.9209104776382446
+[INFO] 2025-07-08 22:17:20 - Cosine similarity for Models of AI Governance and Internal organizational policies guiding legal and ethical AI use in AIG is 0.5549965500831604
+[INFO] 2025-07-08 22:17:20 - Cosine similarity for Models of AI Governance and Oversight and Compliance mechanisms for monitoring and enforcing AI regulations and policies in AIG is 0.6470975875854492
+[INFO] 2025-07-08 22:17:20 - Cosine similarity for Models of AI Governance and AI Laws and Regulations, including assessment of practical examples/case studies in AIG is 0.6100016832351685
+[INFO] 2025-07-08 22:17:20 - Cosine similarity for Models of AI Governance and Develop policies guiding data privacy and protection related to AI in AIG is 0.5543364882469177
+[INFO] 2025-07-08 22:17:21 - Cosine similarity for Implementing Governance Strategies and AI Governance in AIG is 0.5418257713317871
+[INFO] 2025-07-08 22:17:21 - Cosine similarity for Implementing Governance Strategies and Stakeholder Engagement (Boards of Directors, Leadership, Customers, Public) in AIG is 0.5236828923225403
+[INFO] 2025-07-08 22:17:21 - Cosine similarity for Analysis of AI Governance Failures and Successes and AI Governance in AIG is 0.7985633611679077
+[INFO] 2025-07-08 22:17:21 - Cosine similarity for Analysis of AI Governance Failures and Successes and Internal organizational policies guiding legal and ethical AI use in AIG is 0.5564409494400024
+[INFO] 2025-07-08 22:17:21 - Cosine similarity for Analysis of AI Governance Failures and Successes and Oversight and Compliance mechanisms for monitoring and enforcing AI regulations and policies in AIG is 0.6048640012741089
+[INFO] 2025-07-08 22:17:21 - Cosine similarity for Analysis of AI Governance Failures and Successes and AI Laws and Regulations, including assessment of practical examples/case studies in AIG is 0.6117233037948608
+[INFO] 2025-07-08 22:17:21 - Cosine similarity for Analysis of AI Governance Failures and Successes and Develop policies guiding data privacy and protection related to AI in AIG is 0.5117634534835815
+[INFO] 2025-07-08 22:17:22 - Cosine similarity for Lessons Learned from Ethical and Legal Challenges and Ethical frameworks in AIG is 0.5550966858863831
+[INFO] 2025-07-08 22:17:22 - Cosine similarity for Developing Governance Policies and AI Governance in AIG is 0.6042993068695068
+[INFO] 2025-07-08 22:17:22 - Cosine similarity for Developing Governance Policies and Legal and Regulatory Frameworks (domestic and international) in AIG is 0.5221285820007324
+[INFO] 2025-07-08 22:17:22 - Cosine similarity for Components of Effective AI Governance Policies and AI Governance in AIG is 0.8856006860733032
+[INFO] 2025-07-08 22:17:22 - Cosine similarity for Components of Effective AI Governance Policies and Standards and standard-setting bodies for AI development and deployment in AIG is 0.5455775856971741
+[INFO] 2025-07-08 22:17:22 - Cosine similarity for Components of Effective AI Governance Policies and Internal organizational policies guiding legal and ethical AI use in AIG is 0.5993765592575073
+[INFO] 2025-07-08 22:17:22 - Cosine similarity for Components of Effective AI Governance Policies and Oversight and Compliance mechanisms for monitoring and enforcing AI regulations and policies in AIG is 0.7085565328598022
+[INFO] 2025-07-08 22:17:22 - Cosine similarity for Components of Effective AI Governance Policies and AI Laws and Regulations, including assessment of practical examples/case studies in AIG is 0.6410577893257141
+[INFO] 2025-07-08 22:17:23 - Cosine similarity for Components of Effective AI Governance Policies and Develop policies guiding data privacy and protection related to AI in AIG is 0.6249298453330994
+[INFO] 2025-07-08 22:17:23 - Cosine similarity for Steps to Create and Implement Policies and Oversight and Compliance mechanisms for monitoring and enforcing AI regulations and policies in AIG is 0.5139964818954468
+[INFO] 2025-07-08 22:17:32 - Now we can do the extra files my dude
+[INFO] 2025-07-08 22:17:32 - Starting AIG
+[INFO] 2025-07-08 22:17:33 - Cosine similarity for Modern AI Techniques and AI Laws and Regulations, including assessment of practical examples/case studies in AIG is 0.5061896443367004
+[INFO] 2025-07-08 22:17:38 - Cosine similarity for Using AI Libraries and Tools and Standards and standard-setting bodies for AI development and deployment in AIG is 0.5606380701065063
+[INFO] 2025-07-08 22:17:38 - Cosine similarity for Using AI Libraries and Tools and AI Laws and Regulations, including assessment of practical examples/case studies in AIG is 0.5656752586364746
+[INFO] 2025-07-08 22:17:42 - Starting AIG
+[INFO] 2025-07-08 22:17:46 - Cosine similarity for Data Protection Techniques and Develop policies guiding data privacy and protection related to AI in AIG is 0.5174683332443237
+[INFO] 2025-07-08 22:17:47 - Cosine similarity for Data Governance and Compliance and AI Governance in AIG is 0.5118849873542786
+[INFO] 2025-07-08 22:17:47 - Cosine similarity for Data Governance and Compliance and Oversight and Compliance mechanisms for monitoring and enforcing AI regulations and policies in AIG is 0.541347861289978
+[INFO] 2025-07-08 22:17:47 - Cosine similarity for Data Governance and Compliance and Data Protection and Privacy - GDPR, CCPA, HIPAA, EU AI Act, organizational retention policies in AIG is 0.5723209977149963
+[INFO] 2025-07-08 22:17:47 - Cosine similarity for Data Governance Principles and AI Governance in AIG is 0.5427932739257812
+[INFO] 2025-07-08 22:17:47 - Cosine similarity for Data Governance Principles and Data Protection and Privacy - GDPR, CCPA, HIPAA, EU AI Act, organizational retention policies in AIG is 0.5617114305496216
+[INFO] 2025-07-08 22:17:47 - Cosine similarity for Data Governance Principles and Develop policies guiding data privacy and protection related to AI in AIG is 0.5330669283866882
+[INFO] 2025-07-08 22:17:47 - Cosine similarity for Compliance with Data Protection Regulations (GDPR, HIPAA, etc.) and Oversight and Compliance mechanisms for monitoring and enforcing AI regulations and policies in AIG is 0.5075167417526245
+[INFO] 2025-07-08 22:17:48 - Cosine similarity for Compliance with Data Protection Regulations (GDPR, HIPAA, etc.) and Data Protection and Privacy - GDPR, CCPA, HIPAA, EU AI Act, organizational retention policies in AIG is 0.7466219663619995
+[INFO] 2025-07-08 22:17:48 - Cosine similarity for Compliance with Data Protection Regulations (GDPR, HIPAA, etc.) and Develop policies guiding data privacy and protection related to AI in AIG is 0.542696475982666
+[INFO] 2025-07-08 22:17:48 - Cosine similarity for Compliance with Data Protection Regulations (GDPR, HIPAA, etc.) and Ethical Considerations (transparency, fairness, accountability, beneficence, privacy, trust/trustworthiness) in AIG is 0.5369316935539246
+[INFO] 2025-07-08 22:17:48 - Cosine similarity for Data Privacy Laws and AI Laws and Regulations, including assessment of practical examples/case studies in AIG is 0.5277066826820374
+[INFO] 2025-07-08 22:17:48 - Cosine similarity for Data Privacy Laws and Data Protection and Privacy - GDPR, CCPA, HIPAA, EU AI Act, organizational retention policies in AIG is 0.6344002485275269
+[INFO] 2025-07-08 22:17:48 - Cosine similarity for Data Privacy Laws and Develop policies guiding data privacy and protection related to AI in AIG is 0.6581183075904846
+[INFO] 2025-07-08 22:17:55 - Starting AIF
+[INFO] 2025-07-08 22:17:55 - Cosine similarity for Introduction to AI and Overview and evolution of the broad field of Artificial Intelligence in AIF is 0.5924415588378906
+[INFO] 2025-07-08 22:17:55 - Cosine similarity for Introduction to AI and AI tools and frameworks in AIF is 0.5674494504928589
+[INFO] 2025-07-08 22:17:55 - Cosine similarity for Introduction to AI and Intelligent agents in AIF is 0.6226253509521484
+[INFO] 2025-07-08 22:17:55 - Cosine similarity for Introduction to AI and Safety and security principles of AI in AIF is 0.564870297908783
+[INFO] 2025-07-08 22:17:55 - Cosine similarity for Overview of AI and Overview and evolution of the broad field of Artificial Intelligence in AIF is 0.6538645029067993
+[INFO] 2025-07-08 22:17:55 - Cosine similarity for Overview of AI and Classes of AI tools and techniques (classical AI, expert systems, machine learning, neural networks, generative AI) in AIF is 0.5627937316894531
+[INFO] 2025-07-08 22:17:55 - Cosine similarity for Overview of AI and AI tools and frameworks in AIF is 0.5369899272918701
+[INFO] 2025-07-08 22:17:55 - Cosine similarity for Overview of AI and Classic AI algorithms (search, optimization, rule-based systems, decision trees) in AIF is 0.5346359014511108
+[INFO] 2025-07-08 22:17:55 - Cosine similarity for Overview of AI and Intelligent agents in AIF is 0.5417721271514893
+[INFO] 2025-07-08 22:17:55 - Cosine similarity for Overview of AI and Safety and security principles of AI in AIF is 0.5443399548530579
+[INFO] 2025-07-08 22:17:55 - Cosine similarity for History of AI and Classes of AI tools and techniques (classical AI, expert systems, machine learning, neural networks, generative AI) in AIF is 0.5521869659423828
+[INFO] 2025-07-08 22:17:55 - Cosine similarity for History of AI and Classic AI algorithms (search, optimization, rule-based systems, decision trees) in AIF is 0.569533109664917
+[INFO] 2025-07-08 22:17:55 - Cosine similarity for History of AI and Safety and security principles of AI in AIF is 0.5008056163787842
+[INFO] 2025-07-08 22:17:55 - Cosine similarity for Key Components of AI and Classes of AI tools and techniques (classical AI, expert systems, machine learning, neural networks, generative AI) in AIF is 0.6248255968093872
+[INFO] 2025-07-08 22:17:55 - Cosine similarity for Key Components of AI and AI tools and frameworks in AIF is 0.5588540434837341
+[INFO] 2025-07-08 22:17:55 - Cosine similarity for Key Components of AI and Classic AI algorithms (search, optimization, rule-based systems, decision trees) in AIF is 0.558942437171936
+[INFO] 2025-07-08 22:17:55 - Cosine similarity for Key Components of AI and Intelligent agents in AIF is 0.5242899656295776
+[INFO] 2025-07-08 22:17:55 - Cosine similarity for Key Components of AI and Safety and security principles of AI in AIF is 0.5466799736022949
+[INFO] 2025-07-08 22:17:56 - Cosine similarity for AI Principles and Classes of AI tools and techniques (classical AI, expert systems, machine learning, neural networks, generative AI) in AIF is 0.5380173921585083
+[INFO] 2025-07-08 22:17:56 - Cosine similarity for AI Principles and AI tools and frameworks in AIF is 0.5362346172332764
+[INFO] 2025-07-08 22:17:56 - Cosine similarity for AI Principles and Classic AI algorithms (search, optimization, rule-based systems, decision trees) in AIF is 0.5227302312850952
+[INFO] 2025-07-08 22:17:56 - Cosine similarity for AI Principles and Intelligent agents in AIF is 0.629148006439209
+[INFO] 2025-07-08 22:17:56 - Cosine similarity for AI Principles and Safety and security principles of AI in AIF is 0.667920708656311
+[INFO] 2025-07-08 22:17:56 - Cosine similarity for AI Principles and AI risk and ethics in AIF is 0.5745229125022888
+[INFO] 2025-07-08 22:17:56 - Cosine similarity for Basic AI Principles and Overview and evolution of the broad field of Artificial Intelligence in AIF is 0.5169966220855713
+[INFO] 2025-07-08 22:17:56 - Cosine similarity for Basic AI Principles and Classes of AI tools and techniques (classical AI, expert systems, machine learning, neural networks, generative AI) in AIF is 0.5780933499336243
+[INFO] 2025-07-08 22:17:56 - Cosine similarity for Basic AI Principles and AI tools and frameworks in AIF is 0.582797646522522
+[INFO] 2025-07-08 22:17:56 - Cosine similarity for Basic AI Principles and Classic AI algorithms (search, optimization, rule-based systems, decision trees) in AIF is 0.5577518939971924
+[INFO] 2025-07-08 22:17:56 - Cosine similarity for Basic AI Principles and Intelligent agents in AIF is 0.66303551197052
+[INFO] 2025-07-08 22:17:56 - Cosine similarity for Basic AI Principles and Safety and security principles of AI in AIF is 0.6931902766227722
+[INFO] 2025-07-08 22:17:56 - Cosine similarity for Basic AI Principles and AI risk and ethics in AIF is 0.5485895276069641
+[INFO] 2025-07-08 22:17:56 - Cosine similarity for Differences between AI and Machine Learning (ML) and Classes of AI tools and techniques (classical AI, expert systems, machine learning, neural networks, generative AI) in AIF is 0.5862676501274109
+[INFO] 2025-07-08 22:17:56 - Cosine similarity for AI Algorithms and Classes of AI tools and techniques (classical AI, expert systems, machine learning, neural networks, generative AI) in AIF is 0.633521556854248
+[INFO] 2025-07-08 22:17:56 - Cosine similarity for AI Algorithms and AI tools and frameworks in AIF is 0.6392823457717896
+[INFO] 2025-07-08 22:17:56 - Cosine similarity for AI Algorithms and Classic AI algorithms (search, optimization, rule-based systems, decision trees) in AIF is 0.6876394152641296
+[INFO] 2025-07-08 22:17:56 - Cosine similarity for AI Algorithms and Intelligent agents in AIF is 0.6404777765274048
+[INFO] 2025-07-08 22:17:56 - Cosine similarity for Classical AI Algorithms and Classes of AI tools and techniques (classical AI, expert systems, machine learning, neural networks, generative AI) in AIF is 0.5966511964797974
+[INFO] 2025-07-08 22:17:57 - Cosine similarity for Classical AI Algorithms and Classic AI algorithms (search, optimization, rule-based systems, decision trees) in AIF is 0.7307616472244263
+[INFO] 2025-07-08 22:17:57 - Cosine similarity for Modern AI Techniques and Overview and evolution of the broad field of Artificial Intelligence in AIF is 0.5076634287834167
+[INFO] 2025-07-08 22:17:57 - Cosine similarity for Modern AI Techniques and Classes of AI tools and techniques (classical AI, expert systems, machine learning, neural networks, generative AI) in AIF is 0.6855343580245972
+[INFO] 2025-07-08 22:17:57 - Cosine similarity for Modern AI Techniques and AI tools and frameworks in AIF is 0.5879497528076172
+[INFO] 2025-07-08 22:17:57 - Cosine similarity for Modern AI Techniques and Classic AI algorithms (search, optimization, rule-based systems, decision trees) in AIF is 0.6629197597503662
+[INFO] 2025-07-08 22:17:57 - Cosine similarity for Modern AI Techniques and Intelligent agents in AIF is 0.5192126035690308
+[INFO] 2025-07-08 22:17:57 - Cosine similarity for Modern AI Techniques and Safety and security principles of AI in AIF is 0.5112888813018799
+[INFO] 2025-07-08 22:17:57 - Cosine similarity for Applications of AI and Classes of AI tools and techniques (classical AI, expert systems, machine learning, neural networks, generative AI) in AIF is 0.6296207308769226
+[INFO] 2025-07-08 22:17:57 - Cosine similarity for Applications of AI and AI tools and frameworks in AIF is 0.5497400760650635
+[INFO] 2025-07-08 22:17:57 - Cosine similarity for Applications of AI and Classic AI algorithms (search, optimization, rule-based systems, decision trees) in AIF is 0.5496881008148193
+[INFO] 2025-07-08 22:17:57 - Cosine similarity for Applications of AI and Intelligent agents in AIF is 0.5846949219703674
+[INFO] 2025-07-08 22:17:57 - Cosine similarity for Applications of AI and Safety and security principles of AI in AIF is 0.5336506366729736
+[INFO] 2025-07-08 22:17:57 - Cosine similarity for Intelligent Agents and AI tools and frameworks in AIF is 0.5255054235458374
+[INFO] 2025-07-08 22:17:57 - Cosine similarity for Intelligent Agents and Intelligent agents in AIF is 1.0
+[INFO] 2025-07-08 22:17:57 - Cosine similarity for Expert Systems and Classes of AI tools and techniques (classical AI, expert systems, machine learning, neural networks, generative AI) in AIF is 0.5559768080711365
+[INFO] 2025-07-08 22:17:57 - Cosine similarity for Expert Systems and Knowledge representation and reasoning in AIF is 0.5019447803497314
+[INFO] 2025-07-08 22:17:57 - Cosine similarity for Expert Systems and AI tools and frameworks in AIF is 0.5559077858924866
+[INFO] 2025-07-08 22:17:57 - Cosine similarity for Expert Systems and Intelligent agents in AIF is 0.5859741568565369
+[INFO] 2025-07-08 22:17:58 - Cosine similarity for Artificial Neural Networks and Classes of AI tools and techniques (classical AI, expert systems, machine learning, neural networks, generative AI) in AIF is 0.5350244641304016
+[INFO] 2025-07-08 22:17:58 - Cosine similarity for Types of AI and AI Tools and Classes of AI tools and techniques (classical AI, expert systems, machine learning, neural networks, generative AI) in AIF is 0.8406051397323608
+[INFO] 2025-07-08 22:17:58 - Cosine similarity for Types of AI and AI Tools and AI tools and frameworks in AIF is 0.6481833457946777
+[INFO] 2025-07-08 22:17:58 - Cosine similarity for Types of AI and AI Tools and Classic AI algorithms (search, optimization, rule-based systems, decision trees) in AIF is 0.5868423581123352
+[INFO] 2025-07-08 22:17:58 - Cosine similarity for Generative AI and Intelligent agents in AIF is 0.522466778755188
+[INFO] 2025-07-08 22:18:00 - Cosine similarity for Security of AI and Intelligent agents in AIF is 0.540448784828186
+[INFO] 2025-07-08 22:18:00 - Cosine similarity for Security of AI and Safety and security principles of AI in AIF is 0.8440864086151123
+[INFO] 2025-07-08 22:18:00 - Cosine similarity for Security of AI and AI risk and ethics in AIF is 0.675815761089325
+[INFO] 2025-07-08 22:18:00 - Cosine similarity for AI in Cybersecurity and Intelligent agents in AIF is 0.5147362351417542
+[INFO] 2025-07-08 22:18:00 - Cosine similarity for AI in Cybersecurity and Safety and security principles of AI in AIF is 0.6521909832954407
+[INFO] 2025-07-08 22:18:00 - Cosine similarity for Ethics and Responsible AI and Safety and security principles of AI in AIF is 0.5461773872375488
+[INFO] 2025-07-08 22:18:00 - Cosine similarity for Ethics and Responsible AI and AI risk and ethics in AIF is 0.896332323551178
+[INFO] 2025-07-08 22:18:01 - Cosine similarity for Ethical Considerations and AI risk and ethics in AIF is 0.5142728090286255
+[INFO] 2025-07-08 22:18:01 - Cosine similarity for Privacy and Security and Safety and security principles of AI in AIF is 0.50087571144104
+[INFO] 2025-07-08 22:18:01 - Cosine similarity for AI Governance and Intelligent agents in AIF is 0.6176395416259766
+[INFO] 2025-07-08 22:18:01 - Cosine similarity for AI Governance and AI risk and ethics in AIF is 0.5212177038192749
+[INFO] 2025-07-08 22:18:02 - Cosine similarity for Future of AI and Overview and evolution of the broad field of Artificial Intelligence in AIF is 0.5240761637687683
+[INFO] 2025-07-08 22:18:02 - Cosine similarity for Future of AI and Intelligent agents in AIF is 0.5118827819824219
+[INFO] 2025-07-08 22:18:02 - Cosine similarity for Future of AI and AI risk and ethics in AIF is 0.5527061223983765
+[INFO] 2025-07-08 22:18:14 - Now we can do the extra files my dude
+[INFO] 2025-07-08 22:18:14 - Starting AIF
+[INFO] 2025-07-08 22:18:15 - Cosine similarity for Classical AI Algorithms and Classes of AI tools and techniques (classical AI, expert systems, machine learning, neural networks, generative AI) in AIF is 0.5966511964797974
+[INFO] 2025-07-08 22:18:15 - Cosine similarity for Classical AI Algorithms and Classic AI algorithms (search, optimization, rule-based systems, decision trees) in AIF is 0.7307616472244263
+[INFO] 2025-07-08 22:18:15 - Cosine similarity for Rule-Based Systems and Knowledge representation and reasoning in AIF is 0.5251977443695068
+[INFO] 2025-07-08 22:18:15 - Cosine similarity for Rule-Based Systems and Intelligent agents in AIF is 0.5095661878585815
+[INFO] 2025-07-08 22:18:15 - Cosine similarity for Modern AI Techniques and Overview and evolution of the broad field of Artificial Intelligence in AIF is 0.5076634287834167
+[INFO] 2025-07-08 22:18:15 - Cosine similarity for Modern AI Techniques and Classes of AI tools and techniques (classical AI, expert systems, machine learning, neural networks, generative AI) in AIF is 0.6855343580245972
+[INFO] 2025-07-08 22:18:15 - Cosine similarity for Modern AI Techniques and AI tools and frameworks in AIF is 0.5879497528076172
+[INFO] 2025-07-08 22:18:15 - Cosine similarity for Modern AI Techniques and Classic AI algorithms (search, optimization, rule-based systems, decision trees) in AIF is 0.6629197597503662
+[INFO] 2025-07-08 22:18:15 - Cosine similarity for Modern AI Techniques and Intelligent agents in AIF is 0.5192126035690308
+[INFO] 2025-07-08 22:18:15 - Cosine similarity for Modern AI Techniques and Safety and security principles of AI in AIF is 0.5112888813018799
+[INFO] 2025-07-08 22:18:16 - Cosine similarity for Neural Networks and Classes of AI tools and techniques (classical AI, expert systems, machine learning, neural networks, generative AI) in AIF is 0.5078104138374329
+[INFO] 2025-07-08 22:18:18 - Cosine similarity for Programming AI Algorithms and Classes of AI tools and techniques (classical AI, expert systems, machine learning, neural networks, generative AI) in AIF is 0.5578284859657288
+[INFO] 2025-07-08 22:18:18 - Cosine similarity for Programming AI Algorithms and AI tools and frameworks in AIF is 0.5870431661605835
+[INFO] 2025-07-08 22:18:18 - Cosine similarity for Programming AI Algorithms and Classic AI algorithms (search, optimization, rule-based systems, decision trees) in AIF is 0.5910537838935852
+[INFO] 2025-07-08 22:18:18 - Cosine similarity for Using AI Libraries and Tools and Classes of AI tools and techniques (classical AI, expert systems, machine learning, neural networks, generative AI) in AIF is 0.6522924900054932
+[INFO] 2025-07-08 22:18:18 - Cosine similarity for Using AI Libraries and Tools and AI tools and frameworks in AIF is 0.7630776166915894
+[INFO] 2025-07-08 22:18:18 - Cosine similarity for Using AI Libraries and Tools and Classic AI algorithms (search, optimization, rule-based systems, decision trees) in AIF is 0.5331505537033081
+[INFO] 2025-07-08 22:18:18 - Cosine similarity for Using AI Libraries and Tools and Intelligent agents in AIF is 0.5079288482666016
+[INFO] 2025-07-08 22:18:20 - Cosine similarity for Explainable AI and Intelligent agents in AIF is 0.5715588927268982
+[INFO] 2025-07-08 22:18:24 - Starting AIF
+[INFO] 2025-07-08 22:18:29 - Starting MLF
+[INFO] 2025-07-08 22:18:29 - Cosine similarity for Introduction to ML and AI and Introduction to ML tools and frameworks in MLF is 0.7161325216293335
+[INFO] 2025-07-08 22:18:29 - Cosine similarity for Introduction to ML and AI and Introduction to decision trees, support vector machines, and K-nearest neighbors in MLF is 0.6331467628479004
+[INFO] 2025-07-08 22:18:29 - Cosine similarity for Introduction to ML and AI and Introduction to supervised learning: neural networks, decision trees, and regression in MLF is 0.635090708732605
+[INFO] 2025-07-08 22:18:29 - Cosine similarity for Introduction to ML and AI and Introduction to unsupervised learning: clustering and dimensionality reduction in MLF is 0.5283015370368958
+[INFO] 2025-07-08 22:18:29 - Cosine similarity for Introduction to ML and AI and Introduction to Neural Networks and Deep Learning in MLF is 0.6906989216804504
+[INFO] 2025-07-08 22:18:29 - Cosine similarity for Introduction to ML and AI and Introduction to Specialized ML Applications in MLF is 0.6623431444168091
+[INFO] 2025-07-08 22:18:29 - Cosine similarity for Introduction to ML and AI and Overview of Natural Language Processing (NLP) in MLF is 0.5087655782699585
+[INFO] 2025-07-08 22:18:29 - Cosine similarity for Overview of Machine Learning and Artificial Intelligence and Introduction to decision trees, support vector machines, and K-nearest neighbors in MLF is 0.5017713308334351
+[INFO] 2025-07-08 22:18:30 - Cosine similarity for Overview of Machine Learning and Artificial Intelligence and Introduction to supervised learning: neural networks, decision trees, and regression in MLF is 0.519512951374054
+[INFO] 2025-07-08 22:18:30 - Cosine similarity for Overview of Machine Learning and Artificial Intelligence and Overview of semi-supervised and reinforcement learning in MLF is 0.5236300826072693
+[INFO] 2025-07-08 22:18:30 - Cosine similarity for Overview of Machine Learning and Artificial Intelligence and Introduction to Neural Networks and Deep Learning in MLF is 0.6389843225479126
+[INFO] 2025-07-08 22:18:30 - Cosine similarity for Overview of Machine Learning and Artificial Intelligence and Introduction to Specialized ML Applications in MLF is 0.5067846179008484
+[INFO] 2025-07-08 22:18:30 - Cosine similarity for Overview of Machine Learning and Artificial Intelligence and Overview of Natural Language Processing (NLP) in MLF is 0.5450571775436401
+[INFO] 2025-07-08 22:18:30 - Cosine similarity for ML Fundamentals and Introduction to ML tools and frameworks in MLF is 0.5805917382240295
+[INFO] 2025-07-08 22:18:31 - Cosine similarity for ML Fundamentals and Common ML algorithms in MLF is 0.5502978563308716
+[INFO] 2025-07-08 22:18:31 - Cosine similarity for ML Fundamentals and Basic applications and understanding of how these algorithms function in MLF is 0.5063210129737854
+[INFO] 2025-07-08 22:18:31 - Cosine similarity for ML Fundamentals and Introduction to Neural Networks and Deep Learning in MLF is 0.5009669065475464
+[INFO] 2025-07-08 22:18:31 - Cosine similarity for ML Fundamentals and Introduction to Specialized ML Applications in MLF is 0.5939111709594727
+[INFO] 2025-07-08 22:18:32 - Cosine similarity for ML Models and Algorithms (K-nearest neighbors (KNN), Convolutional Neural Networks (CNN), Long-Short-Term Memory (LSTM), Graph Neural Networks (GNN), Recurrent Neural Networks (RNN), deep learning techniques, autoencoders, transformer models) and Common ML algorithms in MLF is 0.5300912857055664
+[INFO] 2025-07-08 22:18:32 - Cosine similarity for ML Models and Algorithms (K-nearest neighbors (KNN), Convolutional Neural Networks (CNN), Long-Short-Term Memory (LSTM), Graph Neural Networks (GNN), Recurrent Neural Networks (RNN), deep learning techniques, autoencoders, transformer models) and Introduction to decision trees, support vector machines, and K-nearest neighbors in MLF is 0.5504242181777954
+[INFO] 2025-07-08 22:18:32 - Cosine similarity for ML Models and Algorithms (K-nearest neighbors (KNN), Convolutional Neural Networks (CNN), Long-Short-Term Memory (LSTM), Graph Neural Networks (GNN), Recurrent Neural Networks (RNN), deep learning techniques, autoencoders, transformer models) and Introduction to supervised learning: neural networks, decision trees, and regression in MLF is 0.5800617337226868
+[INFO] 2025-07-08 22:18:32 - Cosine similarity for ML Models and Algorithms (K-nearest neighbors (KNN), Convolutional Neural Networks (CNN), Long-Short-Term Memory (LSTM), Graph Neural Networks (GNN), Recurrent Neural Networks (RNN), deep learning techniques, autoencoders, transformer models) and Introduction to Neural Networks and Deep Learning in MLF is 0.597664475440979
+[INFO] 2025-07-08 22:18:32 - Cosine similarity for ML Models and Algorithms (K-nearest neighbors (KNN), Convolutional Neural Networks (CNN), Long-Short-Term Memory (LSTM), Graph Neural Networks (GNN), Recurrent Neural Networks (RNN), deep learning techniques, autoencoders, transformer models) and Introduction to deep learning concepts: convolutional and recurrent neural networks, long short-term memory (LSTM) in MLF is 0.6577559113502502
+[INFO] 2025-07-08 22:18:32 - Cosine similarity for Supervised and Unsupervised Learning and Introduction to unsupervised learning: clustering and dimensionality reduction in MLF is 0.6693193912506104
+[INFO] 2025-07-08 22:18:32 - Cosine similarity for Supervised and Unsupervised Learning and Overview of semi-supervised and reinforcement learning in MLF is 0.539340615272522
+[INFO] 2025-07-08 22:18:33 - Cosine similarity for AI Techniques and Applications and Introduction to decision trees, support vector machines, and K-nearest neighbors in MLF is 0.5021948218345642
+[INFO] 2025-07-08 22:18:33 - Cosine similarity for AI Techniques and Applications and Introduction to supervised learning: neural networks, decision trees, and regression in MLF is 0.5545785427093506
+[INFO] 2025-07-08 22:18:33 - Cosine similarity for AI Techniques and Applications and Introduction to Neural Networks and Deep Learning in MLF is 0.5765151381492615
+[INFO] 2025-07-08 22:18:34 - Cosine similarity for Natural Language Processing (NLP) and Overview of Natural Language Processing (NLP) in MLF is 0.8551097512245178
+[INFO] 2025-07-08 22:18:35 - Cosine similarity for Generative AI and Autoencoders and Basic concepts of generative AI: large language models, prompt engineering, and fine-tuning in MLF is 0.5812337398529053
+[INFO] 2025-07-08 22:18:35 - Cosine similarity for Reinforcement Learning and Overview of semi-supervised and reinforcement learning in MLF is 0.5734362006187439
+[INFO] 2025-07-08 22:18:36 - Cosine similarity for AI in Cybersecurity and ML Applications in Cybersecurity in MLF is 0.6938824653625488
+[INFO] 2025-07-08 22:18:36 - Cosine similarity for AI in Cybersecurity and Application of ML methods in cybersecurity: anomaly detection, attack detection, network traffic analysis in MLF is 0.6305170059204102
+[INFO] 2025-07-08 22:18:36 - Cosine similarity for AI in Cybersecurity and Case studies in cybersecurity using ML techniques in MLF is 0.6515297293663025
+[INFO] 2025-07-08 22:18:37 - Cosine similarity for Detecting Cybersecurity Threats with AI and ML Applications in Cybersecurity in MLF is 0.6598446369171143
+[INFO] 2025-07-08 22:18:37 - Cosine similarity for Detecting Cybersecurity Threats with AI and Application of ML methods in cybersecurity: anomaly detection, attack detection, network traffic analysis in MLF is 0.672917366027832
+[INFO] 2025-07-08 22:18:37 - Cosine similarity for Detecting Cybersecurity Threats with AI and Case studies in cybersecurity using ML techniques in MLF is 0.6380375623703003
+[INFO] 2025-07-08 22:18:37 - Cosine similarity for Anomaly Detection with AI and Application of ML methods in cybersecurity: anomaly detection, attack detection, network traffic analysis in MLF is 0.593288004398346
+[INFO] 2025-07-08 22:18:38 - Cosine similarity for AI for Threat Prediction and Mitigation and ML Applications in Cybersecurity in MLF is 0.6292375922203064
+[INFO] 2025-07-08 22:18:38 - Cosine similarity for AI for Threat Prediction and Mitigation and Application of ML methods in cybersecurity: anomaly detection, attack detection, network traffic analysis in MLF is 0.622869610786438
+[INFO] 2025-07-08 22:18:38 - Cosine similarity for AI for Threat Prediction and Mitigation and Case studies in cybersecurity using ML techniques in MLF is 0.5639159679412842
+[INFO] 2025-07-08 22:18:38 - Cosine similarity for Advanced ML Topics and Introduction to ML tools and frameworks in MLF is 0.5668351650238037
+[INFO] 2025-07-08 22:18:38 - Cosine similarity for Advanced ML Topics and Overview of commonly used ML tools and frameworks in MLF is 0.5680851340293884
+[INFO] 2025-07-08 22:18:38 - Cosine similarity for Advanced ML Topics and Common ML algorithms in MLF is 0.6707435846328735
+[INFO] 2025-07-08 22:18:38 - Cosine similarity for Advanced ML Topics and Learning paradigms in MLF is 0.5286588072776794
+[INFO] 2025-07-08 22:18:38 - Cosine similarity for Advanced ML Topics and Introduction to Specialized ML Applications in MLF is 0.6322375535964966
+[INFO] 2025-07-08 22:18:39 - Cosine similarity for Parameter Tuning and Overview of parameter tuning, overfitting, and mitigation strategies in MLF is 0.6861822009086609
+[INFO] 2025-07-08 22:18:39 - Cosine similarity for Overfitting and Mitigation Strategies and Overview of parameter tuning, overfitting, and mitigation strategies in MLF is 0.7242105007171631
+[INFO] 2025-07-08 22:18:45 - Cosine similarity for Case Studies on AI-Assisted Cybersecurity Solutions and ML Applications in Cybersecurity in MLF is 0.6505053043365479
+[INFO] 2025-07-08 22:18:45 - Cosine similarity for Case Studies on AI-Assisted Cybersecurity Solutions and Application of ML methods in cybersecurity: anomaly detection, attack detection, network traffic analysis in MLF is 0.5796113014221191
+[INFO] 2025-07-08 22:18:45 - Cosine similarity for Case Studies on AI-Assisted Cybersecurity Solutions and Case studies in cybersecurity using ML techniques in MLF is 0.7011079788208008
+[INFO] 2025-07-08 22:18:52 - Now we can do the extra files my dude
+[INFO] 2025-07-08 22:18:52 - Starting MLF
+[INFO] 2025-07-08 22:18:52 - Cosine similarity for Classical AI Algorithms and Common ML algorithms in MLF is 0.5094078779220581
+[INFO] 2025-07-08 22:18:53 - Cosine similarity for Decision Trees and Common ML algorithms in MLF is 0.5356460809707642
+[INFO] 2025-07-08 22:18:53 - Cosine similarity for Decision Trees and Introduction to decision trees, support vector machines, and K-nearest neighbors in MLF is 0.7506270408630371
+[INFO] 2025-07-08 22:18:53 - Cosine similarity for Decision Trees and Introduction to supervised learning: neural networks, decision trees, and regression in MLF is 0.7268783450126648
+[INFO] 2025-07-08 22:18:54 - Cosine similarity for Modern AI Techniques and Common ML algorithms in MLF is 0.5749068260192871
+[INFO] 2025-07-08 22:18:55 - Cosine similarity for Support Vector Machines (SVM) and Introduction to ML tools and frameworks in MLF is 0.5019518733024597
+[INFO] 2025-07-08 22:18:55 - Cosine similarity for Support Vector Machines (SVM) and Introduction to decision trees, support vector machines, and K-nearest neighbors in MLF is 0.6700087785720825
+[INFO] 2025-07-08 22:18:56 - Cosine similarity for Support Vector Machines (SVM) and Introduction to supervised learning: neural networks, decision trees, and regression in MLF is 0.5847337245941162
+[INFO] 2025-07-08 22:18:56 - Cosine similarity for Random Forests and Introduction to ML tools and frameworks in MLF is 0.5350624322891235
+[INFO] 2025-07-08 22:18:56 - Cosine similarity for Random Forests and Overview of commonly used ML tools and frameworks in MLF is 0.5051614046096802
+[INFO] 2025-07-08 22:18:56 - Cosine similarity for Random Forests and Common ML algorithms in MLF is 0.5462923049926758
+[INFO] 2025-07-08 22:18:56 - Cosine similarity for Random Forests and Introduction to decision trees, support vector machines, and K-nearest neighbors in MLF is 0.6910206079483032
+[INFO] 2025-07-08 22:18:56 - Cosine similarity for Random Forests and Introduction to supervised learning: neural networks, decision trees, and regression in MLF is 0.7069803476333618
+[INFO] 2025-07-08 22:18:57 - Cosine similarity for Clustering Algorithms and Common ML algorithms in MLF is 0.5295200347900391
+[INFO] 2025-07-08 22:18:57 - Cosine similarity for Clustering Algorithms and Introduction to decision trees, support vector machines, and K-nearest neighbors in MLF is 0.511009156703949
+[INFO] 2025-07-08 22:18:57 - Cosine similarity for Clustering Algorithms and Introduction to unsupervised learning: clustering and dimensionality reduction in MLF is 0.6263519525527954
+[INFO] 2025-07-08 22:18:57 - Cosine similarity for Neural Networks and Introduction to supervised learning: neural networks, decision trees, and regression in MLF is 0.5860592722892761
+[INFO] 2025-07-08 22:18:57 - Cosine similarity for Neural Networks and Introduction to Neural Networks and Deep Learning in MLF is 0.6058977246284485
+[INFO] 2025-07-08 22:18:57 - Cosine similarity for Neural Networks and Basic neural network architectures in MLF is 0.548591673374176
+[INFO] 2025-07-08 22:18:57 - Cosine similarity for Neural Networks and Introduction to deep learning concepts: convolutional and recurrent neural networks, long short-term memory (LSTM) in MLF is 0.5505801439285278
+[INFO] 2025-07-08 22:18:58 - Cosine similarity for Basics of Neural Networks and Introduction to supervised learning: neural networks, decision trees, and regression in MLF is 0.628052830696106
+[INFO] 2025-07-08 22:18:58 - Cosine similarity for Basics of Neural Networks and Introduction to Neural Networks and Deep Learning in MLF is 0.6885522603988647
+[INFO] 2025-07-08 22:18:58 - Cosine similarity for Basics of Neural Networks and Basic neural network architectures in MLF is 0.7587233781814575
+[INFO] 2025-07-08 22:18:58 - Cosine similarity for Basics of Neural Networks and Introduction to deep learning concepts: convolutional and recurrent neural networks, long short-term memory (LSTM) in MLF is 0.6488398313522339
+[INFO] 2025-07-08 22:18:59 - Cosine similarity for Convolutional Neural Networks (CNNs) and Introduction to Neural Networks and Deep Learning in MLF is 0.558947741985321
+[INFO] 2025-07-08 22:18:59 - Cosine similarity for Convolutional Neural Networks (CNNs) and Basic neural network architectures in MLF is 0.5021185278892517
+[INFO] 2025-07-08 22:18:59 - Cosine similarity for Convolutional Neural Networks (CNNs) and Introduction to deep learning concepts: convolutional and recurrent neural networks, long short-term memory (LSTM) in MLF is 0.675517201423645
+[INFO] 2025-07-08 22:18:59 - Cosine similarity for Recurrent Neural Networks (RNNs) and Introduction to Neural Networks and Deep Learning in MLF is 0.6088298559188843
+[INFO] 2025-07-08 22:18:59 - Cosine similarity for Recurrent Neural Networks (RNNs) and Basic neural network architectures in MLF is 0.5667862892150879
+[INFO] 2025-07-08 22:18:59 - Cosine similarity for Recurrent Neural Networks (RNNs) and Introduction to deep learning concepts: convolutional and recurrent neural networks, long short-term memory (LSTM) in MLF is 0.732866644859314
+[INFO] 2025-07-08 22:19:00 - Cosine similarity for Long Short-Term Memory (LSTM) Networks and Introduction to Neural Networks and Deep Learning in MLF is 0.540042519569397
+[INFO] 2025-07-08 22:19:00 - Cosine similarity for Long Short-Term Memory (LSTM) Networks and Basic neural network architectures in MLF is 0.5108650326728821
+[INFO] 2025-07-08 22:19:00 - Cosine similarity for Long Short-Term Memory (LSTM) Networks and Introduction to deep learning concepts: convolutional and recurrent neural networks, long short-term memory (LSTM) in MLF is 0.8154175877571106
+[INFO] 2025-07-08 22:19:01 - Cosine similarity for Deep Learning Techniques and Introduction to Neural Networks and Deep Learning in MLF is 0.6118349432945251
+[INFO] 2025-07-08 22:19:01 - Cosine similarity for Deep Learning Techniques and Basic neural network architectures in MLF is 0.5899835824966431
+[INFO] 2025-07-08 22:19:01 - Cosine similarity for Deep Learning Techniques and Introduction to deep learning concepts: convolutional and recurrent neural networks, long short-term memory (LSTM) in MLF is 0.6682016849517822
+[INFO] 2025-07-08 22:19:01 - Cosine similarity for Algorithm Implementation and Basic applications and understanding of how these algorithms function in MLF is 0.6373042464256287
+[INFO] 2025-07-08 22:19:02 - Cosine similarity for Using AI Libraries and Tools and Introduction to ML tools and frameworks in MLF is 0.5328013300895691
+[INFO] 2025-07-08 22:19:03 - Cosine similarity for Using AI Libraries and Tools and Basic concepts of generative AI: large language models, prompt engineering, and fine-tuning in MLF is 0.5084673166275024
+[INFO] 2025-07-08 22:19:04 - Cosine similarity for Overfitting and Underfitting and Basic model training, testing, and validation in MLF is 0.5746524930000305
+[INFO] 2025-07-08 22:19:04 - Cosine similarity for Overfitting and Underfitting and Overview of parameter tuning, overfitting, and mitigation strategies in MLF is 0.5112928748130798
+[INFO] 2025-07-08 22:19:04 - Cosine similarity for Cross-Validation and Model Selection and Basic model training, testing, and validation in MLF is 0.5913547277450562
+[INFO] 2025-07-08 22:19:06 - Cosine similarity for Hybrid Algorithms and Common ML algorithms in MLF is 0.5548995733261108
+[INFO] 2025-07-08 22:19:13 - Starting MLF
+[INFO] 2025-07-08 22:19:15 - Cosine similarity for Types of Data (Structured, Semi-Structured, Unstructured) and Data Types and Pre-Processing in MLF is 0.6145310401916504
+[INFO] 2025-07-08 22:19:15 - Cosine similarity for Types of Data (Structured, Semi-Structured, Unstructured) and Common data formats and standards: CSV, JSON, binary in MLF is 0.6674672365188599
+[INFO] 2025-07-08 22:19:16 - Cosine similarity for Data Formats and Standards and Data Types and Pre-Processing in MLF is 0.6166620850563049
+[INFO] 2025-07-08 22:19:16 - Cosine similarity for Data Formats and Standards and Common data formats and standards: CSV, JSON, binary in MLF is 0.8388829231262207
+[INFO] 2025-07-08 22:19:16 - Cosine similarity for Common Data Formats (JSON, XML, CSV, etc.) and Common data formats and standards: CSV, JSON, binary in MLF is 0.8785952925682068
+[INFO] 2025-07-08 22:19:17 - Cosine similarity for Data Standards and Protocols and Data Types and Pre-Processing in MLF is 0.5243339538574219
+[INFO] 2025-07-08 22:19:17 - Cosine similarity for Data Standards and Protocols and Common data formats and standards: CSV, JSON, binary in MLF is 0.7275071144104004
+[INFO] 2025-07-08 22:19:17 - Cosine similarity for Data Collection and Storage and Common data formats and standards: CSV, JSON, binary in MLF is 0.50288987159729
+[INFO] 2025-07-08 22:19:29 - Now we can do the extra files my dude
+[INFO] 2025-07-08 22:19:29 - Starting BNW
+[INFO] 2025-07-08 22:19:39 - Starting BNW
+[INFO] 2025-07-08 22:19:40 - Cosine similarity for Data Standards and Protocols and Network Protocols introduction (e.g., IP, TCP, UDP, ICMP) in BNW is 0.5198475122451782
+[INFO] 2025-07-08 22:19:47 - Now we can do the extra files my dude
+[INFO] 2025-07-08 22:19:47 - Starting NDF
+[INFO] 2025-07-08 22:20:02 - Starting NDF
+[INFO] 2025-07-08 22:20:09 - Cosine similarity for Access Control Mechanisms and Network Access Control (internal and external) in NDF is 0.6538722515106201
+[INFO] 2025-07-08 22:20:12 - Cosine similarity for Risk Management in Data Security and Security Incident and Event Management (SIEM) in NDF is 0.5324464440345764
+[INFO] 2025-07-08 22:20:16 - Now we can do the extra files my dude
+[INFO] 2025-07-08 22:20:16 - Starting AVM
+[INFO] 2025-07-08 22:20:17 - Cosine similarity for Naive Bayes and Bayesian statistics in AVM is 0.577755331993103
+[INFO] 2025-07-08 22:20:18 - Cosine similarity for Linear and Logistic Regression and Linear and non-linear regression models in AVM is 0.6428933143615723
+[INFO] 2025-07-08 22:20:21 - Cosine similarity for Graph Neural Networks (GNNs) and Graph theory in AVM is 0.5368592739105225
+[INFO] 2025-07-08 22:20:25 - Starting AVM
+[INFO] 2025-07-08 22:20:34 - Now we can do the extra files my dude
+[INFO] 2025-07-08 22:20:34 - Starting MLA
+[INFO] 2025-07-08 22:20:34 - Cosine similarity for Classical AI Algorithms and Classic AI Algorithms (Knowledge representation, Rule-based systems & Decision trees, Naive Bayes, support vector machines) in MLA is 0.6209725737571716
+[INFO] 2025-07-08 22:20:35 - Cosine similarity for Rule-Based Systems and Classic AI Algorithms (Knowledge representation, Rule-based systems & Decision trees, Naive Bayes, support vector machines) in MLA is 0.5041007995605469
+[INFO] 2025-07-08 22:20:36 - Cosine similarity for Decision Trees and Classic AI Algorithms (Knowledge representation, Rule-based systems & Decision trees, Naive Bayes, support vector machines) in MLA is 0.5366337895393372
+[INFO] 2025-07-08 22:20:36 - Cosine similarity for Decision Trees and Supervised learning: advanced decision trees, random forests, and regression techniques in MLA is 0.7272493839263916
+[INFO] 2025-07-08 22:20:36 - Cosine similarity for Decision Trees and Random forests in MLA is 0.7822521924972534
+[INFO] 2025-07-08 22:20:36 - Cosine similarity for Decision Trees and Bagging and Boosting in MLA is 0.5720147490501404
+[INFO] 2025-07-08 22:20:36 - Cosine similarity for Decision Trees and Algorithm performance evaluation: precision, recall, F1-score, ROC curves, and AUC in MLA is 0.5327084064483643
+[INFO] 2025-07-08 22:20:36 - Cosine similarity for Naive Bayes and Supervised learning: advanced decision trees, random forests, and regression techniques in MLA is 0.5032824277877808
+[INFO] 2025-07-08 22:20:36 - Cosine similarity for Naive Bayes and Random forests in MLA is 0.5139187574386597
+[INFO] 2025-07-08 22:20:37 - Cosine similarity for Modern AI Techniques and Classic AI Algorithms (Knowledge representation, Rule-based systems & Decision trees, Naive Bayes, support vector machines) in MLA is 0.6665545701980591
+[INFO] 2025-07-08 22:20:37 - Cosine similarity for Modern AI Techniques and Reinforcement learning: advanced strategies and implementations in MLA is 0.5423794984817505
+[INFO] 2025-07-08 22:20:37 - Cosine similarity for Modern AI Techniques and Advanced neural network architectures in MLA is 0.5287700891494751
+[INFO] 2025-07-08 22:20:38 - Cosine similarity for Support Vector Machines (SVM) and Classic AI Algorithms (Knowledge representation, Rule-based systems & Decision trees, Naive Bayes, support vector machines) in MLA is 0.5236494541168213
+[INFO] 2025-07-08 22:20:38 - Cosine similarity for Support Vector Machines (SVM) and Supervised learning: advanced decision trees, random forests, and regression techniques in MLA is 0.581527590751648
+[INFO] 2025-07-08 22:20:38 - Cosine similarity for Support Vector Machines (SVM) and Random forests in MLA is 0.5636001825332642
+[INFO] 2025-07-08 22:20:38 - Cosine similarity for Random Forests and Supervised learning: advanced decision trees, random forests, and regression techniques in MLA is 0.7622604966163635
+[INFO] 2025-07-08 22:20:38 - Cosine similarity for Random Forests and Ensemble learners in MLA is 0.5434838533401489
+[INFO] 2025-07-08 22:20:38 - Cosine similarity for Random Forests and Random forests in MLA is 1.0
+[INFO] 2025-07-08 22:20:38 - Cosine similarity for Random Forests and Bagging and Boosting in MLA is 0.5187337398529053
+[INFO] 2025-07-08 22:20:39 - Cosine similarity for Random Forests and Algorithm performance evaluation: precision, recall, F1-score, ROC curves, and AUC in MLA is 0.5268577337265015
+[INFO] 2025-07-08 22:20:39 - Cosine similarity for Random Forests and Constructing algorithms to improve accuracy and robustness in high-dimensional datasets in MLA is 0.5341553092002869
+[INFO] 2025-07-08 22:20:39 - Cosine similarity for Clustering Algorithms and Unsupervised learning: in-depth clustering methods and dimensionality reduction in MLA is 0.647491455078125
+[INFO] 2025-07-08 22:20:39 - Cosine similarity for Neural Networks and Random forests in MLA is 0.5354393720626831
+[INFO] 2025-07-08 22:20:39 - Cosine similarity for Neural Networks and Gradient-based methods in MLA is 0.5574173331260681
+[INFO] 2025-07-08 22:20:40 - Cosine similarity for Neural Networks and Neural Networks and Deep Learning in MLA is 0.687446117401123
+[INFO] 2025-07-08 22:20:40 - Cosine similarity for Neural Networks and Advanced neural network architectures in MLA is 0.5304837226867676
+[INFO] 2025-07-08 22:20:40 - Cosine similarity for Neural Networks and Gradient-based optimization and backpropagation in MLA is 0.5165823698043823
+[INFO] 2025-07-08 22:20:40 - Cosine similarity for Neural Networks and Application of neural networks in ensemble methods in MLA is 0.5226880311965942
+[INFO] 2025-07-08 22:20:40 - Cosine similarity for Basics of Neural Networks and Neural Networks and Deep Learning in MLA is 0.6535691618919373
+[INFO] 2025-07-08 22:20:40 - Cosine similarity for Basics of Neural Networks and Advanced neural network architectures in MLA is 0.5356336832046509
+[INFO] 2025-07-08 22:20:40 - Cosine similarity for Basics of Neural Networks and Gradient-based optimization and backpropagation in MLA is 0.570486307144165
+[INFO] 2025-07-08 22:20:41 - Cosine similarity for Convolutional Neural Networks (CNNs) and Neural Networks and Deep Learning in MLA is 0.6233389973640442
+[INFO] 2025-07-08 22:20:41 - Cosine similarity for Recurrent Neural Networks (RNNs) and Neural Networks and Deep Learning in MLA is 0.6048876047134399
+[INFO] 2025-07-08 22:20:41 - Cosine similarity for Recurrent Neural Networks (RNNs) and Gradient-based optimization and backpropagation in MLA is 0.5076616406440735
+[INFO] 2025-07-08 22:20:42 - Cosine similarity for Long Short-Term Memory (LSTM) Networks and Neural Networks and Deep Learning in MLA is 0.6009807586669922
+[INFO] 2025-07-08 22:20:42 - Cosine similarity for Graph Neural Networks (GNNs) and Neural Networks and Deep Learning in MLA is 0.5151224136352539
+[INFO] 2025-07-08 22:20:43 - Cosine similarity for Deep Learning Techniques and Gradient-based methods in MLA is 0.5151848793029785
+[INFO] 2025-07-08 22:20:43 - Cosine similarity for Deep Learning Techniques and Neural Networks and Deep Learning in MLA is 0.6771041750907898
+[INFO] 2025-07-08 22:20:43 - Cosine similarity for Deep Learning Techniques and Advanced neural network architectures in MLA is 0.5570297837257385
+[INFO] 2025-07-08 22:20:43 - Cosine similarity for Deep Learning Techniques and Gradient-based optimization and backpropagation in MLA is 0.5196698904037476
+[INFO] 2025-07-08 22:20:43 - Cosine similarity for Algorithm Implementation and Algorithm Implementation and Performance in MLA is 0.8291577100753784
+[INFO] 2025-07-08 22:20:43 - Cosine similarity for Programming AI Algorithms and Classic AI Algorithms (Knowledge representation, Rule-based systems & Decision trees, Naive Bayes, support vector machines) in MLA is 0.5827219486236572
+[INFO] 2025-07-08 22:20:44 - Cosine similarity for Using AI Libraries and Tools and Classic AI Algorithms (Knowledge representation, Rule-based systems & Decision trees, Naive Bayes, support vector machines) in MLA is 0.5393844842910767
+[INFO] 2025-07-08 22:20:45 - Cosine similarity for Performance Evaluation and Algorithm Implementation and Performance in MLA is 0.5088804960250854
+[INFO] 2025-07-08 22:20:45 - Cosine similarity for Metrics for Algorithm Performance (Accuracy, Precision, Recall, F1-Score) and Algorithm performance evaluation: precision, recall, F1-score, ROC curves, and AUC in MLA is 0.7998616695404053
+[INFO] 2025-07-08 22:20:46 - Cosine similarity for Cross-Validation and Model Selection and Cross-validation techniques: k-fold, leave-one-out, and their impact on model tuning in MLA is 0.7501121759414673
+[INFO] 2025-07-08 22:20:47 - Cosine similarity for Hybrid Algorithms and Algorithm Implementation and Performance in MLA is 0.5413283109664917
+[INFO] 2025-07-08 22:20:54 - Starting MLA
+[INFO] 2025-07-08 23:58:04 - Use pytorch device_name: mps
+[INFO] 2025-07-08 23:58:04 - Load pretrained SentenceTransformer: all-mpnet-base-v2
+[INFO] 2025-07-08 23:58:11 - Now we can do the extra files my dude
+[INFO] 2025-07-08 23:58:11 - Starting CSF
+[INFO] 2025-07-08 23:58:20 - Starting CSF
+[INFO] 2025-07-08 23:58:28 - Now we can do the extra files my dude
+[INFO] 2025-07-08 23:58:28 - Starting ISC
+[INFO] 2025-07-08 23:58:35 - Starting ISC
+[INFO] 2025-07-08 23:58:43 - Starting BSP
+[INFO] 2025-07-08 23:58:44 - Cosine similarity for Variables and Data Types and Variables and types in BSP is 0.9164619445800781
+[INFO] 2025-07-08 23:58:48 - Cosine similarity for Debugging and Testing and Testing and debugging techniques in BSP is 0.8839985132217407
+[INFO] 2025-07-08 23:58:49 - Cosine similarity for Common Debugging Techniques and Testing and debugging techniques in BSP is 0.8401598930358887
+[INFO] 2025-07-08 23:58:52 - Now we can do the extra files my dude
+[INFO] 2025-07-08 23:58:52 - Starting BSP
+[INFO] 2025-07-08 23:59:01 - Starting BSP
+[INFO] 2025-07-08 23:59:11 - Starting MAF
+[INFO] 2025-07-08 23:59:13 - Now we can do the extra files my dude
+[INFO] 2025-07-08 23:59:13 - Starting MAF
+[INFO] 2025-07-08 23:59:15 - Starting MAF
+[INFO] 2025-07-08 23:59:16 - Now we can do the extra files my dude
+[INFO] 2025-07-08 23:59:16 - Starting COF
+[INFO] 2025-07-08 23:59:21 - Starting COF
+[INFO] 2025-07-08 23:59:26 - Starting AIG
+[INFO] 2025-07-08 23:59:26 - Cosine similarity for Introduction to AI Governance and AI Governance in AIG is 0.9365391731262207
+[INFO] 2025-07-08 23:59:26 - Cosine similarity for Definition and Importance of AI Governance and AI Governance in AIG is 0.8972187042236328
+[INFO] 2025-07-08 23:59:27 - Cosine similarity for Key Stakeholders in AI Governance and AI Governance in AIG is 0.8552838563919067
+[INFO] 2025-07-08 23:59:28 - Cosine similarity for Overview of AI Laws and Regulations and AI Laws and Regulations, including assessment of practical examples/case studies in AIG is 0.9202802181243896
+[INFO] 2025-07-08 23:59:30 - Cosine similarity for Models of AI Governance and AI Governance in AIG is 0.9209104776382446
+[INFO] 2025-07-08 23:59:33 - Cosine similarity for Components of Effective AI Governance Policies and AI Governance in AIG is 0.8856006860733032
+[INFO] 2025-07-08 23:59:34 - Now we can do the extra files my dude
+[INFO] 2025-07-08 23:59:34 - Starting AIG
+[INFO] 2025-07-08 23:59:43 - Starting AIG
+[INFO] 2025-07-08 23:59:53 - Starting AIF
+[INFO] 2025-07-08 23:59:55 - Cosine similarity for Intelligent Agents and Intelligent agents in AIF is 1.0
+[INFO] 2025-07-08 23:59:56 - Cosine similarity for Types of AI and AI Tools and Classes of AI tools and techniques (classical AI, expert systems, machine learning, neural networks, generative AI) in AIF is 0.8406051397323608
+[INFO] 2025-07-08 23:59:58 - Cosine similarity for Security of AI and Safety and security principles of AI in AIF is 0.8440864086151123
+[INFO] 2025-07-08 23:59:58 - Cosine similarity for Ethics and Responsible AI and AI risk and ethics in AIF is 0.896332323551178
+[INFO] 2025-07-09 00:00:01 - Now we can do the extra files my dude
+[INFO] 2025-07-09 00:00:01 - Starting AIF
+[INFO] 2025-07-09 00:00:07 - Starting AIF
+[INFO] 2025-07-09 00:00:13 - Starting MLF
+[INFO] 2025-07-09 00:00:18 - Cosine similarity for Natural Language Processing (NLP) and Overview of Natural Language Processing (NLP) in MLF is 0.8551097512245178
+[INFO] 2025-07-09 00:00:31 - Now we can do the extra files my dude
+[INFO] 2025-07-09 00:00:31 - Starting MLF
+[INFO] 2025-07-09 00:00:39 - Cosine similarity for Long Short-Term Memory (LSTM) Networks and Introduction to deep learning concepts: convolutional and recurrent neural networks, long short-term memory (LSTM) in MLF is 0.8154175877571106
+[INFO] 2025-07-09 00:00:48 - Starting MLF
+[INFO] 2025-07-09 00:00:50 - Cosine similarity for Data Formats and Standards and Common data formats and standards: CSV, JSON, binary in MLF is 0.8388829231262207
+[INFO] 2025-07-09 00:00:50 - Cosine similarity for Common Data Formats (JSON, XML, CSV, etc.) and Common data formats and standards: CSV, JSON, binary in MLF is 0.8785952925682068
+[INFO] 2025-07-09 00:01:03 - Now we can do the extra files my dude
+[INFO] 2025-07-09 00:01:03 - Starting BNW
+[INFO] 2025-07-09 00:01:13 - Starting BNW
+[INFO] 2025-07-09 00:01:22 - Now we can do the extra files my dude
+[INFO] 2025-07-09 00:01:22 - Starting NDF
+[INFO] 2025-07-09 00:01:37 - Starting NDF
+[INFO] 2025-07-09 00:01:52 - Now we can do the extra files my dude
+[INFO] 2025-07-09 00:01:52 - Starting AVM
+[INFO] 2025-07-09 00:02:01 - Starting AVM
+[INFO] 2025-07-09 00:02:10 - Now we can do the extra files my dude
+[INFO] 2025-07-09 00:02:10 - Starting MLA
+[INFO] 2025-07-09 00:02:14 - Cosine similarity for Random Forests and Random forests in MLA is 1.0
+[INFO] 2025-07-09 00:02:19 - Cosine similarity for Algorithm Implementation and Algorithm Implementation and Performance in MLA is 0.8291577100753784
+[INFO] 2025-07-09 00:02:24 - Starting MLA
+[INFO] 2025-07-09 00:02:37 - Now we can do the extra files my dude
+[INFO] 2025-07-09 00:02:37 - Starting DPL
+[INFO] 2025-07-09 00:02:42 - Cosine similarity for Convolutional Neural Networks (CNNs) and Convolutional neural networks (CNNs) in DPL is 0.9999999403953552
+[INFO] 2025-07-09 00:02:44 - Cosine similarity for Graph Neural Networks (GNNs) and Graph neural networks in DPL is 0.910007119178772
+[INFO] 2025-07-09 00:02:49 - Cosine similarity for Explainable AI and Explainable AI (XAI) in DPL is 0.8935473561286926
+[INFO] 2025-07-09 00:02:49 - Starting DPL
+[INFO] 2025-07-09 00:03:01 - Starting MES
+[INFO] 2025-07-09 00:03:04 - Cosine similarity for Model Evaluation Metrics and Model evaluation and metrics in MES is 0.9507977962493896
+[INFO] 2025-07-09 00:03:05 - Cosine similarity for Cross-Validation and Model Validation Techniques and Cross-Validation and Model Validation techniques in MES is 0.9999999403953552
+[INFO] 2025-07-09 00:03:05 - Cosine similarity for Model Performance Analysis and Model evaluation and metrics in MES is 0.8066213130950928
+[INFO] 2025-07-09 00:03:06 - Cosine similarity for Comparing Model Performance Using Metrics and Model evaluation and metrics in MES is 0.8431251049041748
+[INFO] 2025-07-09 00:03:09 - Now we can do the extra files my dude
+[INFO] 2025-07-09 00:03:09 - Starting MES
+[INFO] 2025-07-09 00:03:19 - Cosine similarity for Cross-Validation and Model Selection and Cross-Validation and Model Validation techniques in MES is 0.8057135343551636
+[INFO] 2025-07-09 00:03:21 - Cosine similarity for Explainable AI and AI explainability/output interpretation in MES is 0.8647123575210571
+[INFO] 2025-07-09 00:03:21 - Starting MES
+[INFO] 2025-07-09 00:03:32 - Starting AIL
+[INFO] 2025-07-09 00:03:42 - Cosine similarity for Secure Training Environments and Secure Training Environments in AIL is 1.0000001192092896
+[INFO] 2025-07-09 00:03:51 - Now we can do the extra files my dude
+[INFO] 2025-07-09 00:03:51 - Starting AIL
+[INFO] 2025-07-09 00:04:12 - Starting AIL
+[INFO] 2025-07-09 00:04:32 - Starting AIR
+[INFO] 2025-07-09 00:04:35 - Cosine similarity for Risk Mitigation and Risk mitigation models and plans, policies, and procedures in AIR is 0.8276113271713257
+[INFO] 2025-07-09 00:04:38 - Now we can do the extra files my dude
+[INFO] 2025-07-09 00:04:38 - Starting AIR
+[INFO] 2025-07-09 00:04:46 - Starting AIR
+[INFO] 2025-07-09 00:04:52 - Cosine similarity for Vulnerability Assessment and Mitigation Strategies and Risk and Vulnerability Assessment in AIR is 0.8494261503219604
+[INFO] 2025-07-09 00:04:54 - Starting ADL
+[INFO] 2025-07-09 00:04:55 - Cosine similarity for Types of Adversarial Attacks (e.g., Evasion, Poisoning, and Extraction) and Adversarial attacks and techniques (data poisoning, evasion attacks) in ADL is 0.8269844651222229
+[INFO] 2025-07-09 00:04:58 - Now we can do the extra files my dude
+[INFO] 2025-07-09 00:04:58 - Starting ADL
+[INFO] 2025-07-09 00:05:05 - Starting ADL
+[INFO] 2025-07-09 00:05:11 - Starting AIS
+[INFO] 2025-07-09 00:05:11 - Cosine similarity for Introduction to Security Assessment and Evaluation and Security Assessment Methodologies in AIS is 0.8501955270767212
+[INFO] 2025-07-09 00:05:11 - Cosine similarity for Security Assessment Methodologies and Security Assessment Methodologies in AIS is 1.0
+[INFO] 2025-07-09 00:05:11 - Cosine similarity for Vulnerability Assessment and Risk and Vulnerability Assessment in AIS is 0.9045873880386353
+[INFO] 2025-07-09 00:05:12 - Cosine similarity for Security Assessment Tools and Techniques and Security Assessment Methodologies in AIS is 0.8928416967391968
+[INFO] 2025-07-09 00:05:12 - Cosine similarity for Techniques for Conducting Effective Security Assessments and Security Assessment Methodologies in AIS is 0.8775992393493652
+[INFO] 2025-07-09 00:05:13 - Cosine similarity for Analysis of Security Assessments in Various Industries and Security Assessment Methodologies in AIS is 0.8119938373565674
+[INFO] 2025-07-09 00:05:14 - Cosine similarity for Developing a Security Assessment Plan and Security Assessment Methodologies in AIS is 0.8127809166908264
+[INFO] 2025-07-09 00:05:14 - Now we can do the extra files my dude
+[INFO] 2025-07-09 00:05:14 - Starting AIS
+[INFO] 2025-07-09 00:05:18 - Starting AIS
+[INFO] 2025-07-09 00:05:21 - Cosine similarity for Vulnerability Assessment and Mitigation Strategies and Risk and Vulnerability Assessment in AIS is 0.8494261503219604
+[INFO] 2025-07-09 00:05:22 - Starting DFA
+[INFO] 2025-07-09 00:05:23 - Cosine similarity for Introduction to Defensive Applications of AI and Defensive AI Applications in DFA is 0.888620913028717
+[INFO] 2025-07-09 00:05:23 - Cosine similarity for Overview of AI in Cybersecurity and AI Techniques for Cybersecurity in DFA is 0.8158814907073975
+[INFO] 2025-07-09 00:05:24 - Cosine similarity for Importance of AI in Defensive Measures and Defensive AI Applications in DFA is 0.830333948135376
+[INFO] 2025-07-09 00:05:26 - Cosine similarity for Natural Language Processing for Threat Intelligence and Natural Language Processing (NLP) for Cyber Threat Intelligence in DFA is 0.8607171177864075
+[INFO] 2025-07-09 00:05:29 - Cosine similarity for AI in Intrusion Detection Systems (IDS) and Intrusion Prevention Systems (IPS) and AI-based Network Intrusion Detection Systems (NIDS)/Host Intrusion Detection System (HIDS) in DFA is 0.8561257123947144
+[INFO] 2025-07-09 00:05:30 - Cosine similarity for Implementing AI Frameworks for Defensive Applications and Defensive AI Applications in DFA is 0.8538253307342529
+[INFO] 2025-07-09 00:05:31 - Cosine similarity for Analysis of AI-Driven Defensive Measures in Action and Defensive AI Applications in DFA is 0.8120899200439453
+[INFO] 2025-07-09 00:05:34 - Now we can do the extra files my dude
+[INFO] 2025-07-09 00:05:34 - Starting DFA
+[INFO] 2025-07-09 00:05:50 - Starting DFA
+[INFO] 2025-07-09 00:06:06 - Starting OFA
+[INFO] 2025-07-09 00:06:06 - Cosine similarity for Overview of AI in Offensive Cybersecurity and AI techniques for offensive cybersecurity in OFA is 0.8858922719955444
+[INFO] 2025-07-09 00:06:12 - Cosine similarity for Best Practices for Implementing AI in Offensive Cybersecurity Operations and AI techniques for offensive cybersecurity in OFA is 0.8363298177719116
+[INFO] 2025-07-09 00:06:12 - Now we can do the extra files my dude
+[INFO] 2025-07-09 00:06:12 - Starting OFA
+[INFO] 2025-07-09 00:06:20 - Starting OFA
