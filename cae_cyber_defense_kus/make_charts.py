@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import csv
 
-with open("bloom_taxons_count_acm.json", 'r') as f:
+with open("bloom_taxons_count_acm_adjusted_unknowns.json", 'r') as f:
         data_array = json.load(f)
 
 # Label-to-color mapping

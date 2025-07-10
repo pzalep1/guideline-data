@@ -1,22 +1,22 @@
 Key,Name,Remember %,Apply %,Evaluate %,Unknown %
-M1,"Cyber Policy, Law, and Ethics",87.5%,12.5%,0.0%,0.0%
-M2,Computer Science Foundations,50.0%,33.3%,16.7%,0.0%
-M3,Operating Systems,66.7%,0.0%,0.0%,33.3%
-M4,Computer Networks,50.0%,16.7%,0.0%,33.3%
-M5,Systems Programming,0.0%,100.0%,0.0%,0.0%
-M6,Cybersecurity Foundations,90.9%,0.0%,0.0%,9.1%
-M7,Applied Cryptography,62.5%,37.5%,0.0%,0.0%
-M8,Software Reverse Engineering,40.0%,0.0%,0.0%,60.0%
-M9,Defensive Cyber Operations,10.0%,40.0%,30.0%,20.0%
-M10,Offensive Cyber Operations,25.0%,25.0%,25.0%,25.0%
-O1,Programmable Logic,0.0%,0.0%,50.0%,50.0%
-O2,Computer Architecture,50.0%,0.0%,50.0%,0.0%
-O3,Microcontrollers,0.0%,0.0%,100.0%,0.0%
-O4,Hardware Reverse Engineering,33.3%,0.0%,0.0%,66.7%
-O5,Cyber Forensics,60.0%,20.0%,0.0%,20.0%
-O6,Wireless and Mobile Security,100.0%,0.0%,0.0%,0.0%
-O7,Virtualization,100.0%,0.0%,0.0%,0.0%
-O8,Cloud Security,50.0%,0.0%,50.0%,0.0%
-O9,Critical Infrastructure Security,66.7%,33.3%,0.0%,0.0%
-O10,Cyber Risk Management,100.0%,0.0%,0.0%,0.0%
-O11,Game Theory,75.0%,12.5%,0.0%,12.5%
+M1,"Cyber Policy, Law, and Ethics",0.875,0.125,0,0
+M2,Computer Science Foundations,0.5,0.333,0.167,0
+M3,Operating Systems,1,0,0,0
+M4,Computer Networks,0.667,0.333,0,0
+M5,Systems Programming,0,1,0,0
+M6,Cybersecurity Foundations,0.909,0.091,0,0
+M7,Applied Cryptography,0.625,0.375,0,0
+M8,Software Reverse Engineering,0.4,0.6,0,0
+M9,Defensive Cyber Operations,0.1,0.6,0.3,0
+M10,Offensive Cyber Operations,0.25,0.5,0.25,0
+O1,Programmable Logic,0,0.5,0.5,0
+O2,Computer Architecture,0.5,0,0.5,0
+O3,Microcontrollers,0,0,1,0
+O4,Hardware Reverse Engineering,0.333,0.667,0,0
+O5,Cyber Forensics,0.6,0.4,0,0
+O6,Wireless and Mobile Security,1,0,0,0
+O7,Virtualization,1,0,0,0
+O8,Cloud Security,0.5,0,0.5,0
+O9,Critical Infrastructure Security,0.667,0.333,0,0
+O10,Cyber Risk Management,1,0,0,0
+O11,Game Theory,0.75,0.25,0,0
