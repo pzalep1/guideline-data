@@ -1,0 +1,819 @@
+{
+  "results": [
+    {
+      "_id": "615215cc3e939e0008b59480",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "615215cc3e939e0008b5947f",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Cross-Cutting Concepts [CC-1]",
+      "guidelineDescription": "Outline via appropriate methods, and using industry-standard terminology, cybersecurity-related issues within an organization as they pertain to Confidentiality, Integrity, and Availability."
+    },
+    {
+      "_id": "615216413e939e0008b59482",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "615216413e939e0008b59481",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Cross-Cutting Concepts [CC-2]",
+      "guidelineDescription": "Assess and respond appropriately to various risks which can affect the expected operation of information systems."
+    },
+    {
+      "_id": "615216913e939e0008b59484",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "615216913e939e0008b59483",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Cross-Cutting Concepts [CC-3]",
+      "guidelineDescription": "Investigate current and emerging cyberthreats and incorporate best practices to mitigate them."
+    },
+    {
+      "_id": "615217353e939e0008b59486",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "615217353e939e0008b59485",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Cross-Cutting Concepts [CC-4]",
+      "guidelineDescription": "Apply appropriate countermeasures to help protect organizational resources based on an understanding of how bad actors think and operate."
+    },
+    {
+      "_id": "615217663e939e0008b59488",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "615217663e939e0008b59487",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Cross-Cutting Concepts [CC-5]",
+      "guidelineDescription": "Discuss how changes in one part of a system may impact other parts of a cybersecurity ecosystem."
+    },
+    {
+      "_id": "61521a023e939e0008b5948a",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61521a023e939e0008b59489",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Data Security [DAT-E1]",
+      "guidelineDescription": "Implement data security by selecting appropriate cryptographic procedures, algorithms, and tools based on security policy and level of risk in an organization."
+    },
+    {
+      "_id": "61521a373e939e0008b5948c",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61521a373e939e0008b5948b",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Data Security [DAT-E2]",
+      "guidelineDescription": "Discuss forensically sound collection and acquisition of digital evidence."
+    },
+    {
+      "_id": "61521a733e939e0008b5948e",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61521a733e939e0008b5948d",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Data Security [DAT-E3]",
+      "guidelineDescription": "Apply principles, processes, tools and techniques used in mitigating security threats and responding to security incidents."
+    },
+    {
+      "_id": "61521ab83e939e0008b59490",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61521ab83e939e0008b5948f",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Data Security [DAT-E4]",
+      "guidelineDescription": "Use appropriate levels of authentication, authorization, and access control to ensure data integrity and security for information systems and networks."
+    },
+    {
+      "_id": "61521ae73e939e0008b59492",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61521ae73e939e0008b59491",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Data Security [DAT-E5]",
+      "guidelineDescription": "Infer gaps in data security considering current and emerging technologies and the current state and prevailing trends in cybercrime."
+    },
+    {
+      "_id": "61521b2b3e939e0008b59494",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61521b2b3e939e0008b59493",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Data Security [DAT-S1]",
+      "guidelineDescription": "Perform a forensic analysis on a local network, on stored data within a system as well as mobile devices for an enterprise environment."
+    },
+    {
+      "_id": "61521b523e939e0008b59496",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61521b523e939e0008b59495",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Data Security [DAT-S2]",
+      "guidelineDescription": "Outline complex technical concepts to technical and non-technical audiences as they relate to data security."
+    },
+    {
+      "_id": "61521c763e939e0008b59498",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61521c763e939e0008b59497",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Software Security [SOF-E1]",
+      "guidelineDescription": "Write secure code with appropriate documentation for a software system and its related data."
+    },
+    {
+      "_id": "61521ca33e939e0008b5949a",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61521ca33e939e0008b59499",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Software Security [SOF-E2]",
+      "guidelineDescription": "Analyze security and ethical considerations at each phase of the software development lifecycle."
+    },
+    {
+      "_id": "61521ccb3e939e0008b5949c",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61521ccb3e939e0008b5949b",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Software Security [SOF-E3]",
+      "guidelineDescription": "Use documentation, such as third-party library documentation, in a given secure computing scenario."
+    },
+    {
+      "_id": "61521d163e939e0008b5949e",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61521d163e939e0008b5949d",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Software Security [SOF-S1]",
+      "guidelineDescription": "Implement isolation to secure a process or application."
+    },
+    {
+      "_id": "61521d4b3e939e0008b594a0",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61521d4b3e939e0008b5949f",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Software Security [SOF-S2]",
+      "guidelineDescription": "Discuss the relationship between an organization’s mission and secure software design."
+    },
+    {
+      "_id": "61521d843e939e0008b594a2",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61521d843e939e0008b594a1",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Software Security [SOF-S3]",
+      "guidelineDescription": "Write software specifications, including security specifications, for a given process or application."
+    },
+    {
+      "_id": "61521dbb3e939e0008b594a4",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61521dbb3e939e0008b594a3",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Software Security [SOF-S4]",
+      "guidelineDescription": "Assess a given test plan, from a security perspective."
+    },
+    {
+      "_id": "61521ded3e939e0008b594a6",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61521ded3e939e0008b594a5",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Software Security [SOF-S5]",
+      "guidelineDescription": "Examine social and legal aspects of software development from a security perspective."
+    },
+    {
+      "_id": "61521e173e939e0008b594a8",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61521e173e939e0008b594a7",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Software Security [SOF-S6]",
+      "guidelineDescription": "Develop user documentation for software installation with security appropriately included."
+    },
+    {
+      "_id": "61521ed63e939e0008b594aa",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61521ed63e939e0008b594a9",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Component Security [COM-E1]",
+      "guidelineDescription": "Discuss vulnerabilities and mitigations of system components throughout their lifecycle."
+    },
+    {
+      "_id": "61521f023e939e0008b594ac",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61521f023e939e0008b594ab",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Component Security [COM-E2]",
+      "guidelineDescription": "Perform security testing for given components within a system."
+    },
+    {
+      "_id": "61521f273e939e0008b594ae",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61521f273e939e0008b594ad",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Component Security [COM-S1]",
+      "guidelineDescription": "Analyze how component security features impact systems, such as software and firmware updates."
+    },
+    {
+      "_id": "615220d63e939e0008b594b0",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "615220d63e939e0008b594af",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Connection Security [CON-E1]",
+      "guidelineDescription": "Illustrate the construction and proper configuration of computer networks which adhere to current industry standards and organizational guidelines."
+    },
+    {
+      "_id": "615221023e939e0008b594b2",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "615221023e939e0008b594b1",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Connection Security [CON-E2]",
+      "guidelineDescription": "Investigate the impact of various connection and transmission attacks on network hardware and software."
+    },
+    {
+      "_id": "6152212f3e939e0008b594b4",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "6152212f3e939e0008b594b3",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Connection Security [CON-S1]",
+      "guidelineDescription": "Examine characteristics of commonly used physical networking media and interfaces."
+    },
+    {
+      "_id": "615221583e939e0008b594b6",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "615221583e939e0008b594b5",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Connection Security [CON-S2]",
+      "guidelineDescription": "Distinguish vulnerabilities and example exploits as they apply to network services, architectures, and protocols."
+    },
+    {
+      "_id": "615221883e939e0008b594b8",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "615221883e939e0008b594b7",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Connection Security [CON-S3]",
+      "guidelineDescription": "Implement appropriate defenses throughout an enterprise to harden the network against attackers."
+    },
+    {
+      "_id": "615221b93e939e0008b594ba",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "615221b93e939e0008b594b9",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Connection Security [CON-S4]",
+      "guidelineDescription": "Construct and properly configure computer networks which adhere to current industry standards and organizational guidelines."
+    },
+    {
+      "_id": "6153174c3e939e0008b594bc",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "6153174c3e939e0008b594bb",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "System Security [SYS-E1]",
+      "guidelineDescription": "Discuss security aspects of system management in common system architectures."
+    },
+    {
+      "_id": "615317743e939e0008b594be",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "615317743e939e0008b594bd",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "System Security [SYS-E2]",
+      "guidelineDescription": "Contrast various methods for authentication and access control in an enterprise, and why one might choose one over another."
+    },
+    {
+      "_id": "615317ad3e939e0008b594c0",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "615317ad3e939e0008b594bf",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "System Security [SYS-E3]",
+      "guidelineDescription": "Perform system security testing with an understanding of normal, secure operation, and document results."
+    },
+    {
+      "_id": "615317dd3e939e0008b594c2",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "615317dd3e939e0008b594c1",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "System Security [SYS-S1]",
+      "guidelineDescription": "Critique security throughout the system lifecycle, including security requirements, system management, system testing, and system disposal."
+    },
+    {
+      "_id": "615318073e939e0008b594c4",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "615318073e939e0008b594c3",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "System Security [SYS-S2]",
+      "guidelineDescription": "Outline a security threat model and how system monitoring tools and mechanisms can be used."
+    },
+    {
+      "_id": "6153182d3e939e0008b594c6",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "6153182d3e939e0008b594c5",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "System Security [SYS-S3]",
+      "guidelineDescription": "Examine appropriate models for managing authentication, access control and authorization across systems in an organization."
+    },
+    {
+      "_id": "615318813e939e0008b594c8",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "615318813e939e0008b594c7",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "System Security [SYS-S4]",
+      "guidelineDescription": "Apply cyber defense methods to prepare a system against attacks, including penetration testing, log analysis, resilience mechanisms, and the use of intrusion detection systems."
+    },
+    {
+      "_id": "615318ac3e939e0008b594ca",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "615318ac3e939e0008b594c9",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "System Security [SYS-S5]",
+      "guidelineDescription": "Discuss legal aspects of system and network requirements, such as support for litigation holds and forensic analysis."
+    },
+    {
+      "_id": "615318d43e939e0008b594cc",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "615318d43e939e0008b594cb",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "System Security [SYS-S6]",
+      "guidelineDescription": "Construct virtual environments including disk and memory structures to meet organization needs."
+    },
+    {
+      "_id": "615319663e939e0008b594ce",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "615319663e939e0008b594cd",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Human Security [HUM-E1]",
+      "guidelineDescription": "Discuss identity management in the context of attacks and mitigations."
+    },
+    {
+      "_id": "615319da3e939e0008b594d0",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "615319da3e939e0008b594cf",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Human Security [HUM-E2]",
+      "guidelineDescription": "Analyze the security of an individual’s data and privacy in the context of an organization and in their personal lives."
+    },
+    {
+      "_id": "61531a133e939e0008b594d2",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61531a133e939e0008b594d1",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Human Security [HUM-E3]",
+      "guidelineDescription": "Describe trends in human behavior which pose risks to individual and organizational privacy and security."
+    },
+    {
+      "_id": "61531a423e939e0008b594d4",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61531a423e939e0008b594d3",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Human Security [HUM-S1]",
+      "guidelineDescription": "Analyze a variety of physical access controls."
+    },
+    {
+      "_id": "61531a7e3e939e0008b594d6",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61531a7e3e939e0008b594d5",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Human Security [HUM-S2]",
+      "guidelineDescription": "Use a variety of tools and techniques to detect and mitigate social engineering threats."
+    },
+    {
+      "_id": "61531aa13e939e0008b594d8",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61531aa13e939e0008b594d7",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Human Security [HUM-S3]",
+      "guidelineDescription": "Examine techniques to encourage personal compliance with cybersecurity rules, policies, and ethical norms."
+    },
+    {
+      "_id": "61531c753e939e0008b594da",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61531c753e939e0008b594d9",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Organizational Security [ORG-E1]",
+      "guidelineDescription": "Describe policies, procedures, and ethical considerations to protect information security."
+    },
+    {
+      "_id": "61531cbe3e939e0008b594dc",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61531cbe3e939e0008b594db",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Organizational Security [ORG-E2]",
+      "guidelineDescription": "Describe security features in operating system and database administration in a local or cloud environment."
+    },
+    {
+      "_id": "61531cec3e939e0008b594de",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61531cec3e939e0008b594dd",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Organizational Security [ORG-E3]",
+      "guidelineDescription": "Summarize the components of a business continuity plan that ensures minimal down time and quick recovery in the face of cybersecurity incidents or natural disasters."
+    },
+    {
+      "_id": "61531d243e939e0008b594e0",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61531d243e939e0008b594df",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Organizational Security [ORG-E4]",
+      "guidelineDescription": "Describe physical security features to protect an organization’s computing and information resources."
+    },
+    {
+      "_id": "61531d7b3e939e0008b594e2",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61531d7b3e939e0008b594e1",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Organizational Security [ORG-S1]",
+      "guidelineDescription": "Analyze risks to information assets in an organization and communicate them to stakeholders."
+    },
+    {
+      "_id": "61531db73e939e0008b594e4",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61531db73e939e0008b594e3",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Organizational Security [ORG-S2]",
+      "guidelineDescription": "Assess administrative procedures for protecting systems from attack and ensuring the availability of system access and functions in an organization."
+    },
+    {
+      "_id": "61531ddd3e939e0008b594e6",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61531ddd3e939e0008b594e5",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Organizational Security [ORG-S3]",
+      "guidelineDescription": "Analyze the meaning and use of various security metrics and data with the aid of tools, to ensure quality control and security of data."
+    },
+    {
+      "_id": "61531e043e939e0008b594e8",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61531e043e939e0008b594e7",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Organizational Security [ORG-S4]",
+      "guidelineDescription": "Discuss issues related to personnel security in an organization, including the protection of personally identifiable information, and proper use or avoidance of fear, uncertainty, and doubt (FUD) as an awareness tool."
+    },
+    {
+      "_id": "61531e933e939e0008b594ea",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61531e933e939e0008b594e9",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Societal Security [SOC-E1]",
+      "guidelineDescription": "Interpret applicable cyber policies and ethics for a given scenario."
+    },
+    {
+      "_id": "61531eb53e939e0008b594ec",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61531eb53e939e0008b594eb",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Societal Security [SOC-E2]",
+      "guidelineDescription": "Summarize applicable national, international, and global security policies and legislation."
+    },
+    {
+      "_id": "61531edc3e939e0008b594ee",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61531edc3e939e0008b594ed",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Societal Security [SOC-E3]",
+      "guidelineDescription": "Distinguish social dynamics of computer attackers in a global context."
+    },
+    {
+      "_id": "61531f0f3e939e0008b594f0",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61531f0f3e939e0008b594ef",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Societal Security [SOC-S1]",
+      "guidelineDescription": "Attribute specific cyber laws and potential economic impact for a given cybercrime scenario."
+    },
+    {
+      "_id": "61531f323e939e0008b594f2",
+      "author": "Cyber2yr2020",
+      "levels": [
+        "community college",
+        "undergraduate"
+      ],
+      "guidelineId": "61531f323e939e0008b594f1",
+      "year": "2020",
+      "frameworkDescription": "Cybersecurity Curricular Guidance for Associate-Degree Programs\nPublished in 2020 by ACM CCECC (Committee for Computing Education in Community Colleges)",
+      "frameworkName": "Cyber2yr2020",
+      "guidelineName": "Societal Security [SOC-S2]",
+      "guidelineDescription": "Compare different cyber ethics theories that impact on individuals and society."
+    }
+  ],
+  "total": 58
+}
+
+  

@@ -143,7 +143,7 @@
     },
     {
         "key": "MAF",
-        "name": "Mathematics for AI",
+        "name": "Math Fundamentals",
         "description": "This KU covers the fundamental mathematics necessary to understand and apply AI algorithms and models and analyze AI algorithm outputs. It focuses on essential aspects of algebra, probability, and applied statistics.",
         "outcomes": [
             "Apply basic algebraic operations and solve linear equations, inequalities, and systems of equations.",
@@ -182,50 +182,6 @@
             "use": 1,
             "understand": 2,
             "organize": 1
-        }
-    },
-    {
-        "key": "COF",
-        "name": "Computer Science Foundations",
-        "description": "A deeply technical understanding of the infrastructure and functioning of cyberspace is essential for cyber operators. They must understand the basic building blocks of cyberspace including digital logic, data encoding, and data structures. Additionally, they must be skilled in logical and algorithmic thinking.",
-        "outcomes": [
-            "Design logic circuits that perform basic computational tasks.",
-            "Encode and decode data to and from binary format.",
-            "Define fundamental data structures and their appropriate uses.",
-            "Apply the principles of abstraction and modularity in the design of software.",
-            "Characterize the complexity of algorithms.",
-            "Identify when heuristics are needed for finding practical solutions to algorithmic problems."
-        ],
-        "topics": [
-            "Discrete math",
-            "Digital logic",
-            "Data encoding",
-            "Data structures",
-            "Abstraction",
-            "Modularity",
-            "Algorithmic analysis",
-            "Computational tractability"
-        ],
-        "remember_outcomes": [
-            "Define fundamental data structures and their appropriate uses.",
-            "Characterize the complexity of algorithms.",
-            "Identify when heuristics are needed for finding practical solutions to algorithmic problems."
-        ],
-        "apply_outcomes": [
-            "Encode and decode data to and from binary format.",
-            "Apply the principles of abstraction and modularity in the design of software."
-        ],
-        "evaluate_outcomes": [
-            "Design logic circuits that perform basic computational tasks."
-        ],
-        "unknown_bloom": [],
-        "verb_counts": {
-            "design": 1,
-            "encode": 1,
-            "define": 1,
-            "apply": 1,
-            "characterize": 1,
-            "identify": 1
         }
     },
     {
@@ -302,13 +258,13 @@
             "Describe the ethical considerations and potential risks associated with AI, focusing on bias, privacy, safety, and security throughout the lifecycle.",
             "Identify solutions to business problems by utilizing intelligent systems and machine learning."
         ],
-        "apply_outcomes": [],
-        "evaluate_outcomes": [
-            "Evaluate the suitability of an AI tool for a specific task, particularly within the context of cybersecurity.",
+        "apply_outcomes": [
             "Explore and assess how AI technologies can transform cybersecurity practices, including enhancing security protocols and predicting security risks (e.g., threats and vulnerabilities)."
         ],
+        "evaluate_outcomes": [
+            "Evaluate the suitability of an AI tool for a specific task, particularly within the context of cybersecurity."
+        ],
         "unknown_bloom": [
-    
         ],
         "verb_counts": {
             "describe": 2,
@@ -384,100 +340,47 @@
         }
     },
     {
-        "key": "BNW",
-        "name": "Basic Networking",
-        "description": "The intent of the Basic Networking (BNW) Knowledge Unit is to provide students with a basic understanding of how networks are designed, built and operate, and to give students experience with basic network analysis tools. Students are exposed to the concept of potential vulnerabilities in a network.",
+        "key": "COF",
+        "name": "Computer Science Foundations",
+        "description": "A deeply technical understanding of the infrastructure and functioning of cyberspace is essential for cyber operators. They must understand the basic building blocks of cyberspace including digital logic, data encoding, and data structures. Additionally, they must be skilled in logical and algorithmic thinking.",
         "outcomes": [
-            "Describe and explain the fundamental concepts, technologies, components and issues related to communications and data networks.",
-            "Apply networking concepts to design a basic network architecture given a specific need and set of hosts/clients.",
-            "Apply and demonstrate knowledge of networking concepts by tracking and identifying the data packets involved in a simple TCP connection (or perform a trace of such a connection).",
-            "Apply and demonstrate use of a network monitoring tool to observe the flow of packets (e.g., WireShark).",
-            "Perform and examine results of network mapping (i.e., enumeration and identification of network components) (e.g., Nmap).",
-            "Describe common network vulnerabilities."
+            "Design logic circuits that perform basic computational tasks.",
+            "Encode and decode data to and from binary format.",
+            "Define fundamental data structures and their appropriate uses.",
+            "Apply the principles of abstraction and modularity in the design of software.",
+            "Characterize the complexity of algorithms.",
+            "Identify when heuristics are needed for finding practical solutions to algorithmic problems."
         ],
         "topics": [
-            "Networking models (e.g., OSI and TCP/IP)",
-            "Internet and World Wide Web",
-            "Network media (e.g., wired, optical, and wireless)",
-            "Network Architectures and topologies (e.g., PAN, LAN/WAN, DMZ, Enclaves, VLAN, NAT, subnetting, supernetting, bus, star, partial and full mesh, peer-to-peer, client-server)",
-            "Common Network Devices and their role in the network (e.g., Routers, Switches, clients and servers, Wireless Access Points, VPNs, Firewalls (hardware, software, virtual), All-in-One Appliances)",
-            "Network Protocols introduction (e.g., IP, TCP, UDP, ICMP)",
-            "Network Services and protocols introduction (e.g., DNS, NTP, VLAN, DHCP, etc.)",
-            "Network Applications and protocols introduction (e.g., SMTP, HTTP, VoIP, SSH, etc.)",
-            "Use of basic network administration tools (e.g., PING, Traceroute, SNMP)",
-            "Overview of Network Security Issues (e.g., Zero Trust, Defense-in-depth, SIEM/SOAR, Best Practices)",
-            "Log analysis (e.g., traffic, threat prevention, audit, event, session, Geo-location, user activity, system, compliance)",
-            "Basic business continuity and disaster recovery (e.g., basics of DRP, BCP, IRP)"
+            "Discrete math",
+            "Digital logic",
+            "Data encoding",
+            "Data structures",
+            "Abstraction",
+            "Modularity",
+            "Algorithmic analysis",
+            "Computational tractability"
         ],
         "remember_outcomes": [
-            "Describe and explain the fundamental concepts, technologies, components and issues related to communications and data networks.",
-            "Describe common network vulnerabilities."
+            "Define fundamental data structures and their appropriate uses.",
+            "Characterize the complexity of algorithms.",
+            "Identify when heuristics are needed for finding practical solutions to algorithmic problems."
         ],
         "apply_outcomes": [
-            "Apply networking concepts to design a basic network architecture given a specific need and set of hosts/clients.",
-            "Apply and demonstrate knowledge of networking concepts by tracking and identifying the data packets involved in a simple TCP connection (or perform a trace of such a connection).",
-            "Apply and demonstrate use of a network monitoring tool to observe the flow of packets (e.g., WireShark).",
-            "Perform and examine results of network mapping (i.e., enumeration and identification of network components) (e.g., Nmap)."
-        ],
-        "evaluate_outcomes": [],
-        "unknown_bloom": [],
-        "verb_counts": {
-            "describe": 2,
-            "apply": 3,
-            "perform": 1
-        }
-    },
-    {
-        "key": "NDF",
-        "name": "Network Defense",
-        "description": "The intent of the Network Defense (NDF) Knowledge Unit is to provide students with knowledge of the concepts used in defending a network and the basic tools and techniques that can be taken to protect a network and communication assets from cyber threats.",
-        "outcomes": [
-            "Describe and discuss the key concepts in network defense (defense in depth, minimizing exposure, etc.).",
-            "Explain and discuss how network defense tools (e.g., firewalls, IDS, etc.) are used to defend against attacks and mitigate vulnerabilities.",
-            "Analyze and evaluate how security policies are implemented on systems to protect a network.",
-            "Evaluate how network operational procedures relate to network security."
-        ],
-        "topics": [
-            "Concepts of network defense",
-            "Defense-in-Depth",
-            "Network attacks and exploitation",
-            "Network Hardening",
-            "Minimizing Exposure (e.g., Attack Surface and Vectors)",
-            "MITREs D3FEND Matrix",
-            "Network defense/monitoring tools",
-            "Implementing Firewalls",
-            "DMZs / Proxy Servers",
-            "VPNs",
-            "Decoys (e.g., Honeypots and Honeynets)",
-            "Implementing IDS/IPS",
-            "Traffic signature analysis",
-            "Network anomaly detection",
-            "Network Operations",
-            "Network Security Monitoring (e.g., NOCs, SOCs)",
-            "Network Traffic Analysis",
-            "Network security policies as they relate to network defense/security",
-            "Network Access Control (internal and external)",
-            "Network Policy Development and Enforcement",
-            "Security Incident and Event Management (SIEM)",
-            "Log analysis",
-            "Visualization of anomalies"
-        ],
-        "remember_outcomes": [
-            "Describe and discuss the key concepts in network defense (defense in depth, minimizing exposure, etc.).",
-            "Explain and discuss how network defense tools (e.g., firewalls, IDS, etc.) are used to defend against attacks and mitigate vulnerabilities."
-        ],
-        "apply_outcomes": [
-            "Analyze and evaluate how security policies are implemented on systems to protect a network."
+            "Encode and decode data to and from binary format.",
+            "Apply the principles of abstraction and modularity in the design of software."
         ],
         "evaluate_outcomes": [
-            "Evaluate how network operational procedures relate to network security."
+            "Design logic circuits that perform basic computational tasks."
         ],
         "unknown_bloom": [],
         "verb_counts": {
-            "describe": 1,
-            "explain": 1,
-            "analyze": 1,
-            "evaluate": 1
+            "design": 1,
+            "encode": 1,
+            "define": 1,
+            "apply": 1,
+            "characterize": 1,
+            "identify": 1
         }
     },
     {
@@ -526,6 +429,72 @@
             "apply": 1,
             "analyze": 1,
             "construct": 1
+        }
+    },
+    {
+        "key": "AIL",
+        "name": "Securing the AI Lifecycle",
+        "description": "This KU covers securing the AI lifecycle, including the development, deployment, and maintenance of AI systems. It includes best practices and strategies for ensuring the security and integrity of AI models throughout their lifecycle.",
+        "outcomes": [
+            "Assess threats and prioritize risks at different stages of the AI lifecycle.",
+            "Describe the security challenges and vulnerabilities at each stage of the AI lifecycle.",
+            "Examine and analyze vulnerabilities in connections between AI components.",
+            "Apply best practices for maintaining the confidentiality, integrity, and availability of AI-enabled systems.",
+            "Design, implement, and evaluate security measures for protecting AI models.",
+            "Integrate AI models into systems and implement strategies to mitigate risk from vulnerabilities."
+        ],
+        "topics": [
+            "Lifecycle Overview",
+            "Lifecycle Introduction",
+            "Requirements gathering",
+            "Threat Modeling (understand AI attacker goals and objectives)",
+            "Mitigation",
+            "Security-related concerns at each phase of the AI development cycle across multiple frameworks, domain models (e.g., Security Lifecycle, Software Development Lifecycle (SDLC), CISSP domains, MITRE ATLAS)",
+            "Vulnerability management of AI-enabled systems",
+            "AI Maturity model",
+            "Data",
+            "Data acquisition security and data flow security",
+            "Data completeness and accuracy",
+            "Bias analysis of data",
+            "Privacy-enhancing techniques",
+            "Understand data attribution and provenance throughout data collection, processing, and sharing",
+            "Model selection and training",
+            "Model development - Identify and mitigate security threats that could affect model integrity",
+            "Address static threats (model poisoning) and dynamic threats (adversarial attacks during model development)",
+            "Model integrity and maintenance",
+            "Secure Training Environments",
+            "AI blindspot and bias testing",
+            "Deployment (integration and adoption)",
+            "AI supply chain sources (e.g., libraries and tools) and associated risks/threats",
+            "Configuration management of AI Systems",
+            "Machine Learning Operations (MLOPS) (data pipeline, deployment infrastructure engineering \u2014 cloud vs on-prem vs edge)",
+            "Security of connected AI models, including federated learning systems",
+            "Maintenance",
+            "Validation and traceability of AI models",
+            "Mitigation operations",
+            "AI retirement/termination strategies",
+            "Stakeholder engagement and communication about human-model interactions"
+        ],
+        "remember_outcomes": [
+            "Describe the security challenges and vulnerabilities at each stage of the AI lifecycle."
+        ],
+        "apply_outcomes": [
+            "Examine and analyze vulnerabilities in connections between AI components.",
+            "Apply best practices for maintaining the confidentiality, integrity, and availability of AI-enabled systems.",
+            "Integrate AI models into systems and implement strategies to mitigate risk from vulnerabilities."
+        ],
+        "evaluate_outcomes": [
+            "Assess threats and prioritize risks at different stages of the AI lifecycle.",
+            "Design, implement, and evaluate security measures for protecting AI models."
+        ],
+        "unknown_bloom": [],
+        "verb_counts": {
+            "assess": 1,
+            "describe": 1,
+            "examine": 1,
+            "apply": 1,
+            "design,": 1,
+            "integrate": 1
         }
     },
     {
@@ -642,125 +611,48 @@
         }
     },
     {
-        "key": "MES",
-        "name": "Model Selection, Evaluation, and Specification",
-        "description": "This KU covers the specification, selection, and evaluation of AI/ML models, including techniques for choosing appropriate models, evaluating their performance, and specifying model requirements based on various criteria.",
+        "key": "ADL",
+        "name": "Adversarial Learning",
+        "description": "This KU covers the principles and techniques of adversarial learning, including generating adversarial attack examples, defenses against adversarial attacks, and the implications for AI security and robustness.",
         "outcomes": [
-            "Identify the requirements of a task to guide model selection.",
-            "Apply criteria for model selection based on problem requirements.",
-            "Analyze the appropriateness and performance of different AI/ML models for a specific task using various metrics.",
-            "Evaluate the impact of different inputs, prompts, and hyperparameter combinations on model performance and implement techniques to optimize ML models.",
-            "Evaluate the trade-offs between conflicting goals and requirements in the selection and evaluation of a model.",
-            "Evaluate the impact of data quality and bias on model performance.",
-            "Evaluate the ethical concerns in data acquisition, model selection, and model implementation.",
-            "Justify the choice of evaluation methods based on the model."
+            "Investigate how adversarial examples can be crafted to manipulate machine learning models.",
+            "Identify and analyze attacker objectives with respect to AI targets.",
+            "Assess the robustness of AI models against adversarial attacks.",
+            "Apply defenses to protect AI models from adversarial attacks.",
+            "Understand ethical and privacy issues with Adversarial Attacks.",
+            "Model psychological aspects of insider threats using AI."
         ],
         "topics": [
-            "AI types of models and capabilities",
-            "Model implementation",
-            "Model maintenance",
-            "ML Training (model selection/design, training performance monitoring, benchmarking and performance evaluation, class imbalance/regulation)",
-            "ML Model manipulation - Hyperparameter tuning, feature engineering, data augmentation, data reduction",
-            "Limitation of assumption of AI tools",
-            "AI blindspot",
-            "Model Resilience (adversarial evaluation/red teaming, performance monitoring, tracking distributional shift, recalibration, versioning)",
-            "Multimodal system for security",
-            "Identify model vulnerabilities and limitations",
-            "Defense mechanisms",
-            "Understanding bias and variance",
-            "AI explainability/output interpretation",
-            "Robustness metrics",
-            "Model evaluation and metrics",
-            "Accuracy, precision, recall, F1-score, confusion matrix",
-            "Cross-Validation and Model Validation techniques"
+            "Adversarial Machine Learning (ML)",
+            "Formulation of attacker objectives (OSINT, MITRE ATLAS matrix)",
+            "Adversarial attacks and techniques (data poisoning, evasion attacks)",
+            "Formulation of Defender objectives",
+            "Adversarial defense techniques (Model protection and privacy, data sanitization, evasion defense)",
+            "Generative Adversarial Networks (GANs) for defending against GAN attacks",
+            "Measuring AI model robustness against attacks",
+            "Evaluating and mapping cyber operations objectives to AI algorithms",
+            "Ethical and privacy implications of attacks on AI systems"
         ],
         "remember_outcomes": [
-            "Identify the requirements of a task to guide model selection."
+            "Identify and analyze attacker objectives with respect to AI targets.",
+            "Understand ethical and privacy issues with Adversarial Attacks."
         ],
         "apply_outcomes": [
-            "Apply criteria for model selection based on problem requirements.",
-            "Analyze the appropriateness and performance of different AI/ML models for a specific task using various metrics."
+            "Investigate how adversarial examples can be crafted to manipulate machine learning models.",
+            "Apply defenses to protect AI models from adversarial attacks.",
+            "Model psychological aspects of insider threats using AI."
         ],
         "evaluate_outcomes": [
-            "Evaluate the impact of different inputs, prompts, and hyperparameter combinations on model performance and implement techniques to optimize ML models.",
-            "Evaluate the trade-offs between conflicting goals and requirements in the selection and evaluation of a model.",
-            "Evaluate the impact of data quality and bias on model performance.",
-            "Evaluate the ethical concerns in data acquisition, model selection, and model implementation.",
-            "Justify the choice of evaluation methods based on the model."
+            "Assess the robustness of AI models against adversarial attacks."
         ],
         "unknown_bloom": [],
         "verb_counts": {
+            "investigate": 1,
             "identify": 1,
-            "apply": 1,
-            "analyze": 1,
-            "evaluate": 4,
-            "justify": 1
-        }
-    },
-    {
-        "key": "AIL",
-        "name": "Securing the AI Lifecycle",
-        "description": "This KU covers securing the AI lifecycle, including the development, deployment, and maintenance of AI systems. It includes best practices and strategies for ensuring the security and integrity of AI models throughout their lifecycle.",
-        "outcomes": [
-            "Assess threats and prioritize risks at different stages of the AI lifecycle.",
-            "Describe the security challenges and vulnerabilities at each stage of the AI lifecycle.",
-            "Examine and analyze vulnerabilities in connections between AI components.",
-            "Apply best practices for maintaining the confidentiality, integrity, and availability of AI-enabled systems.",
-            "Design, implement, and evaluate security measures for protecting AI models.",
-            "Integrate AI models into systems and implement strategies to mitigate risk from vulnerabilities."
-        ],
-        "topics": [
-            "Lifecycle Overview",
-            "Lifecycle Introduction",
-            "Requirements gathering",
-            "Threat Modeling (understand AI attacker goals and objectives)",
-            "Mitigation",
-            "Security-related concerns at each phase of the AI development cycle across multiple frameworks, domain models (e.g., Security Lifecycle, Software Development Lifecycle (SDLC), CISSP domains, MITRE ATLAS)",
-            "Vulnerability management of AI-enabled systems",
-            "AI Maturity model",
-            "Data",
-            "Data acquisition security and data flow security",
-            "Data completeness and accuracy",
-            "Bias analysis of data",
-            "Privacy-enhancing techniques",
-            "Understand data attribution and provenance throughout data collection, processing, and sharing",
-            "Model selection and training",
-            "Model development - Identify and mitigate security threats that could affect model integrity",
-            "Address static threats (model poisoning) and dynamic threats (adversarial attacks during model development)",
-            "Model integrity and maintenance",
-            "Secure Training Environments",
-            "AI blindspot and bias testing",
-            "Deployment (integration and adoption)",
-            "AI supply chain sources (e.g., libraries and tools) and associated risks/threats",
-            "Configuration management of AI Systems",
-            "Machine Learning Operations (MLOPS) (data pipeline, deployment infrastructure engineering \u2014 cloud vs on-prem vs edge)",
-            "Security of connected AI models, including federated learning systems",
-            "Maintenance",
-            "Validation and traceability of AI models",
-            "Mitigation operations",
-            "AI retirement/termination strategies",
-            "Stakeholder engagement and communication about human-model interactions"
-        ],
-        "remember_outcomes": [
-            "Describe the security challenges and vulnerabilities at each stage of the AI lifecycle."
-        ],
-        "apply_outcomes": [
-            "Examine and analyze vulnerabilities in connections between AI components.",
-            "Apply best practices for maintaining the confidentiality, integrity, and availability of AI-enabled systems.",
-            "Integrate AI models into systems and implement strategies to mitigate risk from vulnerabilities."
-        ],
-        "evaluate_outcomes": [
-            "Assess threats and prioritize risks at different stages of the AI lifecycle.",
-            "Design, implement, and evaluate security measures for protecting AI models."
-        ],
-        "unknown_bloom": [],
-        "verb_counts": {
             "assess": 1,
-            "describe": 1,
-            "examine": 1,
             "apply": 1,
-            "design,": 1,
-            "integrate": 1
+            "understand": 1,
+            "model": 1
         }
     },
     {
@@ -814,184 +706,59 @@
         }
     },
     {
-        "key": "ADL",
-        "name": "Adversarial Learning",
-        "description": "This KU covers the principles and techniques of adversarial learning, including generating adversarial attack examples, defenses against adversarial attacks, and the implications for AI security and robustness.",
+        "key": "MES",
+        "name": "Model Selection, Evaluation, and Specification",
+        "description": "This KU covers the specification, selection, and evaluation of AI/ML models, including techniques for choosing appropriate models, evaluating their performance, and specifying model requirements based on various criteria.",
         "outcomes": [
-            "Investigate how adversarial examples can be crafted to manipulate machine learning models.",
-            "Identify and analyze attacker objectives with respect to AI targets.",
-            "Assess the robustness of AI models against adversarial attacks.",
-            "Apply defenses to protect AI models from adversarial attacks.",
-            "Understand ethical and privacy issues with Adversarial Attacks.",
-            "Model psychological aspects of insider threats using AI."
+            "Identify the requirements of a task to guide model selection.",
+            "Apply criteria for model selection based on problem requirements.",
+            "Analyze the appropriateness and performance of different AI/ML models for a specific task using various metrics.",
+            "Evaluate the impact of different inputs, prompts, and hyperparameter combinations on model performance and implement techniques to optimize ML models.",
+            "Evaluate the trade-offs between conflicting goals and requirements in the selection and evaluation of a model.",
+            "Evaluate the impact of data quality and bias on model performance.",
+            "Evaluate the ethical concerns in data acquisition, model selection, and model implementation.",
+            "Justify the choice of evaluation methods based on the model."
         ],
         "topics": [
-            "Adversarial Machine Learning (ML)",
-            "Formulation of attacker objectives (OSINT, MITRE ATLAS matrix)",
-            "Adversarial attacks and techniques (data poisoning, evasion attacks)",
-            "Formulation of Defender objectives",
-            "Adversarial defense techniques (Model protection and privacy, data sanitization, evasion defense)",
-            "Generative Adversarial Networks (GANs) for defending against GAN attacks",
-            "Measuring AI model robustness against attacks",
-            "Evaluating and mapping cyber operations objectives to AI algorithms",
-            "Ethical and privacy implications of attacks on AI systems"
+            "AI types of models and capabilities",
+            "Model implementation",
+            "Model maintenance",
+            "ML Training (model selection/design, training performance monitoring, benchmarking and performance evaluation, class imbalance/regulation)",
+            "ML Model manipulation - Hyperparameter tuning, feature engineering, data augmentation, data reduction",
+            "Limitation of assumption of AI tools",
+            "AI blindspot",
+            "Model Resilience (adversarial evaluation/red teaming, performance monitoring, tracking distributional shift, recalibration, versioning)",
+            "Multimodal system for security",
+            "Identify model vulnerabilities and limitations",
+            "Defense mechanisms",
+            "Understanding bias and variance",
+            "AI explainability/output interpretation",
+            "Robustness metrics",
+            "Model evaluation and metrics",
+            "Accuracy, precision, recall, F1-score, confusion matrix",
+            "Cross-Validation and Model Validation techniques"
         ],
         "remember_outcomes": [
-            "Identify and analyze attacker objectives with respect to AI targets.",
-            "Understand ethical and privacy issues with Adversarial Attacks."
+            "Identify the requirements of a task to guide model selection."
         ],
         "apply_outcomes": [
-            "Investigate how adversarial examples can be crafted to manipulate machine learning models.",
-            "Apply defenses to protect AI models from adversarial attacks.",
-            "Model psychological aspects of insider threats using AI."
+            "Apply criteria for model selection based on problem requirements.",
+            "Analyze the appropriateness and performance of different AI/ML models for a specific task using various metrics."
         ],
         "evaluate_outcomes": [
-            "Assess the robustness of AI models against adversarial attacks."
+            "Evaluate the impact of different inputs, prompts, and hyperparameter combinations on model performance and implement techniques to optimize ML models.",
+            "Evaluate the trade-offs between conflicting goals and requirements in the selection and evaluation of a model.",
+            "Evaluate the impact of data quality and bias on model performance.",
+            "Evaluate the ethical concerns in data acquisition, model selection, and model implementation.",
+            "Justify the choice of evaluation methods based on the model."
         ],
         "unknown_bloom": [],
         "verb_counts": {
-            "investigate": 1,
             "identify": 1,
-            "assess": 1,
             "apply": 1,
-            "understand": 1,
-            "model": 1
-        }
-    },
-    {
-        "key": "AIS",
-        "name": "AI for Security Assessments",
-        "description": "This KU covers the principles and practices of conducting security assessments and evaluations leveraging AI. It includes methodologies for assessing organizations, evaluating vulnerabilities, and implementing measures to mitigate identified risks.",
-        "outcomes": [
-            "Conduct security evaluations using AI enhancements to standard tools and techniques.",
-            "Produce comprehensive reports with actionable recommendations.",
-            "Leverage AI to assess the impact of identified vulnerabilities and design and implement mitigation strategies.",
-            "Perform threat modeling and develop mitigation strategies.",
-            "Map attack surfaces and develop comprehensive threat models."
-        ],
-        "topics": [
-            "Security Assessment Methodologies",
-            "Tools and frameworks",
-            "Risk and Vulnerability Assessment",
-            "Assessing and conducting monitoring and detection leveraging AI",
-            "Threat modeling, monitoring, and threat detection",
-            "Taxonomy of attacks and defense"
-        ],
-        "remember_outcomes": [],
-        "apply_outcomes": [
-            "Produce comprehensive reports with actionable recommendations.",
-            "Perform threat modeling and develop mitigation strategies.",
-            "Map attack surfaces and develop comprehensive threat models.",
-            "Leverage AI to assess the impact of identified vulnerabilities and design and implement mitigation strategies."
-        ],
-        "evaluate_outcomes": [
-            "Conduct security evaluations using AI enhancements to standard tools and techniques."
-        ],
-        "unknown_bloom": [
-        ],
-        "verb_counts": {
-            "conduct": 1,
-            "produce": 1,
-            "leverage": 1,
-            "perform": 1,
-            "map": 1
-        }
-    },
-    {
-        "key": "DFA",
-        "name": "Defensive Applications of AI",
-        "description": "This KU covers the application of AI in strengthening defensive cybersecurity measures. Students will learn how AI-driven tools and techniques can improve the detection, analysis, and response to cyber threats.",
-        "outcomes": [
-            "Implement AI techniques to enhance security posture and automate cybersecurity processes.",
-            "Develop and apply AI and machine learning models to identify cyber risks (e.g., vulnerabilities and threats) and their mitigation.",
-            "Understand frameworks like MITRE ATLAS for AI-driven cyber threat intelligence.",
-            "Understand Explainable AI-driven cybersecurity solutions."
-        ],
-        "topics": [
-            "Internal cybersecurity data sources (e.g., network flows, malware, log files, etc.)",
-            "AI Techniques for Cybersecurity",
-            "Machine and Deep learning for cybersecurity",
-            "Reinforcement learning for cybersecurity",
-            "Predictive modeling",
-            "Supervised and unsupervised learning models in threat detection",
-            "Anomaly and intrusion detection techniques",
-            "Training and testing ML models with cybersecurity datasets",
-            "Cyber Threat Intelligence and Analysis Frameworks",
-            "MITRE ATLAS framework",
-            "NIST Risk Management Framework",
-            "Natural Language Processing (NLP) for Cyber Threat Intelligence",
-            "Malware analysis and detection (e.g., Reverse Engineering)",
-            "Defensive AI Applications",
-            "AI-based Network Intrusion Detection Systems (NIDS)/Host Intrusion Detection System (HIDS)",
-            "AI-based vulnerability defense and repair mechanisms",
-            "AI for blue team operations / Incident Response",
-            "AI for digital forensics",
-            "Explainable AI (XAI)-driven cybersecurity solutions",
-            "Understanding the limitations of AI-driven solutions",
-            "Post-hoc evaluation (SHAP, LIME)",
-            "Interpretable models and representations"
-        ],
-        "remember_outcomes": [
-            "Understand frameworks like MITRE ATLAS for AI-driven cyber threat intelligence.",
-            "Understand Explainable AI-driven cybersecurity solutions."
-        ],
-        "apply_outcomes": [
-            "Implement AI techniques to enhance security posture and automate cybersecurity processes."
-        ],
-        "evaluate_outcomes": [
-            "Develop and apply AI and machine learning models to identify cyber risks (e.g., vulnerabilities and threats) and their mitigation."
-        ],
-        "unknown_bloom": [],
-        "verb_counts": {
-            "implement": 1,
-            "develop": 1,
-            "understand": 2
-        }
-    },
-    {
-        "key": "OFA",
-        "name": "Offensive Applications of AI",
-        "description": "This KU covers the application of Artificial Intelligence (AI) in conducting offensive cybersecurity operations. It includes strategies for leveraging AI in penetration testing, exploiting vulnerabilities, and automating cyber attacks.",
-        "outcomes": [
-            "Identify and explain adversarial attacks on machine learning models.",
-            "Identify opportunities for AI to enable offensive cybersecurity operations.",
-            "Supplement current offensive Tactics, Techniques, and Procedures (TTPs) with AI.",
-            "Evaluate the effectiveness of implementing AI for conducting cyber attacks.",
-            "Discuss the ethical and legal implications of AI-enabled cyber offensive operations.",
-            "Correlate offensive AI techniques to existing cybersecurity frameworks."
-        ],
-        "topics": [
-            "Basics of adversarial learning",
-            "External cybersecurity data sources (e.g., OSINT, Dark Web, IoT search engines, cybersecurity data repositories)",
-            "AI techniques for offensive cybersecurity",
-            "Vulnerability discovery (e.g., scanning, code analysis, reverse engineering)",
-            "Penetration testing and exploitation (e.g., automated exploit generation, CVE-to-exploit)",
-            "Reconnaissance (e.g., active/passive scanning, OSINT collection/aggregation)",
-            "Use of AI for attack model frameworks (e.g., cyber kill chain, ATT&CK)",
-            "AI-enhanced red-teaming TTPs",
-            "Ethical and legal considerations for AI-enabled cybersecurity operations",
-            "White-box vs gray-box vs black-box attacks",
-            "Formulation and mapping objectives to AI algorithms and TTPs"
-        ],
-        "remember_outcomes": [
-            "Identify and explain adversarial attacks on machine learning models.",
-            "Identify opportunities for AI to enable offensive cybersecurity operations.",
-            "Discuss the ethical and legal implications of AI-enabled cyber offensive operations."
-        ],
-        "apply_outcomes": [
-            "Correlate offensive AI techniques to existing cybersecurity frameworks."
-        ],
-        "evaluate_outcomes": [
-            "Supplement current offensive Tactics, Techniques, and Procedures (TTPs) with AI.",
-            "Evaluate the effectiveness of implementing AI for conducting cyber attacks."
-        ],
-        "unknown_bloom": [],
-        "verb_counts": {
-            "identify": 2,
-            "supplement": 1,
-            "evaluate": 1,
-            "discuss": 1,
-            "correlate": 1
+            "analyze": 1,
+            "evaluate": 4,
+            "justify": 1
         }
     }
 ]
