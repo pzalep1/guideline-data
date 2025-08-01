@@ -1,0 +1,22 @@
+Name,Key,Total Outcomes,Remember (%),Apply (%),Evaluate (%),Remember + Apply (%),Apply + Evaluate (%)
+"Cyber Policy, Law, and Ethics",M1,8,87.5,12.5,0.0,100.0,12.5
+Computer Science Foundations,M2,6,50.0,33.33,16.67,83.33,50.0
+Operating Systems,M3,3,100.0,0.0,0.0,100.0,0.0
+Computer Networks,M4,6,66.67,33.33,0.0,100.0,33.33
+Systems Programming,M5,1,0.0,100.0,0.0,100.0,100.0
+Cybersecurity Foundations,M6,11,90.91,9.09,0.0,100.0,9.09
+Applied Cryptography,M7,8,62.5,37.5,0.0,100.0,37.5
+Software Reverse Engineering,M8,5,40.0,60.0,0.0,100.0,60.0
+Defensive Cyber Operations,M9,10,10.0,60.0,30.0,70.0,90.0
+Offensive Cyber Operations,M10,8,25.0,50.0,25.0,75.0,75.0
+Programmable Logic,O1,2,0.0,50.0,50.0,50.0,100.0
+Computer Architecture,O2,2,50.0,0.0,50.0,50.0,50.0
+Microcontrollers,O3,2,0.0,0.0,100.0,0.0,100.0
+Hardware Reverse Engineering,O4,3,33.33,66.67,0.0,100.0,66.67
+Cyber Forensics,O5,5,60.0,40.0,0.0,100.0,40.0
+Wireless and Mobile Security,O6,3,100.0,0.0,0.0,100.0,0.0
+Virtualization,O7,2,100.0,0.0,0.0,100.0,0.0
+Cloud Security,O8,2,50.0,0.0,50.0,50.0,50.0
+Critical Infrastructure Security,O9,3,66.67,33.33,0.0,100.0,33.33
+Cyber Risk Management,O10,2,100.0,0.0,0.0,100.0,0.0
+Game Theory,O11,8,75.0,25.0,0.0,100.0,25.0

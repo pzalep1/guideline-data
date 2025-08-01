@@ -59,15 +59,14 @@
         "remember_outcomes": [
             "Describe the responsibilities related to the handling of data as it pertains to legal, ethical and/or agency auditing issues.",
             "Explain the importance of compliance with legal and ethical standards in cybersecurity.",
-            "Explain the challenges and dilemmas that cybersecurity professionals face in both legal and ethical situations.",
-            "The purpose of the Policy, Legal, Ethics, and Compliance (PLE) Knowledge Unit is to provide students with an understanding of both the technical and nontechnical qualities of information governance to ensure that organizations protect data, maintain trust, and operate within legal and ethical frameworks."
+            "Explain the challenges and dilemmas that cybersecurity professionals face in both legal and ethical situations."
         ],
         "apply_outcomes": [
             "Apply legal, ethical principles, and ethical decision-making to real-world situations in cybersecurity (i.e., case studies)."
         ],
         "evaluate_outcomes": [],
         "unknown_bloom": [
-            
+            "The purpose of the Policy, Legal, Ethics, and Compliance (PLE) Knowledge Unit is to provide students with an understanding of both the technical and nontechnical qualities of information governance to ensure that organizations protect data, maintain trust, and operate within legal and ethical frameworks."
         ],
         "verb_counts": {
             "the": 1,
@@ -1379,12 +1378,10 @@
             "Understand basic security issues in modern computing environments.",
             "Describe how software is managed within an organization."
         ],
-        "apply_outcomes": [
-            "Properly apply the vocabulary associated with cybersecurity."
-        ],
+        "apply_outcomes": [],
         "evaluate_outcomes": [],
         "unknown_bloom": [
-            
+            "Properly apply the vocabulary associated with cybersecurity."
         ],
         "verb_counts": {
             "differentiate": 1,
@@ -1457,12 +1454,11 @@
         ],
         "apply_outcomes": [
             "Examine concepts of privacy and confidentiality.",
-            "Compare and contrast privacy policies and laws of different jurisdictions.",
-            "Explore the effects the Internet has on privacy."
+            "Compare and contrast privacy policies and laws of different jurisdictions."
         ],
         "evaluate_outcomes": [],
         "unknown_bloom": [
-            
+            "Explore the effects the Internet has on privacy."
         ],
         "verb_counts": {
             "examine": 1,
@@ -1773,14 +1769,13 @@
         ],
         "apply_outcomes": [
             "Apply tools and techniques for identifying vulnerabilities.",
-            "Apply techniques to trace a vulnerability to its root cause.",
-            "Propose and analyze countermeasures to mitigate vulnerabilities."
+            "Apply techniques to trace a vulnerability to its root cause."
         ],
         "evaluate_outcomes": [
             "Create and apply a vulnerability map of a system."
         ],
         "unknown_bloom": [
-            
+            "Propose and analyze countermeasures to mitigate vulnerabilities."
         ],
         "verb_counts": {
             "apply": 2,
@@ -2068,12 +2063,11 @@
             "Understand the interaction between security and system usability and the importance of minimizing the effects of security mechanisms."
         ],
         "apply_outcomes": [
-            "Analyze common security failures and identify specific design principles that have been violated.",
-            "Given a specific scenario, identify and apply the design principles involved or needed."
+            "Analyze common security failures and identify specific design principles that have been violated."
         ],
         "evaluate_outcomes": [],
         "unknown_bloom": [
-            
+            "Given a specific scenario, identify and apply the design principles involved or needed."
         ],
         "verb_counts": {
             "differentiate": 1,
@@ -2341,14 +2335,11 @@
         "remember_outcomes": [
             "Describe, for a given OS, the steps necessary for hardening the OS and reduce the attack surface area."
         ],
-        "apply_outcomes": [
-            "Securely install a given OS, remove or shut down unnecessary components and services, close unnecessary ports, and ensure that all patches and updates are applied."
-        ],
-        "evaluate_outcomes": [
-            "Leverage built-in OS capabilities and/or third-party applications to increase defensive posture."
-        ],
+        "apply_outcomes": [],
+        "evaluate_outcomes": [],
         "unknown_bloom": [
-            
+            "Securely install a given OS, remove or shut down unnecessary components and services, close unnecessary ports, and ensure that all patches and updates are applied.",
+            "Leverage built-in OS capabilities and/or third-party applications to increase defensive posture."
         ],
         "verb_counts": {
             "describe,": 1,
@@ -2827,14 +2818,12 @@
             "Identify the bad actors in cyberspace and compare and contrast their resources, capabilities/techniques, motivations and aversion to risk.",
             "Explain and discuss how defending against cyber threats is critical for protecting systems, networks, and data from harm."
         ],
-        "apply_outcomes": [
-            "Adequately communicate, rate in importance, and describe different types of cyber-attacks and their characteristics."
-        ],
+        "apply_outcomes": [],
         "evaluate_outcomes": [
             "Evaluate threat intelligence to determine if a given attack/attacker/vulnerability combination is a threat to a given organization."
         ],
         "unknown_bloom": [
-            
+            "Adequately communicate, rate in importance, and describe different types of cyber-attacks and their characteristics."
         ],
         "verb_counts": {
             "identify": 1,
@@ -3000,12 +2989,11 @@
             "Apply tools and algorithms to detect various anomalous activity, types of malware, and unauthorized devices on a network.",
             "Apply open-source data to enrich and analyze logs using techniques such as data visualization, event correlation, and anomaly detection.",
             "Deploy and test mitigation responses to detected intrusion profiles.",
-            "Apply proactive techniques to prevent unwanted activities in networks and systems.",
-            "Leverage baseline activity to configure IDS/IPS and maximize efficiency (e.g., reduce false positives and false negatives)."
+            "Apply proactive techniques to prevent unwanted activities in networks and systems."
         ],
         "evaluate_outcomes": [],
         "unknown_bloom": [
-            
+            "Leverage baseline activity to configure IDS/IPS and maximize efficiency (e.g., reduce false positives and false negatives)."
         ],
         "verb_counts": {
             "detect,": 1,
@@ -3481,8 +3469,7 @@
             "AI Test and Evaluation Specialist"
         ],
         "remember_outcomes": [
-            "Define and evaluate data and information quality, accessibility, and utility.",
-            "Draw and describe a data and information lifecycle, identifying specific and general security issues at all stages."
+            "Define and evaluate data and information quality, accessibility, and utility."
         ],
         "apply_outcomes": [
             "Examine how the origination, change, distribution, storage, and deletion of information is managed and secured.",
@@ -3491,7 +3478,7 @@
         ],
         "evaluate_outcomes": [],
         "unknown_bloom": [
-           
+            "Draw and describe a data and information lifecycle, identifying specific and general security issues at all stages."
         ],
         "verb_counts": {
             "draw": 1,
@@ -3702,12 +3689,11 @@
             "Discuss the advantages and disadvantages of different data structures/formats."
         ],
         "apply_outcomes": [
-            "Implement data structures.",
-            "Utilize common data structures."
+            "Implement data structures."
         ],
         "evaluate_outcomes": [],
         "unknown_bloom": [
-            
+            "Utilize common data structures."
         ],
         "verb_counts": {
             "list": 1,
@@ -3834,13 +3820,12 @@
             "Monitor systems for anomalies, proper updating, and patching."
         ],
         "evaluate_outcomes": [
-            "Evaluate and perform planning, testing, and implementation of software and hardware deployed.",
+            "Evaluate and perform planning, testing, and implementation of software and hardware deployed."
+        ],
+        "unknown_bloom": [
             "Recommend best security practices to achieve stated business objectives based on risk assumptions.",
             "Actively protect information technology assets and infrastructure from external and internal threats.",
             "Assist in incident responses for any breaches, intrusions, or theft."
-        ],
-        "unknown_bloom": [
-           
         ],
         "verb_counts": {
             "analyze": 1,

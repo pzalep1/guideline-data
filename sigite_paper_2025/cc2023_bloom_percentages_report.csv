@@ -1,0 +1,159 @@
+Name,Key,Total Outcomes,Remember (%),Apply (%),Evaluate (%),Remember + Apply (%),Apply + Evaluate (%)
+AI-Introduction: Fundamental Issues,,4,100.0,0.0,0.0,100.0,0.0
+AI-Search: Search,,11,18.18,36.36,45.45,54.54,81.81
+AI-KRR: Fundamental Knowledge Representation and Reasoning,,5,20.0,60.0,0.0,80.0,60.0
+AI-ML: Machine Learning,,17,52.94,23.53,11.76,76.47,35.29
+AI-SEP: Applications and Societal Impact,,3,33.33,33.33,0.0,66.66,33.33
+AI-LRR: Logical Representation and Reasoning,,13,61.54,38.46,0.0,100.0,38.46
+AI-Probability: Probabilistic Representation and Reasoning,,9,66.67,11.11,22.22,77.78,33.33
+AI-Planning: Planning,,4,0.0,25.0,50.0,25.0,75.0
+AI-Agents: Agents and Cognitive Systems,,5,80.0,0.0,20.0,80.0,20.0
+AI-NLP: Natural Language Processing,,6,66.67,33.33,0.0,100.0,33.33
+AI-Robotics: Robotics,,11,36.36,45.45,9.09,81.81,54.54
+AI-Vision: Perception and Computer Vision,,11,27.27,54.55,9.09,81.82,63.64
+AL-Foundational: Foundational Data Structures and Algorithms,,12,58.33,0.0,0.0,58.33,0.0
+AL-Strategies: Algorithmic Strategies,,9,33.33,0.0,11.11,33.33,11.11
+AL-Complexity: Complexity,,20,45.0,15.0,10.0,60.0,25.0
+AL-Models: Computational Models and Formal Languages,,31,61.29,6.45,3.23,67.74,9.68
+"AL-SEP: Society, Ethics, and the Profession",,6,66.67,0.0,16.67,66.67,16.67
+AR-Logic: Digital Logic and Digital Systems,,6,50.0,16.67,33.33,66.67,50.0
+AR-Representation: Machine-Level Data Representation,,7,100.0,0.0,0.0,100.0,0.0
+AR-Assembly: Assembly Level Machine Organization,,9,44.44,44.44,11.11,88.88,55.55
+AR-Memory: Memory Hierarchy,,4,25.0,50.0,0.0,75.0,50.0
+AR-IO: Interfacing and Communication,,3,66.67,33.33,0.0,100.0,33.33
+AR-Organization: Functional Organization,,5,20.0,60.0,20.0,80.0,80.0
+AR-Performance-Energy: Performance and Energy Efficiency,,7,28.57,42.86,14.29,71.43,57.15
+AR-Heterogeneity: Heterogeneous Architectures,,6,66.67,16.67,0.0,83.34,16.67
+AR-Security: Secure Processor Architectures,,5,80.0,20.0,0.0,100.0,20.0
+AR-Quantum: Quantum Architectures,,8,50.0,37.5,0.0,87.5,37.5
+AR-SEP: Sustainability Issues,,1,0.0,0.0,0.0,0.0,0.0
+DM-Data: The Role of Data and the Data Life Cycle,,1,0.0,0.0,0.0,0.0,0.0
+DM-Core: Core Database System Concepts,,9,44.44,11.11,33.33,55.55,44.44
+DM-Modeling: Data Modeling,,5,40.0,60.0,0.0,100.0,60.0
+DM-Relational: Relational Databases,,8,62.5,25.0,12.5,87.5,37.5
+DM-Querying: Query Construction,,5,40.0,20.0,40.0,60.0,60.0
+DM-Processing: Query Processing,,9,33.33,11.11,11.11,44.44,22.22
+DM-Internals: DBMS Internals,,3,66.67,33.33,0.0,100.0,33.33
+DM-NoSQL: NoSQL Systems,,2,50.0,0.0,50.0,50.0,50.0
+DM-Security: Data Security and Privacy,,5,60.0,20.0,20.0,80.0,40.0
+DM-Analytics: Data Analytics,,6,66.67,33.33,0.0,100.0,33.33
+"DM-SEP: Society, Ethics, and the Profession",,6,100.0,0.0,0.0,100.0,0.0
+FPL-OOP: Object-Oriented Programming,,11,27.27,63.64,9.09,90.91,72.73
+FPL-Functional: Functional Programming,,13,15.38,61.54,15.38,76.92,76.92
+FPL-Logic: Logic Programming,,6,0.0,100.0,0.0,100.0,100.0
+FPL-Scripting: Shell Scripting,,2,0.0,50.0,50.0,50.0,100.0
+FPL-Event-Driven: Event-Driven and Reactive Programming,,4,50.0,50.0,0.0,100.0,50.0
+FPL-Parallel: Parallel and Distributed Computing,,8,37.5,37.5,0.0,75.0,37.5
+FPL-Types: Type Systems,,18,72.22,11.11,5.56,83.33,16.67
+FPL-Systems: Systems Execution and Memory Model,,3,100.0,0.0,0.0,100.0,0.0
+FPL-Translation: Language Translation and Execution,,8,37.5,50.0,0.0,87.5,50.0
+FPL-Abstraction: Program Abstraction and Representation,,7,57.14,42.86,0.0,100.0,42.86
+FPL-Syntax: Syntax Analysis,,4,25.0,75.0,0.0,100.0,75.0
+FPL-Semantics: Compiler Semantic Analysis,,3,33.33,33.33,0.0,66.66,33.33
+FPL-Analysis: Program Analysis and Analyzers,,5,60.0,20.0,20.0,80.0,40.0
+FPL-Code: Code Generation,,6,83.33,0.0,0.0,83.33,0.0
+FPL-Run-Time: Run-time Behavior and Systems,,7,85.71,14.29,0.0,100.0,14.29
+FPL-Constructs: Advanced Programming Constructs,,3,66.67,33.33,0.0,100.0,33.33
+FPL-Pragmatics: Language Pragmatics,,5,40.0,40.0,0.0,80.0,40.0
+FPL-Formalism: Formal Semantics,,6,16.67,66.67,16.67,83.34,83.34
+FPL-Methodologies: Formal Development Methodologies,,5,20.0,80.0,0.0,100.0,80.0
+FPL-Design: Design Principles of Programming Languages,,1,0.0,0.0,0.0,0.0,0.0
+"FPL-SEP: Society, Ethics, and the Profession",,1,0.0,0.0,0.0,0.0,0.0
+GIT-Fundamentals: Fundamental Concepts,,14,35.71,35.71,21.43,71.42,57.14
+GIT-Visualization: Visualization,,7,14.29,57.14,28.57,71.43,85.71
+GIT-Rendering: Applied Rendering and Techniques,,14,21.43,50.0,21.43,71.43,71.43
+GIT-Modeling: Geometric Modeling,,7,0.0,28.57,71.43,28.57,100.0
+GIT-Shading: Shading and Advanced Rendering,,8,50.0,50.0,0.0,100.0,50.0
+GIT-Animation: Computer Animation,,6,0.0,66.67,0.0,66.67,66.67
+GIT-Simulation: Simulation,,3,0.0,100.0,0.0,100.0,100.0
+GIT-Immersion: Immersion,,8,25.0,25.0,50.0,50.0,75.0
+GIT-Interaction: Interaction,,7,0.0,14.29,71.43,14.29,85.72
+GIT-Image: Image Processing,,5,0.0,60.0,20.0,60.0,80.0
+GIT-Physical: Tangible/Physical Computing,,12,0.0,16.67,58.33,16.67,75.0
+"GIT-SEP: Society, Ethics, and the Profession",,3,100.0,0.0,0.0,100.0,0.0
+HCI-User: Understanding the User: Individual goals and interactions with others,,10,30.0,20.0,20.0,50.0,40.0
+HCI-Accountability: Accountability and Responsibility in Design,,8,62.5,0.0,37.5,62.5,37.5
+HCI-Accessibility: Accessibility and Inclusive Design,,11,54.55,18.18,0.0,72.73,18.18
+HCI-Evaluation: Evaluating the Design,,8,50.0,0.0,37.5,50.0,37.5
+HCI-Design: System Design,,11,27.27,0.0,27.27,27.27,27.27
+"HCI-SEP: Society, Ethics, and the Profession",,5,20.0,0.0,60.0,20.0,60.0
+MSF-Discrete: Discrete Mathematics,,41,29.27,41.46,2.44,70.73,43.9
+MSF-Probability: Probability,,23,43.48,30.43,0.0,73.91,30.43
+MSF-Statistics: Statistics,,28,25.0,21.43,14.29,46.43,35.72
+MSF-Linear: Linear Algebra,,57,49.12,24.56,1.75,73.68,26.31
+MSF-Calculus,,29,20.69,37.93,0.0,58.62,37.93
+NC-Fundamentals: Fundamentals,,4,75.0,25.0,0.0,100.0,25.0
+NC-Applications: Networked Applications,,4,50.0,50.0,0.0,100.0,50.0
+NC-Reliability: Reliability Support,,4,75.0,0.0,25.0,75.0,25.0
+NC-Routing: Routing and Forwarding,,3,100.0,0.0,0.0,100.0,0.0
+NC-SingleHop: Single Hop Communication,,6,100.0,0.0,0.0,100.0,0.0
+NC-Security: Network Security,,3,66.67,33.33,0.0,100.0,33.33
+NC-Mobility: Mobility,,4,100.0,0.0,0.0,100.0,0.0
+NC-Emerging: Emerging Topics,,3,100.0,0.0,0.0,100.0,0.0
+OS-Purpose: Role and Purpose of Operating Systems,,4,75.0,0.0,25.0,75.0,25.0
+OS-Principles: Principles of Operating System,,8,50.0,37.5,12.5,87.5,50.0
+OS-Concurrency: Concurrency,,6,83.33,0.0,0.0,83.33,0.0
+OS-Protection: Protection and Safety,,4,100.0,0.0,0.0,100.0,0.0
+OS-Scheduling: Scheduling,,8,50.0,12.5,25.0,62.5,37.5
+OS-Process: Process Model,,5,80.0,20.0,0.0,100.0,20.0
+OS-Memory: Memory Management,,7,57.14,0.0,14.29,57.14,14.29
+OS-Devices: Device management,,7,85.71,0.0,0.0,85.71,0.0
+OS-Files: File Systems API and Implementation,,3,33.33,33.33,33.33,66.66,66.66
+OS-Advanced-Files: Advanced File systems,,9,77.78,11.11,0.0,88.89,11.11
+OS-Virtualization: Virtualization,,5,60.0,0.0,20.0,60.0,20.0
+OS-Real-time: Real-time and Embedded Systems,,5,80.0,0.0,0.0,80.0,0.0
+OS-Faults: Fault tolerance,,6,83.33,0.0,0.0,83.33,0.0
+"OS-SEP: Society, Ethics, and the Profession",,4,75.0,25.0,0.0,100.0,25.0
+PDC-Programs: Programs,,5,20.0,60.0,0.0,80.0,60.0
+PDC-Communication: Communication,,13,30.77,38.46,0.0,69.23,38.46
+PDC-Coordination: Coordination,,9,0.0,77.78,0.0,77.78,77.78
+PDC-Evaluation: Evaluation,,13,46.15,7.69,0.0,53.84,7.69
+PDC-Algorithms: Algorithms,,9,0.0,44.44,33.33,44.44,77.77
+SDF-Fundamentals: Fundamental Programming Concepts and Practices,,15,6.67,20.0,60.0,26.67,80.0
+SDF-Data-Structures: Fundamental Data Structures,,4,50.0,50.0,0.0,100.0,50.0
+SDF-Algorithms: Algorithms,,4,100.0,0.0,0.0,100.0,0.0
+SDF-Practices: Software Development Practices,,5,20.0,60.0,20.0,80.0,80.0
+"SDF-SEP: Society, Ethics, and the Profession",,4,0.0,0.0,0.0,0.0,0.0
+SE-Teamwork: Teamwork,,10,20.0,10.0,20.0,30.0,30.0
+SE-Tools: Tools and Environments,,7,100.0,0.0,0.0,100.0,0.0
+SE-Requirements: Product Requirements,,10,50.0,20.0,20.0,70.0,40.0
+SE-Design: Software Design,,13,38.46,7.69,38.46,46.15,46.15
+SE-Construction: Software Construction,,12,41.67,41.67,0.0,83.34,41.67
+SE-Validation: Software Verification and Validation,,32,65.62,18.75,9.38,84.37,28.13
+SE-Refactoring: Refactoring and Code Evolution,,8,25.0,0.0,25.0,25.0,25.0
+SE-Reliability: Software Reliability,,8,87.5,0.0,0.0,87.5,0.0
+SE-Formal: Formal Methods,,3,66.67,33.33,0.0,100.0,33.33
+SEC-Foundations: Foundational Security,,8,25.0,12.5,37.5,37.5,50.0
+"SEC-SEP: Society, Ethics, and the Profession",,5,0.0,40.0,60.0,40.0,100.0
+SEP-Context: Social Context,,11,72.73,18.18,0.0,90.91,18.18
+SEP-Ethical-Analysis: Methods for Ethical Analysis,,10,20.0,50.0,20.0,70.0,70.0
+SEP-Professional-Ethics: Professional Ethics,,14,71.43,7.14,7.14,78.57,14.28
+SEP-IP: Intellectual Property,,17,64.71,23.53,5.88,88.24,29.41
+SEP-Privacy: Privacy and Civil Liberties,,8,62.5,12.5,25.0,75.0,37.5
+SEP-Communication: Communication,,9,44.44,11.11,44.44,55.55,55.55
+SEP-Sustainability: Sustainability,,8,50.0,12.5,37.5,62.5,50.0
+SEP-History: Computing History,,6,83.33,16.67,0.0,100.0,16.67
+SEP-Economies: Economies of Computing,,5,100.0,0.0,0.0,100.0,0.0
+"SEP-Security: Security Policies, Laws and Computer Crimes",,8,62.5,25.0,12.5,87.5,37.5
+"SEP-DEIA: Diversity, Equity, Inclusion, and Accessibility",,12,41.67,25.0,25.0,66.67,50.0
+SF-Overview: Overview of Computer Systems,,8,75.0,0.0,25.0,75.0,25.0
+SF-Foundations: Basic Concepts,,10,60.0,10.0,20.0,70.0,30.0
+SF-Resource: Resource Management,,4,75.0,0.0,25.0,75.0,25.0
+SF-Performance: System Performance,,6,66.67,16.67,16.67,83.34,33.34
+SF-Evaluation: Performance Evaluation,,8,50.0,25.0,25.0,75.0,50.0
+SF-Reliability: System Reliability,,5,40.0,60.0,0.0,100.0,60.0
+SF-Security: System Security,,3,100.0,0.0,0.0,100.0,0.0
+SF-Design: System Design,,3,66.67,0.0,0.0,66.67,0.0
+"SF-SEP: Society, Ethics, and the Profession",,3,100.0,0.0,0.0,100.0,0.0
+SPD-Common: Common Aspects/Shared Concerns,,4,100.0,0.0,0.0,100.0,0.0
+SPD-Web: Web Platforms,,6,50.0,16.67,33.33,66.67,50.0
+SPD-Mobile: Mobile Platforms,,5,0.0,40.0,60.0,40.0,100.0
+SPD-Robot: Robot Platforms,,6,33.33,33.33,16.67,66.66,50.0
+SPD-Embedded: Embedded Platforms,,10,20.0,0.0,70.0,20.0,70.0
+SPD-Game: Game Platforms,,15,40.0,26.67,20.0,66.67,46.67
+SPD-Interactive: Interactive Computing Platforms,,10,10.0,60.0,30.0,70.0,90.0
+SPD-SEP/Mobile,,5,40.0,20.0,20.0,60.0,40.0
+SPD-SEP/Web,,5,80.0,0.0,20.0,80.0,20.0
+SPD-SEP/Game,,15,40.0,26.67,20.0,66.67,46.67
+SPD-SEP/Robotics,,5,20.0,20.0,60.0,40.0,80.0
+SPD-SEP/Interactive,,3,33.33,0.0,33.33,33.33,33.33

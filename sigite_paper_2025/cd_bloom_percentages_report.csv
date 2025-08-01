@@ -1,0 +1,74 @@
+Name,Key,Total Outcomes,Remember (%),Apply (%),Evaluate (%),Remember + Apply (%),Apply + Evaluate (%)
+"Policy, Legal, Ethics, and Compliance",PLE,5,60.0,20.0,0.0,80.0,20.0
+Operating Systems Theory,OST,2,100.0,0.0,0.0,100.0,0.0
+Secure Programming Practices,SPP,5,60.0,40.0,0.0,100.0,40.0
+Basic Networking,BNW,6,33.33,66.67,0.0,100.0,66.67
+Cyber Crime,CCR,3,0.0,66.67,33.33,66.67,100.0
+Network Technology and Protocols,NTP,6,100.0,0.0,0.0,100.0,0.0
+Radio Frequency (RFP) Principles,RFP,3,100.0,0.0,0.0,100.0,0.0
+Algorithms,ALG,1,100.0,0.0,0.0,100.0,0.0
+Advanced Cryptography,ACR,4,50.0,0.0,50.0,50.0,50.0
+Network Technology and Protocols,NTP,6,100.0,0.0,0.0,100.0,0.0
+Quality Assurance (QA)/Functional Testing,QAT,2,0.0,50.0,50.0,50.0,100.0
+Fraud Prevention and Management,FPM,7,85.71,14.29,0.0,100.0,14.29
+Embedded Systems,EBS,5,40.0,0.0,60.0,40.0,60.0
+Operating Systems Concepts,OSC,4,75.0,25.0,0.0,100.0,25.0
+Secure Programming Practices,SPP,5,60.0,40.0,0.0,100.0,40.0
+Industrial Control Systems,ICS,6,83.33,16.67,0.0,100.0,16.67
+Systems Programming,SPG,4,0.0,50.0,50.0,50.0,100.0
+Pre-OS Boot Environment,PBE,3,100.0,0.0,0.0,100.0,0.0
+IT Systems Components,ISC,7,85.71,0.0,0.0,85.71,0.0
+Privacy,PRI,4,25.0,50.0,0.0,75.0,50.0
+Cybersecurity Ethics,CSE,6,50.0,33.33,16.67,83.33,50.0
+Cybersecurity Fundamentals,CSF,10,90.0,10.0,0.0,100.0,10.0
+Network Defense,NDF,4,50.0,25.0,25.0,75.0,50.0
+Vulnerability Analysis,VLA,5,20.0,40.0,20.0,60.0,60.0
+Web Application Security,WAS,3,66.67,33.33,0.0,100.0,33.33
+Host Forensics,HOF,4,75.0,25.0,0.0,100.0,25.0
+Forensic Accounting,FAC,4,75.0,25.0,0.0,100.0,25.0
+Cybersecurity Principles,CSP,5,60.0,20.0,0.0,80.0,20.0
+Databases,DAT,3,66.67,33.33,0.0,100.0,33.33
+Cloud Computing,CCO,4,75.0,25.0,0.0,100.0,25.0
+Security Program Management,SPM,4,0.0,75.0,25.0,75.0,100.0
+Operating Systems Hardening,OSH,3,33.33,0.0,0.0,33.33,0.0
+Threat Intelligence,THI,7,42.86,57.14,0.0,100.0,57.14
+IA Architectures,IAA,2,0.0,50.0,50.0,50.0,100.0
+Software Reverse Engineering,SRE,2,0.0,100.0,0.0,100.0,100.0
+Cyber-Physical Systems,CPS,3,33.33,66.67,0.0,100.0,66.67
+Systems Certification and Accreditation,SCA,2,100.0,0.0,0.0,100.0,0.0
+IA Standards,IAS,5,60.0,40.0,0.0,100.0,40.0
+Independent/Directed Study/Research,IDR,1,0.0,0.0,0.0,0.0,0.0
+Cyber Threats,CTH,4,50.0,0.0,25.0,50.0,25.0
+Information Assurance (IA) Compliance,IAC,2,0.0,50.0,50.0,50.0,100.0
+Intrusion Detection/Prevention Systems,IDS,7,0.0,85.71,0.0,85.71,85.71
+Digital Communications,DCO,3,66.67,33.33,0.0,100.0,33.33
+Supply Chain Security,SCS,2,100.0,0.0,0.0,100.0,0.0
+Hardware/Firmware Security,HFS,5,80.0,20.0,0.0,100.0,20.0
+Business Continuity and Disaster Recovery,BCD,5,40.0,40.0,20.0,80.0,60.0
+Database Management Systems,DMS,6,33.33,50.0,16.67,83.33,66.67
+Data Administration,DBA,5,20.0,60.0,0.0,80.0,60.0
+Security Risk Analysis,SRA,5,80.0,0.0,20.0,80.0,20.0
+Advanced Network Technology and Protocols,ANT,3,66.67,0.0,33.33,66.67,33.33
+Data Structures,DST,4,50.0,25.0,0.0,75.0,25.0
+Hardware Reverse Engineering,HRE,1,0.0,100.0,0.0,100.0,100.0
+Network Security Administration,NSA,7,14.29,28.57,14.29,42.86,42.86
+Device Forensics,DVF,3,66.67,33.33,0.0,100.0,33.33
+Mobile Technologies,MOT,2,100.0,0.0,0.0,100.0,0.0
+Formal Methods,FMD,2,50.0,50.0,0.0,100.0,50.0
+Media Forensics,MEF,3,66.67,33.33,0.0,100.0,33.33
+Threat Intelligence,THI,7,42.86,57.14,0.0,100.0,57.14
+Penetration Testing,PTT,8,25.0,25.0,50.0,50.0,75.0
+Wireless Sensor Networks,WSN,3,33.33,66.67,0.0,100.0,66.67
+Systems Security Engineering,SSE,2,0.0,100.0,0.0,100.0,100.0
+Basic Cryptography,BCY,4,100.0,0.0,0.0,100.0,0.0
+Network Forensics,NWF,3,33.33,66.67,0.0,100.0,66.67
+Digital Forensics,DFS,5,60.0,40.0,0.0,100.0,40.0
+Basic Cyber Operations,BCO,5,80.0,20.0,0.0,100.0,20.0
+Advanced Algorithms,AAL,1,100.0,0.0,0.0,100.0,0.0
+Cybersecurity Planning and Management,CPM,6,16.67,33.33,50.0,50.0,83.33
+Introduction to Theory of Computation,ITC,3,100.0,0.0,0.0,100.0,0.0
+Low Level Programming,LLP,2,50.0,50.0,0.0,100.0,50.0
+Analog Telecommunications,ATC,2,100.0,0.0,0.0,100.0,0.0
+Life-Cycle Security,LCS,3,100.0,0.0,0.0,100.0,0.0
+Basic Scripting and Programming,BSP,6,16.67,83.33,0.0,100.0,83.33
+Software Security Analysis,SSA,2,50.0,50.0,0.0,100.0,50.0

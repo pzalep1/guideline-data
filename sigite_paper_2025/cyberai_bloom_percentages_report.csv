@@ -1,0 +1,21 @@
+Name,Key,Total Outcomes,Remember (%),Apply (%),Evaluate (%),Remember + Apply (%),Apply + Evaluate (%)
+Cybersecurity Fundamentals,CSF,10,90.0,10.0,0.0,100.0,10.0
+IT Systems Components,ISC,6,100.0,0.0,0.0,100.0,0.0
+Basic Scripting and Programming Fundamentals,BSP,5,40.0,60.0,0.0,100.0,60.0
+Mathematics for AI,MAF,8,25.0,75.0,0.0,100.0,75.0
+Computer Science Foundations,COF,6,50.0,33.33,16.67,83.33,50.0
+"AI Governance, Laws, and Ethics",AIG,4,50.0,25.0,25.0,75.0,50.0
+AI Fundamentals,AIF,7,71.43,0.0,28.57,71.43,28.57
+Machine Learning Fundamentals,MLF,8,50.0,37.5,12.5,87.5,50.0
+Basic Networking,BNW,6,33.33,66.67,0.0,100.0,66.67
+Network Defense,NDF,4,50.0,25.0,25.0,75.0,50.0
+Advanced Math for AI,AVM,6,50.0,33.33,16.67,83.33,50.0
+Machine Learning Algorithms,MLA,6,33.33,66.67,0.0,100.0,66.67
+Deep Learning,DPL,8,37.5,37.5,25.0,75.0,62.5
+"Model Selection, Evaluation, and Specification",MES,8,12.5,25.0,62.5,37.5,87.5
+Securing the AI Lifecycle,AIL,6,16.67,50.0,33.33,66.67,83.33
+Risk Management of AI,AIR,7,0.0,42.86,57.14,42.86,100.0
+Adversarial Learning,ADL,6,33.33,50.0,16.67,83.33,66.67
+AI for Security Assessments,AIS,5,0.0,80.0,20.0,80.0,100.0
+Defensive Applications of AI,DFA,4,50.0,25.0,25.0,75.0,50.0
+Offensive Applications of AI,OFA,6,50.0,16.67,33.33,66.67,50.0
